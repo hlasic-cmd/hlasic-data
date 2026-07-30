@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T20:23:43.224640+00:00",
+  "generated_at": "2026-07-30T23:45:10.742818+00:00",
   "max_age_hours": 4,
-  "count": 16,
+  "count": 1,
   "items": [
     {
       "title": "Slovenský filmový zázrak mieri do Hollywoodu. Režisérsky debut Potopa zabojuje o prestížneho Oscara",
@@ -10,126 +10,6 @@
       "cat": "ine",
       "region": null,
       "src": "aktuality.sk"
-    },
-    {
-      "title": "Ukrajinské drony vyradili obriu rafinériu v Riazani. Rosnefť po údere úplne stopla spracovanie ropy",
-      "link": "https://www.aktuality.sk/clanok/J8WZWsU/ukrajinske-drony-vyradili-obriu-rafineriu-v-riazani-rosneft-po-udere-uplne-stopla-spracovanie-ropy/",
-      "time": "2026-07-30T19:18:33+00:00",
-      "cat": "ine",
-      "region": null,
-      "src": "aktuality.sk"
-    },
-    {
-      "title": "Horúčavy udierajú na Bratislavu. Mesto otvára miesta na schladenie",
-      "link": "https://www.bratislavak.sk/clanky/14748/mapa-horucavy-opat-udreli-na-bratislavu-mesto-aktivovalo-desiatky-miest-kde-sa-ludia-mozu-schladit-zdarma",
-      "time": "2026-07-30T19:00:00+00:00",
-      "cat": "ine",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk"
-    },
-    {
-      "title": "Čaká nás príjemná, no na juhozápade tropická noc: Kde teplota neklesne pod 20 stupňov?",
-      "link": "https://www.aktuality.sk/clanok/ubaIW44/caka-nas-prijemna-no-na-juhozapade-tropicka-noc-kde-teplota-neklesne-pod-20-stupnov/",
-      "time": "2026-07-30T19:00:00+00:00",
-      "cat": "ine",
-      "region": null,
-      "src": "aktuality.sk"
-    },
-    {
-      "title": "EK je pripravená podporiť Španielsko pri riešení migračnej krízy v Ceute",
-      "link": "https://www.aktuality.sk/clanok/mbZNYmH/ek-je-pripravena-podporit-spanielsko-pri-rieseni-migracnej-krizy-v-ceute/",
-      "time": "2026-07-30T18:17:44+00:00",
-      "cat": "ine",
-      "region": null,
-      "src": "aktuality.sk"
-    },
-    {
-      "title": "Irán vyzval Bulharsko, aby neumožnilo nasadenie lietadiel USA na svojom území",
-      "link": "https://www.aktuality.sk/clanok/i93Nd8R/iran-vyzval-bulharsko-aby-neumoznilo-nasadenie-lietadiel-usa-na-svojom-uzemi/",
-      "time": "2026-07-30T18:08:43+00:00",
-      "cat": "ine",
-      "region": null,
-      "src": "aktuality.sk"
-    },
-    {
-      "title": "PS čelí kritike pre platby Korčokovi, Dunaj láme historické minimá a Poľsko rieši dopad ruskej strely (denný výber)",
-      "link": "https://www.aktuality.sk/clanok/rPMmc6e/ps-celi-kritike-pre-platby-korcokovi-dunaj-lame-historicke-minima-a-polsko-riesi-dopad-ruskej-strely-denny-vyber/",
-      "time": "2026-07-30T17:30:00+00:00",
-      "cat": "ine",
-      "region": null,
-      "src": "aktuality.sk"
-    },
-    {
-      "title": "V Košiciach dokončujú nabíjacie stanice pre nové kĺbové elektrobusy",
-      "link": "https://korzar.sme.sk/kosice/c/v-kosiciach-dokoncuju-nabijacie-stanice-pre-nove-klbove-elektrobusy?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-07-30T17:10:01+00:00",
-      "cat": "ine",
-      "region": "kosicky",
-      "src": "korzar.sme.sk"
-    },
-    {
-      "title": "Dvaja Slováci napadli štáb NOVA TV v Chorvátsku",
-      "link": "https://www.aktuality.sk/clanok/DPrfziP/dvaja-slovaci-napadli-stab-nova-tv-v-chorvatsku/",
-      "time": "2026-07-30T17:09:35+00:00",
-      "cat": "ine",
-      "region": null,
-      "src": "aktuality.sk"
-    },
-    {
-      "title": "Šliapol na záujmy vplyvných ľudí? Exminister Fedorov opísal, čo mohlo byť dôvodom, prečo ho prezident odvolal z funkcie",
-      "link": "https://www.aktuality.sk/clanok/3ACtGwR/sliapol-na-zaujmy-vplyvnych-ludi-exminister-fedorov-opisal-co-mohlo-byt-dovodom-preco-ho-prezident-odvolal-z-funkcie/",
-      "time": "2026-07-30T17:00:00+00:00",
-      "cat": "ine",
-      "region": null,
-      "src": "aktuality.sk"
-    },
-    {
-      "title": "Pod turistom sa uvoľnila skala. Do akcie letel vrtuľník",
-      "link": "https://www.presovak.sk/clanky/14785/pod-turistom-sa-vo-vysokych-tatrach-uvolnila-skala-po-pade-musel-zasahovat-zachranarsky-vrtulnik",
-      "time": "2026-07-30T16:51:00+00:00",
-      "cat": "zasah",
-      "region": "presovsky",
-      "src": "presovak.sk"
-    },
-    {
-      "title": "Maďarsko hrozí úplné odstavenie jadrovej elektrárne Paks. Nízka hladina Dunaja zrazila výkon o 2 000 megawattov",
-      "link": "https://www.aktuality.sk/clanok/R1rp5ia/madarsko-hrozi-uplne-odstavenie-jadrovej-elektrarne-paks-nizka-hladina-dunaja-zrazila-vykon-o-2-000-megawattov/",
-      "time": "2026-07-30T16:42:04+00:00",
-      "cat": "ine",
-      "region": null,
-      "src": "aktuality.sk"
-    },
-    {
-      "title": "PS platí Korčokovi cez firmu jeho manželky. Mimovládky to kritizujú",
-      "link": "https://www.bratislavak.sk/clanky/14750/ps-kritizovalo-peniaze-smeru-v-rodinnych-firmach-teraz-vyslo-najavo-ako-platia-korcoka",
-      "time": "2026-07-30T16:39:00+00:00",
-      "cat": "ine",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk"
-    },
-    {
-      "title": "O post starostky mestskej časti Nad jazerom sa uchádza Anna Jenčová",
-      "link": "https://korzar.sme.sk/kosice/c/o-post-starostky-mestskej-casti-nad-jazerom-sa-uchadza-anna-jencova?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-07-30T16:38:51+00:00",
-      "cat": "ine",
-      "region": null,
-      "src": "korzar.sme.sk"
-    },
-    {
-      "title": "Dojíma ma obyčajný stôl na Gombaseku",
-      "link": "https://dennikn.sk/5481800/ako-by-toto-opisal-dennik-n/",
-      "time": "2026-07-30T16:37:29+00:00",
-      "cat": "ine",
-      "region": null,
-      "src": "dennikn.sk"
-    },
-    {
-      "title": "Lovestream sa topí v dlhoch. Zachraňuje ho Hatvany z nástenkového tendra a syn Babišovho advokáta",
-      "link": "https://e.dennikn.sk/5459977/lovestream-sa-topi-v-dlhoch-zachranuje-ho-hatvany-z-nastenkoveho-tendra-a-syn-babisovho-advokata/",
-      "time": "2026-07-30T16:24:23+00:00",
-      "cat": "ine",
-      "region": "bratislavsky",
-      "src": "dennikn.sk"
     }
   ]
 }

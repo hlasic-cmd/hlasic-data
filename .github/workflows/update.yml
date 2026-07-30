@@ -1,0 +1,40 @@
+name: Aktualizuj spravodajský feed
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stiahni repozitár
+        uses: actions/checkout@v4
+
+      - name: Nastav Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Nainštaluj závislosti
+        run: pip install -r requirements.txt
+
+      - name: Spusti agregátor
+        run: python3 aggregate.py
+
+      - name: Ulož output.json do vetvy gh-pages
+        run: |
+          mkdir -p public
+          cp output.json public/output.json
+          echo '<html><body>Hlásič data feed. Pozri <a href="output.json">output.json</a>.</body></html>' > public/index.html
+
+      - name: Publikuj na GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages

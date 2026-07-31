@@ -1,15 +1,503 @@
 {
-  "generated_at": "2026-07-30T23:45:10.742818+00:00",
+  "generated_at": "2026-07-31T10:01:31.125099+00:00",
   "max_age_hours": 4,
-  "count": 1,
+  "count": 62,
   "items": [
     {
-      "title": "Slovenský filmový zázrak mieri do Hollywoodu. Režisérsky debut Potopa zabojuje o prestížneho Oscara",
-      "link": "https://www.aktuality.sk/clanok/roSGxUz/slovensky-filmovy-zazrak-mieri-do-hollywoodu-rezisersky-debut-potopa-zabojuje-o-prestizneho-oscara/",
-      "time": "2026-07-30T19:49:17+00:00",
+      "title": "Ústavný súd v Peru zrušil rozsudok udelený exprezidentovi Ollantovi Humalovi v korupčnej kauze",
+      "link": "https://www.aktuality.sk/clanok/R00xamm/ustavny-sud-v-peru-zrusil-rozsudok-udeleny-exprezidentovi-ollantovi-humalovi-v-korupcnej-kauze/",
+      "time": "2026-07-31T09:53:00+00:00",
       "cat": "ine",
       "region": null,
       "src": "aktuality.sk"
+    },
+    {
+      "title": "SaS chce medzi priority zaradiť výstavbu chýbajúcich úsekov D1 na Zemplíne a R4 k Poľsku",
+      "link": "https://korzar.sme.sk/zemplin/c/sas-chce-medzi-priority-zaradit-vystavbu-chybajucich-usekov-d1-na-zempline-a-r4-k-polsku?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-07-31T09:52:38+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "korzar.sme.sk"
+    },
+    {
+      "title": "Pri večernej dopravnej nehode pri Lučenci sa zranili dve osoby",
+      "link": "https://www.bystricak.sk/clanky/12529/vodicka-pri-lucenci-nedala-prednost-a-sposobila-dopravnu-nehodu-zranili-sa-pri-nej-dve-osoby",
+      "time": "2026-07-31T09:50:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk"
+    },
+    {
+      "title": "Vodiči riskovali na ceste pri Púchove. Policajti odhalili jazdy v protismere",
+      "link": "https://www.trencinak.sk/clanky/13224/policajti-si-posvietili-na-rizikovy-usek-pri-puchove-neuverite-niektori-vodici-jazdili-v",
+      "time": "2026-07-31T09:40:00+00:00",
+      "cat": "ine",
+      "region": "trenciansky",
+      "src": "trencinak.sk"
+    },
+    {
+      "title": "KDH žiada jednotné verejné obstarávanie pre nové štátne nemocnice, chce vyššiu transparentnosť",
+      "link": "https://www.aktuality.sk/clanok/ytXpWVD/kdh-ziada-jednotne-verejne-obstaravanie-pre-nove-statne-nemocnice-chce-vyssiu-transparentnost/",
+      "time": "2026-07-31T09:35:42+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Izrael odpálil výbušniny pri libanonskom hrade, podľa armády išlo o tunely militantov",
+      "link": "https://www.aktuality.sk/clanok/RcWOoI7/izrael-odpalil-vybusniny-pri-libanonskom-hrade-podla-armady-islo-o-tunely-militantov/",
+      "time": "2026-07-31T09:31:00+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Košické nemocnice majú nových operačných robotov. Pacienti sa dočkajú presnejších operácií aj kratšieho čakania",
+      "link": "https://www.kosicak.sk/clanky/13412/do-kosickych-nemocnic-dorazila-spickova-technologia-operacne-roboty-pomozu-stovkam-pacientov-rocne-s-vymenou-klbov",
+      "time": "2026-07-31T09:30:00+00:00",
+      "cat": "ine",
+      "region": "kosicky",
+      "src": "kosicak.sk"
+    },
+    {
+      "title": "Zdravý, prírodný nápoj v horúčavách. Viete, čo je surica?",
+      "link": "https://www.aktuality.sk/clanok/PMeDtfP/zdravy-prirodny-napoj-v-horucavach-viete-co-je-surica/",
+      "time": "2026-07-31T09:30:00+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Na Cypre zadržali muža pre podozrenie zo špionáže britskej vojenskej základne",
+      "link": "https://www.aktuality.sk/clanok/fW3bzkL/na-cypre-zadrzali-muza-pre-podozrenie-zo-spionaze-britskej-vojenskej-zakladne/",
+      "time": "2026-07-31T09:24:00+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Voľby 2026: Veronika Buc oznámila kandidatúru na primátorku Skalice, stavia na spolupráci s ľuďmi",
+      "link": "https://www.aktuality.sk/clanok/5r1lY2i/volby-2026-veronika-buc-oznamila-kandidaturu-na-primatorku-skalice-stavia-na-spolupraci-s-ludmi/",
+      "time": "2026-07-31T09:21:27+00:00",
+      "cat": "ine",
+      "region": "trnavsky",
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Hamas trvá na etapách odzbrojenia. Izrael musí najprv stiahnuť vojakov z Pásma Gazy po schválení dohody",
+      "link": "https://www.aktuality.sk/clanok/gNM0djq/hamas-trva-na-etapach-odzbrojenia-izrael-musi-najprv-stiahnut-vojakov-z-pasma-gazy-po-schvaleni-dohody/",
+      "time": "2026-07-31T09:21:00+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Expl0ited vytiahol na balkón v centre mesta otvorený oheň",
+      "link": "https://www.bratislavak.sk/clanky/14754/video-expl0ited-si-v-centre-bratislavy-zalozil-na-balkone-otvoreny-ohen-na-kritiku-dlho-necakal-zblaznil-si-sa",
+      "time": "2026-07-31T09:20:00+00:00",
+      "cat": "ine",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk"
+    },
+    {
+      "title": "Regionálne autobusy sa po siedmich rokoch vrátia na most v Seredi",
+      "link": "https://www.trnavak.sk/clanky/11589/foto-regionalne-autobusy-sa-po-siedmich-rokoch-vratia-na-most-v-seredi-takto-sa-zmenia-cestovne-poriadky",
+      "time": "2026-07-31T09:20:00+00:00",
+      "cat": "ine",
+      "region": "trnavsky",
+      "src": "trnavak.sk"
+    },
+    {
+      "title": "Autobus cez Nitriansky kraj ide, no cestujúci nemôžu nastúpiť. Zvláštne pravidlo platí už dlhšie, zmení sa niečo?",
+      "link": "https://www.nitrak.sk/clanky/11383/autobus-zastavi-v-nitrianskom-kraji-no-nastupit-nemozete-zvlastne-obmedzenie-plati-uz-roky-zmeni-sa-nieco",
+      "time": "2026-07-31T09:20:00+00:00",
+      "cat": "ine",
+      "region": "nitriansky",
+      "src": "nitrak.sk"
+    },
+    {
+      "title": "Obľúbený hrad v Žilinskom kraji vstúpil do nebezpečnej fázy obnovy. Platí zákaz vstupu",
+      "link": "https://www.zilinak.sk/clanky/42045/foto-navsteva-oblubeneho-hradu-v-zilinskom-kraji-je-nebezpecna-nepriblizujte-sa-k-nemu-hrozi-pad-muriva",
+      "time": "2026-07-31T09:20:00+00:00",
+      "cat": "ine",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
+    },
+    {
+      "title": "Seniori mali dostať dáta zadarmo. Jeden z nich tvrdí, že nevedomky uzavrel splátkovú zmluvu",
+      "link": "https://www.bystricak.sk/clanky/12483/manzelia-z-lucenca-kyvli-na-bezplatny-darcek-pre-seniorov-namiesto-toho-mali-ziskat-dvojrocne-splatky-za-lampu",
+      "time": "2026-07-31T09:16:00+00:00",
+      "cat": "ine",
+      "region": "banskobystricky",
+      "src": "bystricak.sk"
+    },
+    {
+      "title": "Znie to ako vtip: Dvaja Rusi sa rozprávajú o protestoch",
+      "link": "https://dennikn.sk/5482946/znie-to-ako-vtip-dvaja-rusi-sa-rozpravaju-o-protestoch/",
+      "time": "2026-07-31T09:06:11+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Na D1 pod Tatrami sa začínajú niekoľkomesačné opravy. Vodičov čakajú uzávierky až do polovice novembra",
+      "link": "https://www.presovak.sk/clanky/14789/pozor-na-d1-pod-tatrami-od-soboty-sa-zacinaju-dlhodobe-opravy-pripravte-sa-na-obmedzenia",
+      "time": "2026-07-31T09:00:00+00:00",
+      "cat": "ine",
+      "region": "presovsky",
+      "src": "presovak.sk"
+    },
+    {
+      "title": "Letná sezóna láka k vode, odborníci odporúčajú kúpaliská s kontrolovanou kvalitou vody",
+      "link": "https://www.aktuality.sk/clanok/Ornxel5/letna-sezona-laka-k-vode-odbornici-odporucaju-kupaliska-s-kontrolovanou-kvalitou-vody/",
+      "time": "2026-07-31T08:51:32+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "O posvätnej Pohode a skrytej religiozite v nás",
+      "link": "https://dennikn.sk/5481384/o-posvatnej-pohode-a-skrytej-religiozite-v-nas/",
+      "time": "2026-07-31T08:48:11+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Poľsko spúšťa novú aplikáciu na varovanie obyvateľov",
+      "link": "https://www.aktuality.sk/clanok/6adqjv6/polsko-spusta-novu-aplikaciu-na-varovanie-obyvatelov/",
+      "time": "2026-07-31T08:46:00+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Sťahovanie úradov v Trebišove prinesie výpadky služieb okresného úradu aj polície",
+      "link": "https://korzar.sme.sk/zemplin/c/stahovanie-uradov-v-trebisove-prinesie-vypadky-sluzieb-okresneho-uradu-aj-policie?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-07-31T08:44:21+00:00",
+      "cat": "ine",
+      "region": "kosicky",
+      "src": "korzar.sme.sk"
+    },
+    {
+      "title": "Napustite si vodu. Na Rendezi opäť nepotečie celé hodiny",
+      "link": "https://www.bratislavak.sk/clanky/14759/napustite-si-vodu-v-jednej-z-mestskych-casti-bratislavy-opat-hlasia-poruchu-voda-nepotecie-cele-hodiny",
+      "time": "2026-07-31T08:43:00+00:00",
+      "cat": "ine",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk"
+    },
+    {
+      "title": "Stále sa tam vidím s tebou. Tricky trúchli a vy chcete byť pri tom",
+      "link": "https://dennikn.sk/5481814/stale-sa-tam-vidim-s-tebou-tricky-truchli-a-vy-chcete-byt-pri-tom/",
+      "time": "2026-07-31T08:40:26+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Na záhrade v Novom Meste našli zvláštneho tvora. Ľudia ho prirovnali k vankúšiku na špendlíky",
+      "link": "https://www.trencinak.sk/clanky/13222/foto-na-zahrade-v-novom-meste-nad-vahom-nasli-ocareni-majitelia-farebneho-tvora-ktory-pripomina-skor-hracku",
+      "time": "2026-07-31T08:40:00+00:00",
+      "cat": "ine",
+      "region": "trenciansky",
+      "src": "trencinak.sk"
+    },
+    {
+      "title": "V nitrianskej nemocnici počas náročnej operácie dvakrát vypadla elektrina, zlyhali aj prístroje",
+      "link": "https://www.nitrak.sk/clanky/11393/problemy-v-nitrianskej-nemocnici-pocas-narocnej-operacie-mal-dvakrat-vypadnut-prud-aj-dolezite-pristroje",
+      "time": "2026-07-31T08:35:00+00:00",
+      "cat": "ine",
+      "region": "nitriansky",
+      "src": "nitrak.sk"
+    },
+    {
+      "title": "ŽSR prijímajú preventívne opatrenia. Počas horúčav budú vlaky na viacerých tratiach jazdiť pomalšie",
+      "link": "https://www.bystricak.sk/clanky/12511/zeleznice-pre-extremne-horucavy-zavadzaju-obmedzenie-rychlosti-a-upozornuju-na-meskania-vlakov",
+      "time": "2026-07-31T08:35:00+00:00",
+      "cat": "ine",
+      "region": "banskobystricky",
+      "src": "bystricak.sk"
+    },
+    {
+      "title": "Do domu v Žiline sa vlámali zlodeji. Odniesli náradie za tisíce eur a dva bicykle, auto nechali visieť nad riekou",
+      "link": "https://www.zilinak.sk/clanky/41982/video-drze-vlamanie-do-domu-v-ziline-auto-nechali-visiet-nad-rajciankou-bicykel-hodili-do-rieky",
+      "time": "2026-07-31T08:30:00+00:00",
+      "cat": "ine",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
+    },
+    {
+      "title": "Nové cestovné poriadky od 1. augusta: Častejšie autobusy aj lepšie spojenie s vlakmi",
+      "link": "https://www.kosicak.sk/clanky/13410/vychodniari-mozu-vyuzivat-od-augusta-taktovu-dopravu-autobusy-budu-jazdit-castejsie-a-s-lepsimi-prestupmi-medzi-krajmi",
+      "time": "2026-07-31T08:30:00+00:00",
+      "cat": "ine",
+      "region": "kosicky",
+      "src": "kosicak.sk"
+    },
+    {
+      "title": "Európsky „ostrov“ v Afrike prekročili tisícky migrantov. Viacerí zahynuli, Španielsko posiela špeciálne sily",
+      "link": "https://www.aktuality.sk/clanok/wQFtxyQ/europsky-ostrov-v-afrike-prekrocili-tisicky-migrantov-viaceri-zahynuli-spanielsko-posiela-specialne-sily/",
+      "time": "2026-07-31T08:27:32+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Rybári vysvetlili, prečo cez víkend lovia na jazere Guláška",
+      "link": "https://www.trnavak.sk/clanky/11586/trnavcanka-nechape-preco-rybari-pocas-horuceho-vikendu-chytaju-ulovky-na-jazere-gulaska-ti-jej-to-vysvetlili",
+      "time": "2026-07-31T08:20:00+00:00",
+      "cat": "ine",
+      "region": "trnavsky",
+      "src": "trnavak.sk"
+    },
+    {
+      "title": "V rozpočte chýba takmer pol miliardy, varuje rozpočtová rada. Problémom je slabý výber daní",
+      "link": "https://www.aktuality.sk/clanok/0U39gNx/v-rozpocte-chyba-takmer-pol-miliardy-varuje-rozpoctova-rada-problemom-je-slaby-vyber-dani/",
+      "time": "2026-07-31T08:16:53+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Na D1 sa začínajú dlhodobé opravy. Vodičov čakajú niekoľkomesačné obmedzenia",
+      "link": "https://korzar.sme.sk/spis-gemer/c/na-d1-sa-zacinaju-dlhodobe-opravy-vodicov-cakaju-niekolkomesacne-obmedzenia?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-07-31T08:15:50+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "korzar.sme.sk"
+    },
+    {
+      "title": "Lektor slovenčiny Ďurajka: Cudzincov neučíme vybrané slová, nepotrebujú ich",
+      "link": "https://dennikn.sk/5480484/lektor-slovenciny-durajka-cudzincov-neucime-vybrane-slova-nepotrebuju-ich/",
+      "time": "2026-07-31T08:13:25+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Známy nepálsky horolezec Nirmal Purdža zmizol po páde lavíny v Pakistane",
+      "link": "https://www.aktuality.sk/clanok/lzmJKwc/znamy-nepalsky-horolezec-nirmal-purdza-zmizol-po-pade-laviny-v-pakistane/",
+      "time": "2026-07-31T08:09:00+00:00",
+      "cat": "poziar",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Do Ceuty podľa španielskej vlády vstúpilo odhadom 49-tisíc migrantov",
+      "link": "https://www.aktuality.sk/clanok/5333dHH/do-ceuty-podla-spanielskej-vlady-vstupilo-odhadom-49-tisic-migrantov/",
+      "time": "2026-07-31T08:02:00+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Korčok vysvetľuje platby cez firmu manželky. Teraz ich chce zmeniť",
+      "link": "https://www.bratislavak.sk/clanky/14756/korcok-po-nezrovnalostiach-o-svojich-odmenach-prehovoril-priznal-vysku-odmeny-a-meni-sposob-akym-ho-ps-plati",
+      "time": "2026-07-31T08:00:00+00:00",
+      "cat": "ine",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk"
+    },
+    {
+      "title": "Žilina cez leto opravuje školy a škôlky. Prebieha vyše 50 opráv",
+      "link": "https://www.zilinak.sk/clanky/42043/velke-zmeny-na-zilinskych-skolach-mesto-rozbehlo-vyse-50-oprav-a-modernizacii-kde-vsade-sa-pracuje",
+      "time": "2026-07-31T08:00:00+00:00",
+      "cat": "ine",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
+    },
+    {
+      "title": "Termín dokončenia výstavby 1. etapy R1 Banská Bystrica - Slovenská Ľupča sa výrazne posúva",
+      "link": "https://www.bystricak.sk/clanky/12522/vodici-sa-po-novom-useku-r1-pri-banskej-bystrici-tak-skoro-nepovozia-termin-dokoncenia-sa-posuva-o-739-dni",
+      "time": "2026-07-31T08:00:00+00:00",
+      "cat": "ine",
+      "region": "banskobystricky",
+      "src": "bystricak.sk"
+    },
+    {
+      "title": "Ukrajinské obilie má problém, nemôže vyplávať na more. Rusi zvýšili tlak na strategickú trasu pri Odese",
+      "link": "https://www.aktuality.sk/clanok/3j5u1rv/ukrajinske-obilie-ma-problem-nemoze-vyplavat-na-more-rusi-zvysili-tlak-na-strategicku-trasu-pri-odese/",
+      "time": "2026-07-31T08:00:00+00:00",
+      "cat": "poziar",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Polícia pátra po mužovej totožnosti. Hospitalizovali ho v nemocnici v Nových Zámkoch no on nevie, kto je",
+      "link": "https://www.nitrak.sk/clanky/11394/v-novozamockej-nemocnici-hospitalizovali-muza-ktory-si-nevie-spomenut-na-meno-policia-prosi-verejnost-o-pomoc",
+      "time": "2026-07-31T07:55:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk"
+    },
+    {
+      "title": "Požiare v Grécku pokračujú, hasiči na Kréte bojujú so silným vetrom",
+      "link": "https://www.aktuality.sk/clanok/7gIAOVB/poziare-v-grecku-pokracuju-hasici-na-krete-bojuju-so-silnym-vetrom/",
+      "time": "2026-07-31T07:54:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Od pondelka sa pripravte na zmeny. Mení sa doprava aj zastávka MHD v Trenčíne",
+      "link": "https://www.trencinak.sk/clanky/13221/dolezita-zmena-v-trencine-uzavru-vyjazd-z-kruhoveho-objazdu-meni-sa-aj-zastavka-mhd",
+      "time": "2026-07-31T07:40:00+00:00",
+      "cat": "ine",
+      "region": "trenciansky",
+      "src": "trencinak.sk"
+    },
+    {
+      "title": "Američanov možno čakajú prvé skutočne sfalšované voľby",
+      "link": "https://dennikn.sk/5481276/americanov-mozno-cakaju-prve-skutocne-sfalsovane-volby/",
+      "time": "2026-07-31T07:33:36+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Žena v Liptovskom Mikuláši bodla muža nožom, čelí obvineniu z vraždy",
+      "link": "https://www.zilinak.sk/clanky/42039/nocny-konflikt-v-liptovskom-mikulasi-vyustil-do-utoku-nozom-zena-celi-obvineniu-z-pokusu-o-vrazdu",
+      "time": "2026-07-31T07:30:00+00:00",
+      "cat": "ine",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
+    },
+    {
+      "title": "Košická polícia hľadá svedkov zrážky Audi s cyklistom",
+      "link": "https://www.kosicak.sk/clanky/13487/foto-pri-kosickej-veterine-sa-zrazilo-audi-s-cyklistom-videli-ste-tuto-nehodu-policia-hlada-svedkov",
+      "time": "2026-07-31T07:30:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk"
+    },
+    {
+      "title": "Trumpov svet (557. deň): Trump oznámil prielom v Gaze, Hamas údajne súhlasil, že odovzdá všetky zbrane",
+      "link": "https://dennikn.sk/5482520/trumpov-svet-557-den-trump-oznamil-prielom-v-gaze-hamas-udajne-suhlasil-ze-odovzda-vsetky-zbrane/",
+      "time": "2026-07-31T07:26:10+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Rodine z Prešova víchrica strhla strechu. Na opravu domu potrebuje vyzbierať 15-tisíc eur",
+      "link": "https://www.presovak.sk/clanky/14788/foto-vichrica-im-odfukla-strechu-dnes-ich-dom-kryje-len-plachta-rodina-z-presova-prosi-o-pomoc",
+      "time": "2026-07-31T07:19:00+00:00",
+      "cat": "ine",
+      "region": "presovsky",
+      "src": "presovak.sk"
+    },
+    {
+      "title": "Volkswagen to s elektromobilmi prepálil, Škoda ostala pri zemi, jej úspech nikto nečakal, tvrdí odborník Knap",
+      "link": "https://e.dennikn.sk/5480926/volkswagen-to-s-elektromobilmi-prepalil-skoda-ostala-pri-zemi-jej-uspech-nikto-necakal-tvrdi-automobilovy-odbornik-knap/",
+      "time": "2026-07-31T07:15:30+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Polícia odvolala pátranie po Simone z Vavrečky, je živá a v poriadku",
+      "link": "https://www.zilinak.sk/clanky/42022/patracia-akcia-mala-stastny-koniec-nezvestnu-simonu-hladala-cela-orava-nasli-ju-po-par-hodinach",
+      "time": "2026-07-31T07:15:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
+    },
+    {
+      "title": "V Rimavskej Sobote hľadajú nezvestnú Jolanu. Ak ju uvidíte, volajte políciu",
+      "link": "https://www.bystricak.sk/clanky/12521/v-rimavskej-sobote-prebieha-patranie-po-nezvestnej-jolane-ak-ju-uvidite-kontaktujte-muzov-zakona",
+      "time": "2026-07-31T07:15:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk"
+    },
+    {
+      "title": "Voľby rektora UK: Števček kandiduje tretíkrát, jeho prorektor a vyzývateľ Tancer tvrdí, že na zmeny mal dosť času",
+      "link": "https://dennikn.sk/5481739/volby-rektora-uk-stevcek-kandiduje-tretikrat-jeho-prorektor-a-vyzyvatel-tancer-tvrdi-ze-na-zmeny-mal-dost-casu/",
+      "time": "2026-07-31T07:08:42+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Malá Fatra bude mať tri nové vlajkové stožiare, poznáme ich miesta",
+      "link": "https://www.zilinak.sk/clanky/42037/v-malej-fatre-vyrastu-tri-nove-vlajkove-stoziare-pozname-miesta-kde-ich-osadia",
+      "time": "2026-07-31T07:00:00+00:00",
+      "cat": "ine",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
+    },
+    {
+      "title": "Danglár: Darčeky z Číny",
+      "link": "https://dennikn.sk/5482867/danglar-darceky-z-ciny/",
+      "time": "2026-07-31T06:54:46+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Retrovlaky v Košickom kraji lákajú davy, odviezli už stovky turistov",
+      "link": "https://korzar.sme.sk/kosice/c/retrovlaky-v-kosickom-kraji-lakaju-davy-odviezli-uz-stovky-turistov?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-07-31T06:47:42+00:00",
+      "cat": "ine",
+      "region": "kosicky",
+      "src": "korzar.sme.sk"
+    },
+    {
+      "title": "Nočný výbuch na Vlčincoch vystrašil obyvateľov. Polícia prehľadávala materskú školu",
+      "link": "https://www.zilinak.sk/clanky/42038/na-zilinskych-vlcincoch-zaznelo-niekolko-silnych-vybuchov-policia-prehladavala-areal-materskej-skoly",
+      "time": "2026-07-31T06:37:00+00:00",
+      "cat": "ine",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
+    },
+    {
+      "title": "Poľovné revíry sa v Tatrách využívali aj v dávnejších časoch, ale pomerne šetrne. Potom prišiel Hohenlohe",
+      "link": "https://dennikn.sk/5479684/polovne-reviry-sa-v-tatrach-vyuzivali-aj-v-davnejsich-casoch-ale-pomerne-setrne-potom-prisiel-hohenlohe/",
+      "time": "2026-07-31T06:31:27+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Po zrážke vlaku s človekom zastavili dopravu na trati medzi Bratislavou a Kútmi",
+      "link": "https://www.trnavak.sk/clanky/11584/ranne-nestastie-zastavilo-zeleznicnu-dopravu-medzi-kutmi-a-bratislavou-vlak-zrazil-cloveka",
+      "time": "2026-07-31T06:23:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk"
+    },
+    {
+      "title": "Po zrážke vlaku s človekom zastavili dopravu na trati medzi Bratislavou a Kútmi",
+      "link": "https://www.bratislavak.sk/clanky/14752/vlaky-medzi-bratislavou-a-kutmi-od-rana-nepremavaju-vlak-zrazil-osobu-v-kolajisku",
+      "time": "2026-07-31T06:14:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk"
+    },
+    {
+      "title": "Počítajte s vysokými teplotami. Aké výstrahy platia na východnom Slovensku",
+      "link": "https://korzar.sme.sk/vychod/c/pocitajte-s-vysokymi-teplotami-ake-vystrahy-platia-na-vychodnom-slovensku?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-07-31T06:13:37+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "korzar.sme.sk"
+    },
+    {
+      "title": "Pozor na nehodu v Sninskom okrese, cesta je uzavretá",
+      "link": "https://www.presovak.sk/clanky/14786/cesta-v-dlhom-nad-cirochou-je-uzavreta-pre-nehodu-vodici-to-musia-obchadzat-pozor-na-dalsiu-pri-spisskej-belej",
+      "time": "2026-07-31T06:12:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk"
+    },
+    {
+      "title": "Na vjazde do Topoľčian sa zrazili dve autá, premávka spomaľuje",
+      "link": "https://www.nitrak.sk/clanky/11386/na-vjazde-do-topolcian-smerom-z-praznoviec-sa-zrazili-dve-auta-pocitajte-s-mensim-rannym-zdrzanim",
+      "time": "2026-07-31T06:05:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk"
     }
   ]
 }

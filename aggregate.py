@@ -55,11 +55,15 @@ METEOALARM_FEED = "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-atom-slo
 
 CATEGORY_KEYWORDS = {
     "nehoda": ["nehod", "zrážk", "zrazk", "havári", "havari", "kolízi", "kolizi"],
-    "poziar": ["požiar", "poziar", "horí", "hori", "zhorel", "vyhorel", "vyhorela", "plameň", "plamen"],
-    "zasah": ["zásah", "zasah", "záchran", "zachran", "hasič", "hasic", "vrtuľník", "vrtulnik", "evakuo"],
-    "patranie": ["pátra", "patra", "nezvestn", "hľadá polícia", "hlada policia", "pohreš", "pohres"],
-    "burka": ["búrk", "burk", "výstraha", "vystraha", "prívalov", "privalov", "krupobiti", "veterná", "vetern", "povoden", "povodeň", "zosuv"],
+    "poziar": ["požiar", "poziar", "vypukol oheň", "vypukol ohen", "zhorel", "vyhorel", "vyhorela", "plamene zachvátili", "plamene zachvatili", "hasiči zasahujú pri požiari", "horí les", "hori les", "horí dom", "hori dom"],
+    "zasah": ["zásah hasič", "zasah hasic", "záchranári zasahovali", "zachranari zasahovali", "vrtuľník", "vrtulnik", "evakuo"],
+    "patranie": ["pátra polícia", "patra policia", "nezvestn", "hľadá polícia", "hlada policia", "pohreš", "pohres"],
+    "burka": ["búrka", "burka", "búrky", "burky", "výstraha pred", "vystraha pred", "prívalov", "privalov", "krupobiti", "veterná smršť", "veterna smrst", "víchric", "vichric", "povoden", "povodeň", "zosuv pôdy", "zosuv pody"],
 }
+
+# Slová, ktoré ak sú v článku, článok sa zahodí aj keď zasiahlo kľúčové slovo vyššie
+# (typicky historické/cestopisné/výročné články, nie aktuálne udalosti)
+EXCLUDE_HINTS = ["pred rokmi", "pred storočím", "pred storocim", "v minulosti", "história mesta", "historia mesta", "výročie", "vyrocie"]
 
 REGION_HINTS = {
     "bratislavsky": ["bratislav", "malacky", "pezinok", "senec"],
@@ -98,6 +102,8 @@ def parse_time(entry):
 
 def guess_category(text):
     text_l = text.lower()
+    if any(h in text_l for h in EXCLUDE_HINTS):
+        return None
     for cat, kws in CATEGORY_KEYWORDS.items():
         if any(kw in text_l for kw in kws):
             return cat
@@ -177,9 +183,9 @@ def main():
         time.sleep(0.3)
 
     print("--- MeteoAlarm ---")
-    meteo = fetch_feed(METEOALARM_FEED, fixed_region=None, force_category="burka", skip_age_filter=True)
-    print(f"MeteoAlarm: {len(meteo)} výstrah")
-    all_items.extend(meteo)
+    meteo_all = fetch_feed(METEOALARM_FEED, fixed_region=None, force_category="burka", skip_age_filter=True)
+    print(f"MeteoAlarm: {len(meteo_all)} výstrah nájdených (zatiaľ sa do appky nezahŕňajú — príliš veľa šumu/v angličtine, appka rieši aktuálne počasie priamo cez Open-Meteo v appke)")
+    # all_items.extend(meteo) -- zámerne vypnuté, pozri komentár vyššie
 
     seen = set()
     deduped = []

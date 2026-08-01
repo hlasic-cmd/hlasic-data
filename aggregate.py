@@ -2,14 +2,12 @@
 """
 Hlásič — agregátor spravodajstva.
 
-Stiahne desiatky slovenských RSS zdrojov (regionálne + celoslovenské),
-ponechá LEN čerstvé články (podľa MAX_AGE_HOURS), odhadne kategóriu
-(nehoda/požiar/zásah/pátranie/búrka) podľa kľúčových slov a uloží
-všetko do jedného output.json, ktorý appka číta.
-
-Skript je bez štátu (stateless) — pri každom behu znovu prejde feedy
-a vygeneruje čerstvý output.json. Spúšťaj ho každých pár minút
-(cez cron, alebo cez GitHub Actions — návod v README.md).
+Stiahne slovenské RSS zdroje (regionálne + celoslovenské), ponechá LEN
+čerstvé články (podľa MAX_AGE_HOURS) a LEN tie, čo sa dajú zaradiť do
+bezpečnostných kategórií (nehoda/požiar/zásah/pátranie/búrka) — všetko
+ostatné (kultúra, ekonomika, politika, šport, zahraničie) sa zahodí už
+tu, nie až v appke. Výstup: output.json s počtami za každý zdroj kvôli
+ladeniu.
 
 pip install requests feedparser python-dateutil --break-system-packages
 python3 aggregate.py
@@ -25,9 +23,8 @@ import requests
 
 # ---------------- NASTAVENIA ----------------
 
-MAX_AGE_HOURS = 4  # články staršie ako toto sa do výstupu vôbec nedostanú
+MAX_AGE_HOURS = 6  # o niečo širšie okno, aby appka nebola prázdna mimo špičky
 
-# Regionálne zdroje — sieť Mediak, jeden portál na kraj, rovnaká platforma
 REGIONAL_FEEDS = {
     "bratislavsky":     "https://www.bratislavak.sk/rss",
     "trnavsky":         "https://www.trnavak.sk/rss",
@@ -39,37 +36,29 @@ REGIONAL_FEEDS = {
     "kosicky":          "https://www.kosicak.sk/rss",
 }
 
-# Celoslovenské zdroje — nemajú jednoznačný kraj, idú do "celeSK"
-# (región sa priradí len ak sa v texte nájde názov mesta/kraja)
 NATIONAL_FEEDS = [
     "https://dennikn.sk/feed",
     "https://spravy.pravda.sk/domace/rss/xml",
     "https://korzar.sme.sk/rss",
     "https://www1.pluska.sk/rss.xml",
-    "https://sita.sk/spravy/feed/",                 # tlačová agentúra SITA — otvorené RSS, netreba registráciu
-    "http://www.aktuality.sk/rss/?path=/discover/topic/top-news/slovakia",  # najčítanejší spravodajský portál na SK
-    # TASR (teraz.sk) má RSS, ale vyžaduje si najprv registráciu a súhlas
-    # s podmienkami na https://www.teraz.sk/rss — over si to a prípadne
-    # sem doplň svoju schválenú adresu, TASR je zvyčajne najrýchlejší zdroj na SK.
+    "https://sita.sk/spravy/feed/",
+    "http://www.aktuality.sk/rss/?path=/discover/topic/top-news/slovakia",
+    "https://tnlive.sk/rss",  # TV Noviny Markíza
+    # TASR (teraz.sk): vyžaduje registráciu na https://www.teraz.sk/rss.
+    # Po schválení sem doplň svoju adresu — TASR je zvyčajne najrýchlejší
+    # zdroj na Slovensku a stojí za tú jednu registráciu.
 ]
 
-# Oficiálny európsky systém včasného varovania (EUMETNET) — agreguje aj
-# výstrahy SHMÚ pre Slovensko. Toto je pre kategóriu "búrky" najlepší
-# zdroj: štátna/oficiálna inštitúcia, nie médium, takže žiadne obmedzenia
-# na použitie a spravidla veľmi rýchle vydávanie výstrah.
 METEOALARM_FEED = "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-atom-slovakia"
-
-ALL_FEEDS = {**{k: v for k, v in REGIONAL_FEEDS.items()}, "celeSK": None}
 
 CATEGORY_KEYWORDS = {
     "nehoda": ["nehod", "zrážk", "zrazk", "havári", "havari", "kolízi", "kolizi"],
-    "poziar": ["požiar", "poziar", "horí", "hori", "zhorel", "vyhorel"],
-    "zasah": ["zásah", "zasah", "záchran", "zachran", "hasič", "hasic", "vrtuľník", "vrtulnik"],
-    "patranie": ["pátra", "patra", "nezvestn", "hľadá polícia", "hlada policia"],
-    "burka": ["búrk", "burk", "výstraha", "vystraha", "prívalov", "privalov", "krupobiti", "veterná", "vetern"],
+    "poziar": ["požiar", "poziar", "horí", "hori", "zhorel", "vyhorel", "vyhorela", "plameň", "plamen"],
+    "zasah": ["zásah", "zasah", "záchran", "zachran", "hasič", "hasic", "vrtuľník", "vrtulnik", "evakuo"],
+    "patranie": ["pátra", "patra", "nezvestn", "hľadá polícia", "hlada policia", "pohreš", "pohres"],
+    "burka": ["búrk", "burk", "výstraha", "vystraha", "prívalov", "privalov", "krupobiti", "veterná", "vetern", "povoden", "povodeň", "zosuv"],
 }
 
-# Približné priradenie mesta/kraja pre celoslovenské zdroje bez vlastného regiónu
 REGION_HINTS = {
     "bratislavsky": ["bratislav", "malacky", "pezinok", "senec"],
     "trnavsky": ["trnav", "piešťan", "piestan", "hlohov", "senic", "skalic", "galant"],
@@ -99,7 +88,7 @@ def guess_category(text):
     for cat, kws in CATEGORY_KEYWORDS.items():
         if any(kw in text_l for kw in kws):
             return cat
-    return "ine"
+    return None  # None = nepatrí do bezpečnostných kategórií -> zahodí sa
 
 
 def guess_region(text):
@@ -110,13 +99,13 @@ def guess_region(text):
     return None
 
 
-def fetch_feed(url, fixed_region=None):
+def fetch_feed(url, fixed_region=None, force_category=None):
     items = []
     try:
         resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
         parsed = feedparser.parse(resp.content)
     except Exception as e:
-        print(f"[CHYBA] {url}: {e}")
+        print(f"  [CHYBA] {url}: {e}")
         return items
 
     now = datetime.now(timezone.utc)
@@ -132,46 +121,45 @@ def fetch_feed(url, fixed_region=None):
         summary = entry.get("description", "") or entry.get("summary", "")
         combined = f"{title} {summary}"
 
+        cat = force_category or guess_category(combined)
+        if cat is None:
+            continue  # mimo bezpečnostných kategórií -> zahodíme priamo tu
+
         region = fixed_region or guess_region(combined)
 
         items.append({
             "title": title,
             "link": entry.get("link", ""),
             "time": pub.isoformat(),
-            "cat": guess_category(combined),
+            "cat": cat,
             "region": region,
             "src": url.split("/")[2].replace("www.", ""),
         })
     return items
 
 
-def fetch_meteoalarm():
-    """MeteoAlarm dáva oficiálne výstrahy — vždy ich taguj ako kategóriu 'burka'."""
-    items = fetch_feed(METEOALARM_FEED, fixed_region=None)
-    for item in items:
-        item["cat"] = "burka"
-        if not item["region"]:
-            item["region"] = guess_region(item["title"])
-    return items
-
-
 def main():
     all_items = []
 
+    print("--- Regionálne zdroje ---")
     for region, url in REGIONAL_FEEDS.items():
-        print(f"Sťahujem {region}: {url}")
-        all_items.extend(fetch_feed(url, fixed_region=region))
+        found = fetch_feed(url, fixed_region=region)
+        print(f"{region}: {len(found)} relevantných článkov")
+        all_items.extend(found)
         time.sleep(0.3)
 
+    print("--- Celoslovenské zdroje ---")
     for url in NATIONAL_FEEDS:
-        print(f"Sťahujem celoslovenský zdroj: {url}")
-        all_items.extend(fetch_feed(url, fixed_region=None))
+        found = fetch_feed(url, fixed_region=None)
+        print(f"{url}: {len(found)} relevantných článkov")
+        all_items.extend(found)
         time.sleep(0.3)
 
-    print("Sťahujem MeteoAlarm výstrahy...")
-    all_items.extend(fetch_meteoalarm())
+    print("--- MeteoAlarm ---")
+    meteo = fetch_feed(METEOALARM_FEED, fixed_region=None, force_category="burka")
+    print(f"MeteoAlarm: {len(meteo)} výstrah")
+    all_items.extend(meteo)
 
-    # dedup podľa linku
     seen = set()
     deduped = []
     for item in all_items:
@@ -192,7 +180,7 @@ def main():
     with open("output.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\nHotovo: {len(deduped)} čerstvých článkov (< {MAX_AGE_HOURS} h) -> output.json")
+    print(f"\nHotovo: {len(deduped)} relevantných čerstvých článkov (< {MAX_AGE_HOURS} h) -> output.json")
 
 
 if __name__ == "__main__":

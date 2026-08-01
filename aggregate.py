@@ -163,10 +163,8 @@ def fetch_feed(url, fixed_region=None, force_category=None, skip_age_filter=Fals
         # POZITÍVNY slovenský signál: buď sme uhádli konkrétny kraj, alebo text
         # priamo spomína Slovensko.
         if fixed_region is None and force_category is None:
-            text_l = combined.lower()
-            has_slovak_signal = region is not None or "slovensk" in text_l or " sr " in text_l
-            if not has_slovak_signal:
-                continue
+            if region is None:
+                continue  # bez rozpoznaného konkrétneho slovenského miesta/kraja -> zahodíme
 
         items.append({
             "title": title,

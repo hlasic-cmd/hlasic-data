@@ -1,6 +1,183 @@
 {
-  "generated_at": "2026-08-01T00:11:15.358387+00:00",
+  "generated_at": "2026-08-01T07:56:50.085179+00:00",
   "max_age_hours": 4,
-  "count": 0,
-  "items": []
+  "count": 22,
+  "items": [
+    {
+      "title": "Medzi Nemcovcami a Prešovom auto skončilo mimo cesty, na mieste zasahujú hasiči",
+      "link": "https://www.presovak.sk/clanky/14805/medzi-nemcovcami-a-presovom-vozidlo-skoncilo-mimo-cesty-na-mieste-zasahuju-policajti-a-hasici",
+      "time": "2026-08-01T07:34:00+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "presovak.sk"
+    },
+    {
+      "title": "Sociálna poisťovňa zverejnila dlžníkov, medzi najväčšími sú nemocnice, aj tá nitrianska",
+      "link": "https://www.nitrak.sk/clanky/11380/socialna-poistovna-zverejnila-zoznam-dlznikov-najviac-dlhuju-nemocnice-ako-je-na-tom-ta-nitrianska",
+      "time": "2026-08-01T07:25:00+00:00",
+      "cat": "ine",
+      "region": "nitriansky",
+      "src": "nitrak.sk"
+    },
+    {
+      "title": "Sociálna poisťovňa zverejnila dlžníkov, medzi najväčšími sú nemocnica, aj tá košická",
+      "link": "https://www.kosicak.sk/clanky/13482/socialna-poistovna-zverejnila-zoznam-dlznikov-najviac-dlhuju-nemocnice-ako-je-na-tom-ta-kosicka",
+      "time": "2026-08-01T07:15:00+00:00",
+      "cat": "ine",
+      "region": "kosicky",
+      "src": "kosicak.sk"
+    },
+    {
+      "title": "Všetky ruské predajne Mere v SR zatvorili. Ich prevádzkovateľ skončil na sankčnom zozname",
+      "link": "https://www.aktuality.sk/clanok/BnyXDLS/vsetky-ruske-predajne-mere-v-sr-zatvorili-ich-prevadzkovatel-skoncil-na-sankcnom-zozname/",
+      "time": "2026-08-01T07:07:57+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Veronika Munk o odchode z Denníka N do 444: V Maďarsku je nová situácia, chcem byť pri tom a niečo urobiť",
+      "link": "https://dennikn.sk/5482992/veronika-munk-o-odchode-z-dennika-n-do-444-v-madarsku-je-nova-situacia-chcem-byt-pri-tom-a-nieco-urobit/",
+      "time": "2026-08-01T07:05:39+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Petržalská električka za rok odviezla 12 miliónov ľudí, je najvyťaženejšia",
+      "link": "https://www.bratislavak.sk/clanky/14668/petrzalska-elektricka-za-prvy-rok-prepravila-uz-viac-ako-12-milionov-cestujucich-najvytazenejsou-je-linka-3",
+      "time": "2026-08-01T07:05:00+00:00",
+      "cat": "ine",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk"
+    },
+    {
+      "title": "Tesco zvažuje predaj na Slovensku, dôvodom sú zisky aj konkurencia",
+      "link": "https://www.trnavak.sk/clanky/11292/obchodny-gigant-s-takmer-200-prevadzkami-vazne-zvazuje-odchod-zo-slovenska-co-sa-skryva-za-tak-drastickym-rozhodnutim",
+      "time": "2026-08-01T07:05:00+00:00",
+      "cat": "ine",
+      "region": "trnavsky",
+      "src": "trnavak.sk"
+    },
+    {
+      "title": "Po dažďoch sa v Prešovskom kraji darí hubám, hubári nosia plné košíky",
+      "link": "https://www.presovak.sk/clanky/14740/foto-hubari-v-presovskom-kraji-maju-obrovske-stastie-toto-si-odnasaju-z-lesov",
+      "time": "2026-08-01T07:05:00+00:00",
+      "cat": "ine",
+      "region": "presovsky",
+      "src": "presovak.sk"
+    },
+    {
+      "title": "Zásah projektilu poškodil tanker pri pobreží Ománu",
+      "link": "https://www.aktuality.sk/clanok/7b1WEPc/zasah-projektilu-poskodil-tanker-pri-pobrezi-omanu/",
+      "time": "2026-08-01T07:01:50+00:00",
+      "cat": "zasah",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "„Haló, tu Bratislava.“ Nalaďte sa o sto rokov naspäť na prvé vysielanie slovenského rozhlasu",
+      "link": "https://dennikn.sk/5466369/halo-tu-bratislava-naladte-sa-o-sto-rokov-naspat-na-prve-vysielanie-slovenskeho-rozhlasu/",
+      "time": "2026-08-01T07:00:16+00:00",
+      "cat": "ine",
+      "region": "bratislavsky",
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "ECB spustila hlasovanie o novom dizajne eurobankoviek v Európe",
+      "link": "https://www.trencinak.sk/clanky/13211/foto-hlasovat-za-dizajn-novych-eurobankoviek-mozu-aj-slovaci-trencania-ktoru-by-ste-si-vybrali-vy",
+      "time": "2026-08-01T07:00:00+00:00",
+      "cat": "ine",
+      "region": "trenciansky",
+      "src": "trencinak.sk"
+    },
+    {
+      "title": "Ihrisko pre deti našli zničené a znečistené. Škola má páchateľov na kamerách",
+      "link": "https://www.zilinak.sk/clanky/42050/foto-poskodene-drevo-strhnuta-siet-a-odpadky-skolske-ihrisko-na-kysuciach-sa-stalo-tercom-vandalov",
+      "time": "2026-08-01T07:00:00+00:00",
+      "cat": "ine",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
+    },
+    {
+      "title": "ECB spustila hlasovanie o novom dizajne eurobankoviek v Európe",
+      "link": "https://www.bystricak.sk/clanky/12502/foto-bystricania-aj-vy-mozete-hlasovat-za-dizajn-novych-eurobankoviek-ktoru-by-ste-si-vybrali-vy",
+      "time": "2026-08-01T07:00:00+00:00",
+      "cat": "ine",
+      "region": "banskobystricky",
+      "src": "bystricak.sk"
+    },
+    {
+      "title": "Ako u bláznov na „dvorku“. Česi sa smejú z kríkov Matice natretých na zeleno či zo zastávok iba na vystupovanie (Týždeň vo svetových médiách)",
+      "link": "https://www.aktuality.sk/clanok/AejhcRn/ako-u-blaznov-na-dvorku-cesi-sa-smeju-z-krikov-matice-natretych-na-zeleno-ci-zo-zastavok-iba-na-vystupovanie-tyzden-vo-svetovych-mediach/",
+      "time": "2026-08-01T07:00:00+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Tisíce ľudí evakuovaných pre požiare v Turecku a Francúzsku, Atény sú v pohotovosti",
+      "link": "https://www.aktuality.sk/clanok/qK272xo/tisice-ludi-evakuovanych-pre-poziare-v-turecku-a-francuzsku-ateny-su-v-pohotovosti/",
+      "time": "2026-08-01T06:54:15+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Komentátori Denníka N: Príbeh ministra Šutaja Eštoka o Dubaji vyzerá ako krycia legenda",
+      "link": "https://dennikn.sk/5483251/komentatori-dennika-n-pribeh-ministra-sutaja-estoka-o-dubaji-vyzera-ako-krycia-legenda/",
+      "time": "2026-08-01T06:35:28+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Chat control otvára dvere do našich súkromných správ. Odborník Makatura varuje pred plošným špehovaním Európanov",
+      "link": "https://www.aktuality.sk/clanok/O2UqWfH/chat-control-otvara-dvere-do-nasich-sukromnych-sprav-odbornik-makatura-varuje-pred-plosnym-spehovanim-europanov/",
+      "time": "2026-08-01T06:30:00+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Na Horehroní hromadne uhynuli ryby. Enviropolícia začala trestné stíhanie, rybári chcú zmenu pravidiel",
+      "link": "https://www.aktuality.sk/clanok/RykkX4j/na-horehroni-hromadne-uhynuli-ryby-enviropolicia-zacala-trestne-stihanie-rybari-chcu-zmenu-pravidiel/",
+      "time": "2026-08-01T05:30:00+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Slafkovský má od boháčov z NHL ďaleko. Montreal by mu mal férovo zaplatiť o 30 miliónov viac",
+      "link": "https://dennikn.sk/5483329/slafkovsky-ma-od-bohacov-z-nhl-daleko-montreal-by-mu-mal-ferovo-zaplatit-o-30-milionov-viac/",
+      "time": "2026-08-01T05:00:47+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "dennikn.sk"
+    },
+    {
+      "title": "Návrat bez zmierenia: Ako Robert Fico po atentáte prekresľoval slovenskú politiku",
+      "link": "https://www.aktuality.sk/clanok/sC6SemV/navrat-bez-zmierenia-ako-robert-fico-po-atentate-prekresloval-slovensku-politiku/",
+      "time": "2026-08-01T05:00:00+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Matica zachraňuje zeleň sprejom a Eštokova partnerka platí kešom (týždeň slovenskej politiky v meme)",
+      "link": "https://www.aktuality.sk/clanok/8fkmaDo/matica-zachranuje-zelen-sprejom-a-estokova-partnerka-plati-kesom-tyzden-slovenskej-politiky-v-meme/",
+      "time": "2026-08-01T04:45:00+00:00",
+      "cat": "ine",
+      "region": null,
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Predpoveď počasia na sobotu: Horúčavy vyvrcholia, na západe a severe sa neskôr popoludní môžu objaviť búrky",
+      "link": "https://www.aktuality.sk/clanok/GZprrC4/predpoved-pocasia-na-sobotu-horucavy-vyvrcholia-na-zapade-a-severe-sa-neskor-popoludni-mozu-objavit-burky/",
+      "time": "2026-08-01T04:15:00+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "aktuality.sk"
+    }
+  ]
 }

@@ -1,24 +1,8 @@
 {
-  "generated_at": "2026-08-01T19:47:36.986967+00:00",
+  "generated_at": "2026-08-01T20:13:06.726840+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 7,
   "items": [
-    {
-      "title": "Noc prinesie príjemné ochladenie, na severe sa však môžu objaviť ojedinelé búrky",
-      "link": "https://www.aktuality.sk/clanok/AJ9NhcX/noc-prinesie-prijemne-ochladenie-na-severe-sa-vsak-mozu-objavit-ojedinele-burky/",
-      "time": "2026-08-01T19:00:00+00:00",
-      "cat": "burka",
-      "region": null,
-      "src": "aktuality.sk"
-    },
-    {
-      "title": "Mesto ako z nórskej rozprávky povstalo z popola. Ålesund s farebnou secesiou si zamilujú aj cestovatelia zo Slovenska",
-      "link": "https://www.aktuality.sk/clanok/qMjdr2B/mesto-ako-z-norskej-rozpravky-povstalo-z-popola-alesund-s-farebnou-secesiou-si-zamiluju-aj-cestovatelia-zo-slovenska/",
-      "time": "2026-08-01T15:00:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "aktuality.sk"
-    },
     {
       "title": "Havária potrubia v Bánovciach odstaví časť mesta od vody do pondelka",
       "link": "https://www.trencinak.sk/clanky/13240/havaria-potrubia-v-banovciach-nad-bebravou-odstavi-cast-mesta-od-vody-z-kohutikov-potecie-az-po-vikende",
@@ -58,14 +42,6 @@
       "cat": "nehoda",
       "region": "kosicky",
       "src": "korzar.sme.sk"
-    },
-    {
-      "title": "Na križovatke v Nitre došlo k nehode dvoch vozidiel, jeden pruh je obmedzený",
-      "link": "https://www.nitrak.sk/clanky/11403/na-krizovatke-v-nitre-doslo-k-nehode-dvoch-vozidiel-jeden-pruh-je-obmedzeny",
-      "time": "2026-08-01T10:33:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk"
     },
     {
       "title": "Mladý Samuel z Vyhní po nehode pri potápaní na kúpalisku po niekoľkodňovom boji v nemocnici zomrel",

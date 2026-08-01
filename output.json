@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T18:10:14.497760+00:00",
+  "generated_at": "2026-08-01T18:16:42.133604+00:00",
   "max_age_hours": 6,
-  "count": 10,
+  "count": 11,
   "items": [
     {
       "title": "V obci Radzovce horí les: Na mieste zasahuje 40 profesionálnych aj dobrovoľných hasičov",
@@ -60,6 +60,14 @@
       "src": "trencinak.sk"
     },
     {
+      "title": "Leto, aké si krajina nepamätá. Na Slovensku opäť padla štyridsiatka, nedeľa prinesie aj búrky",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2017107-leto-ake-si-krajina-nepamata-na-slovensku-opat-padla-styridsiatka?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-01T14:13:26+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk"
+    },
+    {
       "title": "Slovinská prezidentka utrpela zranenia počas dopravnej nehody v Chorvátsku",
       "link": "https://www.aktuality.sk/clanok/Sy6YqWo/slovinska-prezidentka-utrpela-zranenia-pocas-dopravnej-nehody-v-chorvatsku/",
       "time": "2026-08-01T13:19:57+00:00",
@@ -68,20 +76,20 @@
       "src": "aktuality.sk"
     },
     {
+      "title": "Na Donovaloch ratovali dieťa v bezvedomí, v Jasnej zase záchranári pomáhali mladému cyklistovi",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2017089-na-donovaloch-ratovali-dieta-v-bezvedomi-prvu-pomoc-mu-poskytol-nahodny-svedok?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-01T13:16:42+00:00",
+      "cat": "zasah",
+      "region": null,
+      "src": "spravy.pravda.sk"
+    },
+    {
       "title": "Polícia pátra po 38-ročnom Brunovi Catumbelovi z okresu Košice-okolie, nezvestný je od soboty",
       "link": "https://www.kosicak.sk/clanky/13509/bruno-z-okresu-kosice-okolie-je-nezvestny-patra-po-nom-policia-zvykne-so-sebou-nosit-cierny-ruksak-nevideli-ste-ho",
       "time": "2026-08-01T13:00:00+00:00",
       "cat": "patranie",
       "region": "kosicky",
       "src": "kosicak.sk"
-    },
-    {
-      "title": "Mestskí policajti v Karlovej Vsi našli bezvládneho muža, zomrel",
-      "link": "https://www.bratislavak.sk/clanky/14773/mestski-policajti-nasli-pri-nocnej-kontrole-parku-bezvladneho-muza-napriek-ich-snahe-sa-ho-nepodarilo-zachranit",
-      "time": "2026-08-01T12:15:00+00:00",
-      "cat": "zasah",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk"
     }
   ]
 }

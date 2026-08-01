@@ -71,7 +71,18 @@ REGION_HINTS = {
 }
 
 
+import calendar
+
 def parse_time(entry):
+    # feedparser si sám normalizuje dátumy (RFC822 aj ISO8601/Atom) do struct_time v UTC
+    for field in ("published_parsed", "updated_parsed"):
+        struct = entry.get(field)
+        if struct:
+            try:
+                return datetime.fromtimestamp(calendar.timegm(struct), tz=timezone.utc)
+            except Exception:
+                pass
+    # záložný pokus pre prípady, čo feedparser nezvládol automaticky
     for field in ("published", "updated"):
         raw = entry.get(field)
         if not raw:

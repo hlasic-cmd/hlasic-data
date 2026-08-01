@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T18:16:42.133604+00:00",
+  "generated_at": "2026-08-01T18:27:11.502914+00:00",
   "max_age_hours": 6,
-  "count": 11,
+  "count": 83,
   "items": [
     {
       "title": "V obci Radzovce horí les: Na mieste zasahuje 40 profesionálnych aj dobrovoľných hasičov",
@@ -90,6 +90,582 @@
       "cat": "patranie",
       "region": "kosicky",
       "src": "kosicak.sk"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Poprad",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK706",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Liptovský Mikuláš",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK505",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Púchov",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK308",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "trenciansky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Považská Bystrica",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK306",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Tvrdošín",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK510",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Čadca",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK502",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Košice",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK120",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Námestovo",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK507",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Banská Bystrica",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK601",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Brezno",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK603",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Turčianske Teplice",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK509",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Martin",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK506",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Ružomberok",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK508",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Žilina",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK511",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Dolný Kubín",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK503",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Bytča",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK501",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow Thunderstorm Warning issued for Slovakia - Kysucké Nové Mesto",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK504",
+      "time": "2026-08-01T09:28:07+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Bratislava",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK100",
+      "time": "2026-07-31T09:21:10+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Rimavská Sobota",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK609",
+      "time": "2026-07-31T09:21:10+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Senec",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK108",
+      "time": "2026-07-31T09:21:10+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Trebišov",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK127",
+      "time": "2026-07-31T09:21:10+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Michalovce",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK123",
+      "time": "2026-07-31T09:21:10+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Košice okolie",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK122",
+      "time": "2026-07-31T09:21:10+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Rožňava",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK124",
+      "time": "2026-07-31T09:21:10+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Sobrance",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK125",
+      "time": "2026-07-31T09:21:10+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Nové Mesto nad Váhom",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK304",
+      "time": "2026-07-31T09:21:10+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Komárno",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK401",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Nové Zámky",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK404",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Dunajská Streda",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK201",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Levice",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK402",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Veľký Krtíš",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK610",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Lučenec",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK606",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Malacky",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK106",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Revúca",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK608",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Senica",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK205",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Humenné",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK702",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Myjava",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK303",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "trenciansky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Snina",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK709",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Skalica",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK206",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Trenčín",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK309",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "trenciansky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Stropkov",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK711",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Svidník",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK712",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Ilava",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK302",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Medzilaborce",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK705",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Šaľa",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK405",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Galanta",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK202",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Red High-temperature Warning issued for Slovakia - Krupina",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK605",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Nitra",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK403",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Zlaté Moravce",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK407",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Banská Štiavnica",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK602",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Trnava",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK207",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Žarnovica",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK612",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Pezinok",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK107",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Zvolen",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK611",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Poltár",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK607",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Detva",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK604",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Hlohovec",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK203",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Topoľčany",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK406",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Žiar nad Hronom",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK613",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Piešťany",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK204",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Partizánske",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK305",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Prievidza",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK307",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "trenciansky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Gelnica",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK121",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Bánovce nad Bebravou",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK301",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "trenciansky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Vranov nad Topľou",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK713",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Prešov",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK707",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Spišská Nová Ves",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK126",
+      "time": "2026-07-30T19:34:52+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Kežmarok",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK703",
+      "time": "2026-07-29T21:05:39+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Stará Ľubovňa",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK710",
+      "time": "2026-07-29T21:05:39+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Bardejov",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK701",
+      "time": "2026-07-29T21:05:39+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Yellow High-temperature Warning issued for Slovakia - Levoča",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK704",
+      "time": "2026-07-29T21:05:39+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
+    },
+    {
+      "title": "Orange High-temperature Warning issued for Slovakia - Sabinov",
+      "link": "https://meteoalarm.org?geocode=EMMA_ID:SK708",
+      "time": "2026-07-29T21:05:39+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "feeds.meteoalarm.org"
     }
   ]
 }

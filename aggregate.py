@@ -41,9 +41,11 @@ NATIONAL_FEEDS = [
     "https://spravy.pravda.sk/domace/rss/xml",
     "https://korzar.sme.sk/rss",
     "https://www1.pluska.sk/rss.xml",
+    "https://www.pluska.sk/rss.xml",      # alternatívna adresa, ak vyššia nefunguje
+    "https://www.topky.sk/rss.xml",       # najrýchlejší bulvárny zdroj na SK, adresa neoverená
     "https://sita.sk/spravy/feed/",
     "http://www.aktuality.sk/rss/?path=/discover/topic/top-news/slovakia",
-    "https://tnlive.sk/rss",  # TV Noviny Markíza
+    "https://tnlive.sk/feed",             # skúšame WordPress konvenciu namiesto /rss
     # TASR (teraz.sk): vyžaduje registráciu na https://www.teraz.sk/rss.
     # Po schválení sem doplň svoju adresu — TASR je zvyčajne najrýchlejší
     # zdroj na Slovensku a stojí za tú jednu registráciu.

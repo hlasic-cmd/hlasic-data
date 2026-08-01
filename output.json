@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T17:48:13.553006+00:00",
+  "generated_at": "2026-08-01T18:10:14.497760+00:00",
   "max_age_hours": 6,
-  "count": 11,
+  "count": 10,
   "items": [
     {
       "title": "V obci Radzovce horí les: Na mieste zasahuje 40 profesionálnych aj dobrovoľných hasičov",
@@ -82,14 +82,6 @@
       "cat": "zasah",
       "region": "bratislavsky",
       "src": "bratislavak.sk"
-    },
-    {
-      "title": "Horskí záchranári pomohli v Slovenskom raji dvojici turistov zo Španielska",
-      "link": "https://www.kosicak.sk/clanky/13507/turisti-zo-spanielska-uviazli-v-slovenskom-raji-medzi-nimi-bola-aj-maloleta-osoba-vyslobodili-ich-horski-zachranari",
-      "time": "2026-08-01T12:00:00+00:00",
-      "cat": "zasah",
-      "region": "kosicky",
-      "src": "kosicak.sk"
     }
   ]
 }

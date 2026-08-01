@@ -157,6 +157,17 @@ def fetch_feed(url, fixed_region=None, force_category=None, skip_age_filter=Fals
 
         region = fixed_region or guess_region(combined)
 
+        # Regionálne portály (mediak sieť) sú vždy o Slovensku. Celoslovenské
+        # zdroje ale môžu obsahovať aj zahraničné správy (cestopisy, zemetrasenia
+        # v zahraničí a pod.) — namiesto vymenovávania cudzích krajín vyžadujeme
+        # POZITÍVNY slovenský signál: buď sme uhádli konkrétny kraj, alebo text
+        # priamo spomína Slovensko.
+        if fixed_region is None and force_category is None:
+            text_l = combined.lower()
+            has_slovak_signal = region is not None or "slovensk" in text_l or " sr " in text_l
+            if not has_slovak_signal:
+                continue
+
         items.append({
             "title": title,
             "link": entry.get("link", ""),

@@ -110,7 +110,7 @@ def guess_region(text):
     return None
 
 
-def fetch_feed(url, fixed_region=None, force_category=None):
+def fetch_feed(url, fixed_region=None, force_category=None, skip_age_filter=False):
     items = []
     try:
         resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
@@ -130,7 +130,7 @@ def fetch_feed(url, fixed_region=None, force_category=None):
             no_date += 1
             continue
         age_hours = (now - pub).total_seconds() / 3600
-        if age_hours > MAX_AGE_HOURS:
+        if not skip_age_filter and age_hours > MAX_AGE_HOURS:
             too_old += 1
             continue
 
@@ -175,7 +175,7 @@ def main():
         time.sleep(0.3)
 
     print("--- MeteoAlarm ---")
-    meteo = fetch_feed(METEOALARM_FEED, fixed_region=None, force_category="burka")
+    meteo = fetch_feed(METEOALARM_FEED, fixed_region=None, force_category="burka", skip_age_filter=True)
     print(f"MeteoAlarm: {len(meteo)} výstrah")
     all_items.extend(meteo)
 

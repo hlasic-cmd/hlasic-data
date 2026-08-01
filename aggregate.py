@@ -108,13 +108,19 @@ def fetch_feed(url, fixed_region=None, force_category=None):
         print(f"  [CHYBA] {url}: {e}")
         return items
 
+    total_entries = len(parsed.entries)
+    no_date = 0
+    too_old = 0
+
     now = datetime.now(timezone.utc)
     for entry in parsed.entries:
         pub = parse_time(entry)
         if pub is None:
+            no_date += 1
             continue
         age_hours = (now - pub).total_seconds() / 3600
         if age_hours > MAX_AGE_HOURS:
+            too_old += 1
             continue
 
         title = entry.get("title", "").strip()
@@ -123,7 +129,7 @@ def fetch_feed(url, fixed_region=None, force_category=None):
 
         cat = force_category or guess_category(combined)
         if cat is None:
-            continue  # mimo bezpečnostných kategórií -> zahodíme priamo tu
+            continue
 
         region = fixed_region or guess_region(combined)
 
@@ -135,6 +141,8 @@ def fetch_feed(url, fixed_region=None, force_category=None):
             "region": region,
             "src": url.split("/")[2].replace("www.", ""),
         })
+
+    print(f"    (spolu v feede: {total_entries}, bez dátumu: {no_date}, staršie ako {MAX_AGE_HOURS}h: {too_old}, relevantné: {len(items)})")
     return items
 
 

@@ -23,7 +23,7 @@ import requests
 
 # ---------------- NASTAVENIA ----------------
 
-MAX_AGE_HOURS = 6  # o niečo širšie okno, aby appka nebola prázdna mimo špičky
+MAX_AGE_HOURS = 12  # širšie okno — krajské portály majú málo článkov, potrebujeme viac objemu na kraj
 
 REGIONAL_FEEDS = {
     "bratislavsky":     "https://www.bratislavak.sk/rss",
@@ -63,7 +63,12 @@ CATEGORY_KEYWORDS = {
 
 # Slová, ktoré ak sú v článku, článok sa zahodí aj keď zasiahlo kľúčové slovo vyššie
 # (typicky historické/cestopisné/výročné články, nie aktuálne udalosti)
-EXCLUDE_HINTS = ["pred rokmi", "pred storočím", "pred storocim", "v minulosti", "história mesta", "historia mesta", "výročie", "vyrocie"]
+EXCLUDE_HINTS = [
+    "pred rokmi", "pred storočím", "pred storocim", "v minulosti", "história mesta", "historia mesta", "výročie", "vyrocie",
+    # zjavne zahraničné udalosti bez súvisu so Slovenskom (nedokonalý zoznam, dopĺňať priebežne)
+    "neapol", "taliansk", "chorvátsk", "chorvatsk", "srbsk", "rakúsk", "rakusk", "maďarsk", "madarsk",
+    "nemeck", "poľsk", "polsk", "ukrajin", "rusk", "franc", "španielsk", "spanielsk",
+]
 
 REGION_HINTS = {
     "bratislavsky": ["bratislav", "malacky", "pezinok", "senec"],

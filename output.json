@@ -1,16 +1,8 @@
 {
-  "generated_at": "2026-08-01T20:13:06.726840+00:00",
+  "generated_at": "2026-08-01T21:40:19.484246+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 3,
   "items": [
-    {
-      "title": "Havária potrubia v Bánovciach odstaví časť mesta od vody do pondelka",
-      "link": "https://www.trencinak.sk/clanky/13240/havaria-potrubia-v-banovciach-nad-bebravou-odstavi-cast-mesta-od-vody-z-kohutikov-potecie-az-po-vikende",
-      "time": "2026-08-01T14:21:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk"
-    },
     {
       "title": "Leto, aké si krajina nepamätá. Na Slovensku opäť padla štyridsiatka, nedeľa prinesie aj búrky",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2017107-leto-ake-si-krajina-nepamata-na-slovensku-opat-padla-styridsiatka?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -28,36 +20,12 @@
       "src": "kosicak.sk"
     },
     {
-      "title": "Kuriér v Trnave varuje pred deťmi na e-kolobežkách, poškodili mu objednávky",
-      "link": "https://www.trnavak.sk/clanky/11602/kurier-jedla-v-trnave-opisal-skusenost-s-detmi-na-e-kolobezkach-takmer-skoncili-pod-kolesami-a-poskodili-mi-objednavky",
-      "time": "2026-08-01T11:15:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk"
-    },
-    {
       "title": "V Trebišove opravia havarijný nadjazd, zmluva s dodávateľom je už podpísaná",
       "link": "https://korzar.sme.sk/zemplin/c/v-trebisove-opravia-havarijny-nadjazd-zmluva-s-dodavatelom-je-uz-podpisana?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
       "time": "2026-08-01T10:47:57+00:00",
       "cat": "nehoda",
       "region": "kosicky",
       "src": "korzar.sme.sk"
-    },
-    {
-      "title": "Mladý Samuel z Vyhní po nehode pri potápaní na kúpalisku po niekoľkodňovom boji v nemocnici zomrel",
-      "link": "https://www.bystricak.sk/clanky/12539/obrovska-tragedia-na-kupalisku-mlady-gitarista-a-sportovec-samuel-19-z-vyhni-prehral-svoj-niekolkodnovy-boj-o-zivot",
-      "time": "2026-08-01T09:30:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk"
-    },
-    {
-      "title": "Ťažký deň pre železnice: zrážky i vykoľajenia. Počet útokov vandalov stúpa, škody sú v desaťtisícoch",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2017025-ma-juhu-sa-zrazil-vlak-s-autom-doprava-je-prerusena?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-01T08:52:36+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "spravy.pravda.sk"
     }
   ]
 }

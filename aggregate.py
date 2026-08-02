@@ -43,12 +43,11 @@ NATIONAL_FEEDS = [
     "https://www1.pluska.sk/rss.xml",
     "https://www.pluska.sk/rss.xml",      # alternatívna adresa, ak vyššia nefunguje
     "https://www.topky.sk/rss.xml",       # najrýchlejší bulvárny zdroj na SK, adresa neoverená
-    "https://sita.sk/spravy/feed/",
+    "https://sita.sk/rss/clanky-img/1/",  # SITA legacy odkaz (nový /spravy/feed/ vyžaduje registráciu)
     "http://www.aktuality.sk/rss/?path=/discover/topic/top-news/slovakia",
     "https://tnlive.sk/feed",             # skúšame WordPress konvenciu namiesto /rss
-    # TASR (teraz.sk): vyžaduje registráciu na https://www.teraz.sk/rss.
-    # Po schválení sem doplň svoju adresu — TASR je zvyčajne najrýchlejší
-    # zdroj na Slovensku a stojí za tú jednu registráciu.
+    "https://www.teraz.sk/rss/slovensko.rss",   # TASR — Slovensko
+    "https://www.teraz.sk/rss/regiony.rss",     # TASR — Regióny
 ]
 
 METEOALARM_FEED = "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-atom-slovakia"
@@ -71,14 +70,59 @@ EXCLUDE_HINTS = [
 ]
 
 REGION_HINTS = {
-    "bratislavsky": ["bratislav", "malacky", "pezinok", "senec"],
-    "trnavsky": ["trnav", "piešťan", "piestan", "hlohov", "senic", "skalic", "galant"],
-    "trenciansky": ["trenčín", "trencin", "púchov", "puchov", "prievidz", "myjav", "bánovce", "banovce", "dubnic", "nemšov", "nemsov"],
-    "nitriansky": ["nitr", "komárno", "komarno", "levic", "nové zámky", "nove zamky", "topoľčan", "topolcan"],
-    "zilinsky": ["žilin", "zilin", "martin", "čadc", "cadc", "liptovsk", "kysuck", "ružomberok", "ruzomberok"],
-    "banskobystricky": ["banská bystric", "banska bystric", "zvolen", "lučenec", "lucenec", "rimavsk", "brezn", "žiar", "ziar"],
-    "presovsky": ["prešov", "presov", "poprad", "humenn", "bardejov", "stará ľubovňa", "stara lubovna", "svidník", "svidnik"],
-    "kosicky": ["košic", "kosic", "michalovce", "trebišov", "trebisov", "spišsk", "spissk", "rožňav", "roznav"],
+    "bratislavsky": [
+        "bratislav", "malack", "pezinok", "senec", "stupav", "svätý jur", "svaty jur", "modra",
+    ],
+    "trnavsky": [
+        "trnav", "dunajská streda", "dunajska streda", "galant", "hlohov", "piešťan", "piestan",
+        "senic", "skalic", "šamorín", "samorin", "šaštín", "sastin", "sereď", "sered",
+        "sládkovičov", "sladkovicov", "gbely", "holíč", "holic", "veľký meder", "velky meder", "vrbové", "vrbove",
+    ],
+    "trenciansky": [
+        "trenčín", "trencin", "bánovce nad bebravou", "banovce nad bebravou", "ilava", "myjav",
+        "nové mesto nad váhom", "nove mesto nad vahom", "partizánsk", "partizansk",
+        "považská bystrica", "povazska bystrica", "prievidz", "púchov", "puchov",
+        "nemšov", "nemsov", "dubnic", "handlov", "nová dubnica", "nova dubnica", "nováky", "novaky",
+        "bojnice", "brezová pod bradlom", "brezova pod bradlom", "stará turá", "stara tura",
+        "trenčianske teplice", "trencianske teplice",
+    ],
+    "nitriansky": [
+        "nitr", "komárn", "komarn", "levic", "nové zámky", "nove zamky", "šaľ", "sal",
+        "topoľčan", "topolcan", "zlaté moravce", "zlate moravce", "hurbanovo", "kolárov", "kolarov",
+        "šahy", "sahy", "štúrov", "sturov", "šuran", "suran", "tlmač", "tlmac", "vráble", "vrable",
+        "želiezovce", "zeliezovce",
+    ],
+    "zilinsky": [
+        "žilin", "zilin", "bytč", "bytc", "čadc", "cadc", "dolný kubín", "dolny kubin",
+        "kysucké nové mesto", "kysucke nove mesto", "liptovský mikuláš", "liptovsky mikulas",
+        "martin", "námestov", "namestov", "ružomberok", "ruzomberok", "turčianske teplice", "turcianske teplice",
+        "tvrdošín", "tvrdosin", "rajec", "krásno nad kysucou", "krasno nad kysucou",
+        "liptovský hrádok", "liptovsky hradok", "trstená", "trstena", "vrútky", "vrutky",
+    ],
+    "banskobystricky": [
+        "banská bystric", "banska bystric", "banská štiavnica", "banska stiavnica", "brezn",
+        "detv", "krupin", "lučenec", "lucenec", "poltár", "poltar", "revúc", "revuc",
+        "rimavsk", "veľký krtíš", "velky krtis", "zvolen", "žarnovic", "zarnovic",
+        "žiar nad hronom", "ziar nad hronom", "dudince", "fiľakov", "filakov", "hnúšť", "hnust",
+        "hriňov", "hrinov", "jelšav", "jelsav", "kremnic", "modrý kameň", "modry kamen",
+        "nová baňa", "nova bana", "sliač", "sliac", "tisovec", "tornaľ", "tornal",
+    ],
+    "presovsky": [
+        "prešov", "presov", "bardejov", "humenn", "kežmarok", "kezmarok", "levoč", "levoc",
+        "medzilaborce", "poprad", "sabinov", "snina", "stará ľubovňa", "stara lubovna",
+        "stropkov", "svidník", "svidnik", "vranov nad topľou", "vranov nad toplou",
+        "giraltovce", "hanušovce", "hanusovce", "lipany", "podolínec", "podolinec",
+        "spišská belá", "spisska bela", "spišská stará ves", "spisska stara ves",
+        "spišské podhradie", "spisske podhradie", "svit", "veľký šariš", "velky saris",
+        "vysoké tatry", "vysoke tatry",
+    ],
+    "kosicky": [
+        "košic", "kosic", "gelnic", "michalovce", "rožňav", "roznav", "sobranc",
+        "spišská nová ves", "spisska nova ves", "trebišov", "trebisov", "čierna nad tisou", "cierna nad tisou",
+        "dobšin", "dobsin", "kráľovský chlmec", "kralovsky chlmec", "krompach", "medzev",
+        "moldava nad bodvou", "sečovce", "secovce", "spišské vlachy", "spisske vlachy", "strážske", "strazske",
+        "veľké kapušany", "velke kapusany",
+    ],
 }
 
 

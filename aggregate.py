@@ -14,6 +14,7 @@ python3 aggregate.py
 """
 
 import json
+import re
 import time
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -38,7 +39,9 @@ REGIONAL_FEEDS = {
 
 NATIONAL_FEEDS = [
     "https://dennikn.sk/feed",
+    "https://dennikn.sk/slovensko/feed",   # kategória Slovensko, ak existuje samostatný feed
     "https://spravy.pravda.sk/domace/rss/xml",
+    "https://spravy.pravda.sk/regiony/rss/xml",  # regionálna sekcia Pravdy
     "https://korzar.sme.sk/rss",
     "https://www1.pluska.sk/rss.xml",
     "https://www.pluska.sk/rss.xml",      # alternatívna adresa, ak vyššia nefunguje
@@ -127,6 +130,23 @@ REGION_HINTS = {
 
 
 import calendar
+
+def get_image(entry):
+    # Skúša viacero bežných spôsobov, akými RSS feedy posielajú náhľadový obrázok
+    if "media_thumbnail" in entry and entry["media_thumbnail"]:
+        return entry["media_thumbnail"][0].get("url")
+    if "media_content" in entry and entry["media_content"]:
+        return entry["media_content"][0].get("url")
+    if "enclosures" in entry and entry["enclosures"]:
+        for enc in entry["enclosures"]:
+            if "image" in enc.get("type", ""):
+                return enc.get("href") or enc.get("url")
+    summary = entry.get("summary", "") or entry.get("description", "")
+    match = re.search(r'<img[^>]+src="([^"]+)"', summary)
+    if match:
+        return match.group(1)
+    return None
+
 
 def parse_time(entry):
     # feedparser si sám normalizuje dátumy (RFC822 aj ISO8601/Atom) do struct_time v UTC
@@ -217,6 +237,7 @@ def fetch_feed(url, fixed_region=None, force_category=None, skip_age_filter=Fals
             "cat": cat,
             "region": region,
             "src": url.split("/")[2].replace("www.", ""),
+            "image": get_image(entry),
         })
 
     print(f"    (spolu v feede: {total_entries}, bez dátumu: {no_date}, staršie ako {MAX_AGE_HOURS}h: {too_old}, relevantné: {len(items)})")

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T20:01:40.865411+00:00",
+  "generated_at": "2026-08-02T23:33:08.046795+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 6,
   "items": [
     {
       "title": "EXTRÉMNE HORÚČAVY: Výstrahy pred teplotami sa týkajú juhu a juhozápadu",
@@ -56,78 +56,6 @@
       "region": "kosicky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Pri páde lietadla v Očovej zahynuli traja ľudia, za pilotom smúti kamarát",
-      "link": "https://www.bystricak.sk/clanky/12548/aktualizovane-po-havarii-maleho-lietadla-v-ocovej-zahynuli-tri-osoby-vratane-4-rocneho-chlapca-pozname-kto-bol-pilot",
-      "time": "2026-08-02T11:10:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1785681300-aktualizovane-po-havarii-maleho-lietadla-v-ocovej-zahynuli-tri-osoby-vratane-4rocneho-chlapca-pozname-kto-bol-pilot.webp"
-    },
-    {
-      "title": "Požiar pri Leviciach zasiahol 13 hektárov územia, nasadili naň 12 kusov hasičskej techniky",
-      "link": "https://www.nitrak.sk/clanky/11409/foto-v-obci-pri-leviciach-plamene-pohltili-priblizne-13-hektarov-suchecho-porastu-zasahovali-viacere-hasicske-jednotky",
-      "time": "2026-08-02T10:00:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1785658817-foto-v-obci-pri-leviciach-plamene-pohltili-priblizne-13-hektarov-suchecho-porastu-zasahovali-viacere-hasicske-jednotky.webp"
-    },
-    {
-      "title": "SHMÚ varuje pred búrkami v časti Žilinského kraja, horúčavy trvajú",
-      "link": "https://www.zilinak.sk/clanky/42066/tieto-okresy-v-zilinskom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende",
-      "time": "2026-08-02T09:11:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1785661917-tieto-okresy-v-zilinskom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende.webp"
-    },
-    {
-      "title": "SHMÚ varuje pred búrkami v štyroch krajoch, horúčavy neustúpia",
-      "link": "https://www.bystricak.sk/clanky/12547/tieto-styri-okresy-v-banskobystrickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende",
-      "time": "2026-08-02T09:07:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1785661967-tieto-styri-okresy-v-banskobystrickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende.webp"
-    },
-    {
-      "title": "SHMÚ varuje pred nedeľnými búrkami, horúčavy po víkende nepoľavia",
-      "link": "https://www.kosicak.sk/clanky/13512/tieto-dva-okresy-v-kosickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende",
-      "time": "2026-08-02T09:05:00+00:00",
-      "cat": "burka",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1785662020-tieto-dva-okresy-v-kosickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende.webp"
-    },
-    {
-      "title": "SHMÚ varuje pred búrkami v okresoch stredného a východného Slovenska",
-      "link": "https://www.presovak.sk/clanky/14810/tento-okres-v-presovskom-kraji-by-sa-mal-pripravit-na-burky-horucavy-v-presovskom-kraji-neutichnu-ani-po-vikende",
-      "time": "2026-08-02T09:04:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1785661426-tento-okres-v-presovskom-kraji-by-sa-mal-pripravit-na-burky-horucavy-v-presovskom-kraji-neutichnu-ani-po-vikende.webp"
-    },
-    {
-      "title": "V okrese Dunajská Streda došlo k tragickej nehode, o život prišiel 21-ročný spolujazdec",
-      "link": "https://www.trnavak.sk/clanky/11605/tragicke-rano-na-cestach-v-dunajskostredskom-okrese-o-zivot-prisiel-21-rocny-spolujazdec-potvrdila-sa-pritomnost-drog",
-      "time": "2026-08-02T08:34:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1785659665-tragicke-rano-na-cestach-v-dunajskostredskom-okrese-o-zivot-prisiel-21rocny-spolujazdec-potvrdila-sa-pritomnost-drog.webp"
-    },
-    {
-      "title": "Polícia pátra po 39-ročnom Igorovi Bečárovi zo Šale, nezvestný je od soboty",
-      "link": "https://www.nitrak.sk/clanky/11408/igor-zo-sale-je-od-soboty-nezvestny-patra-po-nom-policia-nevideli-ste-ho",
-      "time": "2026-08-02T08:30:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1785657527-igor-zo-sale-je-od-soboty-nezvestny-patra-po-nom-policia-nevideli-ste-ho.webp"
     }
   ]
 }

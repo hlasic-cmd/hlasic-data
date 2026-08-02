@@ -53,11 +53,11 @@ NATIONAL_FEEDS = [
 METEOALARM_FEED = "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-atom-slovakia"
 
 CATEGORY_KEYWORDS = {
-    "nehoda": ["nehod", "zrážk", "zrazk", "havári", "havari", "kolízi", "kolizi"],
+    "burka": ["búrka", "burka", "búrky", "burky", "výstraha pred", "vystraha pred", "prívalov", "privalov", "krupobiti", "veterná smršť", "veterna smrst", "víchric", "vichric", "povoden", "povodeň", "zosuv pôdy", "zosuv pody"],
+    "nehoda": ["dopravná nehod", "dopravna nehod", "zrážka vozid", "zrazka vozid", "zrážka áut", "zrazka aut", "zrážka s autom", "zrazka s autom", "havári", "havari", "kolízi", "kolizi", "nehod"],
     "poziar": ["požiar", "poziar", "vypukol oheň", "vypukol ohen", "zhorel", "vyhorel", "vyhorela", "plamene zachvátili", "plamene zachvatili", "hasiči zasahujú pri požiari", "horí les", "hori les", "horí dom", "hori dom"],
     "zasah": ["zásah hasič", "zasah hasic", "záchranári zasahovali", "zachranari zasahovali", "vrtuľník", "vrtulnik", "evakuo"],
     "patranie": ["pátra polícia", "patra policia", "nezvestn", "hľadá polícia", "hlada policia", "pohreš", "pohres"],
-    "burka": ["búrka", "burka", "búrky", "burky", "výstraha pred", "vystraha pred", "prívalov", "privalov", "krupobiti", "veterná smršť", "veterna smrst", "víchric", "vichric", "povoden", "povodeň", "zosuv pôdy", "zosuv pody"],
 }
 
 # Slová, ktoré ak sú v článku, článok sa zahodí aj keď zasiahlo kľúčové slovo vyššie

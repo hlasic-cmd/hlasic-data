@@ -1,14 +1,150 @@
 {
-  "generated_at": "2026-08-02T07:25:28.189678+00:00",
+  "generated_at": "2026-08-02T11:44:20.232677+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 18,
   "items": [
     {
-      "title": "Tragická nehoda v obci Biel: Dvaja mŕtvi, ďalší sú zranení",
-      "link": "https://www1.pluska.sk/krimi/tragicka-nehoda-v-obci-biel-dvaja-mrtvi-dalsi-su-zraneni",
-      "time": "2026-08-02T00:00:00+00:00",
+      "title": "Pri Očovej sa zrútilo malé lietadlo, po páde do firmy sú traja mŕtvi",
+      "link": "https://www.bystricak.sk/clanky/12548/aktualizovane-pri-ocovej-havarovalo-male-lietadlo-dopadlo-do-arealu-miestneho-podniku-hlasia-troch-mrtvych",
+      "time": "2026-08-02T11:10:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk"
+    },
+    {
+      "title": "Policajti z Lipian počas búrky spriechodňovali cestu, obyvateľka ich ocenila",
+      "link": "https://www.presovak.sk/clanky/14715/policajti-z-lipian-pomahali-pocas-silnej-burky-obyvatelka-im-dakuje-za-ludsky-pristup",
+      "time": "2026-08-02T11:00:00+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "presovak.sk"
+    },
+    {
+      "title": "Požiar pri Leviciach zasiahol 13 hektárov územia, nasadili naň 12 kusov hasičskej techniky",
+      "link": "https://www.nitrak.sk/clanky/11409/foto-v-obci-pri-leviciach-plamene-pohltili-priblizne-13-hektarov-suchecho-porastu-zasahovali-viacere-hasicske-jednotky",
+      "time": "2026-08-02T10:00:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "nitrak.sk"
+    },
+    {
+      "title": "Socha plačúcej matky v Žiline má po požiari nové miesto na cintoríne Bôrik",
+      "link": "https://www.zilinak.sk/clanky/42029/sochu-placucej-matky-presunuli-v-ziline-na-nove-miesto-po-poziari-ju-zachranili-restauratori",
+      "time": "2026-08-02T10:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
+    },
+    {
+      "title": "Pri Veľatoch sa zrazili dve autá, štyria ľudia sa zranili",
+      "link": "https://www.kosicak.sk/clanky/13513/foto-medzi-obcami-v-trebisovskom-okrese-sa-zrazili-dve-auta-styri-osoby-sa-zranili-prejazd-je-obmedzeny",
+      "time": "2026-08-02T09:45:00+00:00",
       "cat": "nehoda",
       "region": "kosicky",
+      "src": "kosicak.sk"
+    },
+    {
+      "title": "Tragická noc pri Trebišove. V obci Biel sa čelne zrazili dve autá, dvaja ľudia neprežili",
+      "link": "https://www.aktuality.sk/clanok/mbZfYCi/tragicka-noc-pri-trebisove-v-obci-biel-sa-celne-zrazili-dve-auta-dvaja-ludia-neprezili/",
+      "time": "2026-08-02T09:25:41+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "SHMÚ varuje pred búrkami v časti Žilinského kraja, horúčavy trvajú",
+      "link": "https://www.zilinak.sk/clanky/42066/tieto-okresy-v-zilinskom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende",
+      "time": "2026-08-02T09:11:00+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
+    },
+    {
+      "title": "SHMÚ varuje pred búrkami v štyroch krajoch, horúčavy neustúpia",
+      "link": "https://www.bystricak.sk/clanky/12547/tieto-styri-okresy-v-banskobystrickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende",
+      "time": "2026-08-02T09:07:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk"
+    },
+    {
+      "title": "SHMÚ varuje pred nedeľnými búrkami, horúčavy po víkende nepoľavia",
+      "link": "https://www.kosicak.sk/clanky/13512/tieto-dva-okresy-v-kosickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende",
+      "time": "2026-08-02T09:05:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "kosicak.sk"
+    },
+    {
+      "title": "SHMÚ varuje pred búrkami v okresoch stredného a východného Slovenska",
+      "link": "https://www.presovak.sk/clanky/14810/tento-okres-v-presovskom-kraji-by-sa-mal-pripravit-na-burky-horucavy-v-presovskom-kraji-neutichnu-ani-po-vikende",
+      "time": "2026-08-02T09:04:00+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "presovak.sk"
+    },
+    {
+      "title": "V okrese Dunajská Streda došlo k tragickej nehode, o život prišiel 21-ročný spolujazdec",
+      "link": "https://www.trnavak.sk/clanky/11605/tragicke-rano-na-cestach-v-dunajskostredskom-okrese-o-zivot-prisiel-21-rocny-spolujazdec-potvrdila-sa-pritomnost-drog",
+      "time": "2026-08-02T08:34:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk"
+    },
+    {
+      "title": "Polícia pátra po 39-ročnom Igorovi Bečárovi zo Šale, nezvestný je od soboty",
+      "link": "https://www.nitrak.sk/clanky/11408/igor-zo-sale-je-od-soboty-nezvestny-patra-po-nom-policia-nevideli-ste-ho",
+      "time": "2026-08-02T08:30:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk"
+    },
+    {
+      "title": "Tisíce obyvateľov evakuujú pre šíriace sa lesné požiare v USA",
+      "link": "https://www.aktuality.sk/clanok/LiLBHNw/tisice-obyvatelov-evakuuju-pre-siriace-sa-lesne-poziare-v-usa/",
+      "time": "2026-08-02T08:13:04+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "aktuality.sk"
+    },
+    {
+      "title": "Požiar lesa pri Radzovciach: v okrese Lučenec zasahuje 40 hasičov",
+      "link": "https://www.bystricak.sk/clanky/12546/video-v-lese-pri-obci-v-okrese-lucenec-vznikol-poziar-smerovalo-k-nemu-40-hasicov",
+      "time": "2026-08-02T07:57:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk"
+    },
+    {
+      "title": "Pri čelnej zrážke v obci Biel zomreli dvaja ľudia, štyria sú v nemocnici",
+      "link": "https://www.kosicak.sk/clanky/13511/video-tragicka-dopravna-nehoda-v-okrese-trebisov-sofer-a-spolujazdec-zahynuli-styri-osoby-skoncili-v-nemocnici",
+      "time": "2026-08-02T07:16:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk"
+    },
+    {
+      "title": "Stredoveké hostince, ktoré fungujú dodnes: Jeden z najslávnejších je na Slovensku",
+      "link": "https://www1.pluska.sk/spravy/stredoveke-hostince-ktore-funguju-dodnes-jeden-z-najslavnejsich-je-na-slovensku",
+      "time": "2026-08-02T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "www1.pluska.sk"
+    },
+    {
+      "title": "AKTUÁLNE Obrovská tragédia: Pri Očovej havarovalo malé lietadlo, zomreli traja ľudia",
+      "link": "https://www1.pluska.sk/krimi/aktualne-obrovska-tragedia-pri-ocovej-havarovalo-male-lietadlo-zomreli-traja-ludia",
+      "time": "2026-08-02T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "www1.pluska.sk"
+    },
+    {
+      "title": "Slovinsko zachvátili plamene: Hasiči bojujú s lesným požiarom",
+      "link": "https://www1.pluska.sk/spravy/slovinsko-zachvatili-plamene-hasici-bojuju-s-lesnym-poziarom",
+      "time": "2026-08-02T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
       "src": "www1.pluska.sk"
     }
   ]

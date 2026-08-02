@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T18:42:06.689627+00:00",
+  "generated_at": "2026-08-02T18:49:50.860947+00:00",
   "max_age_hours": 12,
   "count": 15,
   "items": [
@@ -15,7 +15,7 @@
       "title": "VÝSTRAHA PRED POVODŇAMI: SHMÚ upozorňuje na búrky a intenzívne zrážky",
       "link": "https://www.teraz.sk/slovensko/vystraha-pred-povodnami-shmu-upozorn/982186-clanok.html",
       "time": "2026-08-02T15:24:00+00:00",
-      "cat": "nehoda",
+      "cat": "burka",
       "region": null,
       "src": "teraz.sk"
     },
@@ -76,14 +76,6 @@
       "src": "nitrak.sk"
     },
     {
-      "title": "Socha plačúcej matky v Žiline má po požiari nové miesto na cintoríne Bôrik",
-      "link": "https://www.zilinak.sk/clanky/42029/sochu-placucej-matky-presunuli-v-ziline-na-nove-miesto-po-poziari-ju-zachranili-restauratori",
-      "time": "2026-08-02T10:00:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk"
-    },
-    {
       "title": "SHMÚ varuje pred búrkami v časti Žilinského kraja, horúčavy trvajú",
       "link": "https://www.zilinak.sk/clanky/42066/tieto-okresy-v-zilinskom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende",
       "time": "2026-08-02T09:11:00+00:00",
@@ -122,6 +114,14 @@
       "cat": "patranie",
       "region": "nitriansky",
       "src": "nitrak.sk"
+    },
+    {
+      "title": "Pri čelnej zrážke v obci Biel zomreli dvaja ľudia, štyria sú v nemocnici",
+      "link": "https://www.kosicak.sk/clanky/13511/video-tragicka-dopravna-nehoda-v-okrese-trebisov-sofer-a-spolujazdec-zahynuli-styri-osoby-skoncili-v-nemocnici",
+      "time": "2026-08-02T07:16:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk"
     }
   ]
 }

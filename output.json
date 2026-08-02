@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T18:49:50.860947+00:00",
+  "generated_at": "2026-08-02T19:18:32.280067+00:00",
   "max_age_hours": 12,
-  "count": 15,
+  "count": 14,
   "items": [
     {
       "title": "EXTRÉMNE HORÚČAVY: Výstrahy pred teplotami sa týkajú juhu a juhozápadu",
@@ -9,7 +9,8 @@
       "time": "2026-08-02T17:18:00+00:00",
       "cat": "poziar",
       "region": null,
-      "src": "teraz.sk"
+      "src": "teraz.sk",
+      "image": null
     },
     {
       "title": "VÝSTRAHA PRED POVODŇAMI: SHMÚ upozorňuje na búrky a intenzívne zrážky",
@@ -17,7 +18,8 @@
       "time": "2026-08-02T15:24:00+00:00",
       "cat": "burka",
       "region": null,
-      "src": "teraz.sk"
+      "src": "teraz.sk",
+      "image": null
     },
     {
       "title": "Požiar na železničnej trati pri Rači prerušil dopravu, obyvateľov mestskej časti znepokojil šíriaci sa dym",
@@ -25,7 +27,8 @@
       "time": "2026-08-02T14:24:00+00:00",
       "cat": "poziar",
       "region": "bratislavsky",
-      "src": "bratislavak.sk"
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1785680563-obyvatelov-race-vystrasil-husty-siriaci-sa-dym-ake-ma-vysvetlenie.webp"
     },
     {
       "title": "Na vjazde do Popradu zo Svitu došlo k nehode, osobné auto skončilo na streche. Blokovaný je pravý jazdný pruh",
@@ -33,7 +36,8 @@
       "time": "2026-08-02T14:10:00+00:00",
       "cat": "nehoda",
       "region": "presovsky",
-      "src": "presovak.sk"
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1785679837-na-vjazde-do-popradu-zo-svitu-doslo-k-nehode-osobne-auto-skoncilo-na-streche-blokovany-je-pravy-jazdny-pruh.webp"
     },
     {
       "title": "NEHODA PRI ROŽŇAVE: Zrážku s autom neprežil chodec",
@@ -41,7 +45,8 @@
       "time": "2026-08-02T12:16:00+00:00",
       "cat": "nehoda",
       "region": "kosicky",
-      "src": "teraz.sk"
+      "src": "teraz.sk",
+      "image": null
     },
     {
       "title": "TRAGICKÁ NEHODA: V obci Biel prišli o život dvaja ľudia",
@@ -49,7 +54,8 @@
       "time": "2026-08-02T11:34:00+00:00",
       "cat": "nehoda",
       "region": "kosicky",
-      "src": "teraz.sk"
+      "src": "teraz.sk",
+      "image": null
     },
     {
       "title": "Pri páde lietadla v Očovej zahynuli traja ľudia, za pilotom smúti kamarát",
@@ -57,7 +63,8 @@
       "time": "2026-08-02T11:10:00+00:00",
       "cat": "nehoda",
       "region": "banskobystricky",
-      "src": "bystricak.sk"
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1785681300-aktualizovane-po-havarii-maleho-lietadla-v-ocovej-zahynuli-tri-osoby-vratane-4rocneho-chlapca-pozname-kto-bol-pilot.webp"
     },
     {
       "title": "Policajti z Lipian počas búrky spriechodňovali cestu, obyvateľka ich ocenila",
@@ -65,7 +72,8 @@
       "time": "2026-08-02T11:00:00+00:00",
       "cat": "burka",
       "region": "presovsky",
-      "src": "presovak.sk"
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1785160721-policajti-z-lipian-pomahali-pocas-silnej-burky-obyvatelka-im-dakuje-za-ludsky-pristup.webp"
     },
     {
       "title": "Požiar pri Leviciach zasiahol 13 hektárov územia, nasadili naň 12 kusov hasičskej techniky",
@@ -73,7 +81,8 @@
       "time": "2026-08-02T10:00:00+00:00",
       "cat": "poziar",
       "region": "nitriansky",
-      "src": "nitrak.sk"
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1785658817-foto-v-obci-pri-leviciach-plamene-pohltili-priblizne-13-hektarov-suchecho-porastu-zasahovali-viacere-hasicske-jednotky.webp"
     },
     {
       "title": "SHMÚ varuje pred búrkami v časti Žilinského kraja, horúčavy trvajú",
@@ -81,7 +90,8 @@
       "time": "2026-08-02T09:11:00+00:00",
       "cat": "burka",
       "region": "zilinsky",
-      "src": "zilinak.sk"
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1785661917-tieto-okresy-v-zilinskom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende.webp"
     },
     {
       "title": "SHMÚ varuje pred búrkami v štyroch krajoch, horúčavy neustúpia",
@@ -89,7 +99,8 @@
       "time": "2026-08-02T09:07:00+00:00",
       "cat": "burka",
       "region": "banskobystricky",
-      "src": "bystricak.sk"
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1785661967-tieto-styri-okresy-v-banskobystrickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende.webp"
     },
     {
       "title": "SHMÚ varuje pred búrkami v okresoch stredného a východného Slovenska",
@@ -97,7 +108,8 @@
       "time": "2026-08-02T09:04:00+00:00",
       "cat": "burka",
       "region": "presovsky",
-      "src": "presovak.sk"
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1785661426-tento-okres-v-presovskom-kraji-by-sa-mal-pripravit-na-burky-horucavy-v-presovskom-kraji-neutichnu-ani-po-vikende.webp"
     },
     {
       "title": "V okrese Dunajská Streda došlo k tragickej nehode, o život prišiel 21-ročný spolujazdec",
@@ -105,7 +117,8 @@
       "time": "2026-08-02T08:34:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
-      "src": "trnavak.sk"
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1785659665-tragicke-rano-na-cestach-v-dunajskostredskom-okrese-o-zivot-prisiel-21rocny-spolujazdec-potvrdila-sa-pritomnost-drog.webp"
     },
     {
       "title": "Polícia pátra po 39-ročnom Igorovi Bečárovi zo Šale, nezvestný je od soboty",
@@ -113,15 +126,8 @@
       "time": "2026-08-02T08:30:00+00:00",
       "cat": "patranie",
       "region": "nitriansky",
-      "src": "nitrak.sk"
-    },
-    {
-      "title": "Pri čelnej zrážke v obci Biel zomreli dvaja ľudia, štyria sú v nemocnici",
-      "link": "https://www.kosicak.sk/clanky/13511/video-tragicka-dopravna-nehoda-v-okrese-trebisov-sofer-a-spolujazdec-zahynuli-styri-osoby-skoncili-v-nemocnici",
-      "time": "2026-08-02T07:16:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk"
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1785657527-igor-zo-sale-je-od-soboty-nezvestny-patra-po-nom-policia-nevideli-ste-ho.webp"
     }
   ]
 }

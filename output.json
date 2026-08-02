@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T15:43:19.264854+00:00",
+  "generated_at": "2026-08-02T18:37:56.740212+00:00",
   "max_age_hours": 12,
-  "count": 16,
+  "count": 12,
   "items": [
     {
       "title": "Požiar na železničnej trati pri Rači prerušil dopravu, obyvateľov mestskej časti znepokojil šíriaci sa dym",
@@ -18,6 +18,22 @@
       "cat": "nehoda",
       "region": "presovsky",
       "src": "presovak.sk"
+    },
+    {
+      "title": "NEHODA PRI ROŽŇAVE: Zrážku s autom neprežil chodec",
+      "link": "https://www.teraz.sk/regiony/nehoda-pri-roznave-zrazku-s-autom-n/982161-clanok.html",
+      "time": "2026-08-02T12:16:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "teraz.sk"
+    },
+    {
+      "title": "TRAGICKÁ NEHODA: V obci Biel prišli o život dvaja ľudia",
+      "link": "https://www.teraz.sk/regiony/tragicka-nehoda-v-obci-biel-prisli-o/982097-clanok.html",
+      "time": "2026-08-02T11:34:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "teraz.sk"
     },
     {
       "title": "Pri páde lietadla v Očovej zahynuli traja ľudia, za pilotom smúti kamarát",
@@ -44,30 +60,6 @@
       "src": "nitrak.sk"
     },
     {
-      "title": "Socha plačúcej matky v Žiline má po požiari nové miesto na cintoríne Bôrik",
-      "link": "https://www.zilinak.sk/clanky/42029/sochu-placucej-matky-presunuli-v-ziline-na-nove-miesto-po-poziari-ju-zachranili-restauratori",
-      "time": "2026-08-02T10:00:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk"
-    },
-    {
-      "title": "Pri Veľatoch sa zrazili dve autá, štyria ľudia sa zranili",
-      "link": "https://www.kosicak.sk/clanky/13513/foto-medzi-obcami-v-trebisovskom-okrese-sa-zrazili-dve-auta-styri-osoby-sa-zranili-prejazd-je-obmedzeny",
-      "time": "2026-08-02T09:45:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk"
-    },
-    {
-      "title": "Tragická noc pri Trebišove. V obci Biel sa čelne zrazili dve autá, dvaja ľudia neprežili",
-      "link": "https://www.aktuality.sk/clanok/mbZfYCi/tragicka-noc-pri-trebisove-v-obci-biel-sa-celne-zrazili-dve-auta-dvaja-ludia-neprezili/",
-      "time": "2026-08-02T09:25:41+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "aktuality.sk"
-    },
-    {
       "title": "SHMÚ varuje pred búrkami v časti Žilinského kraja, horúčavy trvajú",
       "link": "https://www.zilinak.sk/clanky/42066/tieto-okresy-v-zilinskom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende",
       "time": "2026-08-02T09:11:00+00:00",
@@ -82,14 +74,6 @@
       "cat": "burka",
       "region": "banskobystricky",
       "src": "bystricak.sk"
-    },
-    {
-      "title": "SHMÚ varuje pred nedeľnými búrkami, horúčavy po víkende nepoľavia",
-      "link": "https://www.kosicak.sk/clanky/13512/tieto-dva-okresy-v-kosickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende",
-      "time": "2026-08-02T09:05:00+00:00",
-      "cat": "burka",
-      "region": "kosicky",
-      "src": "kosicak.sk"
     },
     {
       "title": "SHMÚ varuje pred búrkami v okresoch stredného a východného Slovenska",
@@ -114,22 +98,6 @@
       "cat": "patranie",
       "region": "nitriansky",
       "src": "nitrak.sk"
-    },
-    {
-      "title": "Tisíce obyvateľov evakuujú pre šíriace sa lesné požiare v USA",
-      "link": "https://www.aktuality.sk/clanok/LiLBHNw/tisice-obyvatelov-evakuuju-pre-siriace-sa-lesne-poziare-v-usa/",
-      "time": "2026-08-02T08:13:04+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "aktuality.sk"
-    },
-    {
-      "title": "Požiar lesa pri Radzovciach: v okrese Lučenec zasahuje 40 hasičov",
-      "link": "https://www.bystricak.sk/clanky/12546/video-v-lese-pri-obci-v-okrese-lucenec-vznikol-poziar-smerovalo-k-nemu-40-hasicov",
-      "time": "2026-08-02T07:57:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk"
     }
   ]
 }

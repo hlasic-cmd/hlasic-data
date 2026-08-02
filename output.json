@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T19:18:32.280067+00:00",
+  "generated_at": "2026-08-02T20:01:40.865411+00:00",
   "max_age_hours": 12,
   "count": 14,
   "items": [
@@ -67,15 +67,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1785681300-aktualizovane-po-havarii-maleho-lietadla-v-ocovej-zahynuli-tri-osoby-vratane-4rocneho-chlapca-pozname-kto-bol-pilot.webp"
     },
     {
-      "title": "Policajti z Lipian počas búrky spriechodňovali cestu, obyvateľka ich ocenila",
-      "link": "https://www.presovak.sk/clanky/14715/policajti-z-lipian-pomahali-pocas-silnej-burky-obyvatelka-im-dakuje-za-ludsky-pristup",
-      "time": "2026-08-02T11:00:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1785160721-policajti-z-lipian-pomahali-pocas-silnej-burky-obyvatelka-im-dakuje-za-ludsky-pristup.webp"
-    },
-    {
       "title": "Požiar pri Leviciach zasiahol 13 hektárov územia, nasadili naň 12 kusov hasičskej techniky",
       "link": "https://www.nitrak.sk/clanky/11409/foto-v-obci-pri-leviciach-plamene-pohltili-priblizne-13-hektarov-suchecho-porastu-zasahovali-viacere-hasicske-jednotky",
       "time": "2026-08-02T10:00:00+00:00",
@@ -101,6 +92,15 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1785661967-tieto-styri-okresy-v-banskobystrickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende.webp"
+    },
+    {
+      "title": "SHMÚ varuje pred nedeľnými búrkami, horúčavy po víkende nepoľavia",
+      "link": "https://www.kosicak.sk/clanky/13512/tieto-dva-okresy-v-kosickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende",
+      "time": "2026-08-02T09:05:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1785662020-tieto-dva-okresy-v-kosickom-kraji-by-sa-mali-pripravit-na-burky-horucavy-neutichnu-ani-po-vikende.webp"
     },
     {
       "title": "SHMÚ varuje pred búrkami v okresoch stredného a východného Slovenska",

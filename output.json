@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-08-02T18:37:56.740212+00:00",
+  "generated_at": "2026-08-02T18:42:06.689627+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 15,
   "items": [
+    {
+      "title": "EXTRÉMNE HORÚČAVY: Výstrahy pred teplotami sa týkajú juhu a juhozápadu",
+      "link": "https://www.teraz.sk/slovensko/extremne-horucavy-vystrahy-pred-tep/982207-clanok.html",
+      "time": "2026-08-02T17:18:00+00:00",
+      "cat": "poziar",
+      "region": null,
+      "src": "teraz.sk"
+    },
+    {
+      "title": "VÝSTRAHA PRED POVODŇAMI: SHMÚ upozorňuje na búrky a intenzívne zrážky",
+      "link": "https://www.teraz.sk/slovensko/vystraha-pred-povodnami-shmu-upozorn/982186-clanok.html",
+      "time": "2026-08-02T15:24:00+00:00",
+      "cat": "nehoda",
+      "region": null,
+      "src": "teraz.sk"
+    },
     {
       "title": "Požiar na železničnej trati pri Rači prerušil dopravu, obyvateľov mestskej časti znepokojil šíriaci sa dym",
       "link": "https://www.bratislavak.sk/clanky/14778/obyvatelov-race-vystrasil-husty-siriaci-sa-dym-ake-ma-vysvetlenie",
@@ -58,6 +74,14 @@
       "cat": "poziar",
       "region": "nitriansky",
       "src": "nitrak.sk"
+    },
+    {
+      "title": "Socha plačúcej matky v Žiline má po požiari nové miesto na cintoríne Bôrik",
+      "link": "https://www.zilinak.sk/clanky/42029/sochu-placucej-matky-presunuli-v-ziline-na-nove-miesto-po-poziari-ju-zachranili-restauratori",
+      "time": "2026-08-02T10:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk"
     },
     {
       "title": "SHMÚ varuje pred búrkami v časti Žilinského kraja, horúčavy trvajú",

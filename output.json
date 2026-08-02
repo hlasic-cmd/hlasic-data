@@ -1,31 +1,15 @@
 {
-  "generated_at": "2026-08-01T21:40:19.484246+00:00",
+  "generated_at": "2026-08-02T07:25:28.189678+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 1,
   "items": [
     {
-      "title": "Leto, aké si krajina nepamätá. Na Slovensku opäť padla štyridsiatka, nedeľa prinesie aj búrky",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2017107-leto-ake-si-krajina-nepamata-na-slovensku-opat-padla-styridsiatka?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-01T14:13:26+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk"
-    },
-    {
-      "title": "Polícia pátra po 38-ročnom Brunovi Catumbelovi z okresu Košice-okolie, nezvestný je od soboty",
-      "link": "https://www.kosicak.sk/clanky/13509/bruno-z-okresu-kosice-okolie-je-nezvestny-patra-po-nom-policia-zvykne-so-sebou-nosit-cierny-ruksak-nevideli-ste-ho",
-      "time": "2026-08-01T13:00:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk"
-    },
-    {
-      "title": "V Trebišove opravia havarijný nadjazd, zmluva s dodávateľom je už podpísaná",
-      "link": "https://korzar.sme.sk/zemplin/c/v-trebisove-opravia-havarijny-nadjazd-zmluva-s-dodavatelom-je-uz-podpisana?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-01T10:47:57+00:00",
+      "title": "Tragická nehoda v obci Biel: Dvaja mŕtvi, ďalší sú zranení",
+      "link": "https://www1.pluska.sk/krimi/tragicka-nehoda-v-obci-biel-dvaja-mrtvi-dalsi-su-zraneni",
+      "time": "2026-08-02T00:00:00+00:00",
       "cat": "nehoda",
       "region": "kosicky",
-      "src": "korzar.sme.sk"
+      "src": "www1.pluska.sk"
     }
   ]
 }

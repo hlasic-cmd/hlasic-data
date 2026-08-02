@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-08-02T11:44:20.232677+00:00",
+  "generated_at": "2026-08-02T15:43:19.264854+00:00",
   "max_age_hours": 12,
-  "count": 18,
+  "count": 16,
   "items": [
     {
-      "title": "Pri Očovej sa zrútilo malé lietadlo, po páde do firmy sú traja mŕtvi",
-      "link": "https://www.bystricak.sk/clanky/12548/aktualizovane-pri-ocovej-havarovalo-male-lietadlo-dopadlo-do-arealu-miestneho-podniku-hlasia-troch-mrtvych",
+      "title": "Požiar na železničnej trati pri Rači prerušil dopravu, obyvateľov mestskej časti znepokojil šíriaci sa dym",
+      "link": "https://www.bratislavak.sk/clanky/14778/obyvatelov-race-vystrasil-husty-siriaci-sa-dym-ake-ma-vysvetlenie",
+      "time": "2026-08-02T14:24:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk"
+    },
+    {
+      "title": "Na vjazde do Popradu zo Svitu došlo k nehode, osobné auto skončilo na streche. Blokovaný je pravý jazdný pruh",
+      "link": "https://www.presovak.sk/clanky/14812/na-vjazde-do-popradu-zo-svitu-doslo-k-nehode-osobne-auto-skoncilo-na-streche-blokovany-je-pravy-jazdny-pruh",
+      "time": "2026-08-02T14:10:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk"
+    },
+    {
+      "title": "Pri páde lietadla v Očovej zahynuli traja ľudia, za pilotom smúti kamarát",
+      "link": "https://www.bystricak.sk/clanky/12548/aktualizovane-po-havarii-maleho-lietadla-v-ocovej-zahynuli-tri-osoby-vratane-4-rocneho-chlapca-pozname-kto-bol-pilot",
       "time": "2026-08-02T11:10:00+00:00",
       "cat": "nehoda",
       "region": "banskobystricky",
@@ -114,38 +130,6 @@
       "cat": "poziar",
       "region": "banskobystricky",
       "src": "bystricak.sk"
-    },
-    {
-      "title": "Pri čelnej zrážke v obci Biel zomreli dvaja ľudia, štyria sú v nemocnici",
-      "link": "https://www.kosicak.sk/clanky/13511/video-tragicka-dopravna-nehoda-v-okrese-trebisov-sofer-a-spolujazdec-zahynuli-styri-osoby-skoncili-v-nemocnici",
-      "time": "2026-08-02T07:16:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk"
-    },
-    {
-      "title": "Stredoveké hostince, ktoré fungujú dodnes: Jeden z najslávnejších je na Slovensku",
-      "link": "https://www1.pluska.sk/spravy/stredoveke-hostince-ktore-funguju-dodnes-jeden-z-najslavnejsich-je-na-slovensku",
-      "time": "2026-08-02T00:00:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "www1.pluska.sk"
-    },
-    {
-      "title": "AKTUÁLNE Obrovská tragédia: Pri Očovej havarovalo malé lietadlo, zomreli traja ľudia",
-      "link": "https://www1.pluska.sk/krimi/aktualne-obrovska-tragedia-pri-ocovej-havarovalo-male-lietadlo-zomreli-traja-ludia",
-      "time": "2026-08-02T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "www1.pluska.sk"
-    },
-    {
-      "title": "Slovinsko zachvátili plamene: Hasiči bojujú s lesným požiarom",
-      "link": "https://www1.pluska.sk/spravy/slovinsko-zachvatili-plamene-hasici-bojuju-s-lesnym-poziarom",
-      "time": "2026-08-02T00:00:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "www1.pluska.sk"
     }
   ]
 }

@@ -167,7 +167,7 @@ def guess_region(text):
     return None
 
 
-def fetch_feed(url, fixed_region=None, force_category=None, skip_age_filter=False):
+def fetch_feed(url, fixed_region=None, force_category=None, skip_age_filter=False, assume_slovak=False):
     items = []
     try:
         resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
@@ -206,7 +206,7 @@ def fetch_feed(url, fixed_region=None, force_category=None, skip_age_filter=Fals
         # v zahraničí a pod.) — namiesto vymenovávania cudzích krajín vyžadujeme
         # POZITÍVNY slovenský signál: buď sme uhádli konkrétny kraj, alebo text
         # priamo spomína Slovensko.
-        if fixed_region is None and force_category is None:
+        if fixed_region is None and force_category is None and not assume_slovak:
             if region is None:
                 continue  # bez rozpoznaného konkrétneho slovenského miesta/kraja -> zahodíme
 
@@ -234,8 +234,9 @@ def main():
         time.sleep(0.3)
 
     print("--- Celoslovenské zdroje ---")
+    TRUSTED_SLOVAK_FEEDS = {"https://www.teraz.sk/rss/slovensko.rss"}
     for url in NATIONAL_FEEDS:
-        found = fetch_feed(url, fixed_region=None)
+        found = fetch_feed(url, fixed_region=None, assume_slovak=(url in TRUSTED_SLOVAK_FEEDS))
         print(f"{url}: {len(found)} relevantných článkov")
         all_items.extend(found)
         time.sleep(0.3)

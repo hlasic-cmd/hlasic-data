@@ -1,43 +1,115 @@
 {
-  "generated_at": "2026-08-04T08:01:51.249257+00:00",
+  "generated_at": "2026-08-04T16:21:43.609102+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 12,
   "items": [
     {
-      "title": "FOTO: Požiar v Dolnom Badíne mohol napáchať oveľa väčšie škody",
-      "link": "https://www.bystricak.sk/clanky/12568/foto-velky-poziar-pri-krupine-plamene-zachvatili-sennik-hasici-zabranili-este-vacsim-skodam",
-      "time": "2026-08-04T07:42:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1785829165-foto-velky-poziar-pri-krupine-plamene-zachvatili-sennik-hasici-zabranili-este-vacsim-skodam.webp"
+      "title": "Policajti z Nových Zámkov pomohli nezvestnej seniorke z Palárikova, našli ju dezorientovanú",
+      "link": "https://www.nitrak.sk/clanky/11441/policajti-z-novych-zamkov-pomohli-nezvestnej-dezorientovanej-seniorke-z-palarikova-na-pomoc-jej-prisli-aj-zachranari",
+      "time": "2026-08-04T15:50:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1785856397-policajti-z-novych-zamkov-pomohli-nezvestnej-dezorientovanej-seniorke-z-palarikova-na-pomoc-jej-prisli-aj-zachranari.webp"
     },
     {
-      "title": "Nočný požiar pri Kútoch: Spôsobil škodu 20.000 eur",
-      "link": "https://www.teraz.sk/regiony/nocny-poziar-pri-kutoch-sposobil-/982533-clanok.html",
-      "time": "2026-08-04T07:17:00+00:00",
+      "title": "Požiar na cintoríne v Petrovanoch poškodil hrob. Obec prosí ľudí, aby počas horúčav nezapaľovali sviečky",
+      "link": "https://www.presovak.sk/clanky/14838/foto-na-cintorine-v-petrovanoch-vypukol-poziar-obec-vyzyva-ludi-aby-pocas-horucav-nezapalovali-sviecky",
+      "time": "2026-08-04T15:20:00+00:00",
       "cat": "poziar",
-      "region": "bratislavsky",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1785854159-foto-na-cintorine-v-petrovanoch-vypukol-poziar-obec-vyzyva-ludi-aby-pocas-horucav-nezapalovali-sviecky.webp"
+    },
+    {
+      "title": "Muža na stanici v Trenčíne zrazil rušeň. Polícia ukázala zábery nehody",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2018605-muza-na-stanici-v-trencine-zrazil-rusen-policia-ukazala-zabery-nehody?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-04T14:06:50+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/04/2514225/4x3-medium/rusen.jpg?v=mwI"
+    },
+    {
+      "title": "Košice varujú pred požiarmi. V lesoch platí zákaz zakladania ohňa aj fajčenia",
+      "link": "https://korzar.sme.sk/kosice/c/kosice-varuju-pred-poziarmi-v-lesoch-plati-zakaz-zakladania-ohna-aj-fajcenia?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-04T14:02:28+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/1ef874eb-2964-6c76-8d51-0fa2bd34e0f3.jpg"
+    },
+    {
+      "title": "Nehoda sanitky a auta pri Žiari n. Hronom si vyžiadala päť zranených",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2018593-nehoda-sanitky-a-auta-si-vyziadala-pat-zranenych?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-04T14:01:37+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/04/2514223/4x3-medium/nehoda.jpg?v=CBw"
+    },
+    {
+      "title": "Z luxusného kúpaliska je ruina. Majiteľ reaguje sporadicky, obec mu posiela výzvy na úhradu daní",
+      "link": "https://korzar.sme.sk/kosice/c/z-luxusneho-kupaliska-je-ruina-majitel-reaguje-sporadicky-obec-mu-posiela-vyzvy-na-uhradu-dani?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-04T13:47:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/1ef8932c-4759-6ccc-b3d3-c7c4f903a104.jpg"
+    },
+    {
+      "title": "Košice pripomínajú povinnosti o ochrane pred vznikom požiarov",
+      "link": "https://www.teraz.sk/regiony/mesto-kosice-pripomina-povinnosti-o-oc/982708-clanok.html",
+      "time": "2026-08-04T13:36:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Diaľnica D1 na Považí je pre nehodu uzavretá",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2018197-dialnica-d1-na-povazi-je-pre-nehodu-uzavreta?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-04T07:11:39+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/04/2513899/4x3-medium/nehoda.jpg?v=E9w"
+      "title": "Dve pátrania v Banskobystrickom kraji. Nezvestné sú Simona z Brezna a Natália z Krupiny",
+      "link": "https://www.bystricak.sk/clanky/12578/policia-patra-po-dvoch-nezvestnych-zenach-z-banskobystrickeho-kraja-ak-ste-ich-videli-ozvite-sa",
+      "time": "2026-08-04T13:30:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1785846474-policia-patra-po-dvoch-nezvestnych-zenach-z-banskobystrickeho-kraja-ak-ste-ich-videli-ozvite-sa.webp"
     },
     {
-      "title": "Pozor, na D1 pri Považskej Bystrici sa stala nehoda dodávky a kamiónu, diaľnica je uzavretá",
-      "link": "https://www.trencinak.sk/clanky/13268/vodici-pozor-d1-pri-povazskej-bystrici-je-pre-vaznu-nehodu-uzavreta-aktualne-je-nutne-pouzit-obchadzky",
-      "time": "2026-08-04T06:10:00+00:00",
+      "title": "Únava a mikrospánok pravdepodobne spôsobili nehodu dodávky s kamiónom na D1 pri Považskej Bystrici",
+      "link": "https://www.trencinak.sk/clanky/13277/foto-pricinou-nehody-na-d1-pri-povazskej-mal-byt-mikrospanok-spolujazdca-previezli-do-nemocnice-vrtulnikom",
+      "time": "2026-08-04T13:00:00+00:00",
       "cat": "nehoda",
       "region": "trenciansky",
       "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1785823812-vodici-pozor-d1-pri-povazskej-bystrici-je-pre-vaznu-nehodu-uzavreta-aktualne-je-nutne-pouzit-obchadzky.webp"
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1785844093-foto-pricinou-nehody-na-d1-pri-povazskej-mal-byt-mikrospanok-spolujazdca-previezli-do-nemocnice-vrtulnikom.webp"
+    },
+    {
+      "title": "Most Pod Hrádkom v Prešove zbúrajú. Nahradí ho nový most za takmer 683-tisíc eur",
+      "link": "https://www.presovak.sk/clanky/14837/foto-zacina-sa-obnova-mosta-pod-hradkom-solivar-caka-priblizne-pol-roka-dopravnych-obmedzeni",
+      "time": "2026-08-04T12:59:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1785848374-foto-zacina-sa-obnova-mosta-pod-hradkom-solivar-caka-priblizne-pol-roka-dopravnych-obmedzeni.webp"
+    },
+    {
+      "title": "Polícia žiada o pomoc pri pátraní po 14-ročnom chlapcovi a 38-ročnej žene",
+      "link": "https://www.bratislavak.sk/clanky/14809/policia-v-bratislave-patra-po-troch-nezvestnych-osobach-hladaju-14-rocneho-chlapca-23-rocneho-muza-aj-38-rocnu-zenu",
+      "time": "2026-08-04T12:20:00+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1785841639-policia-v-bratislave-patra-po-troch-nezvestnych-osobach-hladaju-14rocneho-chlapca-23rocneho-muza-aj-38rocnu-zenu.webp"
+    },
+    {
+      "title": "EXTRÉMNE TEPLO: Záchranári zasahovali pri 80 kolapsoch",
+      "link": "https://www.teraz.sk/slovensko/os-zzs-eviduje-za-pondelok-80-vyjazdov/982599-clanok.html",
+      "time": "2026-08-04T09:25:00+00:00",
+      "cat": "zasah",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
     }
   ]
 }

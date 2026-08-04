@@ -1,97 +1,43 @@
 {
-  "generated_at": "2026-08-03T22:18:17.878560+00:00",
+  "generated_at": "2026-08-04T08:01:51.249257+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 4,
   "items": [
     {
-      "title": "D1 smerom do Bratislavy je po hromadnej nehode opäť prejazdná",
-      "link": "https://www.teraz.sk/regiony/na-d1-smerom-do-bratislavy-doslo-k-hrom/982452-clanok.html",
-      "time": "2026-08-03T19:42:00+00:00",
-      "cat": "nehoda",
+      "title": "FOTO: Požiar v Dolnom Badíne mohol napáchať oveľa väčšie škody",
+      "link": "https://www.bystricak.sk/clanky/12568/foto-velky-poziar-pri-krupine-plamene-zachvatili-sennik-hasici-zabranili-este-vacsim-skodam",
+      "time": "2026-08-04T07:42:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1785829165-foto-velky-poziar-pri-krupine-plamene-zachvatili-sennik-hasici-zabranili-este-vacsim-skodam.webp"
+    },
+    {
+      "title": "Nočný požiar pri Kútoch: Spôsobil škodu 20.000 eur",
+      "link": "https://www.teraz.sk/regiony/nocny-poziar-pri-kutoch-sposobil-/982533-clanok.html",
+      "time": "2026-08-04T07:17:00+00:00",
+      "cat": "poziar",
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Pri Čachticiach sa prevrátil traktor. Zasahoval aj vrtuľník",
-      "link": "https://www.trencinak.sk/clanky/13267/mlady-vodic-traktora-pri-cachticiach-sa-prevratil-pri-zvazani-dreva-do-nemocnice-ho-musel-previezt-vrtulnik",
-      "time": "2026-08-03T17:46:00+00:00",
-      "cat": "zasah",
+      "title": "Diaľnica D1 na Považí je pre nehodu uzavretá",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2018197-dialnica-d1-na-povazi-je-pre-nehodu-uzavreta?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-04T07:11:39+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/04/2513899/4x3-medium/nehoda.jpg?v=E9w"
+    },
+    {
+      "title": "Pozor, na D1 pri Považskej Bystrici sa stala nehoda dodávky a kamiónu, diaľnica je uzavretá",
+      "link": "https://www.trencinak.sk/clanky/13268/vodici-pozor-d1-pri-povazskej-bystrici-je-pre-vaznu-nehodu-uzavreta-aktualne-je-nutne-pouzit-obchadzky",
+      "time": "2026-08-04T06:10:00+00:00",
+      "cat": "nehoda",
       "region": "trenciansky",
       "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1785779173-mlady-vodic-traktora-pri-cachticiach-sa-prevratil-pri-zvazani-dreva-do-nemocnice-ho-musel-previezt-vrtulnik.webp"
-    },
-    {
-      "title": "Pri nehode v okrese Čadca sa zranilo päť osôb",
-      "link": "https://www.aktuality.sk/clanok/QAtDiBI/pri-nehode-v-okrese-cadca-sa-zranilo-pat-osob/",
-      "time": "2026-08-03T17:38:49+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/dopravn-nehoda-v-katastri-obce-sta-kov-okres-adca/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/mtzktkpTURBXy83MmU2ZTRiNTc1MmVhMmEwMWU5Y2ZlMGM2MWQxNjVmZi5qcGeSlQMAS80GQ80DhZUCzQfQAMLD?st=-r4mLh9Gv0xxkT61LFZ_DPiLwu7hL0XX38GvGNtZ8lY&amp;ts=1785794400&amp;e=0"
-    },
-    {
-      "title": "Nehoda taxíka v Staškove: Zranilo sa päť ľudí vrátane malého dieťaťa",
-      "link": "https://www.zilinak.sk/clanky/42092/foto-zranene-bolo-aj-male-dieta-na-kysuciach-sa-zrazil-taxik-s-dalsimi-dvoma-autami",
-      "time": "2026-08-03T16:35:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1785775063-foto-zranene-bolo-aj-male-dieta-na-kysuciach-sa-zrazil-taxik-s-dalsimi-dvoma-autami.webp"
-    },
-    {
-      "title": "FOTO: Hromadná nehoda ochromila D1 smerom do Bratislavy. Zasahoval aj vrtuľník",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2017987-foto-hromadna-nehoda-ochromila-d1-smerom-do-bratislavy-zasahuje-aj-vrtulnik-dopravu-odklanaju-pri-senci?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-03T16:13:37+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/03/2513797/4x3-medium/nehoda-d1.jpg?v=T/w"
-    },
-    {
-      "title": "Na D1 v smere do Bratislavy došlo k hromadnej nehode, dopravu odkláňali",
-      "link": "https://www.aktuality.sk/clanok/a7T9i6E/na-d1-v-smere-do-bratislavy-doslo-k-hromadnej-nehode-dopravu-odklanali/",
-      "time": "2026-08-03T16:12:50+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/hromadn-nehoda-na-d1-pred-bratislavou/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/042ktkpTURBXy82NjBjZGQwZDJjNTQxMTg2NDI0OGQ4MzgzOTBlOTZmZC5qcGeSlQMAGc0H0M0EZZUCzQfQAMLD?st=XGAP59-R83KWnJ8qYalyfwG2QtwOXLIVntxqwEyZpus&amp;ts=1785794400&amp;e=0"
-    },
-    {
-      "title": "Hromadná nehoda na D1. Na mieste zasahuje aj vrtuľník",
-      "link": "https://www.bratislavak.sk/clanky/14800/na-d1-smerom-na-bratislavu-sa-zrazilo-niekolko-aut-na-mieste-pristal-vrtulnik-dopravu-odklanaju",
-      "time": "2026-08-03T16:09:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1785773393-na-d1-smerom-na-bratislavu-sa-zrazilo-niekolko-aut-na-mieste-pristal-vrtulnik-dopravu-odklanaju.webp"
-    },
-    {
-      "title": "Vo Vysokých Tatrách sa tvoria búrky. Po nich čaká Prešovský kraj niekoľko horúcich dní",
-      "link": "https://www.presovak.sk/clanky/14826/v-presovskom-kraji-dnes-este-hrozia-burky-od-utorka-dorazia-extremne-horucavy",
-      "time": "2026-08-03T15:20:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1785768489-v-presovskom-kraji-dnes-este-hrozia-burky-od-utorka-dorazia-extremne-horucavy.webp"
-    },
-    {
-      "title": "Zvýšené riziko vzniku požiarov vyhlásili hasiči na väčšine Slovenska",
-      "link": "https://www.teraz.sk/slovensko/zvysene-riziko-vzniku-poziarov-vyhl/982420-clanok.html",
-      "time": "2026-08-03T14:12:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Krajský súd: 15-ročný Ír obvinený po nehode v Čunove do väzby nepôjde",
-      "link": "https://www.bratislavak.sk/clanky/14794/len-15-rocny-mladik-ktory-na-bmw-v-cunove-smrtelne-zrazil-cyklistu-a-usiel-do-vazby-nepojde",
-      "time": "2026-08-03T11:20:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1785755729-len-15rocny-mladik-ktory-na-bmw-v-cunove-smrtelne-zrazil-cyklistu-a-usiel-do-vazby-nepojde.webp"
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1785823812-vodici-pozor-d1-pri-povazskej-bystrici-je-pre-vaznu-nehodu-uzavreta-aktualne-je-nutne-pouzit-obchadzky.webp"
     }
   ]
 }

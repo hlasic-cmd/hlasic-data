@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T20:55:18.889904+00:00",
+  "generated_at": "2026-08-05T00:17:29.464375+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 8,
   "items": [
     {
       "title": "Pri Nových Zámkoch horela skládka, zasahovalo 30 hasičov",
@@ -74,15 +74,6 @@
       "region": "kosicky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Most Pod Hrádkom v Prešove zbúrajú. Nahradí ho nový most za takmer 683-tisíc eur",
-      "link": "https://www.presovak.sk/clanky/14837/foto-zacina-sa-obnova-mosta-pod-hradkom-solivar-caka-priblizne-pol-roka-dopravnych-obmedzeni",
-      "time": "2026-08-04T12:59:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1785848374-foto-zacina-sa-obnova-mosta-pod-hradkom-solivar-caka-priblizne-pol-roka-dopravnych-obmedzeni.webp"
     }
   ]
 }

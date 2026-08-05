@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-08-05T16:21:57.702383+00:00",
+  "generated_at": "2026-08-05T20:46:08.338432+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 8,
   "items": [
+    {
+      "title": "Pozor na nehodu pri Veľkej Domaši, blokuje smer na Stropkov",
+      "link": "https://www.presovak.sk/clanky/14857/pri-stropkove-sa-stala-nehoda-premavka-v-useku-je-ciastocne-obmedzena",
+      "time": "2026-08-05T16:46:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Polícia pátra po nezvestnom 28-ročnom Pavlovi z okresu Piešťany, ak ste ho videli, kontaktujte políciu",
+      "link": "https://www.trnavak.sk/clanky/11659/pomozte-ho-najst-policia-patra-po-nezvestnom-28-rocnom-pavlovi-z-okresu-piestany",
+      "time": "2026-08-05T16:21:00+00:00",
+      "cat": "patranie",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1785946917-pomozte-ho-najst-policia-patra-po-nezvestnom-28rocnom-pavlovi-z-okresu-piestany.webp"
+    },
+    {
+      "title": "Vo štvrtok má byť opäť horúco, niekde však hrozia búrky",
+      "link": "https://www.teraz.sk/slovensko/vo-stvrtok-ma-byt-opat-horuco-nie/983023-clanok.html",
+      "time": "2026-08-05T16:08:00+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Policajt Ján z Kysúc, ktorý zahynul pri nehode, mal poslednú rozlúčku",
       "link": "https://www.zilinak.sk/clanky/42137/kysuce-sa-lucili-s-policajtom-janom-ktory-zahynul-pri-nehode-hold-mu-vzdala-aj-prezidentka-maskarova",
@@ -22,31 +49,13 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
     },
     {
-      "title": "Slovensko sužuje vlna extrémnych horúčav, rýchlo rastie aj riziko požiarov v suchu",
-      "link": "https://www.aktuality.sk/clanok/lBPWuRO/slovensko-suzuje-vlna-extremnych-horucav-rychlo-rastie-aj-riziko-poziarov-v-suchu/",
-      "time": "2026-08-05T14:06:39+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/teplomer-ukazuje-teplotu-vy-e-40-stup-ov-celzia-v-bratislavskej-vrakuni/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/inJktkpTURBXy8zNDZkZWJmMWY5NmM2MTEyNzU4YTUxY2FjYjA2MjIwZi5qcGeSlQMAzIzNEZTNCeOVAs0H0ADCww?st=rRpxUB_JOYfVHZDexPTCrcKQFWymaJWP4Sj-zlQGdEA&amp;ts=1785880800&amp;e=0"
-    },
-    {
-      "title": "Prišli nové informácie o nezvestnej Simone. Polícia zverejnila výzvu verejnosti",
-      "link": "https://www.bystricak.sk/clanky/12590/patranie-po-simone-pokracuje-mlada-zena-z-okresu-brezno-moze-byt-v-ohrozeni-trpi-epilepsiou-a-odisla-bez-liekov",
-      "time": "2026-08-05T12:20:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1785931561-patranie-po-simone-pokracuje-mlada-zena-z-okresu-brezno-moze-byt-v-ohrozeni-trpi-epilepsiou-a-odisla-bez-liekov.webp"
-    },
-    {
-      "title": "Vážna nehoda pri Kysuckom Novom Meste: Pri Nesluši sa čelne zrazili autá",
-      "link": "https://www.zilinak.sk/clanky/42132/vazna-nehoda-pri-neslusi-dve-auta-sa-celne-zrazili-zasahovali-zachranne-zlozky",
-      "time": "2026-08-05T12:07:00+00:00",
+      "title": "Trnovské esíčko čaká veľká prestavba. Cesta sa rozšíri, pribudne aj chodník",
+      "link": "https://www.zilinak.sk/clanky/42139/koniec-nehod-na-nebezpecnom-trnovskom-esicku-projekt-za-17-miliona-umozni-rozsirenie-cesty",
+      "time": "2026-08-05T14:30:00+00:00",
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1785941818-vazna-nehoda-pri-neslusi-dve-auta-sa-celne-zrazili-zasahovali-zachranne-zlozky.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1785949095-koniec-nehod-na-nebezpecnom-trnovskom-esicku-projekt-za-17-miliona-umozni-rozsirenie-cesty.webp"
     },
     {
       "title": "POŽIARE: Hasiči evidujú zvýšený počet, hrozia i ďalšie",
@@ -58,33 +67,6 @@
       "image": null
     },
     {
-      "title": "Vraky áut vzbĺkli, oheň sa rozšíril až na kukuričné pole. Rozsiahly požiar v Dunajskej Lužnej hasili celé hodiny",
-      "link": "https://www.trnavak.sk/clanky/11648/foto-rozsiahly-poziar-dal-zabrat-hasicov-z-trnavskeho-i-bratislavskeho-kraja-plamene-sa-sirili-aj-k-rodinnym-domom",
-      "time": "2026-08-05T11:45:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1785926183-foto-rozsiahly-poziar-dal-zabrat-hasicov-z-trnavskeho-i-bratislavskeho-kraja-plamene-sa-sirili-aj-k-rodinnym-domom.webp"
-    },
-    {
-      "title": "Policajní potápači cvičili na Oravskej priehrade. Pomáhal im podvodný dron",
-      "link": "https://www.zilinak.sk/clanky/42126/foto-vedeli-ste-ze-policajti-vyuzivaju-aj-podvodny-dron-takto-prebiehal-vycvik-na-oravskej-priehrade",
-      "time": "2026-08-05T11:00:00+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1785924980-foto-vedeli-ste-ze-policajti-vyuzivaju-aj-podvodny-dron-takto-prebiehal-vycvik-na-oravskej-priehrade.webp"
-    },
-    {
-      "title": "Letecký deň v Martine priláka tisíce ľudí. Vrcholom bude vládny Airbus A319",
-      "link": "https://www.zilinak.sk/clanky/42124/lietadla-vrtulniky-aj-vladny-airbus-letecky-den-pri-martine-opat-prilaka-tisice-navstevnikov",
-      "time": "2026-08-05T10:15:00+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1785921450-lietadla-vrtulniky-aj-vladny-airbus-letecky-den-pri-martine-opat-prilaka-tisice-navstevnikov.webp"
-    },
-    {
       "title": "Ostal z neho kabriolet. Kamión narazil do Prístavného mosta",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2019053-ostal-z-neho-kabriolet-kamion-narazil-do-pristavneho-mosta?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-05T09:02:40+00:00",
@@ -92,15 +74,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/05/2514507/4x3-medium/kamion.jpg?v=bVI"
-    },
-    {
-      "title": "Prevrátené auto a štyria zranení: Hlavný ťah pri Trebišove je neprejazdný",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2019037-prevratene-auto-a-styria-zraneni-hlavny-tah-pri-trebisove-je-neprejazdny?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-05T08:44:13+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/05/2514501/4x3-medium/nehoda-dopravna-trebisov-auto-prevratene.jpg?v=eTo"
     }
   ]
 }

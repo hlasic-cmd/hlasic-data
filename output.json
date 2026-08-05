@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T20:46:08.338432+00:00",
+  "generated_at": "2026-08-05T23:43:21.290823+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 6,
   "items": [
     {
       "title": "Pozor na nehodu pri Veľkej Domaši, blokuje smer na Stropkov",
@@ -40,15 +40,6 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1785937689-kysuce-sa-lucili-s-policajtom-janom-ktory-zahynul-pri-nehode-hold-mu-vzdala-aj-prezidentka-maskarova.webp"
     },
     {
-      "title": "Neďaleko Nových Zámkoch sa stala nehoda, dopravu riadi polícia",
-      "link": "https://www.nitrak.sk/clanky/11454/pri-novych-zamkoch-doslo-k-nehode-premavku-riadi-policia",
-      "time": "2026-08-05T14:39:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
-    },
-    {
       "title": "Trnovské esíčko čaká veľká prestavba. Cesta sa rozšíri, pribudne aj chodník",
       "link": "https://www.zilinak.sk/clanky/42139/koniec-nehod-na-nebezpecnom-trnovskom-esicku-projekt-za-17-miliona-umozni-rozsirenie-cesty",
       "time": "2026-08-05T14:30:00+00:00",
@@ -65,15 +56,6 @@
       "region": null,
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Ostal z neho kabriolet. Kamión narazil do Prístavného mosta",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2019053-ostal-z-neho-kabriolet-kamion-narazil-do-pristavneho-mosta?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-05T09:02:40+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/05/2514507/4x3-medium/kamion.jpg?v=bVI"
     }
   ]
 }

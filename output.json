@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T18:01:29.130863+00:00",
+  "generated_at": "2026-08-07T20:05:46.584793+00:00",
   "max_age_hours": 12,
-  "count": 17,
+  "count": 15,
   "items": [
     {
       "title": "Podozrivé radary, požiar v Slovnafte aj spor učiteľov s ministrom Druckerom (denný výber)",
@@ -11,15 +11,6 @@
       "region": "nitriansky",
       "src": "aktuality.sk",
       "image": "https://img.aktuality.sk/foto/denn-v-ber-spr-v-07-08-2026/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/J1fktktTURBXy9iMDE1MzUzYS02ZWY3LTQ3NWQtODAyZi1iZjQwOWY2NjY3NGIucG5nkZUCzQfQAMLD?st=o4TDzbrBErnm8BV7prZVJsl-11qyav3-OKO4KkFKc_4&amp;ts=1786053600&amp;e=0"
-    },
-    {
-      "title": "Rimavskú Sobotu zasiahla silná búrka, hasiči mali plné ruky práce s popadanými stromami",
-      "link": "https://www.aktuality.sk/clanok/KaTGZPl/rimavsku-sobotu-zasiahla-silna-burka-hasici-mali-plne-ruky-prace-s-popadanymi-stromami/",
-      "time": "2026-08-07T15:54:46+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/ilustra-n-sn-mka/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/7nZktkpTURBXy82ODJiZDM2MGFmMWU0Y2Y1YjU0ZTZhNGVlNDQ2YjVhNS5qcGeSlQMAzIzNEZTNCeOVAs0H0ADCww?st=l7p9k7MsyRxOOTt8uxLPXr8N-zTx2qpsu_Oao04xprs&amp;ts=1786053600&amp;e=0"
     },
     {
       "title": "Pri práci s lisovacím strojom sa v Gajaroch vážne zranil muž, zasahoval vrtuľník",
@@ -76,15 +67,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Hollen hlási druhú stratu v krátkom čase, pri nehode zomrel David Kolner",
-      "link": "https://www.bratislavak.sk/clanky/14863/obrovska-rana-pre-bratislavsku-firmu-len-niekolko-dni-po-umrti-zakladatela-zomrel-pri-nehode-dalsi-ich-kolega",
-      "time": "2026-08-07T14:00:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786100079-obrovska-rana-pre-bratislavsku-firmu-len-niekolko-dni-po-umrti-zakladatela-zomrel-pri-nehode-dalsi-ich-kolega.webp"
-    },
-    {
       "title": "POŽIAR V SLOVNAFTE: Došlo k narušeniu jednej z nádrží",
       "link": "https://www.teraz.sk/slovensko/poziar-v-slovnafte-hori-ropny-produk/983467-clanok.html",
       "time": "2026-08-07T13:46:00+00:00",
@@ -94,31 +76,13 @@
       "image": null
     },
     {
-      "title": "Žilinský kraj je v červenej zóne. Hasiči vyzývajú, aby ste sa vyhli opekačkám v prírode",
-      "link": "https://www.zilinak.sk/clanky/42169/v-celom-zilinskom-kraji-platia-prisne-zakazy-zakladania-ohna-hasici-varuju-pred-poziarmi",
-      "time": "2026-08-07T13:30:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786104829-v-celom-zilinskom-kraji-platia-prisne-zakazy-zakladania-ohna-hasici-varuju-pred-poziarmi.webp"
-    },
-    {
-      "title": "Ministerstvo vnútra posiela prvé príspevky poškodeným obyvateľom Zemplína",
-      "link": "https://www.kosicak.sk/clanky/13607/po-burkach-na-zempline-vyplaca-stat-prve-prispevky-poskodenym-obyvatelom-problemom-vsak-ostava-azbest",
-      "time": "2026-08-07T13:10:00+00:00",
+      "title": "Na východe udreli silné búrky",
+      "link": "https://www.kosicak.sk/clanky/13608/video-na-vychode-udreli-silne-burky-auta-sa-brodili-zaplavenymi-ulicami-hrozili-aj-privalove-povodne",
+      "time": "2026-08-07T12:50:00+00:00",
       "cat": "burka",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786104807-po-burkach-na-zempline-vyplaca-stat-prve-prispevky-poskodenym-obyvatelom-problemom-vsak-ostava-azbest.webp"
-    },
-    {
-      "title": "Pri Myjave horel ovocný sad, požiar ohrozoval aj blízke budovy",
-      "link": "https://www.trencinak.sk/clanky/13326/foto-pri-myjave-doslo-k-masivnemu-poziaru-ovocneho-sadu-hrozilo-jeho-rozsirenie-na-blizke-budovy-hasili-aj-miestni",
-      "time": "2026-08-07T12:30:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786102270-foto-pri-myjave-doslo-k-masivnemu-poziaru-ovocneho-sadu-hrozilo-jeho-rozsirenie-na-blizke-budovy-hasili-aj-miestni.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786110155-video-na-vychode-udreli-silne-burky-auta-sa-brodili-zaplavenymi-ulicami-hrozili-aj-privalove-povodne.webp"
     },
     {
       "title": "Slovnaftom otriasol výbuch, nasledoval požiar.  Obyvateľom bolo odporučené nevetrať",
@@ -128,6 +92,15 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/07/2515871/4x3-medium/poziar-slovnaft-dym.jpg?v=q0U"
+    },
+    {
+      "title": "Prívalové dažde zaplavili Vysoké Tatry, voda sa valila ulicami",
+      "link": "https://www.presovak.sk/clanky/14892/video-tatry-ostali-po-burke-pod-vodou-po-extremnych-privalovych-zrazkach-sa-ulicami-valila-voda",
+      "time": "2026-08-07T12:18:00+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786110242-video-tatry-ostali-po-burke-pod-vodou-po-extremnych-privalovych-zrazkach-sa-ulicami-valila-voda.webp"
     },
     {
       "title": "V niektorých okresoch Slovenska zvýšili výstrahu pred teplom",
@@ -146,6 +119,15 @@
       "region": null,
       "src": "teraz.sk",
       "image": null
+    },
+    {
+      "title": "Na kúpalisku v Dolnej Strehovej zasahovali záchranári. Zraneného chlapca mal odviezť vrtuľník",
+      "link": "https://www.bystricak.sk/clanky/12616/zasah-vrtulnika-na-kupalisku-v-dolnej-strehovej-vyvolal-obavy-chlapca-s-urazom-hlavy-previezli-do-nemocnice",
+      "time": "2026-08-07T10:24:00+00:00",
+      "cat": "zasah",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786097649-zasah-vrtulnika-na-kupalisku-v-dolnej-strehovej-vyvolal-obavy-chlapca-s-urazom-hlavy-previezli-do-nemocnice.webp"
     },
     {
       "title": "Plamene v modranskom byte napáchali škody, majiteľ sa snažil nábytok hasiť sám",

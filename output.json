@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T20:05:46.584793+00:00",
+  "generated_at": "2026-08-07T22:07:46.797954+00:00",
   "max_age_hours": 12,
-  "count": 15,
+  "count": 12,
   "items": [
     {
       "title": "Podozrivé radary, požiar v Slovnafte aj spor učiteľov s ministrom Druckerom (denný výber)",
@@ -10,16 +10,7 @@
       "cat": "poziar",
       "region": "nitriansky",
       "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/denn-v-ber-spr-v-07-08-2026/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/J1fktktTURBXy9iMDE1MzUzYS02ZWY3LTQ3NWQtODAyZi1iZjQwOWY2NjY3NGIucG5nkZUCzQfQAMLD?st=o4TDzbrBErnm8BV7prZVJsl-11qyav3-OKO4KkFKc_4&amp;ts=1786053600&amp;e=0"
-    },
-    {
-      "title": "Pri práci s lisovacím strojom sa v Gajaroch vážne zranil muž, zasahoval vrtuľník",
-      "link": "https://www.bratislavak.sk/clanky/14868/pri-praci-s-lisovacim-strojom-sa-v-gajaroch-vazne-zranil-muz-zasahoval-vrtulnik",
-      "time": "2026-08-07T15:50:00+00:00",
-      "cat": "zasah",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+      "image": "https://img.aktuality.sk/foto/denn-v-ber-spr-v-07-08-2026/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/J1fktktTURBXy9iMDE1MzUzYS02ZWY3LTQ3NWQtODAyZi1iZjQwOWY2NjY3NGIucG5nkZUCzQfQAMLD?st=qIx1ShT2PnI4xg6Eck4rfqp0Tz22zO4B4U9FbXkSDiU&amp;ts=1786140000&amp;e=0"
     },
     {
       "title": "Rimavskú Sobotu a okolie zasiahla silná búrka, padali stromy",
@@ -38,15 +29,6 @@
       "region": "presovsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Opitý motorkár bez vodičáku havaroval v Turčianskych Tepliciach, zranil spolujazdca",
-      "link": "https://www.zilinak.sk/clanky/42187/foto-opity-motorkar-bez-vodicaku-sa-v-turci-zrazil-s-nakladiakom-zranil-tym-svojho-spolujazdca",
-      "time": "2026-08-07T15:01:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786114896-foto-opity-motorkar-bez-vodicaku-sa-v-turci-zrazil-s-nakladiakom-zranil-tym-svojho-spolujazdca.webp"
     },
     {
       "title": "Z extrému do extrému. Po horúčavách udreli silné búrky, Tatry zaliala voda",
@@ -128,15 +110,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786097649-zasah-vrtulnika-na-kupalisku-v-dolnej-strehovej-vyvolal-obavy-chlapca-s-urazom-hlavy-previezli-do-nemocnice.webp"
-    },
-    {
-      "title": "Plamene v modranskom byte napáchali škody, majiteľ sa snažil nábytok hasiť sám",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2020299-plamene-v-modranskom-byte-napachali-skody-majitel-sa-snazil-nabytok-hasit-sam?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-07T08:06:20+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/07/2515663/4x3-medium/poziar-byt-modra-balkon.jpg?v=D+M"
     }
   ]
 }

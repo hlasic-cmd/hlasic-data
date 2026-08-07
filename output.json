@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-08-07T06:01:34.820320+00:00",
+  "generated_at": "2026-08-07T09:37:13.481171+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 7,
   "items": [
+    {
+      "title": "V Banskobystrickom kraji sa pripravte na prehánky a búrky",
+      "link": "https://www.bystricak.sk/clanky/12611/po-rekordnych-teplotach-prichadza-citelne-ochladenie-burky-zasiahnu-najma-stredne-slovensko",
+      "time": "2026-08-07T08:40:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786088064-po-rekordnych-teplotach-prichadza-citelne-ochladenie-burky-zasiahnu-najma-stredne-slovensko.webp"
+    },
+    {
+      "title": "Plamene v modranskom byte napáchali škody, majiteľ sa snažil nábytok hasiť sám",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2020299-plamene-v-modranskom-byte-napachali-skody-majitel-sa-snazil-nabytok-hasit-sam?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-07T08:06:20+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/07/2515663/4x3-medium/poziar-byt-modra-balkon.jpg?v=D+M"
+    },
+    {
+      "title": "Byt v Modre zachvátil požiar, hasiči evakuovali 14 ľudí",
+      "link": "https://www.bratislavak.sk/clanky/14856/foto-poziar-bytu-v-modre-majitel-bojoval-s-plamenmi-sam-hasici-evakuovali-14-ludi",
+      "time": "2026-08-07T07:50:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786088078-foto-poziar-bytu-v-modre-majitel-bojoval-s-plamenmi-sam-hasici-evakuovali-14-ludi.webp"
+    },
+    {
+      "title": "Pátrajú po 20-ročnej Adele z Púchova: Videli ste ju?",
+      "link": "https://www.trencinak.sk/clanky/13318/hlada-sa-nezvestna-mlada-zena-z-puchova-pomozte-policii-s-patranim-po-adele",
+      "time": "2026-08-07T07:30:00+00:00",
+      "cat": "patranie",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786083068-hlada-sa-nezvestna-mlada-zena-z-puchova-pomozte-policii-s-patranim-po-adele.webp"
+    },
+    {
+      "title": "Dážď, na ktorý Trnava dlho čakala. Prudká búrka priniesla úľavu aj problémy",
+      "link": "https://www.trnavak.sk/clanky/11685/video-trnavou-sa-vo-stvrtok-prehnala-intenzivna-burka-vietor-narobil-skody-no-dazd-priniesol-aj-pozitiva",
+      "time": "2026-08-07T06:35:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786083906-video-trnavou-sa-vo-stvrtok-prehnala-intenzivna-burka-vietor-narobil-skody-no-dazd-priniesol-aj-pozitiva.webp"
+    },
+    {
+      "title": "Petície, blokády aj listy ministrom. Obchvat Krupiny už mal stáť, odpoveď diaľničiarov môže sklamať",
+      "link": "https://www.aktuality.sk/clanok/WOmmWP8/peticie-blokady-aj-listy-ministrom-obchvat-krupiny-uz-mal-stat-odpoved-dialniciarov-moze-sklamat/",
+      "time": "2026-08-07T06:00:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/v-avo-obyvatelia-mesta-po-as-blok-dy-cesty-1-66-v-krupine-14-septembra-2017-vpravo-n-sledky-dopravnej-nehody-z-konca-j-la-2026-v-krupine-pri-odbo-ke-na-erven-horu/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/7dqktkpTURBXy8xMmVjMzQ5NzllNWI0ZTg2MTE1OWI5OTczY2YzODdlYi5qcGeSlQMAAM0KAM0FoJUCzQfQAMLD?st=fdsnB6DA_u9j4Rbw7M94vi6ievoAgy0p_CAcU6m5fXA&amp;ts=1786053600&amp;e=0"
+    },
     {
       "title": "Slovenke počas nabíjania zhorel iPhone. Prišla o 10-tisíc fotografií, odborníci hovoria o šanci na záchranu",
       "link": "https://www.kosicak.sk/clanky/13529/vychodniarku-sany-zobudil-v-noci-dym-pocas-nabijania-jej-zacal-horiet-smartfon-prisla-tak-o-vsetky-spomienky",

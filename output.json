@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-08-07T09:37:13.481171+00:00",
+  "generated_at": "2026-08-07T12:01:17.079305+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 17,
   "items": [
+    {
+      "title": "V Bratislave sa šíri hustý čierny dym z požiaru",
+      "link": "https://www.aktuality.sk/clanok/kDeyS0A/v-bratislave-sa-siri-husty-cierny-dym-z-poziaru/",
+      "time": "2026-08-07T11:51:46+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/dym-z-po-iaru-v-bratislave/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/5JOktkqTURBXy82OWM1YTA3ZmI0OWQ1MmVlNmY0OWU0YmQ2NTkyZmRjZC5qcGVnkpUDAM0Fm80L0M0GpZUCzQfQAMLD?st=Cele6jC8wcOaFzMtJp-Q4IiGmHob9ya3xoJ4X0J1liM&amp;ts=1786053600&amp;e=0"
+    },
+    {
+      "title": "Na D1 smerom na Žilinu horí auto. Polícia hlási blokované pruhy a približne hodinové zdržanie",
+      "link": "https://www.zilinak.sk/clanky/42183/aktualne-na-d1-smerom-na-zilinu-hori-vozidlo-vodici-sa-zdrzia-priblizne-hodinu",
+      "time": "2026-08-07T11:43:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "POŽIAR PRI BRATISLAVE: Plamene pohltili skládku odpadu",
+      "link": "https://www.teraz.sk/regiony/poziar-pri-bratislave-plamene-pohltili/983441-clanok.html",
+      "time": "2026-08-07T11:18:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Počasie v Žilinskom kraji: SHMÚ vydal výstrahu pred búrkami, vrátia sa horúčavy",
+      "link": "https://www.zilinak.sk/clanky/42181/zilinsky-kraj-zasiahnu-burky-shmu-vydal-vystrahy-buduci-tyzden-sa-vratia-horucavy",
+      "time": "2026-08-07T11:01:00+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786098013-zilinsky-kraj-zasiahnu-burky-shmu-vydal-vystrahy-buduci-tyzden-sa-vratia-horucavy.webp"
+    },
+    {
+      "title": "V niektorých okresoch Slovenska zvýšili výstrahu pred teplom",
+      "link": "https://www.teraz.sk/slovensko/v-niektorych-okresoch-slovenska-zvysi/983431-clanok.html",
+      "time": "2026-08-07T10:56:00+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Tomaš: Takmer 200 domácností po búrkach dostane pomoc za 250.000 eur",
+      "link": "https://www.teraz.sk/slovensko/tomas-takmer-200-domacnosti-po-burk/983429-clanok.html",
+      "time": "2026-08-07T10:53:00+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Na kúpalisku v Dolnej Strehovej zasahovali záchranári. Zraneného chlapca mal odviezť vrtuľník",
+      "link": "https://www.bystricak.sk/clanky/12616/zasah-vrtulnika-na-kupalisku-v-dolnej-strehovej-vyvolal-obavy-chlapca-s-urazom-hlavy-previezli-do-nemocnice",
+      "time": "2026-08-07T10:24:00+00:00",
+      "cat": "zasah",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786097649-zasah-vrtulnika-na-kupalisku-v-dolnej-strehovej-vyvolal-obavy-chlapca-s-urazom-hlavy-previezli-do-nemocnice.webp"
+    },
+    {
+      "title": "Požiar v Lehnícach zasiahol dom aj hospodársku budovu, škoda sa odhadla na 40-tisíc eur",
+      "link": "https://www.trnavak.sk/clanky/11691/foto-masivny-poziar-pri-dunajskej-strede-pohltil-viacero-objektov-skody-sa-vysplhali-na-desattisice-eur",
+      "time": "2026-08-07T10:20:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786092123-foto-masivny-poziar-pri-dunajskej-strede-pohltil-viacero-objektov-skody-sa-vysplhali-na-desattisice-eur.webp"
+    },
+    {
+      "title": "Horúčavy vystriedajú búrky: Výstrahy vydali vo viacerých okresoch",
+      "link": "https://www.teraz.sk/slovensko/horucavy-vystriedaju-burky-vystrah/983403-clanok.html",
+      "time": "2026-08-07T09:55:00+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Pred tunelom Bôrik smerom na Poprad došlo k dopravnej nehode. Tunel je v danom smere uzatvorený",
+      "link": "https://www.presovak.sk/clanky/14888/pred-tunelom-borik-smerom-na-poprad-doslo-k-dopravnej-nehode-tunel-je-v-danom-smere-uzatvoreny",
+      "time": "2026-08-07T09:39:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786095554-pred-tunelom-borik-smerom-na-poprad-doslo-k-dopravnej-nehode-tunel-je-v-danom-smere-uzatvoreny.webp"
+    },
+    {
+      "title": "Z domu odišiel len v šľapkách. Polícia pátra po nezvestnom 61-ročnom mužovi z Turca",
+      "link": "https://www.zilinak.sk/clanky/42177/z-domu-odisiel-len-v-slapkach-policia-patra-po-nezvestnom-61-rocnom-muzovi-z-okresu-martin",
+      "time": "2026-08-07T09:33:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786091973-z-domu-odisiel-len-v-slapkach-policia-patra-po-nezvestnom-61rocnom-muzovi-z-okresu-martin.webp"
+    },
+    {
+      "title": "SHMÚ vydal pre sedem okresov Prešovského kraja výstrahy pred búrkami",
+      "link": "https://www.presovak.sk/clanky/14887/pozor-na-burky-a-privalove-povodne-meteorologovia-vydali-vystrahy-pre-presovsky-kraj",
+      "time": "2026-08-07T09:32:00+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786097450-pozor-na-burky-a-privalove-povodne-meteorologovia-vydali-vystrahy-pre-presovsky-kraj.webp"
+    },
     {
       "title": "V Banskobystrickom kraji sa pripravte na prehánky a búrky",
       "link": "https://www.bystricak.sk/clanky/12611/po-rekordnych-teplotach-prichadza-citelne-ochladenie-burky-zasiahnu-najma-stredne-slovensko",
@@ -47,24 +155,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786083906-video-trnavou-sa-vo-stvrtok-prehnala-intenzivna-burka-vietor-narobil-skody-no-dazd-priniesol-aj-pozitiva.webp"
-    },
-    {
-      "title": "Petície, blokády aj listy ministrom. Obchvat Krupiny už mal stáť, odpoveď diaľničiarov môže sklamať",
-      "link": "https://www.aktuality.sk/clanok/WOmmWP8/peticie-blokady-aj-listy-ministrom-obchvat-krupiny-uz-mal-stat-odpoved-dialniciarov-moze-sklamat/",
-      "time": "2026-08-07T06:00:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/v-avo-obyvatelia-mesta-po-as-blok-dy-cesty-1-66-v-krupine-14-septembra-2017-vpravo-n-sledky-dopravnej-nehody-z-konca-j-la-2026-v-krupine-pri-odbo-ke-na-erven-horu/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/7dqktkpTURBXy8xMmVjMzQ5NzllNWI0ZTg2MTE1OWI5OTczY2YzODdlYi5qcGeSlQMAAM0KAM0FoJUCzQfQAMLD?st=fdsnB6DA_u9j4Rbw7M94vi6ievoAgy0p_CAcU6m5fXA&amp;ts=1786053600&amp;e=0"
-    },
-    {
-      "title": "Slovenke počas nabíjania zhorel iPhone. Prišla o 10-tisíc fotografií, odborníci hovoria o šanci na záchranu",
-      "link": "https://www.kosicak.sk/clanky/13529/vychodniarku-sany-zobudil-v-noci-dym-pocas-nabijania-jej-zacal-horiet-smartfon-prisla-tak-o-vsetky-spomienky",
-      "time": "2026-08-07T05:40:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786025909-vychodniarku-sany-zobudil-v-noci-dym-pocas-nabijania-jej-zacal-horiet-smartfon-prisla-tak-o-vsetky-spomienky.webp"
     }
   ]
 }

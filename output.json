@@ -1,88 +1,25 @@
 {
-  "generated_at": "2026-08-06T09:51:28.350643+00:00",
+  "generated_at": "2026-08-07T01:44:46.467738+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 2,
   "items": [
     {
-      "title": "Do Trenčianskeho kraja mieri prudká zmena počasia, SHMÚ varuje obyvateľov",
-      "link": "https://www.trencinak.sk/clanky/13300/pozor-do-trencianskeho-kraja-mieria-burky-aj-narazovy-vietor-vytuzene-ochladenie-moze-priniest-nebezpecne-javy",
-      "time": "2026-08-06T09:10:00+00:00",
+      "title": "Slovensko čaká divoký večer: Horúčavy vystriedajú prudké búrky, hrozia krúpy aj prívalové povodne",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2020051-slovensko-caka-divoky-vecer-horucavy-vystriedaju-prudke-burky-hrozia-krupy-aj-privalove-povodne?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-06T17:10:00+00:00",
       "cat": "burka",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1785998160-pozor-do-trencianskeho-kraja-mieria-burky-aj-narazovy-vietor-vytuzene-ochladenie-moze-priniest-nebezpecne-javy.webp"
-    },
-    {
-      "title": "Požiar bytu v Trnave evakuoval 38 ľudí, škoda dosiahla 100-tisíc eur - FOTO",
-      "link": "https://sita.sk/poziar-bytu-v-trnave-evakuoval-38-ludi-skoda-dosiahla-100-tisic-eur-foto/",
-      "time": "2026-08-06T08:57:58+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/07/hasici-e1783170314198.jpg"
-    },
-    {
-      "title": "Lesy SR v tomto období evidujú viacero lesných požiarov",
-      "link": "https://www.teraz.sk/regiony/lesy-sr-v-tomto-obdobi-eviduju-viacero/983128-clanok.html",
-      "time": "2026-08-06T08:44:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Zdeno Chára mal nehodu na cyklotrase v púchovskom okrese. Do cesty mu vošiel bežec so slúchadlami",
-      "link": "https://www.trencinak.sk/clanky/13301/hokejova-legenda-zdeno-chara-mal-na-cyklotrase-nedaleko-trencina-nehodu-na-mieste-zasahovala-policia-aj-zachranari",
-      "time": "2026-08-06T08:20:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1785999762-hokejova-legenda-zdeno-chara-mal-na-cyklotrase-nedaleko-trencina-nehodu-na-mieste-zasahovala-policia-aj-zachranari.webp"
-    },
-    {
-      "title": "Dvojmetrová prívalová vlna pustošila Ždiar a okolie",
-      "link": "https://www.presovak.sk/clanky/14866/video-zdiar-zasiahla-niciva-privalova-vlna-strhavala-mosty-stromy-aj-protipovodnove-zabrany",
-      "time": "2026-08-06T08:10:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786001762-video-zdiar-zasiahla-niciva-privalova-vlna-strhavala-mosty-stromy-aj-protipovodnove-zabrany.webp"
-    },
-    {
-      "title": "Pri nočnom požiari bytu v Trnave sa tri osoby intoxikovali splodinami",
-      "link": "https://www.teraz.sk/regiony/pri-nocnom-poziari-bytu-v-trnave-sa-tr/983102-clanok.html",
-      "time": "2026-08-06T07:47:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Dráma v Trnave uprostred noci: Z horiaceho bytu sa valil dym, na mieste zasahovali hasiči",
-      "link": "https://www.trnavak.sk/clanky/11660/video-obyvatelov-trnavskeho-sidliska-v-noci-zobudil-zapach-a-plamene-v-prizemnom-byte-vypukol-poziar",
-      "time": "2026-08-06T06:40:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1785997981-video-obyvatelov-trnavskeho-sidliska-v-noci-zobudil-zapach-a-plamene-v-prizemnom-byte-vypukol-poziar.webp"
-    },
-    {
-      "title": "FOTO: Rozsiahly požiar pri Nových Zámkoch zasiahol 40 hektárov. Škody dosiahli 11-tisíc eur",
-      "link": "https://www.nitrak.sk/clanky/11457/foto-poziar-pri-novych-zamkoch-zasiahol-40-hektarov-zhorela-technika-aj-zvierata-skody-dosiahli-11-tisic-eur",
-      "time": "2026-08-06T06:40:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786002537-foto-poziar-pri-novych-zamkoch-zasiahol-40-hektarov-zhorela-technika-aj-zvierata-skody-dosiahli-11tisic-eur.webp"
-    },
-    {
-      "title": "Vlak zrazil muža v Liptovskom Mikuláši. S polytraumou ho previezol vrtuľník",
-      "link": "https://www.zilinak.sk/clanky/42141/vlak-na-liptove-zrazil-muza-v-kolajisku-nehodu-prezil-s-polytraumou-odviezol-ho-vrtulnik",
-      "time": "2026-08-06T05:40:00+00:00",
-      "cat": "nehoda",
       "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1785968518-vlak-na-liptove-zrazil-muza-v-kolajisku-nehodu-prezil-s-polytraumou-odviezol-ho-vrtulnik.webp"
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2018/06/06/4x3-medium/pocasie-silna-burka-v-hlavnom-meste_01.jpg?v=T/w"
+    },
+    {
+      "title": "Kedy bude pršať?  Staré mamy to vedeli podľa zvierat aj rosy",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2019667-dazd-zvierata-predkovia?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-06T14:00:20+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2024/12/16/4x3-medium/vlkolinec-dedina-priroda-mreporter.png?v=T/w"
     }
   ]
 }

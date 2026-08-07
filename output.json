@@ -1,16 +1,124 @@
 {
-  "generated_at": "2026-08-07T12:01:17.079305+00:00",
+  "generated_at": "2026-08-07T15:12:17.388696+00:00",
   "max_age_hours": 12,
-  "count": 17,
+  "count": 20,
   "items": [
     {
-      "title": "V Bratislave sa šíri hustý čierny dym z požiaru",
-      "link": "https://www.aktuality.sk/clanok/kDeyS0A/v-bratislave-sa-siri-husty-cierny-dym-z-poziaru/",
-      "time": "2026-08-07T11:51:46+00:00",
+      "title": "Nehoda dvoch áut zastavila premávku medzi Kozelníkom a Hronskou Breznicou",
+      "link": "https://www.bystricak.sk/clanky/12623/vazna-nehoda-medzi-kozelnikom-a-hronskou-breznicou-cesta-i51-je-uplne-uzavreta",
+      "time": "2026-08-07T14:11:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Hollen hlási druhú stratu v krátkom čase, pri nehode zomrel David Kolner",
+      "link": "https://www.bratislavak.sk/clanky/14863/obrovska-rana-pre-bratislavsku-firmu-len-niekolko-dni-po-umrti-zakladatela-zomrel-pri-nehode-dalsi-ich-kolega",
+      "time": "2026-08-07T14:00:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786100079-obrovska-rana-pre-bratislavsku-firmu-len-niekolko-dni-po-umrti-zakladatela-zomrel-pri-nehode-dalsi-ich-kolega.webp"
+    },
+    {
+      "title": "POŽIAR V SLOVNAFTE: Došlo k narušeniu jednej z nádrží",
+      "link": "https://www.teraz.sk/slovensko/poziar-v-slovnafte-hori-ropny-produk/983467-clanok.html",
+      "time": "2026-08-07T13:46:00+00:00",
       "cat": "poziar",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Žilinský kraj je v červenej zóne. Hasiči vyzývajú, aby ste sa vyhli opekačkám v prírode",
+      "link": "https://www.zilinak.sk/clanky/42169/v-celom-zilinskom-kraji-platia-prisne-zakazy-zakladania-ohna-hasici-varuju-pred-poziarmi",
+      "time": "2026-08-07T13:30:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786104829-v-celom-zilinskom-kraji-platia-prisne-zakazy-zakladania-ohna-hasici-varuju-pred-poziarmi.webp"
+    },
+    {
+      "title": "Hromadná nehoda piatich vozidiel blokuje pravý jazdný pruh D1 pri Bytči",
+      "link": "https://www.aktuality.sk/clanok/4Vq2l6q/hromadna-nehoda-piatich-vozidiel-blokuje-pravy-jazdny-pruh-d1-pri-bytci/",
+      "time": "2026-08-07T13:19:15+00:00",
+      "cat": "nehoda",
       "region": "bratislavsky",
       "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/dym-z-po-iaru-v-bratislave/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/5JOktkqTURBXy82OWM1YTA3ZmI0OWQ1MmVlNmY0OWU0YmQ2NTkyZmRjZC5qcGVnkpUDAM0Fm80L0M0GpZUCzQfQAMLD?st=Cele6jC8wcOaFzMtJp-Q4IiGmHob9ya3xoJ4X0J1liM&amp;ts=1786053600&amp;e=0"
+      "image": "https://img.aktuality.sk/foto/pol-cia-ilustra-n-foto/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/wiQktkpTURBXy8xYmY0NzkwMmNiMDc5NjgzYTc2ZTliODNmMzcxZmFjOC5qcGeSlQMAUs0QEs0JCpUCzQfQAMLD?st=iRmbNjjIZh64xExG_2UaZH7307JJOHVZII948oA9ryI&amp;ts=1786053600&amp;e=0"
+    },
+    {
+      "title": "Ministerstvo vnútra posiela prvé príspevky poškodeným obyvateľom Zemplína",
+      "link": "https://www.kosicak.sk/clanky/13607/po-burkach-na-zempline-vyplaca-stat-prve-prispevky-poskodenym-obyvatelom-problemom-vsak-ostava-azbest",
+      "time": "2026-08-07T13:10:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786104807-po-burkach-na-zempline-vyplaca-stat-prve-prispevky-poskodenym-obyvatelom-problemom-vsak-ostava-azbest.webp"
+    },
+    {
+      "title": "Na východe udreli silné búrky",
+      "link": "https://www.kosicak.sk/clanky/13608/video-na-vychode-udreli-silne-burky-auta-sa-brodili-zaplavenymi-ulicami-hrozili-aj-privalove-povodne",
+      "time": "2026-08-07T12:50:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786110155-video-na-vychode-udreli-silne-burky-auta-sa-brodili-zaplavenymi-ulicami-hrozili-aj-privalove-povodne.webp"
+    },
+    {
+      "title": "Pri Myjave horel ovocný sad, požiar ohrozoval aj blízke budovy",
+      "link": "https://www.trencinak.sk/clanky/13326/foto-pri-myjave-doslo-k-masivnemu-poziaru-ovocneho-sadu-hrozilo-jeho-rozsirenie-na-blizke-budovy-hasili-aj-miestni",
+      "time": "2026-08-07T12:30:00+00:00",
+      "cat": "poziar",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786102270-foto-pri-myjave-doslo-k-masivnemu-poziaru-ovocneho-sadu-hrozilo-jeho-rozsirenie-na-blizke-budovy-hasili-aj-miestni.webp"
+    },
+    {
+      "title": "V rybníku Zlatná v Kežmarku našli telo 39-ročného nezvestného muža",
+      "link": "https://www.presovak.sk/clanky/14893/tragicky-zaver-patrania-v-kezmarku-muza-nasli-v-miestnom-rybniku-bez-znamok-zivota",
+      "time": "2026-08-07T12:28:00+00:00",
+      "cat": "patranie",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786105624-tragicky-zaver-patrania-v-kezmarku-muza-nasli-v-miestnom-rybniku-bez-znamok-zivota.webp"
+    },
+    {
+      "title": "Slovnaftom otriasol výbuch, nasledoval požiar.  Obyvateľom bolo odporučené nevetrať",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2020481-v-slovnafte-hori-rafineriou-otriasol-vybuch-obyvatelom-nebezpecenstvo-nehrozi?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-07T12:18:28+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/07/2515871/4x3-medium/poziar-slovnaft-dym.jpg?v=q0U"
+    },
+    {
+      "title": "Prívalové dažde zaplavili Vysoké Tatry, voda sa valila ulicami",
+      "link": "https://www.presovak.sk/clanky/14892/video-tatry-ostali-po-burke-pod-vodou-po-extremnych-privalovych-zrazkach-sa-ulicami-valila-voda",
+      "time": "2026-08-07T12:18:00+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786110242-video-tatry-ostali-po-burke-pod-vodou-po-extremnych-privalovych-zrazkach-sa-ulicami-valila-voda.webp"
+    },
+    {
+      "title": "V Bratislave sa prevrátilo smetiarske auto",
+      "link": "https://www.teraz.sk/regiony/v-bratislave-sa-prevratilo-smetiarske-a/983460-clanok.html",
+      "time": "2026-08-07T12:08:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Nehoda na D1 pri Piešťanoch zablokovala dopravu, jedno z áut po nehode horí",
+      "link": "https://www.trnavak.sk/clanky/11696/na-dialnici-d1-v-trnavskom-kraji-po-kolizii-horelo-auto-na-mieste-zasahovali-zachranne-zlozky",
+      "time": "2026-08-07T11:52:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     },
     {
       "title": "Na D1 smerom na Žilinu horí auto. Polícia hlási blokované pruhy a približne hodinové zdržanie",
@@ -22,24 +130,6 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "POŽIAR PRI BRATISLAVE: Plamene pohltili skládku odpadu",
-      "link": "https://www.teraz.sk/regiony/poziar-pri-bratislave-plamene-pohltili/983441-clanok.html",
-      "time": "2026-08-07T11:18:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Počasie v Žilinskom kraji: SHMÚ vydal výstrahu pred búrkami, vrátia sa horúčavy",
-      "link": "https://www.zilinak.sk/clanky/42181/zilinsky-kraj-zasiahnu-burky-shmu-vydal-vystrahy-buduci-tyzden-sa-vratia-horucavy",
-      "time": "2026-08-07T11:01:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786098013-zilinsky-kraj-zasiahnu-burky-shmu-vydal-vystrahy-buduci-tyzden-sa-vratia-horucavy.webp"
-    },
-    {
       "title": "V niektorých okresoch Slovenska zvýšili výstrahu pred teplom",
       "link": "https://www.teraz.sk/slovensko/v-niektorych-okresoch-slovenska-zvysi/983431-clanok.html",
       "time": "2026-08-07T10:56:00+00:00",
@@ -49,7 +139,7 @@
       "image": null
     },
     {
-      "title": "Tomaš: Takmer 200 domácností po búrkach dostane pomoc za 250.000 eur",
+      "title": "Tomáš: Takmer 200 domácností po búrkach dostane pomoc za 250.000 eur",
       "link": "https://www.teraz.sk/slovensko/tomas-takmer-200-domacnosti-po-burk/983429-clanok.html",
       "time": "2026-08-07T10:53:00+00:00",
       "cat": "burka",
@@ -85,42 +175,6 @@
       "image": null
     },
     {
-      "title": "Pred tunelom Bôrik smerom na Poprad došlo k dopravnej nehode. Tunel je v danom smere uzatvorený",
-      "link": "https://www.presovak.sk/clanky/14888/pred-tunelom-borik-smerom-na-poprad-doslo-k-dopravnej-nehode-tunel-je-v-danom-smere-uzatvoreny",
-      "time": "2026-08-07T09:39:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786095554-pred-tunelom-borik-smerom-na-poprad-doslo-k-dopravnej-nehode-tunel-je-v-danom-smere-uzatvoreny.webp"
-    },
-    {
-      "title": "Z domu odišiel len v šľapkách. Polícia pátra po nezvestnom 61-ročnom mužovi z Turca",
-      "link": "https://www.zilinak.sk/clanky/42177/z-domu-odisiel-len-v-slapkach-policia-patra-po-nezvestnom-61-rocnom-muzovi-z-okresu-martin",
-      "time": "2026-08-07T09:33:00+00:00",
-      "cat": "patranie",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786091973-z-domu-odisiel-len-v-slapkach-policia-patra-po-nezvestnom-61rocnom-muzovi-z-okresu-martin.webp"
-    },
-    {
-      "title": "SHMÚ vydal pre sedem okresov Prešovského kraja výstrahy pred búrkami",
-      "link": "https://www.presovak.sk/clanky/14887/pozor-na-burky-a-privalove-povodne-meteorologovia-vydali-vystrahy-pre-presovsky-kraj",
-      "time": "2026-08-07T09:32:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786097450-pozor-na-burky-a-privalove-povodne-meteorologovia-vydali-vystrahy-pre-presovsky-kraj.webp"
-    },
-    {
-      "title": "V Banskobystrickom kraji sa pripravte na prehánky a búrky",
-      "link": "https://www.bystricak.sk/clanky/12611/po-rekordnych-teplotach-prichadza-citelne-ochladenie-burky-zasiahnu-najma-stredne-slovensko",
-      "time": "2026-08-07T08:40:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786088064-po-rekordnych-teplotach-prichadza-citelne-ochladenie-burky-zasiahnu-najma-stredne-slovensko.webp"
-    },
-    {
       "title": "Plamene v modranskom byte napáchali škody, majiteľ sa snažil nábytok hasiť sám",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2020299-plamene-v-modranskom-byte-napachali-skody-majitel-sa-snazil-nabytok-hasit-sam?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-07T08:06:20+00:00",
@@ -128,33 +182,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/07/2515663/4x3-medium/poziar-byt-modra-balkon.jpg?v=D+M"
-    },
-    {
-      "title": "Byt v Modre zachvátil požiar, hasiči evakuovali 14 ľudí",
-      "link": "https://www.bratislavak.sk/clanky/14856/foto-poziar-bytu-v-modre-majitel-bojoval-s-plamenmi-sam-hasici-evakuovali-14-ludi",
-      "time": "2026-08-07T07:50:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786088078-foto-poziar-bytu-v-modre-majitel-bojoval-s-plamenmi-sam-hasici-evakuovali-14-ludi.webp"
-    },
-    {
-      "title": "Pátrajú po 20-ročnej Adele z Púchova: Videli ste ju?",
-      "link": "https://www.trencinak.sk/clanky/13318/hlada-sa-nezvestna-mlada-zena-z-puchova-pomozte-policii-s-patranim-po-adele",
-      "time": "2026-08-07T07:30:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786083068-hlada-sa-nezvestna-mlada-zena-z-puchova-pomozte-policii-s-patranim-po-adele.webp"
-    },
-    {
-      "title": "Dážď, na ktorý Trnava dlho čakala. Prudká búrka priniesla úľavu aj problémy",
-      "link": "https://www.trnavak.sk/clanky/11685/video-trnavou-sa-vo-stvrtok-prehnala-intenzivna-burka-vietor-narobil-skody-no-dazd-priniesol-aj-pozitiva",
-      "time": "2026-08-07T06:35:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786083906-video-trnavou-sa-vo-stvrtok-prehnala-intenzivna-burka-vietor-narobil-skody-no-dazd-priniesol-aj-pozitiva.webp"
     }
   ]
 }

@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-07T16:25:47.442212+00:00",
+  "generated_at": "2026-08-07T18:01:29.130863+00:00",
   "max_age_hours": 12,
-  "count": 18,
+  "count": 17,
   "items": [
+    {
+      "title": "Podozrivé radary, požiar v Slovnafte aj spor učiteľov s ministrom Druckerom (denný výber)",
+      "link": "https://www.aktuality.sk/clanok/U5tUHSH/podozrive-radary-poziar-v-slovnafte-aj-spor-ucitelov-s-ministrom-druckerom-denny-vyber/",
+      "time": "2026-08-07T17:20:03+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/denn-v-ber-spr-v-07-08-2026/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/J1fktktTURBXy9iMDE1MzUzYS02ZWY3LTQ3NWQtODAyZi1iZjQwOWY2NjY3NGIucG5nkZUCzQfQAMLD?st=o4TDzbrBErnm8BV7prZVJsl-11qyav3-OKO4KkFKc_4&amp;ts=1786053600&amp;e=0"
+    },
     {
       "title": "Rimavskú Sobotu zasiahla silná búrka, hasiči mali plné ruky práce s popadanými stromami",
       "link": "https://www.aktuality.sk/clanok/KaTGZPl/rimavsku-sobotu-zasiahla-silna-burka-hasici-mali-plne-ruky-prace-s-popadanymi-stromami/",
@@ -103,15 +112,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786104807-po-burkach-na-zempline-vyplaca-stat-prve-prispevky-poskodenym-obyvatelom-problemom-vsak-ostava-azbest.webp"
     },
     {
-      "title": "Na východe udreli silné búrky",
-      "link": "https://www.kosicak.sk/clanky/13608/video-na-vychode-udreli-silne-burky-auta-sa-brodili-zaplavenymi-ulicami-hrozili-aj-privalove-povodne",
-      "time": "2026-08-07T12:50:00+00:00",
-      "cat": "burka",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786110155-video-na-vychode-udreli-silne-burky-auta-sa-brodili-zaplavenymi-ulicami-hrozili-aj-privalove-povodne.webp"
-    },
-    {
       "title": "Pri Myjave horel ovocný sad, požiar ohrozoval aj blízke budovy",
       "link": "https://www.trencinak.sk/clanky/13326/foto-pri-myjave-doslo-k-masivnemu-poziaru-ovocneho-sadu-hrozilo-jeho-rozsirenie-na-blizke-budovy-hasili-aj-miestni",
       "time": "2026-08-07T12:30:00+00:00",
@@ -128,15 +128,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/07/2515871/4x3-medium/poziar-slovnaft-dym.jpg?v=q0U"
-    },
-    {
-      "title": "Nehoda na D1 pri Piešťanoch zablokovala dopravu, jedno z áut po nehode horí",
-      "link": "https://www.trnavak.sk/clanky/11696/na-dialnici-d1-v-trnavskom-kraji-po-kolizii-horelo-auto-na-mieste-zasahovali-zachranne-zlozky",
-      "time": "2026-08-07T11:52:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     },
     {
       "title": "V niektorých okresoch Slovenska zvýšili výstrahu pred teplom",

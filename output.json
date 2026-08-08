@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-08T08:08:05.868969+00:00",
+  "generated_at": "2026-08-08T10:02:39.790965+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 10,
   "items": [
+    {
+      "title": "Požiar pri trati prerušil vlaky medzi hlavnou stanicou a Lamačom",
+      "link": "https://www.bratislavak.sk/clanky/14870/zeleznicna-doprava-v-bratislave-bola-prerusena-medzistatny-vlak-meskal-90-minut-co-bolo-za-mimoriadnou-situaciou",
+      "time": "2026-08-08T09:23:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786180986-zeleznicna-doprava-v-bratislave-bola-prerusena-medzistatny-vlak-meskal-90-minut-co-bolo-za-mimoriadnou-situaciou.webp"
+    },
+    {
+      "title": "Nehoda troch áut na D1 pri Trnave: dodávka zhore",
+      "link": "https://www.trnavak.sk/clanky/11699/video-na-d1-v-trnavskom-kraji-doslo-k-vaznej-nehode-dodavka-zhorela-jedneho-vodica-transportoval-vrtulnik",
+      "time": "2026-08-08T09:00:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786178758-video-na-d1-v-trnavskom-kraji-doslo-k-vaznej-nehode-dodavka-zhorela-jedneho-vodica-transportoval-vrtulnik.webp"
+    },
+    {
+      "title": "Braväcovo deň po. Letecké zábery ukazujú, čo dokázal oheň za jedinú noc",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2020783-nocny-poziar-znicil-cast-obce-letecke-zabery-ukazuju-jeho-rozsah-horelo-desat-stavieb?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-08T08:32:24+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/08/2516053/4x3-medium/769051410-938993315902759-3188849463761406301-n.jpg?v=T/w"
+    },
+    {
+      "title": "Na D1 pri Visolajoch zhorelo auto, smer na Žilinu počas zásahu uzavreli",
+      "link": "https://www.trencinak.sk/clanky/13332/foto-na-dialnici-d1-v-katastri-obce-visolaje-zhorelo-auto-usek-bol-pocas-zasahu-hasicov-uzavrety",
+      "time": "2026-08-08T08:03:00+00:00",
+      "cat": "poziar",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786176164-foto-na-dialnici-d1-v-katastri-obce-visolaje-zhorelo-auto-usek-bol-pocas-zasahu-hasicov-uzavrety.webp"
+    },
+    {
+      "title": "Požiar pri Trstíne zasiahol až 150 hektárov, vietor brzdí hasičov",
+      "link": "https://www.trnavak.sk/clanky/11698/foto-lesny-porast-v-okrese-trnava-zachvatil-poziar-zasahuje-pri-nom-70-hasicov-aj-vrtulnik-black-hawk",
+      "time": "2026-08-08T08:00:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786177048-foto-lesny-porast-v-okrese-trnava-zachvatil-poziar-zasahuje-pri-nom-70-hasicov-aj-vrtulnik-black-hawk.webp"
+    },
     {
       "title": "Nehoda v Kráľovanoch spomalila premávku, pri prejazde týmto úsekom buďte opatrní",
       "link": "https://www.zilinak.sk/clanky/42191/vodici-v-tomto-useku-kralovian-zvyste-pozornost-doslo-tam-k-nehode-premavka-sa-spomaluje",
@@ -22,13 +67,22 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786173400-havarijna-situacia-vo-vrabloch-odstavila-cast-obyvatelov-od-pitnej-vody-odstavka-potrva-pocas-vikendu.webp"
     },
     {
-      "title": "Obec pri Brezne zachvátil požiar: Horeli rodinné domy aj chaty",
+      "title": "Autentické zábery z nehody na D1: Auto zhorelo do tla, zasahoval vrtuľník",
+      "link": "https://www1.pluska.sk/krimi/autenticke-zabery-z-nehody-na-d1-auto-zhorelo-do-tla-zasahoval-vrtulnik",
+      "time": "2026-08-08T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/235/2352ec65-634a-4129-a000-1533fa714f6b.webp"
+    },
+    {
+      "title": "Ničivý požiar v Braväcove: Horelo 10 stavieb, hlásia aj zranenia",
       "link": "https://www1.pluska.sk/krimi/obec-pri-brezne-zachvatil-poziar-horeli-rodinne-domy-aj-chaty",
       "time": "2026-08-08T00:00:00+00:00",
       "cat": "poziar",
       "region": "banskobystricky",
       "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/30a/30a48833-5494-4d6a-8c9e-24c71130bf8f.webp"
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/6af/6afeb000-3c94-4476-9fc9-ba9c539afa92.webp"
     },
     {
       "title": "Tragédia v Čunove: Toto sú dôvody, pre ktoré 15-ročnému kočovnému Írovi hrozila väzba",

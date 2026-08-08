@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-08-08T06:06:03.380486+00:00",
+  "generated_at": "2026-08-08T08:08:05.868969+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 4,
+  "items": [
+    {
+      "title": "Nehoda v Kráľovanoch spomalila premávku, pri prejazde týmto úsekom buďte opatrní",
+      "link": "https://www.zilinak.sk/clanky/42191/vodici-v-tomto-useku-kralovian-zvyste-pozornost-doslo-tam-k-nehode-premavka-sa-spomaluje",
+      "time": "2026-08-08T07:19:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Vo Vrábľoch odstavila havária vodovodu časť obyvateľov od pitnej vody",
+      "link": "https://www.nitrak.sk/clanky/11484/havarijna-situacia-vo-vrabloch-odstavila-cast-obyvatelov-od-pitnej-vody-odstavka-potrva-pocas-vikendu",
+      "time": "2026-08-08T07:16:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786173400-havarijna-situacia-vo-vrabloch-odstavila-cast-obyvatelov-od-pitnej-vody-odstavka-potrva-pocas-vikendu.webp"
+    },
+    {
+      "title": "Obec pri Brezne zachvátil požiar: Horeli rodinné domy aj chaty",
+      "link": "https://www1.pluska.sk/krimi/obec-pri-brezne-zachvatil-poziar-horeli-rodinne-domy-aj-chaty",
+      "time": "2026-08-08T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/30a/30a48833-5494-4d6a-8c9e-24c71130bf8f.webp"
+    },
+    {
+      "title": "Tragédia v Čunove: Toto sú dôvody, pre ktoré 15-ročnému kočovnému Írovi hrozila väzba",
+      "link": "https://www1.pluska.sk/krimi/tragedia-v-cunove-toto-su-dovody-pre-ktore-15-rocnemu-kocovnemu-irovi-hrozila-vazba",
+      "time": "2026-08-08T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/778/778cd3a1-d444-4638-a3b3-2fded6091929.webp"
+    }
+  ]
 }

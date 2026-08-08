@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T17:17:50.248681+00:00",
+  "generated_at": "2026-08-08T19:10:01.296519+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 11,
   "items": [
     {
       "title": "Pri Vojenskom technickom a skúšobnom ústave Záhorie vypukol lesný požiar",
@@ -20,6 +20,15 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Požiar vo vojenskom obvode sa šíri. Do zásahu nasadili aj vrtuľníky Black Hawk",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2020903-pri-vojenskom-areali-na-zahori-vypukol-poziar-na-miesto-smeruju-dalsi-hasici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-08T14:59:43+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/08/2516145/4x3-medium/hasici-poziar.jpg?v=MOU"
     },
     {
       "title": "Polícia v Žiline pátra po svedkoch nehody cyklistu a auta",
@@ -49,24 +58,6 @@
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786192074-auto-pocas-noci-havarovalo-v-novom-meste-nad-vahom-po-nehode-skoncilo-na-chodniku.webp"
     },
     {
-      "title": "Na Železnej studničke v Bratislave vznikol požiar, hasiči mali mať problém sa k nemu dostať",
-      "link": "https://www.bratislavak.sk/clanky/14872/na-zeleznej-studnicke-v-bratislave-vznikol-poziar-hasici-mali-mat-problem-sa-k-nemu-dostat",
-      "time": "2026-08-08T11:05:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Polícia pátra po 31-ročnom Martinovi Závodskom z okresu Senica",
-      "link": "https://www.trnavak.sk/clanky/11700/policia-vyhlasila-patranie-po-nezvestnom-31-rocnom-martinovi-z-okresu-senica-pomozte-ho-najst",
-      "time": "2026-08-08T11:00:00+00:00",
-      "cat": "patranie",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786184208-policia-vyhlasila-patranie-po-nezvestnom-31rocnom-martinovi-z-okresu-senica-pomozte-ho-najst.webp"
-    },
-    {
       "title": "Desivo vyzerajúca nehoda na D1. Dodávka zhorela v priebehu niekoľkých minút, jeden vodič skončil s vážnymi zraneniami – VIDEO",
       "link": "https://sita.sk/desivo-vyzerajuca-nehoda-na-d1-dodavka-zhorela-v-priebehu-niekolkych-minut-jeden-vodic-skoncil-s-vaznymi-zraneniami-video/",
       "time": "2026-08-08T10:12:59+00:00",
@@ -74,15 +65,6 @@
       "region": "zilinsky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2026/08/sni-mka-obrazovky-2026-08-08-o-11.48.55.png"
-    },
-    {
-      "title": "Polícia pátra po 29-ročnom Adamovi Chlebovcovi z Popradu, nezvestný je od soboty",
-      "link": "https://www.presovak.sk/clanky/14900/adam-z-popradu-je-nezvestny-patra-po-nom-policia-ma-dlhe-blond-vlasy-nevideli-ste-ho",
-      "time": "2026-08-08T10:00:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786182328-adam-z-popradu-je-nezvestny-patra-po-nom-policia-ma-dlhe-blond-vlasy-nevideli-ste-ho.webp"
     },
     {
       "title": "Požiar pri Brezne zničil päť domov, hasiči zasahovali do skorého rána",
@@ -94,6 +76,15 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786181127-video-pri-brezne-plamene-pohltili-pat-domov-viacere-rodiny-prisli-o-strechu-nad-hlavou-skody-su-v-stotisicoch.webp"
     },
     {
+      "title": "Nehoda troch áut na D1 pri Trnave: dodávka zhore",
+      "link": "https://www.trnavak.sk/clanky/11699/video-na-d1-v-trnavskom-kraji-doslo-k-vaznej-nehode-dodavka-zhorela-jedneho-vodica-transportoval-vrtulnik",
+      "time": "2026-08-08T09:00:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786178758-video-na-d1-v-trnavskom-kraji-doslo-k-vaznej-nehode-dodavka-zhorela-jedneho-vodica-transportoval-vrtulnik.webp"
+    },
+    {
       "title": "Braväcovo deň po. Letecké zábery ukazujú, čo dokázal oheň za jedinú noc",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2020783-nocny-poziar-znicil-cast-obce-letecke-zabery-ukazuju-jeho-rozsah-horelo-desat-stavieb?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-08T08:32:24+00:00",
@@ -101,15 +92,6 @@
       "region": "banskobystricky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/08/2516053/4x3-medium/769051410-938993315902759-3188849463761406301-n.jpg?v=T/w"
-    },
-    {
-      "title": "Na D1 pri Visolajoch zhorelo auto, smer na Žilinu počas zásahu uzavreli",
-      "link": "https://www.trencinak.sk/clanky/13332/foto-na-dialnici-d1-v-katastri-obce-visolaje-zhorelo-auto-usek-bol-pocas-zasahu-hasicov-uzavrety",
-      "time": "2026-08-08T08:03:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786176164-foto-na-dialnici-d1-v-katastri-obce-visolaje-zhorelo-auto-usek-bol-pocas-zasahu-hasicov-uzavrety.webp"
     },
     {
       "title": "Vo Vrábľoch odstavila havária vodovodu časť obyvateľov od pitnej vody",

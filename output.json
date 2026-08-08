@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-08T19:10:01.296519+00:00",
+  "generated_at": "2026-08-08T20:03:14.802504+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 9,
   "items": [
+    {
+      "title": "OÚ Malacky vyhlásil pre požiar vo VO Záhorie mimoriadnu situáciu",
+      "link": "https://www.teraz.sk/regiony/ou-malacky-vyhlasil-pre-poziar-vo-vo/983708-clanok.html",
+      "time": "2026-08-08T19:46:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Pri Vojenskom technickom a skúšobnom ústave Záhorie vypukol lesný požiar",
       "link": "https://www.trnavak.sk/clanky/11702/pri-vojenskom-technickom-a-skusobnom-ustave-zahorie-vypukol-lesny-poziar",
@@ -40,15 +49,6 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786196907-dopravni-policajti-patraju-po-svedkoch-ktori-by-mohli-objasnit-nehodu-cyklistu-a-auta-v-ziline-viete-o-nej-nieco.webp"
     },
     {
-      "title": "Požiar humna vo Važci zranil jednu osobu",
-      "link": "https://www.zilinak.sk/clanky/42194/foto-plamene-pohltili-humno-vo-vazci-jedna-osoba-sa-zranila-na-mieste-zasahovali-desiatky-hasicov",
-      "time": "2026-08-08T13:40:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786196432-foto-plamene-pohltili-humno-vo-vazci-jedna-osoba-sa-zranila-na-mieste-zasahovali-desiatky-hasicov.webp"
-    },
-    {
       "title": "V Novom Meste nad Váhom havarovalo v noci auto, zostalo na chodníku",
       "link": "https://www.trencinak.sk/clanky/13333/auto-pocas-noci-havarovalo-v-novom-meste-nad-vahom-po-nehode-skoncilo-na-chodniku",
       "time": "2026-08-08T12:28:00+00:00",
@@ -67,15 +67,6 @@
       "image": "https://cdn.sita.sk/sites/32/2026/08/sni-mka-obrazovky-2026-08-08-o-11.48.55.png"
     },
     {
-      "title": "Požiar pri Brezne zničil päť domov, hasiči zasahovali do skorého rána",
-      "link": "https://www.bystricak.sk/clanky/12625/video-pri-brezne-plamene-pohltili-pat-domov-viacere-rodiny-prisli-o-strechu-nad-hlavou-skody-su-v-stotisicoch",
-      "time": "2026-08-08T09:25:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786181127-video-pri-brezne-plamene-pohltili-pat-domov-viacere-rodiny-prisli-o-strechu-nad-hlavou-skody-su-v-stotisicoch.webp"
-    },
-    {
       "title": "Nehoda troch áut na D1 pri Trnave: dodávka zhore",
       "link": "https://www.trnavak.sk/clanky/11699/video-na-d1-v-trnavskom-kraji-doslo-k-vaznej-nehode-dodavka-zhorela-jedneho-vodica-transportoval-vrtulnik",
       "time": "2026-08-08T09:00:00+00:00",
@@ -92,15 +83,6 @@
       "region": "banskobystricky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/08/2516053/4x3-medium/769051410-938993315902759-3188849463761406301-n.jpg?v=T/w"
-    },
-    {
-      "title": "Vo Vrábľoch odstavila havária vodovodu časť obyvateľov od pitnej vody",
-      "link": "https://www.nitrak.sk/clanky/11484/havarijna-situacia-vo-vrabloch-odstavila-cast-obyvatelov-od-pitnej-vody-odstavka-potrva-pocas-vikendu",
-      "time": "2026-08-08T07:16:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786173400-havarijna-situacia-vo-vrabloch-odstavila-cast-obyvatelov-od-pitnej-vody-odstavka-potrva-pocas-vikendu.webp"
     }
   ]
 }

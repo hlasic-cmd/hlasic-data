@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T20:03:14.802504+00:00",
+  "generated_at": "2026-08-08T21:15:39.218890+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 7,
   "items": [
     {
       "title": "OÚ Malacky vyhlásil pre požiar vo VO Záhorie mimoriadnu situáciu",
@@ -65,24 +65,6 @@
       "region": "zilinsky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2026/08/sni-mka-obrazovky-2026-08-08-o-11.48.55.png"
-    },
-    {
-      "title": "Nehoda troch áut na D1 pri Trnave: dodávka zhore",
-      "link": "https://www.trnavak.sk/clanky/11699/video-na-d1-v-trnavskom-kraji-doslo-k-vaznej-nehode-dodavka-zhorela-jedneho-vodica-transportoval-vrtulnik",
-      "time": "2026-08-08T09:00:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786178758-video-na-d1-v-trnavskom-kraji-doslo-k-vaznej-nehode-dodavka-zhorela-jedneho-vodica-transportoval-vrtulnik.webp"
-    },
-    {
-      "title": "Braväcovo deň po. Letecké zábery ukazujú, čo dokázal oheň za jedinú noc",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2020783-nocny-poziar-znicil-cast-obce-letecke-zabery-ukazuju-jeho-rozsah-horelo-desat-stavieb?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-08T08:32:24+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/08/2516053/4x3-medium/769051410-938993315902759-3188849463761406301-n.jpg?v=T/w"
     }
   ]
 }

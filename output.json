@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-08T14:07:31.246426+00:00",
+  "generated_at": "2026-08-08T15:05:15.762005+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "title": "Polícia v Žiline pátra po svedkoch nehody cyklistu a auta",
+      "link": "https://www.zilinak.sk/clanky/42195/dopravni-policajti-patraju-po-svedkoch-ktori-by-mohli-objasnit-nehodu-cyklistu-a-auta-v-ziline-viete-o-nej-nieco",
+      "time": "2026-08-08T14:30:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786196907-dopravni-policajti-patraju-po-svedkoch-ktori-by-mohli-objasnit-nehodu-cyklistu-a-auta-v-ziline-viete-o-nej-nieco.webp"
+    },
+    {
+      "title": "Požiar humna vo Važci zranil jednu osobu",
+      "link": "https://www.zilinak.sk/clanky/42194/foto-plamene-pohltili-humno-vo-vazci-jedna-osoba-sa-zranila-na-mieste-zasahovali-desiatky-hasicov",
+      "time": "2026-08-08T13:40:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786196432-foto-plamene-pohltili-humno-vo-vazci-jedna-osoba-sa-zranila-na-mieste-zasahovali-desiatky-hasicov.webp"
+    },
     {
       "title": "V Novom Meste nad Váhom havarovalo v noci auto, zostalo na chodníku",
       "link": "https://www.trencinak.sk/clanky/13333/auto-pocas-noci-havarovalo-v-novom-meste-nad-vahom-po-nehode-skoncilo-na-chodniku",
@@ -101,15 +119,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786177048-foto-lesny-porast-v-okrese-trnava-zachvatil-poziar-zasahuje-pri-nom-70-hasicov-aj-vrtulnik-black-hawk.webp"
-    },
-    {
-      "title": "Nehoda v Kráľovanoch spomalila premávku, pri prejazde týmto úsekom buďte opatrní",
-      "link": "https://www.zilinak.sk/clanky/42191/vodici-v-tomto-useku-kralovian-zvyste-pozornost-doslo-tam-k-nehode-premavka-sa-spomaluje",
-      "time": "2026-08-08T07:19:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/02_aktualne.webp"
     },
     {
       "title": "Vo Vrábľoch odstavila havária vodovodu časť obyvateľov od pitnej vody",

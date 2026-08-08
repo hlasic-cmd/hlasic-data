@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-08T15:05:15.762005+00:00",
+  "generated_at": "2026-08-08T16:01:48.274709+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 13,
   "items": [
+    {
+      "title": "Pri Vojenskom technickom a skúšobnom ústave Záhorie vypukol lesný požiar",
+      "link": "https://www.trnavak.sk/clanky/11702/pri-vojenskom-technickom-a-skusobnom-ustave-zahorie-vypukol-lesny-poziar",
+      "time": "2026-08-08T15:03:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Pri Vojenskom technickom a skúšobnom ústave Záhorie vypukol lesný požiar",
+      "link": "https://www.bratislavak.sk/clanky/14875/pri-vojenskom-technickom-a-skusobnom-ustave-zahorie-vypukol-lesny-poziar",
+      "time": "2026-08-08T15:01:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+    },
     {
       "title": "Polícia v Žiline pátra po svedkoch nehody cyklistu a auta",
       "link": "https://www.zilinak.sk/clanky/42195/dopravni-policajti-patraju-po-svedkoch-ktori-by-mohli-objasnit-nehodu-cyklistu-a-auta-v-ziline-viete-o-nej-nieco",
@@ -76,24 +94,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786181127-video-pri-brezne-plamene-pohltili-pat-domov-viacere-rodiny-prisli-o-strechu-nad-hlavou-skody-su-v-stotisicoch.webp"
     },
     {
-      "title": "Požiar pri trati prerušil vlaky medzi hlavnou stanicou a Lamačom",
-      "link": "https://www.bratislavak.sk/clanky/14870/zeleznicna-doprava-v-bratislave-bola-prerusena-medzistatny-vlak-meskal-90-minut-co-bolo-za-mimoriadnou-situaciou",
-      "time": "2026-08-08T09:23:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786180986-zeleznicna-doprava-v-bratislave-bola-prerusena-medzistatny-vlak-meskal-90-minut-co-bolo-za-mimoriadnou-situaciou.webp"
-    },
-    {
-      "title": "Nehoda troch áut na D1 pri Trnave: dodávka zhore",
-      "link": "https://www.trnavak.sk/clanky/11699/video-na-d1-v-trnavskom-kraji-doslo-k-vaznej-nehode-dodavka-zhorela-jedneho-vodica-transportoval-vrtulnik",
-      "time": "2026-08-08T09:00:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786178758-video-na-d1-v-trnavskom-kraji-doslo-k-vaznej-nehode-dodavka-zhorela-jedneho-vodica-transportoval-vrtulnik.webp"
-    },
-    {
       "title": "Braväcovo deň po. Letecké zábery ukazujú, čo dokázal oheň za jedinú noc",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2020783-nocny-poziar-znicil-cast-obce-letecke-zabery-ukazuju-jeho-rozsah-horelo-desat-stavieb?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-08T08:32:24+00:00",
@@ -110,15 +110,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786176164-foto-na-dialnici-d1-v-katastri-obce-visolaje-zhorelo-auto-usek-bol-pocas-zasahu-hasicov-uzavrety.webp"
-    },
-    {
-      "title": "Požiar pri Trstíne zasiahol až 150 hektárov, vietor brzdí hasičov",
-      "link": "https://www.trnavak.sk/clanky/11698/foto-lesny-porast-v-okrese-trnava-zachvatil-poziar-zasahuje-pri-nom-70-hasicov-aj-vrtulnik-black-hawk",
-      "time": "2026-08-08T08:00:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786177048-foto-lesny-porast-v-okrese-trnava-zachvatil-poziar-zasahuje-pri-nom-70-hasicov-aj-vrtulnik-black-hawk.webp"
     },
     {
       "title": "Vo Vrábľoch odstavila havária vodovodu časť obyvateľov od pitnej vody",

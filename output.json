@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-07T23:51:14.596839+00:00",
+  "generated_at": "2026-08-08T03:59:55.853537+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 1,
   "items": [
     {
       "title": "Podozrivé radary, požiar v Slovnafte aj spor učiteľov s ministrom Druckerom (denný výber)",
@@ -11,78 +11,6 @@
       "region": "nitriansky",
       "src": "aktuality.sk",
       "image": "https://img.aktuality.sk/foto/denn-v-ber-spr-v-07-08-2026/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/J1fktktTURBXy9iMDE1MzUzYS02ZWY3LTQ3NWQtODAyZi1iZjQwOWY2NjY3NGIucG5nkZUCzQfQAMLD?st=qIx1ShT2PnI4xg6Eck4rfqp0Tz22zO4B4U9FbXkSDiU&amp;ts=1786140000&amp;e=0"
-    },
-    {
-      "title": "Rimavskú Sobotu a okolie zasiahla silná búrka, padali stromy",
-      "link": "https://www.teraz.sk/regiony/rimavsku-sobotu-a-okolie-zasiahla-siln/983523-clanok.html",
-      "time": "2026-08-07T15:47:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V rybníku Zlatná v Kežmarku našli telo nezvestného 39-ročného muža",
-      "link": "https://www.teraz.sk/regiony/v-rybniku-zlatna-v-kezmarku-nasli-te/983515-clanok.html",
-      "time": "2026-08-07T15:05:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Z extrému do extrému. Po horúčavách udreli silné búrky, Tatry zaliala voda",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2020601-z-extremu-do-extremu-po-horucavach-udreli-burky-tatry-zaliala-voda?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-07T15:00:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2018/09/18/4x3-medium/vysoke-tatry-privalove-dazde.jpg?v=t8E"
-    },
-    {
-      "title": "Nehoda dvoch áut zastavila premávku medzi Kozelníkom a Hronskou Breznicou",
-      "link": "https://www.bystricak.sk/clanky/12623/vazna-nehoda-medzi-kozelnikom-a-hronskou-breznicou-cesta-i51-je-uplne-uzavreta",
-      "time": "2026-08-07T14:11:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "POŽIAR V SLOVNAFTE: Došlo k narušeniu jednej z nádrží",
-      "link": "https://www.teraz.sk/slovensko/poziar-v-slovnafte-hori-ropny-produk/983467-clanok.html",
-      "time": "2026-08-07T13:46:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Na východe udreli silné búrky",
-      "link": "https://www.kosicak.sk/clanky/13608/video-na-vychode-udreli-silne-burky-auta-sa-brodili-zaplavenymi-ulicami-hrozili-aj-privalove-povodne",
-      "time": "2026-08-07T12:50:00+00:00",
-      "cat": "burka",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786110155-video-na-vychode-udreli-silne-burky-auta-sa-brodili-zaplavenymi-ulicami-hrozili-aj-privalove-povodne.webp"
-    },
-    {
-      "title": "Slovnaftom otriasol výbuch, nasledoval požiar.  Obyvateľom bolo odporučené nevetrať",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2020481-v-slovnafte-hori-rafineriou-otriasol-vybuch-obyvatelom-nebezpecenstvo-nehrozi?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-07T12:18:28+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/07/2515871/4x3-medium/poziar-slovnaft-dym.jpg?v=q0U"
-    },
-    {
-      "title": "Prívalové dažde zaplavili Vysoké Tatry, voda sa valila ulicami",
-      "link": "https://www.presovak.sk/clanky/14892/video-tatry-ostali-po-burke-pod-vodou-po-extremnych-privalovych-zrazkach-sa-ulicami-valila-voda",
-      "time": "2026-08-07T12:18:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786110242-video-tatry-ostali-po-burke-pod-vodou-po-extremnych-privalovych-zrazkach-sa-ulicami-valila-voda.webp"
     }
   ]
 }

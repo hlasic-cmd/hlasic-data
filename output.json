@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T11:15:22.900351+00:00",
+  "generated_at": "2026-08-08T12:04:42.139263+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 12,
   "items": [
     {
       "title": "Na Železnej studničke v Bratislave vznikol požiar, hasiči mali mať problém sa k nemu dostať",
@@ -110,24 +110,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786173400-havarijna-situacia-vo-vrabloch-odstavila-cast-obyvatelov-od-pitnej-vody-odstavka-potrva-pocas-vikendu.webp"
-    },
-    {
-      "title": "Desivá nehoda na D1: Auto zhorelo do tla, zasahoval vrtuľník",
-      "link": "https://www1.pluska.sk/krimi/autenticke-zabery-z-nehody-na-d1-auto-zhorelo-do-tla-zasahoval-vrtulnik",
-      "time": "2026-08-08T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/235/2352ec65-634a-4129-a000-1533fa714f6b.webp"
-    },
-    {
-      "title": "Tragédia v Čunove: Toto sú dôvody, pre ktoré 15-ročnému kočovnému Írovi hrozila väzba",
-      "link": "https://www1.pluska.sk/krimi/tragedia-v-cunove-toto-su-dovody-pre-ktore-15-rocnemu-kocovnemu-irovi-hrozila-vazba",
-      "time": "2026-08-08T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/778/778cd3a1-d444-4638-a3b3-2fded6091929.webp"
     }
   ]
 }

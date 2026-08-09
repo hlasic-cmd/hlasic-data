@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-09T14:08:23.456936+00:00",
+  "generated_at": "2026-08-09T15:52:09.654105+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 9,
   "items": [
+    {
+      "title": "Pri letisku v Bratislave horí odpad a porast, zasahuje 18 hasičov",
+      "link": "https://www.bratislavak.sk/clanky/14880/foto-nedaleko-festivalu-lovestream-a-bratislavskeho-letiska-vznikol-poziar-z-miesta-sa-vali-husty-cierny-dym",
+      "time": "2026-08-09T15:13:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786288410-foto-nedaleko-festivalu-lovestream-a-bratislavskeho-letiska-vznikol-poziar-z-miesta-sa-vali-husty-cierny-dym.webp"
+    },
+    {
+      "title": "Pri bratislavskom letisku vypukol rozsiahly požiar. Oheň sa rýchlo šíri, zasahujú hasiči aj dobrovoľníci",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2021203-pri-bratislavskom-letisku-vypukol-rozsiahly-poziar-ohen-sa-rychlo-siri-zasahuju-hasici-aj-dobrovolnici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-09T15:09:21+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/09/2516349/4x3-medium/poziar-pri-letisku.jpg?v=T/w"
+    },
+    {
+      "title": "Nad Bratislavou sa šíril hustý čierny dym z požiaru odpadu v lesnom poraste",
+      "link": "https://www.aktuality.sk/clanok/5wX5TuY/nad-bratislavou-sa-siril-husty-cierny-dym-z-poziaru-odpadu-v-lesnom-poraste/",
+      "time": "2026-08-09T14:48:36+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/dym-st-pa-z-po-iaru-v-bratislave-9-augusta-2026/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/l64ktkpTURBXy8wOWMzN2M3MTc2YzdkYzAwMDFkZDUwYTE1ZDU4NTIzMy5qcGeSlQMAzKbNAtDNAZWVAs0H0ADCww?st=PHQ6kjKNBC78n9ctdgcvBx3BE3JV-jB-px9JZLHJ7-8&amp;ts=1786226400&amp;e=0"
+    },
+    {
+      "title": "Požiar domu v Banskej Bystrici: osoba z objektu stihla odísť",
+      "link": "https://www.bystricak.sk/clanky/12631/video-hasici-zasahovali-pri-poziari-domu-pri-centre-banskej-bystrice-pri-jeho-vzniku-bola-vo-vnutri-jedna-osoba",
+      "time": "2026-08-09T14:23:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786285418-video-hasici-zasahovali-pri-poziari-domu-pri-centre-banskej-bystrice-pri-jeho-vzniku-bola-vo-vnutri-jedna-osoba.webp"
+    },
+    {
+      "title": "V žilinskom lesoparku mal vypuknúť požiar, majú tam zasahovať hasiči",
+      "link": "https://www.zilinak.sk/clanky/42198/v-zilinskom-lesoparku-mal-vypuknut-poziar-maju-tam-zasahovat-hasici",
+      "time": "2026-08-09T13:50:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786283458-v-zilinskom-lesoparku-mal-vypuknut-poziar-maju-tam-zasahovat-hasici.webp"
+    },
     {
       "title": "Bývalý hasič v Braväcove pomáhal pri požiari, ktorý zničil päť domov",
       "link": "https://www.bystricak.sk/clanky/12629/prisiel-podporit-rodinu-na-volejbal-napokon-pomahal-byvaly-hasic-miroslav-opisal-co-robil-pocas-poziaru-v-bravacove",

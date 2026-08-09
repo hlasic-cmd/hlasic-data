@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-09T07:41:55.933811+00:00",
+  "generated_at": "2026-08-09T09:25:32.786479+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "title": "OÚ Malacky vyhlásil pre požiar vo VO Záhorie mimoriadnu situáciu",
-      "link": "https://www.teraz.sk/regiony/ou-malacky-vyhlasil-pre-poziar-vo-vo/983708-clanok.html",
-      "time": "2026-08-08T19:46:00+00:00",
+      "title": "Braväcovo vyhlásilo mimoriadnu situáciu, požiar mohol byť úmyselný",
+      "link": "https://www.bystricak.sk/clanky/12628/video-bravacovo-po-rozsiahlom-poziari-stavieb-vyhlasilo-mimoriadnu-situaciu-poziar-bol-zrejme-zalozeny-umyselne",
+      "time": "2026-08-09T07:51:00+00:00",
       "cat": "poziar",
-      "region": "bratislavsky",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786261873-video-bravacovo-po-rozsiahlom-poziari-stavieb-vyhlasilo-mimoriadnu-situaciu-poziar-bol-zrejme-zalozeny-umyselne.webp"
+    },
+    {
+      "title": "V prípade únosu študentky Sone majú odznieť záverečné reči",
+      "link": "https://www.teraz.sk/slovensko/v-pripade-unosu-studentky-sone-maju/983738-clanok.html",
+      "time": "2026-08-09T07:36:00+00:00",
+      "cat": "patranie",
+      "region": null,
       "src": "teraz.sk",
       "image": null
     }

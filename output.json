@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-09T09:25:32.786479+00:00",
+  "generated_at": "2026-08-09T11:04:58.745520+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 3,
   "items": [
+    {
+      "title": "Polícia pátra po 16-ročnej Márii Girgovej zo Spišskej Novej Vsi",
+      "link": "https://www.kosicak.sk/clanky/13613/policajti-na-spisi-patraju-po-nezvestnej-16-rocnej-marii-ma-150-centimetrov-a-zafarbene-vlasy",
+      "time": "2026-08-09T10:25:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786271112-policajti-na-spisi-patraju-po-nezvestnej-16rocnej-marii-ma-150-centimetrov-a-zafarbene-vlasy.webp"
+    },
     {
       "title": "Braväcovo vyhlásilo mimoriadnu situáciu, požiar mohol byť úmyselný",
       "link": "https://www.bystricak.sk/clanky/12628/video-bravacovo-po-rozsiahlom-poziari-stavieb-vyhlasilo-mimoriadnu-situaciu-poziar-bol-zrejme-zalozeny-umyselne",

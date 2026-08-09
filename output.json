@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-09T04:47:27.391952+00:00",
+  "generated_at": "2026-08-09T07:41:55.933811+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "title": "OÚ Malacky vyhlásil pre požiar vo VO Záhorie mimoriadnu situáciu",
+      "link": "https://www.teraz.sk/regiony/ou-malacky-vyhlasil-pre-poziar-vo-vo/983708-clanok.html",
+      "time": "2026-08-08T19:46:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    }
+  ]
 }

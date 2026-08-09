@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-09T12:02:49.698291+00:00",
+  "generated_at": "2026-08-09T14:08:23.456936+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 4,
   "items": [
+    {
+      "title": "Bývalý hasič v Braväcove pomáhal pri požiari, ktorý zničil päť domov",
+      "link": "https://www.bystricak.sk/clanky/12629/prisiel-podporit-rodinu-na-volejbal-napokon-pomahal-byvaly-hasic-miroslav-opisal-co-robil-pocas-poziaru-v-bravacove",
+      "time": "2026-08-09T13:00:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786280068-prisiel-podporit-rodinu-na-volejbal-napokon-pomahal-byvaly-hasic-miroslav-opisal-co-robil-pocas-poziaru-v-bravacove.webp"
+    },
     {
       "title": "Polícia pátra po 16-ročnej Márii Girgovej zo Spišskej Novej Vsi",
       "link": "https://www.kosicak.sk/clanky/13613/policajti-na-spisi-patraju-po-nezvestnej-16-rocnej-marii-ma-150-centimetrov-a-zafarbene-vlasy",

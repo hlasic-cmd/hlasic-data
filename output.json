@@ -1,61 +1,6 @@
 {
-  "generated_at": "2026-08-09T00:01:43.756209+00:00",
+  "generated_at": "2026-08-09T04:47:27.391952+00:00",
   "max_age_hours": 12,
-  "count": 6,
-  "items": [
-    {
-      "title": "OÚ Malacky vyhlásil pre požiar vo VO Záhorie mimoriadnu situáciu",
-      "link": "https://www.teraz.sk/regiony/ou-malacky-vyhlasil-pre-poziar-vo-vo/983708-clanok.html",
-      "time": "2026-08-08T19:46:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Pri Vojenskom technickom a skúšobnom ústave Záhorie vypukol lesný požiar",
-      "link": "https://www.trnavak.sk/clanky/11702/pri-vojenskom-technickom-a-skusobnom-ustave-zahorie-vypukol-lesny-poziar",
-      "time": "2026-08-08T15:03:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Pri Vojenskom technickom a skúšobnom ústave Záhorie vypukol lesný požiar",
-      "link": "https://www.bratislavak.sk/clanky/14875/pri-vojenskom-technickom-a-skusobnom-ustave-zahorie-vypukol-lesny-poziar",
-      "time": "2026-08-08T15:01:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Požiar vo vojenskom obvode sa šíri. Do zásahu nasadili aj vrtuľníky Black Hawk",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2020903-pri-vojenskom-areali-na-zahori-vypukol-poziar-na-miesto-smeruju-dalsi-hasici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-08T14:59:43+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/08/2516145/4x3-medium/hasici-poziar.jpg?v=MOU"
-    },
-    {
-      "title": "Polícia v Žiline pátra po svedkoch nehody cyklistu a auta",
-      "link": "https://www.zilinak.sk/clanky/42195/dopravni-policajti-patraju-po-svedkoch-ktori-by-mohli-objasnit-nehodu-cyklistu-a-auta-v-ziline-viete-o-nej-nieco",
-      "time": "2026-08-08T14:30:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786196907-dopravni-policajti-patraju-po-svedkoch-ktori-by-mohli-objasnit-nehodu-cyklistu-a-auta-v-ziline-viete-o-nej-nieco.webp"
-    },
-    {
-      "title": "V Novom Meste nad Váhom havarovalo v noci auto, zostalo na chodníku",
-      "link": "https://www.trencinak.sk/clanky/13333/auto-pocas-noci-havarovalo-v-novom-meste-nad-vahom-po-nehode-skoncilo-na-chodniku",
-      "time": "2026-08-08T12:28:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786192074-auto-pocas-noci-havarovalo-v-novom-meste-nad-vahom-po-nehode-skoncilo-na-chodniku.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

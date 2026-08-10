@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T18:36:30.489765+00:00",
+  "generated_at": "2026-08-10T21:07:44.458459+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 6,
   "items": [
     {
       "title": "Narazili do nej dva kamióny. Pri nehode pred Braniskom zomrela 52-ročná vodička",
@@ -38,24 +38,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786370069-chystate-sa-z-prace-cestovat-smerom-na-michalovce-premavku-pod-dargovskym-priesmykom-blokuje-hromadna-nehoda.webp"
-    },
-    {
-      "title": "Hromadná nehoda pri Kraľovanoch zablokovala cestu I/18. Úsek je neprejazdný",
-      "link": "https://www.zilinak.sk/clanky/42213/foto-hromadna-nehoda-pri-kralovanoch-uplne-zablokovala-cestu-tvoria-sa-kolony",
-      "time": "2026-08-10T12:28:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786365020-foto-hromadna-nehoda-pri-kralovanoch-uplne-zablokovala-cestu-tvoria-sa-kolony.webp"
-    },
-    {
-      "title": "Požiar lesa pri obci Trstín hasili od piatka, na mieste zasahovali desiatky hasičov, drony i Black Hawk",
-      "link": "https://www.trnavak.sk/clanky/11716/video-poziar-lesa-v-trnavskom-okrese-sa-hasicom-po-dvoch-dnoch-podarilo-zlikvidovat-miesto-nadalej-monitoruju",
-      "time": "2026-08-10T11:25:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786360727-video-poziar-lesa-v-trnavskom-okrese-sa-hasicom-po-dvoch-dnoch-podarilo-zlikvidovat-miesto-nadalej-monitoruju.webp"
     },
     {
       "title": "Vodička pri Trenčíne prešla do protismeru a po sérii nárazov skončila s autom mimo vozovky",

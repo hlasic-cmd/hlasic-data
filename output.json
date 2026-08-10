@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-08-10T12:35:25.494267+00:00",
+  "generated_at": "2026-08-10T15:44:56.915475+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 13,
   "items": [
+    {
+      "title": "NEHODA: V Košickom Klečenove sa zrazili dve autá",
+      "link": "https://www.teraz.sk/regiony/v-kosickom-klecenove-sa-zrazili-dve-au/984041-clanok.html",
+      "time": "2026-08-10T15:17:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Tunel Branisko uzavreli, dopravu odkláňajú policajti na cestu I/18",
+      "link": "https://korzar.sme.sk/presov/c/tunel-branisko-uzavreli-dopravu-odklanaju-policajti-na-cestu-i-18?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-10T14:52:08+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/1f0671f4-7e68-6e0c-8e66-d37a0d49d5a8.jpg"
+    },
+    {
+      "title": "Pred tunelom Branisko zahynula vodička po zrážke s dvoma kamiónmi",
+      "link": "https://www.presovak.sk/clanky/14922/vazna-nehoda-pred-tunelom-branisko-po-zrazke-s-kamionmi-prisla-o-zivot-vodicka-osobneho-auta",
+      "time": "2026-08-10T13:58:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786376305-vazna-nehoda-pred-tunelom-branisko-po-zrazke-s-kamionmi-prisla-o-zivot-vodicka-osobneho-auta.webp"
+    },
+    {
+      "title": "V Košickom Klečenove pozor na hromadnú dopravnú nehodu",
+      "link": "https://www.kosicak.sk/clanky/13631/chystate-sa-z-prace-cestovat-smerom-na-michalovce-premavku-pod-dargovskym-priesmykom-blokuje-hromadna-nehoda",
+      "time": "2026-08-10T13:54:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786370069-chystate-sa-z-prace-cestovat-smerom-na-michalovce-premavku-pod-dargovskym-priesmykom-blokuje-hromadna-nehoda.webp"
+    },
+    {
+      "title": "NEHODA pri Kraľovanoch: Cesta už je prejazdná",
+      "link": "https://www.teraz.sk/regiony/usek-cesty-i18-za-kralovanmi-je-pre-d/983966-clanok.html",
+      "time": "2026-08-10T13:50:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Hromadná nehoda pri Kraľovanoch zablokovala cestu I/18. Úsek je neprejazdný",
+      "link": "https://www.zilinak.sk/clanky/42213/foto-hromadna-nehoda-pri-kralovanoch-uplne-zablokovala-cestu-tvoria-sa-kolony",
+      "time": "2026-08-10T12:28:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786365020-foto-hromadna-nehoda-pri-kralovanoch-uplne-zablokovala-cestu-tvoria-sa-kolony.webp"
+    },
     {
       "title": "Polícia riešila opitých vodičov: 2,73 promile v Nitre, nehoda pri Komárne aj zákaz šoférovať",
       "link": "https://www.nitrak.sk/clanky/11493/sokujuca-vikendova-bilancia-vodic-so-zakazom-soferovat-nafukal-v-topolcanoch-227-promile-dalsi-havaroval",
@@ -11,15 +65,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786354790-sokujuca-vikendova-bilancia-vodic-so-zakazom-soferovat-nafukal-v-topolcanoch-227-promile-dalsi-havaroval.webp"
-    },
-    {
-      "title": "Vodiči, pozor: Úsek cesty za Kraľovanmi je pre nehodu neprejazdný",
-      "link": "https://www.teraz.sk/regiony/usek-cesty-i18-za-kralovanmi-je-pre-d/983966-clanok.html",
-      "time": "2026-08-10T12:05:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
     },
     {
       "title": "Polícia pátra po 25-ročnej Viktórii z Nových Zámkov, už niekoľko dní je nezvestná",
@@ -49,15 +94,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786360864-kosicanka-regina-nasadla-v-polovici-jula-na-vlak-a-doteraz-sa-nevratila-domov-policia-prosi-o-pomoc.webp"
     },
     {
-      "title": "Pozor na požiar v Humennom",
-      "link": "https://www.presovak.sk/clanky/14917/video-v-humennom-si-davajte-pozor-pre-poziar-sa-po-ceste-pohybuju-ludia",
-      "time": "2026-08-10T11:09:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786363582-video-v-humennom-si-davajte-pozor-pre-poziar-sa-po-ceste-pohybuju-ludia.webp"
-    },
-    {
       "title": "Vodička pri Trenčíne prešla do protismeru a po sérii nárazov skončila s autom mimo vozovky",
       "link": "https://www.trencinak.sk/clanky/13342/foto-pri-trencine-sa-stala-vazna-nehoda-auto-zislo-z-cesty-a-narazilo-do-plota-aj-znacky",
       "time": "2026-08-10T10:38:00+00:00",
@@ -83,51 +119,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Na Svrčinovci sa zrazili dve autá, zranilo sa päť ľudí vrátane detí",
-      "link": "https://www.zilinak.sk/clanky/42206/foto-pat-zranenych-vratane-dvoch-deti-na-hlavnom-tahu-vo-svrcinovci-sa-zrazili-dve-auta",
-      "time": "2026-08-10T09:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786350802-foto-pat-zranenych-vratane-dvoch-deti-na-hlavnom-tahu-vo-svrcinovci-sa-zrazili-dve-auta.webp"
-    },
-    {
-      "title": "Požiar auta na Vlčincoch: Audi niekto úmyselne podpálil, škoda 30-tisíc eur",
-      "link": "https://www.zilinak.sk/clanky/42205/nocny-poziar-auta-na-vlcincoch-audi-niekto-umyselne-podpalil-skoda-je-30-tisic-eur",
-      "time": "2026-08-10T07:47:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786348023-nocny-poziar-auta-na-vlcincoch-audi-niekto-umyselne-podpalil-skoda-je-30tisic-eur.webp"
-    },
-    {
-      "title": "Havarijné nadjazdy v Trebišove čaká veľká obnova za milióny eur",
-      "link": "https://www.kosicak.sk/clanky/13515/frekventovane-nadjazdy-v-trebisove-prejdu-kompletnou-rekonstrukciou-ich-havarijny-stav-nemozno-viac-ignorovat",
-      "time": "2026-08-10T07:45:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786001987-frekventovane-nadjazdy-v-trebisove-prejdu-kompletnou-rekonstrukciou-ich-havarijny-stav-nemozno-viac-ignorovat.webp"
-    },
-    {
-      "title": "Nezvestného 61-ročného muža z okresu Nové Zámky našli mŕtveho v Dunaji, odplavilo ho asi 30 km od Štúrova",
-      "link": "https://www.nitrak.sk/clanky/11490/nezvestneho-61-rocneho-muza-ktory-sa-siel-okupat-do-dunaja-nasli-po-styroch-dnoch-prud-ho-odniesol-30-km-od-sturova",
-      "time": "2026-08-10T07:10:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786345777-nezvestneho-61rocneho-muza-ktory-sa-siel-okupat-do-dunaja-nasli-po-styroch-dnoch-prud-ho-odniesol-30-km-od-sturova.webp"
-    },
-    {
-      "title": "Hasiči za uplynulý týždeň zasahovali 962-krát, najmä pre požiare",
-      "link": "https://www.teraz.sk/slovensko/hasici-za-uplynuly-tyzden-zasahoval/983863-clanok.html",
-      "time": "2026-08-10T06:22:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

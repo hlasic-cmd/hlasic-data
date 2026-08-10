@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T21:07:44.458459+00:00",
+  "generated_at": "2026-08-10T23:08:37.431896+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 4,
   "items": [
     {
       "title": "Narazili do nej dva kamióny. Pri nehode pred Braniskom zomrela 52-ročná vodička",
@@ -38,24 +38,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786370069-chystate-sa-z-prace-cestovat-smerom-na-michalovce-premavku-pod-dargovskym-priesmykom-blokuje-hromadna-nehoda.webp"
-    },
-    {
-      "title": "Vodička pri Trenčíne prešla do protismeru a po sérii nárazov skončila s autom mimo vozovky",
-      "link": "https://www.trencinak.sk/clanky/13342/foto-pri-trencine-sa-stala-vazna-nehoda-auto-zislo-z-cesty-a-narazilo-do-plota-aj-znacky",
-      "time": "2026-08-10T10:38:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786357602-foto-pri-trencine-sa-stala-vazna-nehoda-auto-zislo-z-cesty-a-narazilo-do-plota-aj-znacky.webp"
-    },
-    {
-      "title": "V Braväcove vyšetrujú úmyselné založenie požiaru",
-      "link": "https://www.bystricak.sk/clanky/12639/poziar-v-bravacove-bol-podla-hasicov-ako-z-hororu-vysetrovatelia-preveruju-aj-motiv-spojeny-s-neverou",
-      "time": "2026-08-10T10:10:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786351234-poziar-v-bravacove-bol-podla-hasicov-ako-z-hororu-vysetrovatelia-preveruju-aj-motiv-spojeny-s-neverou.webp"
     }
   ]
 }

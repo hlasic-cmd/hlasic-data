@@ -1,16 +1,88 @@
 {
-  "generated_at": "2026-08-10T10:01:48.860229+00:00",
+  "generated_at": "2026-08-10T12:35:25.494267+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 14,
   "items": [
     {
-      "title": "VIDEO: Nehoda v Svrčinovci si vyžiadala päť zranených, z toho dve deti",
-      "link": "https://www.teraz.sk/regiony/video-nehoda-v-svrcinovci-si-vyziadal/983912-clanok.html",
-      "time": "2026-08-10T09:13:00+00:00",
+      "title": "Polícia riešila opitých vodičov: 2,73 promile v Nitre, nehoda pri Komárne aj zákaz šoférovať",
+      "link": "https://www.nitrak.sk/clanky/11493/sokujuca-vikendova-bilancia-vodic-so-zakazom-soferovat-nafukal-v-topolcanoch-227-promile-dalsi-havaroval",
+      "time": "2026-08-10T12:20:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786354790-sokujuca-vikendova-bilancia-vodic-so-zakazom-soferovat-nafukal-v-topolcanoch-227-promile-dalsi-havaroval.webp"
+    },
+    {
+      "title": "Vodiči, pozor: Úsek cesty za Kraľovanmi je pre nehodu neprejazdný",
+      "link": "https://www.teraz.sk/regiony/usek-cesty-i18-za-kralovanmi-je-pre-d/983966-clanok.html",
+      "time": "2026-08-10T12:05:00+00:00",
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "teraz.sk",
       "image": null
+    },
+    {
+      "title": "Polícia pátra po 25-ročnej Viktórii z Nových Zámkov, už niekoľko dní je nezvestná",
+      "link": "https://www.nitrak.sk/clanky/11495/patraju-po-mladej-viktorii-25-z-novych-zamkov-ktora-je-od-minuleho-tyzdna-nezvestna-nevideli-ste-ju",
+      "time": "2026-08-10T11:45:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786359341-patraju-po-mladej-viktorii-25-z-novych-zamkov-ktora-je-od-minuleho-tyzdna-nezvestna-nevideli-ste-ju.webp"
+    },
+    {
+      "title": "Požiar lesa pri obci Trstín hasili od piatka, na mieste zasahovali desiatky hasičov, drony i Black Hawk",
+      "link": "https://www.trnavak.sk/clanky/11716/video-poziar-lesa-v-trnavskom-okrese-sa-hasicom-po-dvoch-dnoch-podarilo-zlikvidovat-miesto-nadalej-monitoruju",
+      "time": "2026-08-10T11:25:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786360727-video-poziar-lesa-v-trnavskom-okrese-sa-hasicom-po-dvoch-dnoch-podarilo-zlikvidovat-miesto-nadalej-monitoruju.webp"
+    },
+    {
+      "title": "55-ročná Košičanka sa nevrátila zo Sniny domov, nestretli ste ju niekde?",
+      "link": "https://www.kosicak.sk/clanky/13626/kosicanka-regina-nasadla-v-polovici-jula-na-vlak-a-doteraz-sa-nevratila-domov-policia-prosi-o-pomoc",
+      "time": "2026-08-10T11:21:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786360864-kosicanka-regina-nasadla-v-polovici-jula-na-vlak-a-doteraz-sa-nevratila-domov-policia-prosi-o-pomoc.webp"
+    },
+    {
+      "title": "Pozor na požiar v Humennom",
+      "link": "https://www.presovak.sk/clanky/14917/video-v-humennom-si-davajte-pozor-pre-poziar-sa-po-ceste-pohybuju-ludia",
+      "time": "2026-08-10T11:09:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786363582-video-v-humennom-si-davajte-pozor-pre-poziar-sa-po-ceste-pohybuju-ludia.webp"
+    },
+    {
+      "title": "Vodička pri Trenčíne prešla do protismeru a po sérii nárazov skončila s autom mimo vozovky",
+      "link": "https://www.trencinak.sk/clanky/13342/foto-pri-trencine-sa-stala-vazna-nehoda-auto-zislo-z-cesty-a-narazilo-do-plota-aj-znacky",
+      "time": "2026-08-10T10:38:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786357602-foto-pri-trencine-sa-stala-vazna-nehoda-auto-zislo-z-cesty-a-narazilo-do-plota-aj-znacky.webp"
+    },
+    {
+      "title": "V Braväcove vyšetrujú úmyselné založenie požiaru",
+      "link": "https://www.bystricak.sk/clanky/12639/poziar-v-bravacove-bol-podla-hasicov-ako-z-hororu-vysetrovatelia-preveruju-aj-motiv-spojeny-s-neverou",
+      "time": "2026-08-10T10:10:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786351234-poziar-v-bravacove-bol-podla-hasicov-ako-z-hororu-vysetrovatelia-preveruju-aj-motiv-spojeny-s-neverou.webp"
+    },
+    {
+      "title": "V Ráztočne sa stala na hlavnom ťahu dopravná nehoda",
+      "link": "https://www.trencinak.sk/clanky/13341/pozor-v-raztocne-sa-na-hlavnom-tahu-smerom-do-prievidze-zrazilo-osobne-auto-s-nakladnym-blokuju-pruh",
+      "time": "2026-08-10T09:58:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
     },
     {
       "title": "Na Svrčinovci sa zrazili dve autá, zranilo sa päť ľudí vrátane detí",
@@ -20,42 +92,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786350802-foto-pat-zranenych-vratane-dvoch-deti-na-hlavnom-tahu-vo-svrcinovci-sa-zrazili-dve-auta.webp"
-    },
-    {
-      "title": "Tragédia na Dunaji: Telo nezvestného 61-ročného muža našli po štvordňovom pátraní",
-      "link": "https://www.aktuality.sk/clanok/gqC7TD6/tragedia-na-dunaji-telo-nezvestneho-61-rocneho-muza-nasli-po-stvordnovom-patrani/",
-      "time": "2026-08-10T08:44:23+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/ilustra-n-foto/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/DkVktkpTURBXy85MjU5NDlhNTdkYjY1NjllNTNmOGZiMDcxYmUzNjZiZC5qcGeSlQMAzKTNFMPNC66VAs0H0ADCww?st=M62Kjpzl9RuKlgTMWh2t0YDnLgPfqrpE-reIt75DwiI&amp;ts=1786312800&amp;e=0"
-    },
-    {
-      "title": "TELO V DUNAJI: Nezvestného muža našli bez známok života",
-      "link": "https://www.teraz.sk/regiony/telo-v-dunaji-nezvestneho-muza-nasli/983898-clanok.html",
-      "time": "2026-08-10T08:34:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V Žiline v skorých ranných hodinách zhorelo auto, škoda dosiahla 30-tisíc eur",
-      "link": "https://www.aktuality.sk/clanok/QRVUZmj/v-ziline-v-skorych-rannych-hodinach-zhorelo-auto-skoda-dosiahla-30-tisic-eur/",
-      "time": "2026-08-10T08:19:06+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/no-n-po-iar-auta-v-iline/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/UhRktkpTURBXy85ZWEwYjQxNzQzMWE0ZjM0YzkwMzQ5NDU5NzljMDlhNC5qcGeSlQMAzQFjzQYAzQNglQLNB9AAwsM?st=iU9rrIhLTPbguWaGjcJZl91XOvq0DGC3oe7xAHTt-nk&amp;ts=1786312800&amp;e=0"
-    },
-    {
-      "title": "NOČNÝ ZÁSAH: Páchateľ v Žiline úmyselne podpálil auto",
-      "link": "https://www.teraz.sk/regiony/nocny-zasah-pachatel-v-ziline-um/983883-clanok.html",
-      "time": "2026-08-10T07:51:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
     },
     {
       "title": "Požiar auta na Vlčincoch: Audi niekto úmyselne podpálil, škoda 30-tisíc eur",
@@ -92,24 +128,6 @@
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Hromadná nehoda pred vstupom do Prešova ochromila rannú špičku, rátajte so zdržaním",
-      "link": "https://www.presovak.sk/clanky/14905/hromadna-nehoda-pred-vstupom-do-presova-ochromila-rannu-spicku-ratajte-so-zdrzanim",
-      "time": "2026-08-10T06:17:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786342676-hromadna-nehoda-pred-vstupom-do-presova-ochromila-rannu-spicku-ratajte-so-zdrzanim.webp"
-    },
-    {
-      "title": "Bratislavu ráno brzdia viaceré nehody, problémy sú aj na D1",
-      "link": "https://www.bratislavak.sk/clanky/14882/bratislavu-v-pondelok-rano-trapia-nehody-hromadne-nehody-a-kolony-hlasia-v-celom-kraji-na-d1-a-aj-v-centre",
-      "time": "2026-08-10T06:16:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786342601-bratislavu-v-pondelok-rano-trapia-nehody-hromadne-nehody-a-kolony-hlasia-v-celom-kraji-na-d1-a-aj-v-centre.webp"
     }
   ]
 }

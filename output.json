@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-10T15:44:56.915475+00:00",
+  "generated_at": "2026-08-10T18:36:30.489765+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 8,
   "items": [
+    {
+      "title": "Narazili do nej dva kamióny. Pri nehode pred Braniskom zomrela 52-ročná vodička",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2021869-narazili-do-nej-dva-kamiony-pri-nehode-pred-braniskom-zomrela-52-rocna-vodicka?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-10T15:51:16+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/10/2516885/4x3-medium/nehoda-branisko.jpg?v=3jI"
+    },
     {
       "title": "NEHODA: V Košickom Klečenove sa zrazili dve autá",
       "link": "https://www.teraz.sk/regiony/v-kosickom-klecenove-sa-zrazili-dve-au/984041-clanok.html",
@@ -11,15 +20,6 @@
       "region": "kosicky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Tunel Branisko uzavreli, dopravu odkláňajú policajti na cestu I/18",
-      "link": "https://korzar.sme.sk/presov/c/tunel-branisko-uzavreli-dopravu-odklanaju-policajti-na-cestu-i-18?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-10T14:52:08+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/1f0671f4-7e68-6e0c-8e66-d37a0d49d5a8.jpg"
     },
     {
       "title": "Pred tunelom Branisko zahynula vodička po zrážke s dvoma kamiónmi",
@@ -40,15 +40,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786370069-chystate-sa-z-prace-cestovat-smerom-na-michalovce-premavku-pod-dargovskym-priesmykom-blokuje-hromadna-nehoda.webp"
     },
     {
-      "title": "NEHODA pri Kraľovanoch: Cesta už je prejazdná",
-      "link": "https://www.teraz.sk/regiony/usek-cesty-i18-za-kralovanmi-je-pre-d/983966-clanok.html",
-      "time": "2026-08-10T13:50:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Hromadná nehoda pri Kraľovanoch zablokovala cestu I/18. Úsek je neprejazdný",
       "link": "https://www.zilinak.sk/clanky/42213/foto-hromadna-nehoda-pri-kralovanoch-uplne-zablokovala-cestu-tvoria-sa-kolony",
       "time": "2026-08-10T12:28:00+00:00",
@@ -58,24 +49,6 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786365020-foto-hromadna-nehoda-pri-kralovanoch-uplne-zablokovala-cestu-tvoria-sa-kolony.webp"
     },
     {
-      "title": "Polícia riešila opitých vodičov: 2,73 promile v Nitre, nehoda pri Komárne aj zákaz šoférovať",
-      "link": "https://www.nitrak.sk/clanky/11493/sokujuca-vikendova-bilancia-vodic-so-zakazom-soferovat-nafukal-v-topolcanoch-227-promile-dalsi-havaroval",
-      "time": "2026-08-10T12:20:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786354790-sokujuca-vikendova-bilancia-vodic-so-zakazom-soferovat-nafukal-v-topolcanoch-227-promile-dalsi-havaroval.webp"
-    },
-    {
-      "title": "Polícia pátra po 25-ročnej Viktórii z Nových Zámkov, už niekoľko dní je nezvestná",
-      "link": "https://www.nitrak.sk/clanky/11495/patraju-po-mladej-viktorii-25-z-novych-zamkov-ktora-je-od-minuleho-tyzdna-nezvestna-nevideli-ste-ju",
-      "time": "2026-08-10T11:45:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786359341-patraju-po-mladej-viktorii-25-z-novych-zamkov-ktora-je-od-minuleho-tyzdna-nezvestna-nevideli-ste-ju.webp"
-    },
-    {
       "title": "Požiar lesa pri obci Trstín hasili od piatka, na mieste zasahovali desiatky hasičov, drony i Black Hawk",
       "link": "https://www.trnavak.sk/clanky/11716/video-poziar-lesa-v-trnavskom-okrese-sa-hasicom-po-dvoch-dnoch-podarilo-zlikvidovat-miesto-nadalej-monitoruju",
       "time": "2026-08-10T11:25:00+00:00",
@@ -83,15 +56,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786360727-video-poziar-lesa-v-trnavskom-okrese-sa-hasicom-po-dvoch-dnoch-podarilo-zlikvidovat-miesto-nadalej-monitoruju.webp"
-    },
-    {
-      "title": "55-ročná Košičanka sa nevrátila zo Sniny domov, nestretli ste ju niekde?",
-      "link": "https://www.kosicak.sk/clanky/13626/kosicanka-regina-nasadla-v-polovici-jula-na-vlak-a-doteraz-sa-nevratila-domov-policia-prosi-o-pomoc",
-      "time": "2026-08-10T11:21:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786360864-kosicanka-regina-nasadla-v-polovici-jula-na-vlak-a-doteraz-sa-nevratila-domov-policia-prosi-o-pomoc.webp"
     },
     {
       "title": "Vodička pri Trenčíne prešla do protismeru a po sérii nárazov skončila s autom mimo vozovky",
@@ -110,15 +74,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786351234-poziar-v-bravacove-bol-podla-hasicov-ako-z-hororu-vysetrovatelia-preveruju-aj-motiv-spojeny-s-neverou.webp"
-    },
-    {
-      "title": "V Ráztočne sa stala na hlavnom ťahu dopravná nehoda",
-      "link": "https://www.trencinak.sk/clanky/13341/pozor-v-raztocne-sa-na-hlavnom-tahu-smerom-do-prievidze-zrazilo-osobne-auto-s-nakladnym-blokuju-pruh",
-      "time": "2026-08-10T09:58:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T20:24:34.873711+00:00",
+  "generated_at": "2026-08-11T22:26:17.842257+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 5,
   "items": [
     {
       "title": "Hasiči z Bratislavského kraja mali v júni 481 výjazdov",
@@ -31,15 +31,6 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786449469-foto-bleskova-povoden-znicila-lesny-majetok-pod-tatrami-vznikla-skoda-za-desiatky-tisic-eur.webp"
     },
     {
-      "title": "Kam zmizla voda po búrke? Trnava ukázala, že nemusí končiť v kanalizácii",
-      "link": "https://www.trnavak.sk/clanky/11722/foto-vyzeraju-ako-obycajne-mlaky-no-maju-dolezitu-ulohu-burka-v-trnave-preukazala-jednu-velmi-dolezitu-vec",
-      "time": "2026-08-11T14:40:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786439714-foto-vyzeraju-ako-obycajne-mlaky-no-maju-dolezitu-ulohu-burka-v-trnave-preukazala-jednu-velmi-dolezitu-vec.webp"
-    },
-    {
       "title": "Diaľnica pri Turanoch je neprejazdná. Horí tam nákladiak",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2022467-dialnica-pri-turanoch-je-neprejazdna-hori-tam-nakladiak?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-11T13:41:14+00:00",
@@ -56,42 +47,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786446899-rodina-pilota-ktory-zahynul-v-ocovej-prosi-o-pomoc-laura-prisla-o-otca-kratko-po-svojich-18-narodeninach.webp"
-    },
-    {
-      "title": "Dobrý úmysel skončil haváriou: Záchranárka zastavila pri odstavenom vozidle a spustila sériu kolízií",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2022287-dobry-umysel-skoncil-havariou-zachranarka-zastavila-pri-odstavenom-vozidle-a-spustila-seriu-kolizii?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-11T10:24:15+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2023/04/10/4x3-medium/hronske-klacany-nitra-policia-smrtelna-nehoda.jpg?v=T/w"
-    },
-    {
-      "title": "Polícia žiada o pomoc pri pátraní po Sinanovi z Dubnice nad Váhom, kríva na ľavú nohu",
-      "link": "https://www.trencinak.sk/clanky/13352/nezvestny-sinan-z-dubnice-nad-vahom-zmizol-bez-stopy-kriva-a-na-predlakti-ma-dlhu-jazvu",
-      "time": "2026-08-11T09:45:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786437984-nezvestny-sinan-z-dubnice-nad-vahom-zmizol-bez-stopy-kriva-a-na-predlakti-ma-dlhu-jazvu.webp"
-    },
-    {
-      "title": "VIDEO: Tragická nehoda pri Fiľakove. Dvaja 20-roční ľudia zomreli, u vodiča predbežne zistili THC",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2022217-video-tragicka-nehoda-pri-filakove-dvaja-20-rocni-ludia-zomreli-u-vodica-predbezne-zistili-thc?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-11T09:06:19+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/11/2517041/4x3-medium/policia-nehoda.png?v=ijw"
-    },
-    {
-      "title": "VIDEO: Nočná jazda sa skončila tragédiou. Pri Lučenci zahynuli dvaja 20-roční spolujazdci",
-      "link": "https://www.bystricak.sk/clanky/12651/video-nocna-jazda-pri-lucenci-sa-skoncila-tragediou-po-naraze-auta-do-stromu-zahynuli-dvaja-mladi-ludia",
-      "time": "2026-08-11T08:25:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786435991-video-nocna-jazda-pri-lucenci-sa-skoncila-tragediou-po-naraze-auta-do-stromu-zahynuli-dvaja-mladi-ludia.webp"
     }
   ]
 }

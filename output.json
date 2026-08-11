@@ -1,16 +1,34 @@
 {
-  "generated_at": "2026-08-11T14:44:33.641593+00:00",
+  "generated_at": "2026-08-11T18:03:35.138133+00:00",
   "max_age_hours": 12,
-  "count": 21,
+  "count": 14,
   "items": [
     {
-      "title": "Vážna nehoda pri Kolárove: Zrážka troch áut zanechala viacerých ťažko zranených",
-      "link": "https://www.aktuality.sk/clanok/xUarQw4/vazna-nehoda-pri-kolarove-zrazka-troch-aut-zanechala-viacerych-tazko-zranenych/",
-      "time": "2026-08-11T14:08:20+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "aktuality.sk",
-      "image": null
+      "title": "Polícia pátra po 17-ročnej Daniele a 16-ročnej Adriane. Jedna zmizla v Seredi, druhá v Galante vyskočila z auta",
+      "link": "https://www.trnavak.sk/clanky/11741/policia-patra-po-dvoch-tinedzerkach-jedna-zmizla-zo-zariadenia-v-seredi-druha-v-galante-vyskocila-z-auta",
+      "time": "2026-08-11T16:50:00+00:00",
+      "cat": "patranie",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786466839-policia-patra-po-dvoch-tinedzerkach-jedna-zmizla-zo-zariadenia-v-seredi-druha-v-galante-vyskocila-z-auta.webp"
+    },
+    {
+      "title": "Povodeň poškodila lesy Spišskej Belej, škody sú veľké",
+      "link": "https://www.presovak.sk/clanky/14934/foto-bleskova-povoden-znicila-lesny-majetok-pod-tatrami-vznikla-skoda-za-desiatky-tisic-eur",
+      "time": "2026-08-11T15:20:00+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786449469-foto-bleskova-povoden-znicila-lesny-majetok-pod-tatrami-vznikla-skoda-za-desiatky-tisic-eur.webp"
+    },
+    {
+      "title": "Kam zmizla voda po búrke? Trnava ukázala, že nemusí končiť v kanalizácii",
+      "link": "https://www.trnavak.sk/clanky/11722/foto-vyzeraju-ako-obycajne-mlaky-no-maju-dolezitu-ulohu-burka-v-trnave-preukazala-jednu-velmi-dolezitu-vec",
+      "time": "2026-08-11T14:40:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786439714-foto-vyzeraju-ako-obycajne-mlaky-no-maju-dolezitu-ulohu-burka-v-trnave-preukazala-jednu-velmi-dolezitu-vec.webp"
     },
     {
       "title": "Diaľnica D1 pri Turanoch je v smere na Ružomberok neprejazdná",
@@ -31,15 +49,6 @@
       "image": "https://prvd.sk/cdn/2015/07/12/4x3-medium/dubna-skala-turany-dialnica-d1.jpg?v=T/w"
     },
     {
-      "title": "Sucho sa v mestských lesoch v Bratislave prejavujú čoraz výraznejšie",
-      "link": "https://www.teraz.sk/regiony/sucho-sa-v-mestskych-lesoch-v-bratislav/984257-clanok.html",
-      "time": "2026-08-11T13:20:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Po tragickej nehode v Očovej zostali rodine pilota Dušana aj finančné starosti",
       "link": "https://www.bystricak.sk/clanky/12650/rodina-pilota-ktory-zahynul-v-ocovej-prosi-o-pomoc-laura-prisla-o-otca-kratko-po-svojich-18-narodeninach",
       "time": "2026-08-11T13:00:00+00:00",
@@ -58,15 +67,6 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/01_aktualne.webp"
     },
     {
-      "title": "Pri Dunajskej Strede sa zrazili dve autá, vodiči si počkajú asi 10 minút",
-      "link": "https://www.trnavak.sk/clanky/11736/v-okrese-dunajska-streda-sa-zrazili-dve-auta-policia-upozornuje-vodicov-na-zdrzanie",
-      "time": "2026-08-11T11:11:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
       "title": "Pri OC Cassovia došlo k dopravnej nehode",
       "link": "https://www.kosicak.sk/clanky/13649/vodici-pri-kosickom-obchodnom-centre-pozor-na-nehodu-zrazil-sa-motocyklista-s-autom-zvyste-tu-opatrnost",
       "time": "2026-08-11T11:11:00+00:00",
@@ -74,15 +74,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786446789-vodici-pri-kosickom-obchodnom-centre-pozor-na-nehodu-zrazil-sa-motocyklista-s-autom-zvyste-tu-opatrnost.webp"
-    },
-    {
-      "title": "Polícia pátra po 50-ročnom Andrejovi Škripeňovi zo Senca, žiada pomoc",
-      "link": "https://www.bratislavak.sk/clanky/14904/policia-patra-po-nezvestnom-50-rocnom-andrejovi-zo-senca-ma-brckave-vlasy-a-dvojfarebne-oci",
-      "time": "2026-08-11T10:30:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786440314-policia-patra-po-nezvestnom-50rocnom-andrejovi-zo-senca-ma-brckave-vlasy-a-dvojfarebne-oci.webp"
     },
     {
       "title": "Dobrý úmysel skončil haváriou: Záchranárka zastavila pri odstavenom vozidle a spustila sériu kolízií",
@@ -94,24 +85,6 @@
       "image": "https://prvd.sk/cdn/2023/04/10/4x3-medium/hronske-klacany-nitra-policia-smrtelna-nehoda.jpg?v=T/w"
     },
     {
-      "title": "Oheň im zobral domovy aj majetok. Rodiny z Braväcova teraz čaká náročná obnova",
-      "link": "https://www.bystricak.sk/clanky/12649/rodiny-z-bravacova-prisli-po-nicivom-poziari-takmer-o-vsetko-obec-spustila-velku-zbierku-pomoc-ponuklo-aj-brezno",
-      "time": "2026-08-11T10:20:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786441704-rodiny-z-bravacova-prisli-po-nicivom-poziari-takmer-o-vsetko-obec-spustila-velku-zbierku-pomoc-ponuklo-aj-brezno.webp"
-    },
-    {
-      "title": "V Čadci pátrajú po 17-ročnej Miriam. Môže byť kdekoľvek, hľadá ju pátrací tím aj polícia",
-      "link": "https://www.zilinak.sk/clanky/42227/v-cadci-patraju-po-17-rocnej-miriam-moze-byt-kdekolvek-hlada-ju-patraci-tim-aj-policia",
-      "time": "2026-08-11T10:00:00+00:00",
-      "cat": "patranie",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786441608-v-cadci-patraju-po-17rocnej-miriam-moze-byt-kdekolvek-hlada-ju-patraci-tim-aj-policia.webp"
-    },
-    {
       "title": "Polícia žiada o pomoc pri pátraní po Sinanovi z Dubnice nad Váhom, kríva na ľavú nohu",
       "link": "https://www.trencinak.sk/clanky/13352/nezvestny-sinan-z-dubnice-nad-vahom-zmizol-bez-stopy-kriva-a-na-predlakti-ma-dlhu-jazvu",
       "time": "2026-08-11T09:45:00+00:00",
@@ -119,15 +92,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786437984-nezvestny-sinan-z-dubnice-nad-vahom-zmizol-bez-stopy-kriva-a-na-predlakti-ma-dlhu-jazvu.webp"
-    },
-    {
-      "title": "Búrka poškodila chodník v Tatrách, TANAP varuje",
-      "link": "https://www.presovak.sk/clanky/14931/silna-burka-poskodila-turisticky-chodnik-v-tatrach-v-tomto-useku-budte-mimoriadne-opatrni",
-      "time": "2026-08-11T09:30:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786434804-silna-burka-poskodila-turisticky-chodnik-v-tatrach-v-tomto-useku-budte-mimoriadne-opatrni.webp"
     },
     {
       "title": "VIDEO: Tragická nehoda pri Fiľakove. Dvaja 20-roční ľudia zomreli, u vodiča predbežne zistili THC",
@@ -139,24 +103,6 @@
       "image": "https://prvd.sk/cdn/2026/08/11/2517041/4x3-medium/policia-nehoda.png?v=ijw"
     },
     {
-      "title": "Pozor, stala sa nehoda smerom z Nového mesta nad Váhom do Trenčína",
-      "link": "https://www.trencinak.sk/clanky/13353/vodici-davajte-si-pozor-stala-sa-nehoda-na-ceste-z-noveho-mesta-do-trencina-na-mieste-zasahuju-zachranne-zlozky",
-      "time": "2026-08-11T08:55:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786438262-vodici-davajte-si-pozor-stala-sa-nehoda-na-ceste-z-noveho-mesta-do-trencina-na-mieste-zasahuju-zachranne-zlozky.webp"
-    },
-    {
-      "title": "VIDEO: Nočná jazda sa skončila tragédiou. Pri Lučenci zahynuli dvaja 20-roční spolujazdci",
-      "link": "https://www.bystricak.sk/clanky/12651/video-nocna-jazda-pri-lucenci-sa-skoncila-tragediou-po-naraze-auta-do-stromu-zahynuli-dvaja-mladi-ludia",
-      "time": "2026-08-11T08:25:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786435991-video-nocna-jazda-pri-lucenci-sa-skoncila-tragediou-po-naraze-auta-do-stromu-zahynuli-dvaja-mladi-ludia.webp"
-    },
-    {
       "title": "Tragická nehoda v Košiciach. Po zrážke s dodávkou zomrel motocyklista, ďalší dvaja sa zranili",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2022159-tragicka-nehoda-v-kosiciach-po-zrazke-s-dodavkou-zomrel-motocyklista-dalsi-dvaja-sa-zranili?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-11T08:14:57+00:00",
@@ -166,13 +112,13 @@
       "image": "https://prvd.sk/cdn/2026/08/11/2516979/4x3-medium/772156835-1548471770656232-7708710925793610223-n.jpg?v=T/w"
     },
     {
-      "title": "Nezvestný Juan má na krku tetovanie zbrane. Polícia prosí o pomoc",
-      "link": "https://www.nitrak.sk/clanky/11504/policia-patra-po-17-rocnom-juanovi-z-topolcian-naposledy-ho-videli-na-stanici-v-martine",
-      "time": "2026-08-11T07:50:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786433889-policia-patra-po-17rocnom-juanovi-z-topolcian-naposledy-ho-videli-na-stanici-v-martine.webp"
+      "title": "Nehoda na D1 pri Branisku má obeť, 18-ročnú ženu previezol vrtuľník",
+      "link": "https://www.presovak.sk/clanky/14930/foto-vazna-nehoda-pri-branisku-ma-jednu-obet-mlada-zena-bojuje-o-zivot-zasahoval-vrtulnik",
+      "time": "2026-08-11T07:36:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786433631-foto-vazna-nehoda-pri-branisku-ma-jednu-obet-mlada-zena-bojuje-o-zivot-zasahoval-vrtulnik.webp"
     },
     {
       "title": "Nehoda v Spišskej Belej. Auto nedalo prednosť vlaku, zasahujú všetky zložky",
@@ -182,15 +128,6 @@
       "region": "presovsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/11/2516961/4x3-medium/vlak-auto-dopravna-nehoda.jpg?v=7cg"
-    },
-    {
-      "title": "Pri Kolárove sa zrazilo niekoľko áut",
-      "link": "https://www.nitrak.sk/clanky/11503/na-juhu-nitrianskeho-kraja-doslo-k-hromadnej-zrazke-sposobil-ju-dobry-umysel-a-snaha-pomoct",
-      "time": "2026-08-11T06:55:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
     }
   ]
 }

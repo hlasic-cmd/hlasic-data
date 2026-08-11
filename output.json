@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-11T18:03:35.138133+00:00",
+  "generated_at": "2026-08-11T20:24:34.873711+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 10,
   "items": [
+    {
+      "title": "Hasiči z Bratislavského kraja mali v júni 481 výjazdov",
+      "link": "https://www.teraz.sk/regiony/hasici-z-bratislavskeho-kraja-mali-v-j/984331-clanok.html",
+      "time": "2026-08-11T18:42:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Polícia pátra po 17-ročnej Daniele a 16-ročnej Adriane. Jedna zmizla v Seredi, druhá v Galante vyskočila z auta",
       "link": "https://www.trnavak.sk/clanky/11741/policia-patra-po-dvoch-tinedzerkach-jedna-zmizla-zo-zariadenia-v-seredi-druha-v-galante-vyskocila-z-auta",
@@ -31,15 +40,6 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786439714-foto-vyzeraju-ako-obycajne-mlaky-no-maju-dolezitu-ulohu-burka-v-trnave-preukazala-jednu-velmi-dolezitu-vec.webp"
     },
     {
-      "title": "Diaľnica D1 pri Turanoch je v smere na Ružomberok neprejazdná",
-      "link": "https://www.teraz.sk/regiony/dialnica-d1-pri-turanoch-je-v-smere-na/984261-clanok.html",
-      "time": "2026-08-11T13:45:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Diaľnica pri Turanoch je neprejazdná. Horí tam nákladiak",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2022467-dialnica-pri-turanoch-je-neprejazdna-hori-tam-nakladiak?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-11T13:41:14+00:00",
@@ -56,24 +56,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786446899-rodina-pilota-ktory-zahynul-v-ocovej-prosi-o-pomoc-laura-prisla-o-otca-kratko-po-svojich-18-narodeninach.webp"
-    },
-    {
-      "title": "Horiaci kamión s drevom uzavrel diaľnicu v Turci. Na mieste zasahujú hasiči",
-      "link": "https://www.zilinak.sk/clanky/42233/horiaci-kamion-s-drevom-uzavrel-dialnicu-v-turci-na-mieste-zasahuju-hasici",
-      "time": "2026-08-11T12:58:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Pri OC Cassovia došlo k dopravnej nehode",
-      "link": "https://www.kosicak.sk/clanky/13649/vodici-pri-kosickom-obchodnom-centre-pozor-na-nehodu-zrazil-sa-motocyklista-s-autom-zvyste-tu-opatrnost",
-      "time": "2026-08-11T11:11:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786446789-vodici-pri-kosickom-obchodnom-centre-pozor-na-nehodu-zrazil-sa-motocyklista-s-autom-zvyste-tu-opatrnost.webp"
     },
     {
       "title": "Dobrý úmysel skončil haváriou: Záchranárka zastavila pri odstavenom vozidle a spustila sériu kolízií",
@@ -103,31 +85,13 @@
       "image": "https://prvd.sk/cdn/2026/08/11/2517041/4x3-medium/policia-nehoda.png?v=ijw"
     },
     {
-      "title": "Tragická nehoda v Košiciach. Po zrážke s dodávkou zomrel motocyklista, ďalší dvaja sa zranili",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2022159-tragicka-nehoda-v-kosiciach-po-zrazke-s-dodavkou-zomrel-motocyklista-dalsi-dvaja-sa-zranili?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-11T08:14:57+00:00",
+      "title": "VIDEO: Nočná jazda sa skončila tragédiou. Pri Lučenci zahynuli dvaja 20-roční spolujazdci",
+      "link": "https://www.bystricak.sk/clanky/12651/video-nocna-jazda-pri-lucenci-sa-skoncila-tragediou-po-naraze-auta-do-stromu-zahynuli-dvaja-mladi-ludia",
+      "time": "2026-08-11T08:25:00+00:00",
       "cat": "nehoda",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/11/2516979/4x3-medium/772156835-1548471770656232-7708710925793610223-n.jpg?v=T/w"
-    },
-    {
-      "title": "Nehoda na D1 pri Branisku má obeť, 18-ročnú ženu previezol vrtuľník",
-      "link": "https://www.presovak.sk/clanky/14930/foto-vazna-nehoda-pri-branisku-ma-jednu-obet-mlada-zena-bojuje-o-zivot-zasahoval-vrtulnik",
-      "time": "2026-08-11T07:36:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786433631-foto-vazna-nehoda-pri-branisku-ma-jednu-obet-mlada-zena-bojuje-o-zivot-zasahoval-vrtulnik.webp"
-    },
-    {
-      "title": "Nehoda v Spišskej Belej. Auto nedalo prednosť vlaku, zasahujú všetky zložky",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2022109-nehoda-v-spisskej-belej-auto-nedalo-prednost-vlaku-zasahuju-vsetky-zlozky?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-11T07:08:45+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/11/2516961/4x3-medium/vlak-auto-dopravna-nehoda.jpg?v=7cg"
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786435991-video-nocna-jazda-pri-lucenci-sa-skoncila-tragediou-po-naraze-auta-do-stromu-zahynuli-dvaja-mladi-ludia.webp"
     }
   ]
 }

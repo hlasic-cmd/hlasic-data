@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-08-10T23:08:37.431896+00:00",
+  "generated_at": "2026-08-11T04:06:24.931300+00:00",
   "max_age_hours": 12,
-  "count": 4,
-  "items": [
-    {
-      "title": "Narazili do nej dva kamióny. Pri nehode pred Braniskom zomrela 52-ročná vodička",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2021869-narazili-do-nej-dva-kamiony-pri-nehode-pred-braniskom-zomrela-52-rocna-vodicka?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-10T15:51:16+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/10/2516885/4x3-medium/nehoda-branisko.jpg?v=3jI"
-    },
-    {
-      "title": "NEHODA: V Košickom Klečenove sa zrazili dve autá",
-      "link": "https://www.teraz.sk/regiony/v-kosickom-klecenove-sa-zrazili-dve-au/984041-clanok.html",
-      "time": "2026-08-10T15:17:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Pred tunelom Branisko zahynula vodička po zrážke s dvoma kamiónmi",
-      "link": "https://www.presovak.sk/clanky/14922/vazna-nehoda-pred-tunelom-branisko-po-zrazke-s-kamionmi-prisla-o-zivot-vodicka-osobneho-auta",
-      "time": "2026-08-10T13:58:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786376305-vazna-nehoda-pred-tunelom-branisko-po-zrazke-s-kamionmi-prisla-o-zivot-vodicka-osobneho-auta.webp"
-    },
-    {
-      "title": "V Košickom Klečenove pozor na hromadnú dopravnú nehodu",
-      "link": "https://www.kosicak.sk/clanky/13631/chystate-sa-z-prace-cestovat-smerom-na-michalovce-premavku-pod-dargovskym-priesmykom-blokuje-hromadna-nehoda",
-      "time": "2026-08-10T13:54:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786370069-chystate-sa-z-prace-cestovat-smerom-na-michalovce-premavku-pod-dargovskym-priesmykom-blokuje-hromadna-nehoda.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

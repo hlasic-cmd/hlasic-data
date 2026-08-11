@@ -1,6 +1,106 @@
 {
-  "generated_at": "2026-08-11T04:06:24.931300+00:00",
+  "generated_at": "2026-08-11T08:14:05.375860+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 11,
+  "items": [
+    {
+      "title": "Nehoda na Americkej triede v Košiciach si vyžiadala život motorkára",
+      "link": "https://www.aktuality.sk/clanok/ZesLU3u/nehoda-na-americkej-triede-v-kosiciach-si-vyziadala-zivot-motorkara/",
+      "time": "2026-08-11T08:09:27+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/tragick-dopravn-nehoda-na-americkej-triede-v-ko-iciach/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/V5KktkpTURBXy9hYmU5NmJlZjIwYjY2NDAwOGU4M2QzNWQ0NDI3OTE3Ny5wbmeSlQMAAM0GQM0DhJUCzQfQAMLD?st=ws-w1Cw65Bfqp6VgZywvdiXMx4XW01jM2zWKdvqvBo0&amp;ts=1786399200&amp;e=0"
+    },
+    {
+      "title": "Nezvestný Juan má na krku tetovanie zbrane. Polícia prosí o pomoc",
+      "link": "https://www.nitrak.sk/clanky/11504/policia-patra-po-17-rocnom-juanovi-z-topolcian-naposledy-ho-videli-na-stanici-v-martine",
+      "time": "2026-08-11T07:50:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786433889-policia-patra-po-17rocnom-juanovi-z-topolcian-naposledy-ho-videli-na-stanici-v-martine.webp"
+    },
+    {
+      "title": "Nehoda na D1 pri Branisku má obeť, 18-ročnú ženu previezol vrtuľník",
+      "link": "https://www.presovak.sk/clanky/14930/foto-vazna-nehoda-pri-branisku-ma-jednu-obet-mlada-zena-bojuje-o-zivot-zasahoval-vrtulnik",
+      "time": "2026-08-11T07:36:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786433631-foto-vazna-nehoda-pri-branisku-ma-jednu-obet-mlada-zena-bojuje-o-zivot-zasahoval-vrtulnik.webp"
+    },
+    {
+      "title": "Zrážka auta s vlakom pri Spišskej Belej, vodič nerešpektoval dopravné značenia",
+      "link": "https://www.aktuality.sk/clanok/At9t6pX/zrazka-auta-s-vlakom-pri-spisskej-belej-vodic-nerespektoval-dopravne-znacenia/",
+      "time": "2026-08-11T07:14:44+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/auto-nedalo-prednos-vlaku-na-priecest/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/JSCktkpTURBXy81NmYwYmIxODNhMjNjMDQwYWQwZjZmMjEzMzRjMmI3Zi5qcGeSlQMAzQIfzQgAzQSAlQLNB9AAwsM?st=xMN2IBWts14dQkpc9hRe6SMNodoaIClZrU4LbgXzlTo&amp;ts=1786399200&amp;e=0"
+    },
+    {
+      "title": "Pri požiari v centre Žiliny sa zranila jedna osoba",
+      "link": "https://www.teraz.sk/regiony/pri-poziari-odpadu-v-centre-ziliny-sa/984117-clanok.html",
+      "time": "2026-08-11T07:14:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Nehoda v Spišskej Belej. Auto nedalo prednosť vlaku, zasahujú všetky zložky",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2022109-nehoda-v-spisskej-belej-auto-nedalo-prednost-vlaku-zasahuju-vsetky-zlozky?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-11T07:08:45+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/11/2516961/4x3-medium/vlak-auto-dopravna-nehoda.jpg?v=7cg"
+    },
+    {
+      "title": "V Ťahanovciach došlo k tragédii, zrážku neprežil motocyklista",
+      "link": "https://www.kosicak.sk/clanky/13638/v-kosiciach-doslo-k-tragickej-dopravnej-nehode-po-zrazke-s-dodavkou-prisiel-o-zivot-motocyklista",
+      "time": "2026-08-11T06:56:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786433144-v-kosiciach-doslo-k-tragickej-dopravnej-nehode-po-zrazke-s-dodavkou-prisiel-o-zivot-motocyklista.webp"
+    },
+    {
+      "title": "Pri Kolárove sa zrazilo niekoľko áut",
+      "link": "https://www.nitrak.sk/clanky/11503/na-juhu-nitrianskeho-kraja-doslo-k-hromadnej-zrazke-sposobil-ju-dobry-umysel-a-snaha-pomoct",
+      "time": "2026-08-11T06:55:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Požiar odpadu pri garážach v centre Žiliny zranil jednu osobu, utrpela popáleniny",
+      "link": "https://www.zilinak.sk/clanky/42219/pri-garazach-v-centre-ziliny-horel-odpad-poziar-zranil-jednu-osobu-utrpela-popaleniny",
+      "time": "2026-08-11T06:50:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786430972-pri-garazach-v-centre-ziliny-horel-odpad-poziar-zranil-jednu-osobu-utrpela-popaleniny.webp"
+    },
+    {
+      "title": "Na D1 pri Liptovskom Mikuláši skončilo auto mimo diaľnice, jedna osoba sa zranila",
+      "link": "https://www.zilinak.sk/clanky/42217/foto-na-d1-pri-liptovskom-mikulasi-skoncilo-auto-mimo-cesty-jedna-osoba-sa-zranila",
+      "time": "2026-08-11T06:20:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786428975-foto-na-d1-pri-liptovskom-mikulasi-skoncilo-auto-mimo-cesty-jedna-osoba-sa-zranila.webp"
+    },
+    {
+      "title": "Na Topoľčianskej ulici v Petržalke horel nahromadený odpad. Hasiči plamene rýchlo zlikvidovali",
+      "link": "https://www.aktuality.sk/clanok/1tfOtYL/na-topolcianskej-ulici-v-petrzalke-horel-nahromadeny-odpad-hasici-plamene-rychlo-zlikvidovali/",
+      "time": "2026-08-11T06:00:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/v-petr-alke-na-topo-ianskej-ulici-likviduj-hasi-i-men-po-iar-odpadu/MTU4eDEwNi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/tBlktkqTURBXy83OThkOGU2NDIwYmI2MGIzMGJlZDQwNTEzODk1ZWU4Yi5qcGVnkpUDAFrNBkDNA4SVAs0H0ADCww?st=h9gGMFN229DOGhu2RDtuuJuCgE0reZjgEOeO0VZeBWE&amp;ts=1786399200&amp;e=0"
+    }
+  ]
 }

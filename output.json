@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T22:26:17.842257+00:00",
+  "generated_at": "2026-08-12T04:29:59.505933+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 2,
   "items": [
     {
       "title": "Hasiči z Bratislavského kraja mali v júni 481 výjazdov",
@@ -20,33 +20,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786466839-policia-patra-po-dvoch-tinedzerkach-jedna-zmizla-zo-zariadenia-v-seredi-druha-v-galante-vyskocila-z-auta.webp"
-    },
-    {
-      "title": "Povodeň poškodila lesy Spišskej Belej, škody sú veľké",
-      "link": "https://www.presovak.sk/clanky/14934/foto-bleskova-povoden-znicila-lesny-majetok-pod-tatrami-vznikla-skoda-za-desiatky-tisic-eur",
-      "time": "2026-08-11T15:20:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786449469-foto-bleskova-povoden-znicila-lesny-majetok-pod-tatrami-vznikla-skoda-za-desiatky-tisic-eur.webp"
-    },
-    {
-      "title": "Diaľnica pri Turanoch je neprejazdná. Horí tam nákladiak",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2022467-dialnica-pri-turanoch-je-neprejazdna-hori-tam-nakladiak?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-11T13:41:14+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2015/07/12/4x3-medium/dubna-skala-turany-dialnica-d1.jpg?v=T/w"
-    },
-    {
-      "title": "Po tragickej nehode v Očovej zostali rodine pilota Dušana aj finančné starosti",
-      "link": "https://www.bystricak.sk/clanky/12650/rodina-pilota-ktory-zahynul-v-ocovej-prosi-o-pomoc-laura-prisla-o-otca-kratko-po-svojich-18-narodeninach",
-      "time": "2026-08-11T13:00:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786446899-rodina-pilota-ktory-zahynul-v-ocovej-prosi-o-pomoc-laura-prisla-o-otca-kratko-po-svojich-18-narodeninach.webp"
     }
   ]
 }

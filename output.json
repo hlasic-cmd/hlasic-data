@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-12T08:50:38.676475+00:00",
+  "generated_at": "2026-08-12T11:32:22.349379+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 8,
   "items": [
+    {
+      "title": "MRAZIVÝ UTOROK: Nehoda v Košiciach si vyžiadala život motorkára",
+      "link": "https://www.teraz.sk/regiony/kosicki-policajti-zaznamenali-viacero/984474-clanok.html",
+      "time": "2026-08-12T10:50:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Šéf štátnej ochranky mal dopravnú nehodu v Bratislave. Mikulec zverejnil viacero závažných tvrdení",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2022869-sef-statnej-ochranky-mal-dopravnu-nehodu-v-bratislave-mikulec-zverejnil-viacero-zavaznych-tvrdeni?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-12T09:48:21+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/12/2517433/4x3-medium/dopravna-nehoda-policia-pavol-krejci.jpg?v=GxU"
+    },
+    {
+      "title": "Piešťany prerušili pre haváriu vodovodu dodávku vody na Štefánikovej",
+      "link": "https://www.trnavak.sk/clanky/11752/na-verejnom-vodovode-v-piestanoch-doslo-k-havarii-tuto-lokalitu-docasne-odstavili-od-pitnej-vody",
+      "time": "2026-08-12T09:14:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786525683-na-verejnom-vodovode-v-piestanoch-doslo-k-havarii-tuto-lokalitu-docasne-odstavili-od-pitnej-vody.webp"
+    },
+    {
+      "title": "V centre Košíc sa zrazil Peugeot s Hyundaiom, blokujú časť cesty, postojíte si v kolóne",
+      "link": "https://www.kosicak.sk/clanky/13662/v-centre-kosic-sa-zrazil-peugeot-s-hyundaiom-blokuju-cast-cesty-postojite-si-v-kolone",
+      "time": "2026-08-12T09:02:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786525456-v-centre-kosic-sa-zrazil-peugeot-s-hyundaiom-blokuju-cast-cesty-postojite-si-v-kolone.webp"
+    },
+    {
+      "title": "Mikulec tvrdí, že pri nehode v Bratislave mohol byť vysokopostavený riaditeľ",
+      "link": "https://www.bratislavak.sk/clanky/14914/eminister-mikulec-tvrdi-ze-ucastnikom-nehody-v-bratislave-bol-riaditel-vladnej-ochranky-policia-reaguje",
+      "time": "2026-08-12T08:50:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786532736-eminister-mikulec-tvrdi-ze-ucastnikom-nehody-v-bratislave-bol-riaditel-vladnej-ochranky-policia-reaguje.webp"
+    },
     {
       "title": "Biskupice smútia za Dávidom a Damiánom. Dvaja mladí hasiči zahynuli pri tragickej nehode",
       "link": "https://www.bystricak.sk/clanky/12658/tragicka-nehoda-pri-lucenci-pripravila-o-zivot-dvoch-mladych-hasicov-davida-a-damiana-lucia-sa-s-nimi-aj-kolegovia",
@@ -11,15 +56,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786520840-tragicka-nehoda-pri-lucenci-pripravila-o-zivot-dvoch-mladych-hasicov-davida-a-damiana-lucia-sa-s-nimi-aj-kolegovia.webp"
-    },
-    {
-      "title": "Lesy mesta Spišská Belá naďalej odstraňujú škody po búrke",
-      "link": "https://www.teraz.sk/regiony/lesy-mesta-spisska-bela-nadalej-odst/984379-clanok.html",
-      "time": "2026-08-12T06:59:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
     },
     {
       "title": "Nehoda pred Prístavným mostom brzdí Bratislavu, Sitinu uzatvárajú",

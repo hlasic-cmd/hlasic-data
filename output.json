@@ -1,25 +1,43 @@
 {
-  "generated_at": "2026-08-12T04:29:59.505933+00:00",
+  "generated_at": "2026-08-12T08:50:38.676475+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 4,
   "items": [
     {
-      "title": "Hasiči z Bratislavského kraja mali v júni 481 výjazdov",
-      "link": "https://www.teraz.sk/regiony/hasici-z-bratislavskeho-kraja-mali-v-j/984331-clanok.html",
-      "time": "2026-08-11T18:42:00+00:00",
+      "title": "Biskupice smútia za Dávidom a Damiánom. Dvaja mladí hasiči zahynuli pri tragickej nehode",
+      "link": "https://www.bystricak.sk/clanky/12658/tragicka-nehoda-pri-lucenci-pripravila-o-zivot-dvoch-mladych-hasicov-davida-a-damiana-lucia-sa-s-nimi-aj-kolegovia",
+      "time": "2026-08-12T07:50:00+00:00",
       "cat": "nehoda",
-      "region": "bratislavsky",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786520840-tragicka-nehoda-pri-lucenci-pripravila-o-zivot-dvoch-mladych-hasicov-davida-a-damiana-lucia-sa-s-nimi-aj-kolegovia.webp"
+    },
+    {
+      "title": "Lesy mesta Spišská Belá naďalej odstraňujú škody po búrke",
+      "link": "https://www.teraz.sk/regiony/lesy-mesta-spisska-bela-nadalej-odst/984379-clanok.html",
+      "time": "2026-08-12T06:59:00+00:00",
+      "cat": "burka",
+      "region": "presovsky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Polícia pátra po 17-ročnej Daniele a 16-ročnej Adriane. Jedna zmizla v Seredi, druhá v Galante vyskočila z auta",
-      "link": "https://www.trnavak.sk/clanky/11741/policia-patra-po-dvoch-tinedzerkach-jedna-zmizla-zo-zariadenia-v-seredi-druha-v-galante-vyskocila-z-auta",
-      "time": "2026-08-11T16:50:00+00:00",
-      "cat": "patranie",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786466839-policia-patra-po-dvoch-tinedzerkach-jedna-zmizla-zo-zariadenia-v-seredi-druha-v-galante-vyskocila-z-auta.webp"
+      "title": "Nehoda pred Prístavným mostom brzdí Bratislavu, Sitinu uzatvárajú",
+      "link": "https://www.bratislavak.sk/clanky/14912/v-bratislave-sa-po-nehode-tvoria-kolony-tunel-sitina-priebezne-uzatvaraju",
+      "time": "2026-08-12T06:10:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786515493-v-bratislave-sa-po-nehode-tvoria-kolony-tunel-sitina-priebezne-uzatvaraju.webp"
+    },
+    {
+      "title": "Počas sucha nepáľte ostrými. Kaliňák po požiaroch sľubuje lepšie pravidlá pre vojenské priestory",
+      "link": "https://dennikn.sk/5500787/pocas-sucha-nepalte-ostrymi-kalinak-po-poziaroch-slubuje-lepsie-pravidla-pre-vojenske-priestory/",
+      "time": "2026-08-12T05:00:20+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "dennikn.sk",
+      "image": "https://img.projektn.sk/wp-static/2026/08/black-hawk-hasi.jpg?w=450&amp;h=300&amp;fit=crop&amp;fm=jpg&amp;q=85"
     }
   ]
 }

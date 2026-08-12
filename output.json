@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-12T14:47:44.505049+00:00",
+  "generated_at": "2026-08-12T18:04:54.186174+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 11,
   "items": [
+    {
+      "title": "Nehoda v Dúbravke obmedzila električky, zasahujú záchranári",
+      "link": "https://www.bratislavak.sk/clanky/14932/nehoda-v-dubravke-zastavila-elektricky-na-mieste-zasahuju-zachranne-zlozky",
+      "time": "2026-08-12T17:50:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786557079-nehoda-v-dubravke-zastavila-elektricky-na-mieste-zasahuju-zachranne-zlozky.webp"
+    },
     {
       "title": "Trnavskí policajti pomáhali pri nehode žene s dieťaťom. Za ich prístup im prišlo krásne poďakovanie",
       "link": "https://www.trnavak.sk/clanky/11761/nestihla-sa-podakovat-osobne-tak-im-napisala-trnavski-policajti-dostali-milu-spravu-po-zasahu-pri-nehode",
@@ -67,15 +76,6 @@
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786537848-video-nedaleko-sidliska-v-partizanskom-vypukol-lesny-poziar-zasiahol-velku-plochu-hasili-ho-niekolko-hodin.webp"
     },
     {
-      "title": "Hasiči likvidovali rozsiahly požiar lesa v Partizánskom",
-      "link": "https://www.teraz.sk/regiony/hasici-likvidovali-rozsiahly-poziar-le/984518-clanok.html",
-      "time": "2026-08-12T12:32:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "P. Krejčí odmieta tvrdenia R. Mikulca k jeho dopravnej udalosti",
       "link": "https://www.teraz.sk/slovensko/p-krejci-odmieta-tvrdenia-r-mikulca/984513-clanok.html",
       "time": "2026-08-12T12:23:00+00:00",
@@ -94,15 +94,6 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786536646-na-kysuciach-sa-prevratilo-vozidlo-s-betonom-opity-vodic-nezvladol-zakrutu-celi-obvineniu.webp"
     },
     {
-      "title": "Polícia pátra po 40-ročnom Martinovi Barátovi z Piešťan",
-      "link": "https://www.trnavak.sk/clanky/11747/nevideli-ste-40-rocneho-martina-z-piestan-policia-ho-vyhlasila-za-nezvestneho-ma-viac-ako-180-centimetrov",
-      "time": "2026-08-12T11:30:00+00:00",
-      "cat": "patranie",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786519067-nevideli-ste-40rocneho-martina-z-piestan-policia-ho-vyhlasila-za-nezvestneho-ma-viac-ako-180-centimetrov.webp"
-    },
-    {
       "title": "Mikulec vzniesol vážne tvrdenia o nehode šéfa štátnej ochranky. Krejčí ich odmieta, fúkal s negatívnym výsledkom",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2022869-sef-statnej-ochranky-mal-dopravnu-nehodu-v-bratislave-mikulec-zverejnil-viacero-zavaznych-tvrdeni?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-12T09:48:21+00:00",
@@ -110,24 +101,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/12/2517433/4x3-medium/dopravna-nehoda-policia-pavol-krejci.jpg?v=GxU"
-    },
-    {
-      "title": "V centre Košíc sa zrazil Peugeot s Hyundaiom, blokujú časť cesty, postojíte si v kolóne",
-      "link": "https://www.kosicak.sk/clanky/13662/v-centre-kosic-sa-zrazil-peugeot-s-hyundaiom-blokuju-cast-cesty-postojite-si-v-kolone",
-      "time": "2026-08-12T09:02:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786525456-v-centre-kosic-sa-zrazil-peugeot-s-hyundaiom-blokuju-cast-cesty-postojite-si-v-kolone.webp"
-    },
-    {
-      "title": "Po nehode vlakov bojovala nielen so zraneniami. „Skladali nám telefóny, na maily neodpovedali,“ opísala zranená boj o odškodnenie",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2020593-po-nehode-vlakov-pri-pezinku-bojovala-nielen-so-zraneniami-skladali-nam-telefony-na-maily-neodpovedali-opisuje-zranena-boj-o-odskodnenie?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-12T04:00:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/07/2515991/4x3-medium/kolaz-zrazka-vlakov-pezinok.jpg?v=T/w"
     }
   ]
 }

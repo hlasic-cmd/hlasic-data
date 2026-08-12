@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T18:04:54.186174+00:00",
+  "generated_at": "2026-08-12T20:22:01.050123+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 9,
   "items": [
     {
       "title": "Nehoda v Dúbravke obmedzila električky, zasahujú záchranári",
@@ -40,15 +40,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Chlapec mal spadnúť po strete s cyklistkou na trase pri Piešťanoch. Podľa rodiny odišla bez poskytnutia pomoci",
-      "link": "https://www.trnavak.sk/clanky/11723/nehoda-na-cyklotrase-v-piestanoch-poburila-ludi-zranenemu-chlapcovi-vraj-zena-co-pad-sposobila-nepomohla",
-      "time": "2026-08-12T13:20:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786523728-nehoda-na-cyklotrase-v-piestanoch-poburila-ludi-zranenemu-chlapcovi-vraj-zena-co-pad-sposobila-nepomohla.webp"
-    },
-    {
       "title": "Na celom Slovensku platí čas zvýšeného nebezpečenstva vzniku požiaru",
       "link": "https://www.teraz.sk/slovensko/na-celom-slovensku-plati-cas-zvysen/984531-clanok.html",
       "time": "2026-08-12T13:14:00+00:00",
@@ -56,15 +47,6 @@
       "region": null,
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "V Trnavskom kraji odhalili desiatky ľudí pod vplyvom, alkohol úradoval aj pri niekoľkých nehodách",
-      "link": "https://www.trnavak.sk/clanky/11758/hrozive-cisla-z-trnavskych-ciest-za-volant-si-sadli-desiatky-opitych-vodicov-alkohol-zohral-ulohu-aj-pri-nehodach",
-      "time": "2026-08-12T12:50:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786532669-hrozive-cisla-z-trnavskych-ciest-za-volant-si-sadli-desiatky-opitych-vodicov-alkohol-zohral-ulohu-aj-pri-nehodach.webp"
     },
     {
       "title": "Lesný požiar pri sídlisku v Partizánskom zasiahol 71-tisíc m²",
@@ -85,15 +67,6 @@
       "image": null
     },
     {
-      "title": "Na Makove sa prevrátilo vozidlo s betónom. Vodič nafúkal 1,4 promile",
-      "link": "https://www.zilinak.sk/clanky/42249/na-kysuciach-sa-prevratilo-vozidlo-s-betonom-opity-vodic-nezvladol-zakrutu-celi-obvineniu",
-      "time": "2026-08-12T12:10:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786536646-na-kysuciach-sa-prevratilo-vozidlo-s-betonom-opity-vodic-nezvladol-zakrutu-celi-obvineniu.webp"
-    },
-    {
       "title": "Mikulec vzniesol vážne tvrdenia o nehode šéfa štátnej ochranky. Krejčí ich odmieta, fúkal s negatívnym výsledkom",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2022869-sef-statnej-ochranky-mal-dopravnu-nehodu-v-bratislave-mikulec-zverejnil-viacero-zavaznych-tvrdeni?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-12T09:48:21+00:00",
@@ -101,6 +74,15 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/12/2517433/4x3-medium/dopravna-nehoda-policia-pavol-krejci.jpg?v=GxU"
+    },
+    {
+      "title": "Mikulec tvrdí, že pri nehode v Bratislave mohol byť vysokopostavený riaditeľ",
+      "link": "https://www.bratislavak.sk/clanky/14914/exminister-mikulec-tvrdi-ze-ucastnikom-nehody-v-bratislave-bol-riaditel-vladnej-ochranky-ten-na-obvinenia-reaguje",
+      "time": "2026-08-12T08:50:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786539590-exminister-mikulec-tvrdi-ze-ucastnikom-nehody-v-bratislave-bol-riaditel-vladnej-ochranky-ten-na-obvinenia-reaguje.webp"
     }
   ]
 }

@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-13T15:32:50.020417+00:00",
+  "generated_at": "2026-08-13T18:40:21.785148+00:00",
   "max_age_hours": 12,
-  "count": 17,
+  "count": 15,
   "items": [
+    {
+      "title": "Za Levicami došlo k nehode. Tento úsek je uzavretý",
+      "link": "https://www.nitrak.sk/clanky/11542/nehoda-za-levicami-skomplikovala-dopravu-usek-je-neprejazdny-vodici-musia-ist-obchadzkou",
+      "time": "2026-08-13T15:39:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786635503-nehoda-za-levicami-skomplikovala-dopravu-usek-je-neprejazdny-vodici-musia-ist-obchadzkou.webp"
+    },
     {
       "title": "Hasiči zasahovali pri požiari pri obci Hýľov",
       "link": "https://www.teraz.sk/regiony/hasici-zasahovali-pri-poziari-pri-obci/984817-clanok.html",
@@ -85,15 +94,6 @@
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786551947-cele-slovensko-je-v-cervenom-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
     },
     {
-      "title": "Nehoda pri Žiline: Na ceste od Martina je čiastočne blokovaný pruh",
-      "link": "https://www.zilinak.sk/clanky/42273/dopravna-nehoda-komplikuje-vjazd-do-ziliny-ciastocne-blokovany-je-pruh-od-martina",
-      "time": "2026-08-13T12:20:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/02_aktualne.webp"
-    },
-    {
       "title": "VEĽKÉ RIZIKO lesných požiarov: Hasiči pripomínajú viaceré zásady",
       "link": "https://www.teraz.sk/slovensko/velke-riziko-lesnych-poziarov-hasi/984738-clanok.html",
       "time": "2026-08-13T11:35:00+00:00",
@@ -101,24 +101,6 @@
       "region": null,
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Viaceré nehody v Nitrianskom kraji: Pri Šali polícia uzavrela cestu, v Komárne zrazilo auto cyklistu",
-      "link": "https://www.nitrak.sk/clanky/11539/v-nitrianskom-kraji-doslo-k-viacerym-nehodam-pri-sali-museli-uzavriet-cestu-v-komarne-zrazilo-auto-cyklistu",
-      "time": "2026-08-13T11:10:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786619378-v-nitrianskom-kraji-doslo-k-viacerym-nehodam-pri-sali-museli-uzavriet-cestu-v-komarne-zrazilo-auto-cyklistu.webp"
-    },
-    {
-      "title": "V Pravenci horela strecha výrobnej haly, na mieste zasahovali hasiči",
-      "link": "https://www.trencinak.sk/clanky/13388/plamene-pohltili-strechu-vyrobnej-haly-pri-prievidzi-s-poziarom-bojovalo-viacero-hasicov",
-      "time": "2026-08-13T10:30:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786616510-plamene-pohltili-strechu-vyrobnej-haly-pri-prievidzi-s-poziarom-bojovalo-viacero-hasicov.webp"
     },
     {
       "title": "Slovensko čaká veľká zmena počasia: Po horúčavách prídu búrky a dážď aj do Nitrianskeho kraja",
@@ -130,22 +112,22 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786613415-koniec-sucha-na-slovensku-po-horucavach-sa-k-nam-konecne-blizi-velka-zmena-pocasia-predpovede-vyzeraju-nadejne.webp"
     },
     {
-      "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
-      "link": "https://www.bystricak.sk/clanky/12678/cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
-      "time": "2026-08-13T10:10:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786611191-cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
+      "title": "Pri nehode pred tunelom Branisko zomrela vodička Števka, správa mimoriadne zasiahla kolegov",
+      "link": "https://www.kosicak.sk/clanky/13679/video-pred-tunelom-na-vychode-zomrela-mama-stevka-kolegovia-z-prace-aj-utulku-jej-posielaju-dojimavy-odkaz-do-neba",
+      "time": "2026-08-13T09:55:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786610972-video-pred-tunelom-na-vychode-zomrela-mama-stevka-kolegovia-z-prace-aj-utulku-jej-posielaju-dojimavy-odkaz-do-neba.webp"
     },
     {
-      "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
-      "link": "https://www.bratislavak.sk/clanky/14930/cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
-      "time": "2026-08-13T09:15:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786611191-cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
+      "title": "Pri nehode pred tunelom Branisko zomrela vodička Števka, správa mimoriadne zasiahla kolegov",
+      "link": "https://www.presovak.sk/clanky/14960/video-tragedia-pri-branisku-si-vyziadala-zivot-stevky-kolegovia-z-prace-aj-utulku-jej-posielaju-dojimavy-odkaz-do-neba",
+      "time": "2026-08-13T07:41:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786606545-video-tragedia-pri-branisku-si-vyziadala-zivot-stevky-kolegovia-z-prace-aj-utulku-jej-posielaju-dojimavy-odkaz-do-neba.webp"
     },
     {
       "title": "Pozor na komplikácie pri Vranove: Po nehode uzavreli frekventovanú cestu I/18",

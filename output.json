@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T22:25:35.647928+00:00",
+  "generated_at": "2026-08-13T05:17:29.511553+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 1,
   "items": [
     {
       "title": "Nehoda v Dúbravke obmedzila električky, zasahujú záchranári",
@@ -11,24 +11,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786557079-nehoda-v-dubravke-zastavila-elektricky-na-mieste-zasahuju-zachranne-zlozky.webp"
-    },
-    {
-      "title": "Na celom Slovensku platí čas zvýšeného nebezpečenstva vzniku požiaru",
-      "link": "https://www.teraz.sk/slovensko/na-celom-slovensku-plati-cas-zvysen/984531-clanok.html",
-      "time": "2026-08-12T13:14:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "P. Krejčí odmieta tvrdenia R. Mikulca k jeho dopravnej udalosti",
-      "link": "https://www.teraz.sk/slovensko/p-krejci-odmieta-tvrdenia-r-mikulca/984513-clanok.html",
-      "time": "2026-08-12T12:23:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

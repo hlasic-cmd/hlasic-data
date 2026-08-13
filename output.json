@@ -1,16 +1,133 @@
 {
-  "generated_at": "2026-08-13T05:17:29.511553+00:00",
+  "generated_at": "2026-08-13T09:42:05.405243+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 14,
   "items": [
     {
-      "title": "Nehoda v Dúbravke obmedzila električky, zasahujú záchranári",
-      "link": "https://www.bratislavak.sk/clanky/14932/nehoda-v-dubravke-zastavila-elektricky-na-mieste-zasahuju-zachranne-zlozky",
-      "time": "2026-08-12T17:50:00+00:00",
+      "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
+      "link": "https://www.bratislavak.sk/clanky/14930/cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
+      "time": "2026-08-13T09:15:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786611191-cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
+    },
+    {
+      "title": "V osade Lubina horela jedna z chatrčí, príčina je neznáma",
+      "link": "https://www.kosicak.sk/clanky/13681/v-kosickej-osade-lubina-v-noci-vypukol-poziar-plamene-pohltili-jednu-z-chatrci",
+      "time": "2026-08-13T09:15:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786612098-v-kosickej-osade-lubina-v-noci-vypukol-poziar-plamene-pohltili-jednu-z-chatrci.webp"
+    },
+    {
+      "title": "Nehoda pri Bučine vo Zvolene, zasahujú všetky záchranné zložky",
+      "link": "https://www.bystricak.sk/clanky/12676/vo-zvolene-na-semaforovej-krizovatke-doslo-k-nehode-zasahuju-tam-vsetky-zachranne-zlozky",
+      "time": "2026-08-13T08:26:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786609568-vo-zvolene-na-semaforovej-krizovatke-doslo-k-nehode-zasahuju-tam-vsetky-zachranne-zlozky.webp"
+    },
+    {
+      "title": "Auto narazilo do električky, doprava v Petržalke je obmedzená",
+      "link": "https://www.bratislavak.sk/clanky/14942/dopravu-v-bratislave-skomplikovala-dalsia-nehoda-auta-a-elektricky-vodici-v-petrzalke-musia-ratat-s-obmedzenim",
+      "time": "2026-08-13T08:25:00+00:00",
       "cat": "nehoda",
       "region": "bratislavsky",
       "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786557079-nehoda-v-dubravke-zastavila-elektricky-na-mieste-zasahuju-zachranne-zlozky.webp"
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786609635-dopravu-v-bratislave-skomplikovala-dalsia-nehoda-auta-a-elektricky-vodici-v-petrzalke-musia-ratat-s-obmedzenim.webp"
+    },
+    {
+      "title": "Dievča skolabovalo od horúčavy, pomohli policajti v Liptovskej Teplej",
+      "link": "https://www.zilinak.sk/clanky/42257/pocas-prechadzky-na-liptove-skolabovalo-dievca-nahodou-isli-okolo-policajti-aj-s-rodinou-ho-odviezli-do-nemocnice",
+      "time": "2026-08-13T08:00:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786600694-pocas-prechadzky-na-liptove-skolabovalo-dievca-nahodou-isli-okolo-policajti-aj-s-rodinou-ho-odviezli-do-nemocnice.webp"
+    },
+    {
+      "title": "Pri nehode pred tunelom Branisko zomrela vodička Števka, správa mimoriadne zasiahla kolegov",
+      "link": "https://www.presovak.sk/clanky/14960/video-tragedia-pri-branisku-si-vyziadala-zivot-stevky-kolegovia-z-prace-aj-utulku-jej-posielaju-dojimavy-odkaz-do-neba",
+      "time": "2026-08-13T07:41:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786606545-video-tragedia-pri-branisku-si-vyziadala-zivot-stevky-kolegovia-z-prace-aj-utulku-jej-posielaju-dojimavy-odkaz-do-neba.webp"
+    },
+    {
+      "title": "V Petržalke horelo kontajnerové stojisko: Plamene zničili auto a spôsobili škodu 27-tisíc eur",
+      "link": "https://www.aktuality.sk/clanok/mav63yG/v-petrzalke-horelo-kontajnerove-stojisko-plamene-znicili-auto-a-sposobili-skodu-27-tisic-eur/",
+      "time": "2026-08-13T07:40:59+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Pozor na komplikácie pri Vranove: Po nehode uzavreli frekventovanú cestu I/18",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2023435-pozor-na-komplikacie-pri-vranove-po-nehode-uzavreli-frekventovanu-cestu-i18?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-13T07:32:26+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/06/17/4x3-medium/dopravna-nehoda-vodic-zrazka-policia-kamion-podzamcok_01.jpg?v=O6Q"
+    },
+    {
+      "title": "Cesta I/18 v okrese Vranov nad Topľou je pre vážnu dopravnú nehodu obojsmerne uzavretá",
+      "link": "https://www.aktuality.sk/clanok/EveX4h9/cesta-i18-v-okrese-vranov-nad-toplou-je-pre-vaznu-dopravnu-nehodu-obojsmerne-uzavreta/",
+      "time": "2026-08-13T07:26:34+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Nehoda vo Vranovskom okrese. Premávka je spustená striedavo cez jeden jazdný pruh",
+      "link": "https://www.presovak.sk/clanky/14961/nehoda-vo-vranovskom-okrese-premavka-je-spustena-striedavo-cez-jeden-jazdny-pruh",
+      "time": "2026-08-13T07:15:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786609666-nehoda-vo-vranovskom-okrese-premavka-je-spustena-striedavo-cez-jeden-jazdny-pruh.webp"
+    },
+    {
+      "title": "Požiar auta v obci neďaleko Galanty poškodil aj druhé vozidlo, škoda sa vyšplhala na tisíce eur",
+      "link": "https://www.trnavak.sk/clanky/11768/foto-dramaticka-noc-pri-galante-auto-nadranom-zachvatili-plamene-poziar-napachal-tisicove-skody",
+      "time": "2026-08-13T06:40:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786602788-foto-dramaticka-noc-pri-galante-auto-nadranom-zachvatili-plamene-poziar-napachal-tisicove-skody.webp"
+    },
+    {
+      "title": "V Bratislave nepremáva električka pre dopravnú nehodu",
+      "link": "https://www.bratislavak.sk/clanky/14936/hromadna-zrazka-aut-v-bratislave-vas-zdrzi-cestou-do-prace-dalsia-nehoda-odstavila-elektricky",
+      "time": "2026-08-13T06:15:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786601721-hromadna-zrazka-aut-v-bratislave-vas-zdrzi-cestou-do-prace-dalsia-nehoda-odstavila-elektricky.webp"
+    },
+    {
+      "title": "Nehoda na R2 pri Žiari nad Hronom spôsobila zdržanie v oboch smeroch",
+      "link": "https://www.bystricak.sk/clanky/12671/dopravu-na-r2-pri-ziari-nad-hronom-brzdi-nehoda",
+      "time": "2026-08-13T06:09:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Nehoda dodávky s autom zablokovala kruhový objazd pod Zoborom",
+      "link": "https://www.nitrak.sk/clanky/11523/na-kruhovom-objazde-pod-zoborom-sa-rano-zrazila-dodavka-s-autom-ratajte-so-zdrzanim",
+      "time": "2026-08-13T06:07:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
     }
   ]
 }

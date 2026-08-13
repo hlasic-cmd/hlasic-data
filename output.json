@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T20:26:17.090512+00:00",
+  "generated_at": "2026-08-13T22:27:02.231651+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 6,
   "items": [
     {
       "title": "Za Levicami došlo k nehode. Tento úsek je uzavretý",
@@ -31,33 +31,6 @@
       "image": null
     },
     {
-      "title": "Dopravu v Nitre brzdí nehoda. Na ceste sa zrazilo auto s motorkou",
-      "link": "https://www.nitrak.sk/clanky/11541/pozor-na-nehodu-v-nitre-po-zrazke-osobneho-auta-s-motorkou-sa-vodici-zdrzia-v-oboch-smeroch",
-      "time": "2026-08-13T14:31:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Požiar pri Podbanskom: V lese zasahuje 25 hasičov a 12 kusov techniky",
-      "link": "https://www.zilinak.sk/clanky/42277/pri-podbanskom-hori-les-na-mieste-zasahuje-25-hasicov-a-12-kusov-techniky",
-      "time": "2026-08-13T14:28:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Na vjazde do Spišského Štvrtka zrazilo auto motorkára. Vodičov čakalo zdržanie",
-      "link": "https://www.presovak.sk/clanky/14981/na-vjazde-do-spisskeho-stvrtka-zrazilo-auto-motorkara-vodicov-cakalo-zdrzanie",
-      "time": "2026-08-13T13:22:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786632006-na-vjazde-do-spisskeho-stvrtka-zrazilo-auto-motorkara-vodicov-cakalo-zdrzanie.webp"
-    },
-    {
       "title": "Kolobežkár narazil do päťročného dieťaťa a odišiel. Mama dcéru odniesla na rukách do nemocnice",
       "link": "https://korzar.sme.sk/kosice/c/kolobezkar-narazil-do-patrocneho-dietata-a-odisiel-mama-dceru-odniesla-na-rukach-do-nemocnice?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
       "time": "2026-08-13T13:17:00+00:00",
@@ -83,15 +56,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786613415-koniec-sucha-na-slovensku-po-horucavach-sa-k-nam-konecne-blizi-velka-zmena-pocasia-predpovede-vyzeraju-nadejne.webp"
-    },
-    {
-      "title": "Pri nehode pred tunelom Branisko zomrela vodička Števka, správa mimoriadne zasiahla kolegov",
-      "link": "https://www.kosicak.sk/clanky/13679/video-pred-tunelom-na-vychode-zomrela-mama-stevka-kolegovia-z-prace-aj-utulku-jej-posielaju-dojimavy-odkaz-do-neba",
-      "time": "2026-08-13T09:55:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786610972-video-pred-tunelom-na-vychode-zomrela-mama-stevka-kolegovia-z-prace-aj-utulku-jej-posielaju-dojimavy-odkaz-do-neba.webp"
     }
   ]
 }

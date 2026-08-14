@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-14T11:28:35.617469+00:00",
+  "generated_at": "2026-08-14T14:40:48.551954+00:00",
   "max_age_hours": 12,
   "count": 14,
   "items": [
+    {
+      "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
+      "link": "https://www.trnavak.sk/clanky/11772/cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
+      "time": "2026-08-14T14:00:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786611191-cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
+    },
+    {
+      "title": "FOTO: Pri Vrábľoch zasahovalo viac ako 40 hasičov. Požiar zasiahol aj les, zhorelo spolu 81 hektárov",
+      "link": "https://www.nitrak.sk/clanky/11554/foto-mohutny-poziar-pri-vrabloch-sa-rozsiril-aj-na-okolity-les-celkovo-zhorelo-az-81-hektarov-uzemia",
+      "time": "2026-08-14T13:50:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786703134-foto-mohutny-poziar-pri-vrabloch-sa-rozsiril-aj-na-okolity-les-celkovo-zhorelo-az-81-hektarov-uzemia.webp"
+    },
+    {
+      "title": "Dostali všetci naraz zelenú? Polícia po dvoch nehodách električky skontrolovala petržalské semafory",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2024379-dostali-vsetci-naraz-zelenu-policia-po-dvoch-nehodach-elektricky-skontrolovala-petrzalske-semafory?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-14T13:06:25+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/04/02/4x3-medium/zaber-na-elektricku-v-depe-krasnany_02.jpg?v=T/w"
+    },
+    {
+      "title": "Polícia po nehodách električiek v Petržalke chybu semaforov nenašla",
+      "link": "https://www.bratislavak.sk/clanky/14973/video-policia-po-dvoch-nehodach-elektriciek-preverila-semafory-v-petrzalke-toto-su-ich-zistenia",
+      "time": "2026-08-14T13:01:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786710809-video-policia-po-dvoch-nehodach-elektriciek-preverila-semafory-v-petrzalke-toto-su-ich-zistenia.webp"
+    },
+    {
+      "title": "Pole pri železničnej trati zachvátil požiar. Zasahovali hasiči z troch zborov",
+      "link": "https://www.zilinak.sk/clanky/42297/foto-poziar-pri-zeleznicnej-trati-v-turci-zamestnal-tri-hasicske-zbory-horelo-strnisko-aj-sucha-trava",
+      "time": "2026-08-14T12:30:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786709624-foto-poziar-pri-zeleznicnej-trati-v-turci-zamestnal-tri-hasicske-zbory-horelo-strnisko-aj-sucha-trava.webp"
+    },
+    {
+      "title": "Nehoda medzi Bučanmi a Madunicami spomaľuje premávku pri Trakoviciach",
+      "link": "https://www.trnavak.sk/clanky/11798/nedaleko-trnavy-doslo-k-nehode-premavka-sa-v-useku-spomaluje",
+      "time": "2026-08-14T12:23:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "V Prievidzi sa zrazilo auto s dodávkou, zdržanie je v oboch smeroch",
+      "link": "https://www.trencinak.sk/clanky/13408/v-prievidzi-sa-zrazilo-auto-s-dodavkou-vodici-sa-musia-pripravit-na-zdrzanie",
+      "time": "2026-08-14T12:19:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Dym a oheň pri Humennom: Ľudia upozorňujú na horiace smetisko",
+      "link": "https://www.presovak.sk/clanky/14991/foto-pri-humennom-ma-horiet-skladka-odpadu-ludia-hlasia-poziar-a-husty-dym",
+      "time": "2026-08-14T12:00:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786708576-foto-pri-humennom-ma-horiet-skladka-odpadu-ludia-hlasia-poziar-a-husty-dym.webp"
+    },
     {
       "title": "Pozor na nehodu v obci pri Veľkých Kapušanoch",
       "link": "https://www.kosicak.sk/clanky/13706/v-obci-nedaleko-velkych-kapusian-hlasite-dopravnu-nehodu-jedno-z-aut-sa-prevratilo-do-rigolu",
@@ -22,7 +94,7 @@
       "image": null
     },
     {
-      "title": "Šokujúci čin. Opitý muž so zákazom šoférovať viedol auto plné deti, nehodu v poli neprežil 15-ročný chlapec",
+      "title": "Šokujúci čin. Opitý muž so zákazom šoférovať viedol auto plné detí, nehodu v poli neprežil 15-ročný chlapec",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2024249-sokujuci-cin-opity-muz-so-zakazom-soferovat-viedol-auto-plne-deti-nehodu-v-poli-neprezil-15-rocny-chlapec?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-14T10:26:01+00:00",
       "cat": "nehoda",
@@ -40,24 +112,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786700775-mlady-motocyklista-nezvladol-zakrutu-pri-ozdanoch-po-smyku-narazil-do-zvodidiel-zasahoval-aj-vrtulnik.webp"
     },
     {
-      "title": "Trnavský región čaká ďalší horúci víkend, následne dorazia dážď a búrky",
-      "link": "https://www.trnavak.sk/clanky/11786/horucavy-cez-vikend-vyvrcholia-zaciatok-tyzdna-vsak-do-trnavskeho-kraja-prinesie-ochladenie-i-burky",
-      "time": "2026-08-14T09:30:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786691028-horucavy-cez-vikend-vyvrcholia-zaciatok-tyzdna-vsak-do-trnavskeho-kraja-prinesie-ochladenie-i-burky.webp"
-    },
-    {
-      "title": "Motorkár Anton (†45) zomrel pri nehode, smútia za ním aj kolegovia hasiči",
-      "link": "https://www.zilinak.sk/clanky/42283/hasic-anton-45-z-oravy-si-isiel-pre-novu-motorku-domov-sa-uz-nevratil-zahynul-po-zrazke-pocas-testovacej-jazdy",
-      "time": "2026-08-14T09:30:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786693054-hasic-anton-45-z-oravy-si-isiel-pre-novu-motorku-domov-sa-uz-nevratil-zahynul-po-zrazke-pocas-testovacej-jazdy.webp"
-    },
-    {
       "title": "Braväcovo pozýva dobrovoľníkov na pomoc piatim rodinám",
       "link": "https://www.bystricak.sk/clanky/12685/bravacovo-sa-nevzdava-obec-po-nicivom-poziari-zvolava-dobrovolnikov-na-velku-brigadu-pridat-sa-moze-kazdy",
       "time": "2026-08-14T09:30:00+00:00",
@@ -67,33 +121,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786632955-bravacovo-sa-nevzdava-obec-po-nicivom-poziari-zvolava-dobrovolnikov-na-velku-brigadu-pridat-sa-moze-kazdy.webp"
     },
     {
-      "title": "FOTO: Po požiari ostal rodinný dom vo Veľkých Kozmálovciach neobývateľný, obec pripravuje zbierku",
-      "link": "https://www.nitrak.sk/clanky/11550/foto-plamene-v-noci-zachvatili-rodinny-dom-vo-velkych-kozmalovciach-je-neobyvatelny-obec-pripravuje-zbierku",
-      "time": "2026-08-14T09:20:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786696098-foto-plamene-v-noci-zachvatili-rodinny-dom-vo-velkych-kozmalovciach-je-neobyvatelny-obec-pripravuje-zbierku.webp"
-    },
-    {
-      "title": "Polícia pátrala po 77-ročnom Pavlovi z Levíc, ktorý odišiel z domu. Napokon však prišla dobrá správa",
-      "link": "https://www.nitrak.sk/clanky/11545/patranie-po-77-rocnom-pavlovi-z-levic-ma-stastny-koniec-nezvestneho-seniora-pomohla-najst-vsimava-zena",
-      "time": "2026-08-14T07:20:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786696953-patranie-po-77rocnom-pavlovi-z-levic-ma-stastny-koniec-nezvestneho-seniora-pomohla-najst-vsimava-zena.webp"
-    },
-    {
-      "title": "Tragédia na Ťahanovciach: Motorkár Anton (†45) zomrel pri nehode, smútia za ním aj kolegovia hasiči",
-      "link": "https://www.kosicak.sk/clanky/13699/hasic-anton-45-prisiel-do-kosic-pre-novu-motorku-domov-sa-uz-nevratil-zahynul-po-zrazke-pocas-testovacej-jazdy",
-      "time": "2026-08-14T07:15:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786690787-hasic-anton-45-prisiel-do-kosic-pre-novu-motorku-domov-sa-uz-nevratil-zahynul-po-zrazke-pocas-testovacej-jazdy.webp"
-    },
-    {
       "title": "Cesta k letisku sa výrazne predĺžila. Na Prístavnom moste sa zrazili tri autá a motorka",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2024079-cesta-k-letisku-sa-vyrazne-predlzila-na-pristavnom-moste-sa-zrazili-tri-auta-a-motorka?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-14T06:52:41+00:00",
@@ -101,33 +128,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/02/05/4x3-medium/pristavny-most-d1-nehoda.jpg?v=7Oo"
-    },
-    {
-      "title": "Bratislavu brzdia nehody a práce, Tunel Sitina priebežne uzatvárajú",
-      "link": "https://www.bratislavak.sk/clanky/14959/hromadna-nehoda-troch-aut-a-motorky-ochromila-pristavny-most-dopravu-v-bratislave-brzdia-aj-prace-na-cestach",
-      "time": "2026-08-14T06:14:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786691303-hromadna-nehoda-troch-aut-a-motorky-ochromila-pristavny-most-dopravu-v-bratislave-brzdia-aj-prace-na-cestach.webp"
-    },
-    {
-      "title": "Osemčlenná posádka vozidla a desivá nehoda: Po tragédii prišlo hrozné odhalenie",
-      "link": "https://www1.pluska.sk/krimi/osemclenna-posadka-vozidla-a-desiva-nehoda-pripad-ma-nechutnu-dohru",
-      "time": "2026-08-14T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/218/21828936-57b3-441b-807f-9773ee0c444a.webp"
-    },
-    {
-      "title": "V Bratislave sa zrazili tri autá a motorka: Tvoria sa rozsiahle kolóny",
-      "link": "https://www1.pluska.sk/krimi/v-bratislave-sa-zrazili-tri-auta-a-motorka-tvoria-sa-rozsiahle-kolony",
-      "time": "2026-08-14T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/18c/18c87553-9d00-41fa-a36e-18adc708cdab.webp"
     }
   ]
 }

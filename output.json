@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-08-14T14:40:48.551954+00:00",
+  "generated_at": "2026-08-14T17:41:15.622952+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 13,
   "items": [
+    {
+      "title": "POŽIAR v nedostupnom teréne: Hasiči zasahujú v Súľovských skalách",
+      "link": "https://www.teraz.sk/regiony/poziar-v-nedostupnom-terene-hasici-z/985074-clanok.html",
+      "time": "2026-08-14T16:53:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V obci pri Nitre došlo k dopravnej nehode, vodiči hlásia aj zdržanie",
+      "link": "https://www.nitrak.sk/clanky/11558/v-okoli-nitry-sa-zdrzite-dovodom-je-cerstva-dopravna-nehoda-ratajte-aj-so-zdrzanim",
+      "time": "2026-08-14T16:42:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Zrážka áut pri Banskej Štiavnici skomplikovala situáciu na cestách",
+      "link": "https://www.bystricak.sk/clanky/12704/premavku-pri-banskej-stiavnici-komplikuje-dopravna-nehoda-pocitajte-tu-so-zdrzanim-a-v-useku-zvyste-opatrnost",
+      "time": "2026-08-14T16:28:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786724895-premavku-pri-banskej-stiavnici-komplikuje-dopravna-nehoda-pocitajte-tu-so-zdrzanim-a-v-useku-zvyste-opatrnost.webp"
+    },
+    {
+      "title": "V obľúbených Súľovských skalách vypukol požiar, k oblohe stúpa hustý biely dym",
+      "link": "https://www.zilinak.sk/clanky/42300/video-zo-sulovskych-skal-sa-vali-k-oblohe-husty-dym-vypukol-tam-masivny-poziar-zasahuje-20-hasicov",
+      "time": "2026-08-14T14:42:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786723036-video-zo-sulovskych-skal-sa-vali-k-oblohe-husty-dym-vypukol-tam-masivny-poziar-zasahuje-20-hasicov.webp"
+    },
     {
       "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
       "link": "https://www.trnavak.sk/clanky/11772/cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
@@ -40,24 +76,6 @@
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786710809-video-policia-po-dvoch-nehodach-elektriciek-preverila-semafory-v-petrzalke-toto-su-ich-zistenia.webp"
     },
     {
-      "title": "Pole pri železničnej trati zachvátil požiar. Zasahovali hasiči z troch zborov",
-      "link": "https://www.zilinak.sk/clanky/42297/foto-poziar-pri-zeleznicnej-trati-v-turci-zamestnal-tri-hasicske-zbory-horelo-strnisko-aj-sucha-trava",
-      "time": "2026-08-14T12:30:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786709624-foto-poziar-pri-zeleznicnej-trati-v-turci-zamestnal-tri-hasicske-zbory-horelo-strnisko-aj-sucha-trava.webp"
-    },
-    {
-      "title": "Nehoda medzi Bučanmi a Madunicami spomaľuje premávku pri Trakoviciach",
-      "link": "https://www.trnavak.sk/clanky/11798/nedaleko-trnavy-doslo-k-nehode-premavka-sa-v-useku-spomaluje",
-      "time": "2026-08-14T12:23:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
       "title": "V Prievidzi sa zrazilo auto s dodávkou, zdržanie je v oboch smeroch",
       "link": "https://www.trencinak.sk/clanky/13408/v-prievidzi-sa-zrazilo-auto-s-dodavkou-vodici-sa-musia-pripravit-na-zdrzanie",
       "time": "2026-08-14T12:19:00+00:00",
@@ -76,15 +94,6 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786708576-foto-pri-humennom-ma-horiet-skladka-odpadu-ludia-hlasia-poziar-a-husty-dym.webp"
     },
     {
-      "title": "Pozor na nehodu v obci pri Veľkých Kapušanoch",
-      "link": "https://www.kosicak.sk/clanky/13706/v-obci-nedaleko-velkych-kapusian-hlasite-dopravnu-nehodu-jedno-z-aut-sa-prevratilo-do-rigolu",
-      "time": "2026-08-14T10:56:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786705021-v-obci-nedaleko-velkych-kapusian-hlasite-dopravnu-nehodu-jedno-z-aut-sa-prevratilo-do-rigolu.webp"
-    },
-    {
       "title": "Rezort diplomacie neeviduje zranených ani obete medzi Slovákmi v Omiši",
       "link": "https://www.teraz.sk/slovensko/rezort-diplomacie-neeviduje-zranenych-a/984980-clanok.html",
       "time": "2026-08-14T10:47:00+00:00",
@@ -101,24 +110,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/14/2518651/4x3-medium/nehoda.jpg?v=pxM"
-    },
-    {
-      "title": "Vážna nehoda motocyklistu pri Ožďanoch: 19-ročný vodič skončil po šmyku vo zvodidlách",
-      "link": "https://www.bystricak.sk/clanky/12699/mlady-motocyklista-nezvladol-zakrutu-pri-ozdanoch-po-smyku-narazil-do-zvodidiel-zasahoval-aj-vrtulnik",
-      "time": "2026-08-14T10:20:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786700775-mlady-motocyklista-nezvladol-zakrutu-pri-ozdanoch-po-smyku-narazil-do-zvodidiel-zasahoval-aj-vrtulnik.webp"
-    },
-    {
-      "title": "Braväcovo pozýva dobrovoľníkov na pomoc piatim rodinám",
-      "link": "https://www.bystricak.sk/clanky/12685/bravacovo-sa-nevzdava-obec-po-nicivom-poziari-zvolava-dobrovolnikov-na-velku-brigadu-pridat-sa-moze-kazdy",
-      "time": "2026-08-14T09:30:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786632955-bravacovo-sa-nevzdava-obec-po-nicivom-poziari-zvolava-dobrovolnikov-na-velku-brigadu-pridat-sa-moze-kazdy.webp"
     },
     {
       "title": "Cesta k letisku sa výrazne predĺžila. Na Prístavnom moste sa zrazili tri autá a motorka",

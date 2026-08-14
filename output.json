@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T21:53:25.197615+00:00",
+  "generated_at": "2026-08-14T22:52:56.711087+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 7,
   "items": [
     {
       "title": "Pri nehode na D4 pri Bratislave zomrela 17-ročná motocyklistka",
@@ -65,24 +65,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786710809-video-policia-po-dvoch-nehodach-elektriciek-preverila-semafory-v-petrzalke-toto-su-ich-zistenia.webp"
-    },
-    {
-      "title": "Rezort diplomacie neeviduje zranených ani obete medzi Slovákmi v Omiši",
-      "link": "https://www.teraz.sk/slovensko/rezort-diplomacie-neeviduje-zranenych-a/984980-clanok.html",
-      "time": "2026-08-14T10:47:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Šokujúci čin. Opitý muž so zákazom šoférovať viedol auto plné detí, nehodu v poli neprežil 15-ročný chlapec",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2024249-sokujuci-cin-opity-muz-so-zakazom-soferovat-viedol-auto-plne-deti-nehodu-v-poli-neprezil-15-rocny-chlapec?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-14T10:26:01+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/14/2518651/4x3-medium/nehoda.jpg?v=pxM"
     }
   ]
 }

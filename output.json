@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T21:00:44.129130+00:00",
+  "generated_at": "2026-08-14T21:53:25.197615+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "title": "Pri nehode na D4 pri Bratislave zomrela 17-ročná motocyklistka",
@@ -83,15 +83,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/14/2518651/4x3-medium/nehoda.jpg?v=pxM"
-    },
-    {
-      "title": "Trnavský región čaká ďalší horúci víkend, následne dorazia dážď a búrky",
-      "link": "https://www.trnavak.sk/clanky/11786/horucavy-cez-vikend-vyvrcholia-zaciatok-tyzdna-vsak-do-trnavskeho-kraja-prinesie-ochladenie-i-burky",
-      "time": "2026-08-14T09:30:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786691028-horucavy-cez-vikend-vyvrcholia-zaciatok-tyzdna-vsak-do-trnavskeho-kraja-prinesie-ochladenie-i-burky.webp"
     }
   ]
 }

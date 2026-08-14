@@ -1,61 +1,6 @@
 {
-  "generated_at": "2026-08-13T22:27:02.231651+00:00",
+  "generated_at": "2026-08-14T05:11:36.239922+00:00",
   "max_age_hours": 12,
-  "count": 6,
-  "items": [
-    {
-      "title": "Za Levicami došlo k nehode. Tento úsek je uzavretý",
-      "link": "https://www.nitrak.sk/clanky/11542/nehoda-za-levicami-skomplikovala-dopravu-usek-je-neprejazdny-vodici-musia-ist-obchadzkou",
-      "time": "2026-08-13T15:39:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786635503-nehoda-za-levicami-skomplikovala-dopravu-usek-je-neprejazdny-vodici-musia-ist-obchadzkou.webp"
-    },
-    {
-      "title": "Hasiči zasahovali pri požiari pri obci Hýľov",
-      "link": "https://www.teraz.sk/regiony/hasici-zasahovali-pri-poziari-pri-obci/984817-clanok.html",
-      "time": "2026-08-13T15:04:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V lokalite Podbanské VYPUKOL POŽIAR lesného porastu",
-      "link": "https://www.teraz.sk/regiony/v-lokalite-podbanske-vypukol-poziar-le/984814-clanok.html",
-      "time": "2026-08-13T14:58:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Kolobežkár narazil do päťročného dieťaťa a odišiel. Mama dcéru odniesla na rukách do nemocnice",
-      "link": "https://korzar.sme.sk/kosice/c/kolobezkar-narazil-do-patrocneho-dietata-a-odisiel-mama-dceru-odniesla-na-rukach-do-nemocnice?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-13T13:17:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/019ff516-76d0-75de-9d22-a787853a6523.jpg"
-    },
-    {
-      "title": "VEĽKÉ RIZIKO lesných požiarov: Hasiči pripomínajú viaceré zásady",
-      "link": "https://www.teraz.sk/slovensko/velke-riziko-lesnych-poziarov-hasi/984738-clanok.html",
-      "time": "2026-08-13T11:35:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Slovensko čaká veľká zmena počasia: Po horúčavách prídu búrky a dážď aj do Nitrianskeho kraja",
-      "link": "https://www.nitrak.sk/clanky/11526/koniec-sucha-na-slovensku-po-horucavach-sa-k-nam-konecne-blizi-velka-zmena-pocasia-predpovede-vyzeraju-nadejne",
-      "time": "2026-08-13T10:30:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786613415-koniec-sucha-na-slovensku-po-horucavach-sa-k-nam-konecne-blizi-velka-zmena-pocasia-predpovede-vyzeraju-nadejne.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

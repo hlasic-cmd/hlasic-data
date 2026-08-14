@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-08-14T05:11:36.239922+00:00",
+  "generated_at": "2026-08-14T08:52:50.333011+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 9,
+  "items": [
+    {
+      "title": "Polícia pátrala po 77-ročnom Pavlovi z Levíc, ktorý odišiel z domu. Napokon však prišla dobrá správa",
+      "link": "https://www.nitrak.sk/clanky/11545/patranie-po-77-rocnom-pavlovi-z-levic-ma-stastny-koniec-nezvestneho-seniora-pomohla-najst-vsimava-zena",
+      "time": "2026-08-14T07:20:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786696953-patranie-po-77rocnom-pavlovi-z-levic-ma-stastny-koniec-nezvestneho-seniora-pomohla-najst-vsimava-zena.webp"
+    },
+    {
+      "title": "Tragédia na Ťahanovciach: Motorkár Anton (†45) zomrel pri nehode, smútia za ním aj kolegovia hasiči",
+      "link": "https://www.kosicak.sk/clanky/13699/hasic-anton-45-prisiel-do-kosic-pre-novu-motorku-domov-sa-uz-nevratil-zahynul-po-zrazke-pocas-testovacej-jazdy",
+      "time": "2026-08-14T07:15:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786690787-hasic-anton-45-prisiel-do-kosic-pre-novu-motorku-domov-sa-uz-nevratil-zahynul-po-zrazke-pocas-testovacej-jazdy.webp"
+    },
+    {
+      "title": "NEHODA NA PRÍSTAVNOM MOSTE: Zrazili sa tam tri autá a motorka",
+      "link": "https://www.teraz.sk/regiony/na-pristavnom-moste-v-bratislave-doslo/984903-clanok.html",
+      "time": "2026-08-14T07:01:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Polícia pátra po 39-ročnom Tomášovi. Pomôcť môžu aj ľudia v Žilinskom kraji",
+      "link": "https://www.zilinak.sk/clanky/42279/mimoriadne-patranie-nezvestneho-tomasa-hladaju-policia-ziada-o-pomoc-aj-v-zilinskom-kraji",
+      "time": "2026-08-14T07:00:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786688423-mimoriadne-patranie-nezvestneho-tomasa-hladaju-policia-ziada-o-pomoc-aj-v-zilinskom-kraji.webp"
+    },
+    {
+      "title": "Cesta k letisku sa výrazne predĺžila. Na Prístavnom moste sa zrazili tri autá a motorka",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2024079-cesta-k-letisku-sa-vyrazne-predlzila-na-pristavnom-moste-sa-zrazili-tri-auta-a-motorka?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-14T06:52:41+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/02/05/4x3-medium/pristavny-most-d1-nehoda.jpg?v=7Oo"
+    },
+    {
+      "title": "Na D1 na Prístavnom moste v Bratislave došlo k nehode troch áut a motorky",
+      "link": "https://www.aktuality.sk/clanok/EHirWdR/na-d1-na-pristavnom-moste-v-bratislave-doslo-k-nehode-troch-aut-a-motorky/",
+      "time": "2026-08-14T06:42:35+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Bratislavu brzdia nehody a práce, Tunel Sitina priebežne uzatvárajú",
+      "link": "https://www.bratislavak.sk/clanky/14959/hromadna-nehoda-troch-aut-a-motorky-ochromila-pristavny-most-dopravu-v-bratislave-brzdia-aj-prace-na-cestach",
+      "time": "2026-08-14T06:14:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786691303-hromadna-nehoda-troch-aut-a-motorky-ochromila-pristavny-most-dopravu-v-bratislave-brzdia-aj-prace-na-cestach.webp"
+    },
+    {
+      "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
+      "link": "https://www.presovak.sk/clanky/14957/aj-cely-presovsky-kraj-je-v-cervenom-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
+      "time": "2026-08-14T05:40:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786608672-aj-cely-presovsky-kraj-je-v-cervenom-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
+    },
+    {
+      "title": "V Bratislave sa zrazili tri autá a motorka: Tvoria sa rozsiahle kolóny",
+      "link": "https://www1.pluska.sk/krimi/v-bratislave-sa-zrazili-tri-auta-a-motorka-tvoria-sa-rozsiahle-kolony",
+      "time": "2026-08-14T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/18c/18c87553-9d00-41fa-a36e-18adc708cdab.webp"
+    }
+  ]
 }

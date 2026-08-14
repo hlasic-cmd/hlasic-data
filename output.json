@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-14T17:41:15.622952+00:00",
+  "generated_at": "2026-08-14T19:58:26.587703+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 10,
   "items": [
+    {
+      "title": "Pri nehode na D4 pri Bratislave zomrela 17-ročná motocyklistka",
+      "link": "https://www.teraz.sk/regiony/pri-nehode-na-d4-pri-bratislave-zomrela/985094-clanok.html",
+      "time": "2026-08-14T18:37:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "POŽIAR v nedostupnom teréne: Hasiči zasahujú v Súľovských skalách",
       "link": "https://www.teraz.sk/regiony/poziar-v-nedostupnom-terene-hasici-z/985074-clanok.html",
@@ -31,15 +40,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786724895-premavku-pri-banskej-stiavnici-komplikuje-dopravna-nehoda-pocitajte-tu-so-zdrzanim-a-v-useku-zvyste-opatrnost.webp"
     },
     {
-      "title": "V obľúbených Súľovských skalách vypukol požiar, k oblohe stúpa hustý biely dym",
-      "link": "https://www.zilinak.sk/clanky/42300/video-zo-sulovskych-skal-sa-vali-k-oblohe-husty-dym-vypukol-tam-masivny-poziar-zasahuje-20-hasicov",
-      "time": "2026-08-14T14:42:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786723036-video-zo-sulovskych-skal-sa-vali-k-oblohe-husty-dym-vypukol-tam-masivny-poziar-zasahuje-20-hasicov.webp"
-    },
-    {
       "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
       "link": "https://www.trnavak.sk/clanky/11772/cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
       "time": "2026-08-14T14:00:00+00:00",
@@ -47,15 +47,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786611191-cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
-    },
-    {
-      "title": "FOTO: Pri Vrábľoch zasahovalo viac ako 40 hasičov. Požiar zasiahol aj les, zhorelo spolu 81 hektárov",
-      "link": "https://www.nitrak.sk/clanky/11554/foto-mohutny-poziar-pri-vrabloch-sa-rozsiril-aj-na-okolity-les-celkovo-zhorelo-az-81-hektarov-uzemia",
-      "time": "2026-08-14T13:50:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786703134-foto-mohutny-poziar-pri-vrabloch-sa-rozsiril-aj-na-okolity-les-celkovo-zhorelo-az-81-hektarov-uzemia.webp"
     },
     {
       "title": "Dostali všetci naraz zelenú? Polícia po dvoch nehodách električky skontrolovala petržalské semafory",
@@ -76,24 +67,6 @@
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786710809-video-policia-po-dvoch-nehodach-elektriciek-preverila-semafory-v-petrzalke-toto-su-ich-zistenia.webp"
     },
     {
-      "title": "V Prievidzi sa zrazilo auto s dodávkou, zdržanie je v oboch smeroch",
-      "link": "https://www.trencinak.sk/clanky/13408/v-prievidzi-sa-zrazilo-auto-s-dodavkou-vodici-sa-musia-pripravit-na-zdrzanie",
-      "time": "2026-08-14T12:19:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Dym a oheň pri Humennom: Ľudia upozorňujú na horiace smetisko",
-      "link": "https://www.presovak.sk/clanky/14991/foto-pri-humennom-ma-horiet-skladka-odpadu-ludia-hlasia-poziar-a-husty-dym",
-      "time": "2026-08-14T12:00:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786708576-foto-pri-humennom-ma-horiet-skladka-odpadu-ludia-hlasia-poziar-a-husty-dym.webp"
-    },
-    {
       "title": "Rezort diplomacie neeviduje zranených ani obete medzi Slovákmi v Omiši",
       "link": "https://www.teraz.sk/slovensko/rezort-diplomacie-neeviduje-zranenych-a/984980-clanok.html",
       "time": "2026-08-14T10:47:00+00:00",
@@ -112,13 +85,13 @@
       "image": "https://prvd.sk/cdn/2026/08/14/2518651/4x3-medium/nehoda.jpg?v=pxM"
     },
     {
-      "title": "Cesta k letisku sa výrazne predĺžila. Na Prístavnom moste sa zrazili tri autá a motorka",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2024079-cesta-k-letisku-sa-vyrazne-predlzila-na-pristavnom-moste-sa-zrazili-tri-auta-a-motorka?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-14T06:52:41+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/02/05/4x3-medium/pristavny-most-d1-nehoda.jpg?v=7Oo"
+      "title": "Trnavský región čaká ďalší horúci víkend, následne dorazia dážď a búrky",
+      "link": "https://www.trnavak.sk/clanky/11786/horucavy-cez-vikend-vyvrcholia-zaciatok-tyzdna-vsak-do-trnavskeho-kraja-prinesie-ochladenie-i-burky",
+      "time": "2026-08-14T09:30:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786691028-horucavy-cez-vikend-vyvrcholia-zaciatok-tyzdna-vsak-do-trnavskeho-kraja-prinesie-ochladenie-i-burky.webp"
     }
   ]
 }

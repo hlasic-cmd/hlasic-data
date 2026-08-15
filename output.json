@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-15T14:43:53.511015+00:00",
+  "generated_at": "2026-08-15T15:39:51.068658+00:00",
   "max_age_hours": 12,
-  "count": 20,
+  "count": 27,
   "items": [
+    {
+      "title": "V Tatrách vypukol lesný požiar, na mieste sú hasiči, dobrovoľníci aj zamestnanci TANAP-u",
+      "link": "https://sita.sk/v-tatrach-vypukol-lesny-poziar-na-mieste-su-hasici-dobrovolnici-aj-zamestnanci-tanapu/",
+      "time": "2026-08-15T17:00:18+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/08/6a5105b8c1ac8244366677-1-688x387.jpg"
+    },
     {
       "title": "Hasiči zasahujú pri požiari pod Popradským plesom",
       "link": "https://www.teraz.sk/regiony/hasici-zasahuju-pri-poziari-pod-popra/985203-clanok.html",
@@ -103,13 +112,13 @@
       "image": null
     },
     {
-      "title": "Na D1 pri Turanoch sa zrazili dve autá. Vodičov brzdí nehoda aj práca cestárov",
-      "link": "https://www.zilinak.sk/clanky/42308/na-dialnici-pri-turanoch-sa-zrazili-dve-auta-blokuju-zjazd-kolony-predlzuju-aj-cestari",
-      "time": "2026-08-15T12:02:00+00:00",
+      "title": "Nehoda za Matúškovom smerom na Dolné Saliby, vodiči prejdú striedavo",
+      "link": "https://www.trnavak.sk/clanky/11806/pozor-na-nehodu-nedaleko-galanty-vodici-usekom-prejdu-striedavo",
+      "time": "2026-08-15T12:16:00+00:00",
       "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786795335-na-dialnici-pri-turanoch-sa-zrazili-dve-auta-blokuju-zjazd-kolony-predlzuju-aj-cestari.webp"
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     },
     {
       "title": "Kojšovskú hoľu zachvátil požiar: Hasiči zvažujú aj zásah zo vzduchu",
@@ -130,13 +139,49 @@
       "image": "https://prvd.sk/cdn/2024/01/03/4x3-medium/kojsov.jpg?v=Zxc"
     },
     {
-      "title": "Na Kojšovej holi vypukol požiar: Hasiči bojujú s plameňmi v ťažko dostupnom teréne",
-      "link": "https://www.aktuality.sk/clanok/SbuoBLc/na-kojsovej-holi-vypukol-poziar-hasici-bojuju-s-plamenmi-v-tazko-dostupnom-terene/",
-      "time": "2026-08-15T09:39:30+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "aktuality.sk",
-      "image": null
+      "title": "Tomáš z Tajova zmizol bez stopy, po troch dňoch ho našli kamaráti. Čo sa mu stalo?",
+      "link": "https://www.bystricak.sk/clanky/12707/foto-tomas-z-tajova-bol-nezvestny-tri-dni-nasli-ho-v-polovnickom-posede-skoncil-v-nemocnici",
+      "time": "2026-08-15T10:20:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786797231-foto-tomas-z-tajova-bol-nezvestny-tri-dni-nasli-ho-v-polovnickom-posede-skoncil-v-nemocnici.webp"
+    },
+    {
+      "title": "Smerom na Česko po I/57 neprejdete. Havaroval tam motocyklista, vynieslo ho v zákrute",
+      "link": "https://www.trencinak.sk/clanky/13413/hlavny-tah-na-cesko-je-neprejazdny-v-zakrute-havaroval-motocyklista-vyuzite-obchadzkove-trasy",
+      "time": "2026-08-15T09:47:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Nehoda na D1 pri Leopoldove zablokovala ľavý pruh smerom na Piešťany",
+      "link": "https://www.trnavak.sk/clanky/11805/na-d1-smerom-na-piestany-havarovalo-auto-cesta-je-ciastocne-blokovana",
+      "time": "2026-08-15T08:46:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Vo Svinnej havaroval kamión. Dopravu na ceste I/9 prerušili pri jeho odťahu",
+      "link": "https://www.trencinak.sk/clanky/13412/na-hlavnej-ceste-vo-svinnej-vyletel-z-cesty-kamion-cestu-uplne-uzavreli-aby-ho-mohli-vytiahnut",
+      "time": "2026-08-15T08:12:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786802877-na-hlavnej-ceste-vo-svinnej-vyletel-z-cesty-kamion-cestu-uplne-uzavreli-aby-ho-mohli-vytiahnut.webp"
+    },
+    {
+      "title": "Cesta II/512 je po nehode neprejazdná. Zrazilo sa osobné a nákladné auto",
+      "link": "https://www.bystricak.sk/clanky/12706/na-ceste-druhej-triedy-v-banskobystrickom-kraji-havarovalo-osobne-a-nakladne-auto-ostala-neprejazdna",
+      "time": "2026-08-15T08:07:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
     },
     {
       "title": "Skúter narazil do bicykla, cyklista skončil v nemocnici. Polícia pátra po druhom vodičovi",
@@ -166,6 +211,15 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
     },
     {
+      "title": "Vodič zrejme zaspal za volantom a prešiel do protismeru. Nasledovala čelná zrážka pred Banskou Štiavnicou",
+      "link": "https://www.bystricak.sk/clanky/12705/foto-hlavny-tah-k-banskej-stiavnici-uzavrela-vazna-nehoda-mal-ju-sposobit-mikrospanok-zranili-sa-traja-ludia",
+      "time": "2026-08-15T07:30:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786777335-foto-hlavny-tah-k-banskej-stiavnici-uzavrela-vazna-nehoda-mal-ju-sposobit-mikrospanok-zranili-sa-traja-ludia.webp"
+    },
+    {
       "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
       "link": "https://www.kosicak.sk/clanky/13683/slovensko-vratane-vychodu-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
       "time": "2026-08-15T07:15:00+00:00",
@@ -173,6 +227,15 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786711079-slovensko-vratane-vychodu-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
+    },
+    {
+      "title": "Polícia od piatka pátra po 20-ročnej Viktórii Marikovej z Galanty",
+      "link": "https://www.trnavak.sk/clanky/11804/policia-od-piatka-patra-po-20-rocnej-viktorii-z-galanty-nevideli-ste-ju",
+      "time": "2026-08-15T06:35:00+00:00",
+      "cat": "patranie",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786775668-policia-od-piatka-patra-po-20rocnej-viktorii-z-galanty-nevideli-ste-ju.webp"
     },
     {
       "title": "Tragédia na D4 pri Bratislave: Len 17-ročná motocyklistka narazila do zvodidiel, záchranári jej už nedokázali pomôcť",

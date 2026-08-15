@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-15T07:59:51.833904+00:00",
+  "generated_at": "2026-08-15T09:02:35.493862+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 15,
   "items": [
+    {
+      "title": "Nehoda na D1 pri Leopoldove zablokovala ľavý pruh smerom na Piešťany",
+      "link": "https://www.trnavak.sk/clanky/11805/na-d1-smerom-na-piestany-havarovalo-auto-cesta-je-ciastocne-blokovana",
+      "time": "2026-08-15T08:46:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Vo Svinnej havaroval kamión. Dopravu na ceste I/9 komplikuje zablokovaný pruh",
+      "link": "https://www.trencinak.sk/clanky/13412/na-hlavnej-ceste-vo-svinnej-vyletel-z-cesty-kamion-ciastocne-blokuje-premavku-jazdite-opatrne",
+      "time": "2026-08-15T08:12:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Cesta II/512 je po nehode neprejazdná. Zrazilo sa osobné a nákladné auto",
+      "link": "https://www.bystricak.sk/clanky/12706/na-ceste-druhej-triedy-v-banskobystrickom-kraji-havarovalo-osobne-a-nakladne-auto-ostala-neprejazdna",
+      "time": "2026-08-15T08:07:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Skúter narazil do bicykla, cyklista skončil v nemocnici. Polícia pátra po druhom vodičovi",
+      "link": "https://korzar.sme.sk/kosice/c/skuter-narazil-do-bicykla-cyklista-skoncil-v-nemocnici-policia-patra-po-druhom-vodicovi?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-15T08:05:33+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/019d7644-bc52-7e23-8760-ee236bec86ad.jpg"
+    },
+    {
+      "title": "Polícia pátra po 17-ročnom Oliverovi z okresu Košice-okolie",
+      "link": "https://www.kosicak.sk/clanky/13708/kosicka-policia-vyhlasila-patranie-po-17-rocnom-oliverovi-nevideli-ste-ho",
+      "time": "2026-08-15T07:55:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786776883-kosicka-policia-vyhlasila-patranie-po-17rocnom-oliverovi-nevideli-ste-ho.webp"
+    },
     {
       "title": "Nehoda komplikuje premávku na R1 z Nitry do Trnavy",
       "link": "https://www.nitrak.sk/clanky/11559/na-r1-v-smere-z-nitry-do-trnavy-sa-stala-dopravna-nehoda-na-mieste-zasahuju-zachranne-zlozky-vodicov-caka-zdrzanie",

@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-15T09:52:53.586017+00:00",
+  "generated_at": "2026-08-15T10:48:06.376802+00:00",
   "max_age_hours": 12,
-  "count": 18,
+  "count": 19,
   "items": [
+    {
+      "title": "Kojšovu hoľu zasiahol požiar, zasahujú tam profesionálni i dobrovoľní hasiči",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2024739-kojsovu-holu-zasiahol-poziar-zasahuju-tam-profesionalni-i-dobrovolni-hasici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-15T10:31:01+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2024/01/03/4x3-medium/kojsov.jpg?v=Zxc"
+    },
+    {
+      "title": "Smerom na Česko po I/57 neprejdete. Havaroval tam motocyklista, vynieslo ho v zákrute",
+      "link": "https://www.trencinak.sk/clanky/13413/hlavny-tah-na-cesko-je-neprejazdny-v-zakrute-havaroval-motocyklista-vyuzite-obchadzkove-trasy",
+      "time": "2026-08-15T09:47:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
+    },
     {
       "title": "Na Kojšovej holi vypukol požiar: Hasiči bojujú s plameňmi v ťažko dostupnom teréne",
       "link": "https://www.aktuality.sk/clanok/SbuoBLc/na-kojsovej-holi-vypukol-poziar-hasici-bojuju-s-plamenmi-v-tazko-dostupnom-terene/",
@@ -155,15 +173,6 @@
       "region": "bratislavsky",
       "src": "www1.pluska.sk",
       "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/df8/df853d42-ac09-4c15-a2f2-886656311768.webp"
-    },
-    {
-      "title": "Požiar pri Súľovských skalách sa opäť rozhorel. Plamene zachvátili aj stromy, ráno majú nasadiť tri vrtuľníky",
-      "link": "https://www.zilinak.sk/clanky/42303/poziar-pri-sulovskych-skalach-sa-opat-rozhorel-plamene-zachvatili-aj-stromy-rano-maju-nasadit-tri-vrtulniky",
-      "time": "2026-08-14T22:24:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786746388-poziar-pri-sulovskych-skalach-sa-opat-rozhorel-plamene-zachvatili-aj-stromy-rano-maju-nasadit-tri-vrtulniky.webp"
     }
   ]
 }

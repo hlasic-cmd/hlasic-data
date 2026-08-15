@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-15T18:00:52.120255+00:00",
+  "generated_at": "2026-08-15T19:01:38.831808+00:00",
   "max_age_hours": 12,
-  "count": 28,
+  "count": 24,
   "items": [
+    {
+      "title": "Slovensko čakajú mimoriadne vysoké teploty a neskôr aj búrky",
+      "link": "https://www.aktuality.sk/clanok/wQuPGDE/slovensko-cakaju-mimoriadne-vysoke-teploty-a-neskor-aj-burky/",
+      "time": "2026-08-15T19:00:00+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
+      "link": "https://www.teraz.sk/regiony/poziar-lesneho-porastu-pod-popradskym/985251-clanok.html",
+      "time": "2026-08-15T18:04:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Bratislavskí hasiči zasahovali pri požiari na Kukučínovej",
       "link": "https://www.teraz.sk/regiony/bratislavski-hasici-zasahovali-pri-po/985242-clanok.html",
@@ -13,7 +31,7 @@
       "image": null
     },
     {
-      "title": "V Tatrách vypukol lesný požiar, na mieste sú hasiči, dobrovoľníci aj zamestnanci TANAP-u",
+      "title": "Lesný požiar v Tatrách sa podarilo stabilizovať, hasiči ešte zostali na mieste",
       "link": "https://sita.sk/v-tatrach-vypukol-lesny-poziar-na-mieste-su-hasici-dobrovolnici-aj-zamestnanci-tanapu/",
       "time": "2026-08-15T17:00:18+00:00",
       "cat": "poziar",
@@ -85,16 +103,7 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786802156-video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene.webp"
     },
     {
-      "title": "Stupava začína zachraňovať chátrajúcu Troyerovu kúriu",
-      "link": "https://www.bratislavak.sk/clanky/14954/foto-historicka-kuria-v-stupave-roky-chatrala-teraz-zacina-jej-zachrana-strecha-je-v-havarijnom-stave",
-      "time": "2026-08-15T13:30:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786623678-foto-historicka-kuria-v-stupave-roky-chatrala-teraz-zacina-jej-zachrana-strecha-je-v-havarijnom-stave.webp"
-    },
-    {
-      "title": "Pod Popradským plesom horí lesný porast, zásah komplikuje neprístupný terén",
+      "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
       "link": "https://korzar.sme.sk/spis-gemer/c/pod-popradskym-plesom-hori-lesny-porast-ohen-zachvatil-plochu-50-krat-100-metrov?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
       "time": "2026-08-15T13:24:43+00:00",
       "cat": "poziar",
@@ -184,15 +193,6 @@
       "image": "https://prvd.sk/cdn/2026/08/15/2518905/4x3-medium/sulov-poziar.jpg?v=T/w"
     },
     {
-      "title": "Nehoda na D1 pri Leopoldove zablokovala ľavý pruh smerom na Piešťany",
-      "link": "https://www.trnavak.sk/clanky/11805/na-d1-smerom-na-piestany-havarovalo-auto-cesta-je-ciastocne-blokovana",
-      "time": "2026-08-15T08:46:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
       "title": "Vo Svinnej havaroval kamión. Dopravu na ceste I/9 prerušili pri jeho odťahu",
       "link": "https://www.trencinak.sk/clanky/13412/na-hlavnej-ceste-vo-svinnej-vyletel-z-cesty-kamion-cestu-uplne-uzavreli-aby-ho-mohli-vytiahnut",
       "time": "2026-08-15T08:12:00+00:00",
@@ -200,15 +200,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786802877-na-hlavnej-ceste-vo-svinnej-vyletel-z-cesty-kamion-cestu-uplne-uzavreli-aby-ho-mohli-vytiahnut.webp"
-    },
-    {
-      "title": "Cesta II/512 je po nehode neprejazdná. Zrazilo sa osobné a nákladné auto",
-      "link": "https://www.bystricak.sk/clanky/12706/na-ceste-druhej-triedy-v-banskobystrickom-kraji-havarovalo-osobne-a-nakladne-auto-ostala-neprejazdna",
-      "time": "2026-08-15T08:07:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
     },
     {
       "title": "Skúter narazil do bicykla, cyklista skončil v nemocnici. Polícia pátra po druhom vodičovi",
@@ -220,15 +211,6 @@
       "image": "https://image.smedata.sk/image/w660-h440/019d7644-bc52-7e23-8760-ee236bec86ad.jpg"
     },
     {
-      "title": "Polícia pátra po 17-ročnom Oliverovi z okresu Košice-okolie",
-      "link": "https://www.kosicak.sk/clanky/13708/aktualizacia-kosicka-policia-odvolala-patranie-po-17-rocnom-mladikovi",
-      "time": "2026-08-15T07:55:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786795842-aktualizacia-kosicka-policia-odvolala-patranie-po-17rocnom-mladikovi.webp"
-    },
-    {
       "title": "Nehoda komplikuje premávku na R1 z Nitry do Trnavy",
       "link": "https://www.nitrak.sk/clanky/11559/na-r1-v-smere-z-nitry-do-trnavy-sa-stala-dopravna-nehoda-na-mieste-zasahuju-zachranne-zlozky-vodicov-caka-zdrzanie",
       "time": "2026-08-15T07:37:00+00:00",
@@ -236,24 +218,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Tragédia na D4 pri Bratislave: Len 17-ročná motocyklistka narazila do zvodidiel, záchranári jej už nedokázali pomôcť",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2024655-tragedia-na-d4-pri-bratislave-len-17-rocna-motocyklistka-narazila-do-zvodidiel-zachranari-jej-uz-nedokazali-pomoct?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-15T06:16:01+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/15/2518897/4x3-medium/nehoda-d4-bratislava-rovinka.jpg?v=T/w"
-    },
-    {
-      "title": "Na D4 pri Rovinke sa v piatok večer stala tragédia, vyžiadala si život len 17-ročnej vodičky motocykla",
-      "link": "https://www.bratislavak.sk/clanky/14974/na-dialnici-d4-pri-rovinke-doslo-k-tragickej-dopravnej-nehode-o-zivot-prisla-len-17-rocna-motocyklistka",
-      "time": "2026-08-15T06:05:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786772627-na-dialnici-d4-pri-rovinke-doslo-k-tragickej-dopravnej-nehode-o-zivot-prisla-len-17rocna-motocyklistka.webp"
     }
   ]
 }

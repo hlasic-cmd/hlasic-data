@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-15T12:00:25.005443+00:00",
+  "generated_at": "2026-08-15T13:40:33.993030+00:00",
   "max_age_hours": 12,
-  "count": 18,
+  "count": 24,
   "items": [
+    {
+      "title": "Stupava začína zachraňovať chátrajúcu Troyerovu kúriu",
+      "link": "https://www.bratislavak.sk/clanky/14954/foto-historicka-kuria-v-stupave-roky-chatrala-teraz-zacina-jej-zachrana-strecha-je-v-havarijnom-stave",
+      "time": "2026-08-15T13:30:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786623678-foto-historicka-kuria-v-stupave-roky-chatrala-teraz-zacina-jej-zachrana-strecha-je-v-havarijnom-stave.webp"
+    },
+    {
+      "title": "Pod Popradským plesom horí lesný porast, zásah komplikuje neprístupný terén",
+      "link": "https://korzar.sme.sk/spis-gemer/c/pod-popradskym-plesom-hori-lesny-porast-ohen-zachvatil-plochu-50-krat-100-metrov?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-15T13:24:43+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a0059e-1781-7ec7-b3b6-2825e91c1194.jpg"
+    },
+    {
+      "title": "Požiar na Kojšovej holi dostali pod kontrolu: Dobrovoľníci v náročnom teréne dohášajú skryté ohniská",
+      "link": "https://www.aktuality.sk/clanok/3bWm643/poziar-na-kojsovej-holi-dostali-pod-kontrolu-dobrovolnici-v-narocnom-terene-dohasaju-skryte-ohniska/",
+      "time": "2026-08-15T13:21:30+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Poplach vo Vysokých Tatrách: Pod obľúbeným Popradským plesom horí les, hasiči zvádzajú boj s ohňom",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2024813-poplach-vo-vysokych-tatrach-pod-oblubenym-popradskym-plesom-hori-les-hasici-zvadzaju-boj-s-ohnom?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-15T13:20:16+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2025/09/10/4x3-medium/popradske-pleso-mreporter.png?v=T/w"
+    },
+    {
+      "title": "Vo Vysokých Tatrách horí les pod Popradským plesom: Hasiči zápasia s plameňmi v neprístupnom teréne",
+      "link": "https://www.aktuality.sk/clanok/IxyEghX/vo-vysokych-tatrach-hori-les-pod-popradskym-plesom-hasici-zapasia-s-plamenmi-v-nepristupnom-terene/",
+      "time": "2026-08-15T13:19:59+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Hasiči zasahujú pri požiari pod Popradským plesom",
+      "link": "https://www.teraz.sk/regiony/hasici-zasahuju-pri-poziari-pod-popra/985203-clanok.html",
+      "time": "2026-08-15T13:16:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Nehoda za Matúškovom smerom na Dolné Saliby, vodiči prejdú striedavo",
+      "link": "https://www.trnavak.sk/clanky/11806/pozor-na-nehodu-nedaleko-galanty-vodici-usekom-prejdu-striedavo",
+      "time": "2026-08-15T12:16:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Na D1 pri Turanoch sa zrazili dve autá. Vodičov brzdí nehoda aj práca cestárov",
+      "link": "https://www.zilinak.sk/clanky/42308/na-dialnici-pri-turanoch-sa-zrazili-dve-auta-blokuju-zjazd-kolony-predlzuju-aj-cestari",
+      "time": "2026-08-15T12:02:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786795335-na-dialnici-pri-turanoch-sa-zrazili-dve-auta-blokuju-zjazd-kolony-predlzuju-aj-cestari.webp"
+    },
     {
       "title": "Kojšovskú hoľu zachvátil požiar: Hasiči zvažujú aj zásah zo vzduchu",
       "link": "https://www.kosicak.sk/clanky/13709/video-na-kojsovskej-holi-vypukol-poziar-hasici-sa-k-ohnu-pre-tazky-teren-nevedia-dostat-miesto-preveruje-dron",
@@ -13,13 +85,22 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786792064-video-na-kojsovskej-holi-vypukol-poziar-hasici-sa-k-ohnu-pre-tazky-teren-nevedia-dostat-miesto-preveruje-dron.webp"
     },
     {
-      "title": "Kojšovu hoľu zasiahol požiar, zasahujú tam profesionálni i dobrovoľní hasiči",
+      "title": "Požiar na Kojšovej holi sa hasičom podarilo dostať pod kontrolu",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2024739-kojsovu-holu-zasiahol-poziar-zasahuju-tam-profesionalni-i-dobrovolni-hasici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-15T10:31:01+00:00",
       "cat": "poziar",
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2024/01/03/4x3-medium/kojsov.jpg?v=Zxc"
+    },
+    {
+      "title": "Tomáš z Tajova zmizol bez stopy, po troch dňoch ho našli kamaráti. Čo sa mu stalo?",
+      "link": "https://www.bystricak.sk/clanky/12707/foto-tomas-z-tajova-bol-nezvestny-tri-dni-nasli-ho-v-polovnickom-posede-skoncil-v-nemocnici",
+      "time": "2026-08-15T10:20:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786797231-foto-tomas-z-tajova-bol-nezvestny-tri-dni-nasli-ho-v-polovnickom-posede-skoncil-v-nemocnici.webp"
     },
     {
       "title": "Smerom na Česko po I/57 neprejdete. Havaroval tam motocyklista, vynieslo ho v zákrute",
@@ -86,12 +167,12 @@
     },
     {
       "title": "Polícia pátra po 17-ročnom Oliverovi z okresu Košice-okolie",
-      "link": "https://www.kosicak.sk/clanky/13708/kosicka-policia-vyhlasila-patranie-po-17-rocnom-oliverovi-nevideli-ste-ho",
+      "link": "https://www.kosicak.sk/clanky/13708/aktualizacia-kosicka-policia-odvolala-patranie-po-17-rocnom-mladikovi",
       "time": "2026-08-15T07:55:00+00:00",
       "cat": "patranie",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786776883-kosicka-policia-vyhlasila-patranie-po-17rocnom-oliverovi-nevideli-ste-ho.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786795842-aktualizacia-kosicka-policia-odvolala-patranie-po-17rocnom-mladikovi.webp"
     },
     {
       "title": "Nehoda komplikuje premávku na R1 z Nitry do Trnavy",
@@ -137,33 +218,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/15/2518897/4x3-medium/nehoda-d4-bratislava-rovinka.jpg?v=T/w"
-    },
-    {
-      "title": "Nehoda na D1 pri Čataji blokuje jeden jazdný pruh smerom na Trnavu",
-      "link": "https://www.trnavak.sk/clanky/11803/na-d1-v-smere-na-trnavu-havarovalo-auto-premavka-je-ciastocne-obmedzena",
-      "time": "2026-08-15T06:11:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Na D4 pri Rovinke sa v piatok večer stala tragédia, vyžiadala si život len 17-ročnej vodičky motocykla",
-      "link": "https://www.bratislavak.sk/clanky/14974/na-dialnici-d4-pri-rovinke-doslo-k-tragickej-dopravnej-nehode-o-zivot-prisla-len-17-rocna-motocyklistka",
-      "time": "2026-08-15T06:05:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786772627-na-dialnici-d4-pri-rovinke-doslo-k-tragickej-dopravnej-nehode-o-zivot-prisla-len-17rocna-motocyklistka.webp"
-    },
-    {
-      "title": "Tragická nehoda na Orave. Cyklista po zrážke s nákladným vozidlom zomrel",
-      "link": "https://www.zilinak.sk/clanky/42304/tragicka-nehoda-na-orave-cyklista-presiel-do-protismeru-zrazila-ho-dodavka-v-nemocnici-podlahol-tazkym-zraneniam",
-      "time": "2026-08-15T05:31:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786771945-tragicka-nehoda-na-orave-cyklista-presiel-do-protismeru-zrazila-ho-dodavka-v-nemocnici-podlahol-tazkym-zraneniam.webp"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T20:01:09.212257+00:00",
+  "generated_at": "2026-08-15T20:52:05.521387+00:00",
   "max_age_hours": 12,
-  "count": 22,
+  "count": 19,
   "items": [
     {
       "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
@@ -166,15 +166,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786797231-foto-tomas-z-tajova-bol-nezvestny-tri-dni-nasli-ho-v-polovnickom-posede-skoncil-v-nemocnici.webp"
     },
     {
-      "title": "Smerom na Česko po I/57 neprejdete. Havaroval tam motocyklista, vynieslo ho v zákrute",
-      "link": "https://www.trencinak.sk/clanky/13413/hlavny-tah-na-cesko-je-neprejazdny-v-zakrute-havaroval-motocyklista-vyuzite-obchadzkove-trasy",
-      "time": "2026-08-15T09:47:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
-    },
-    {
       "title": "Súľovské skaly v plameňoch. Do boja nasadili tri vrtuľníky,  turistov varujú pred vstupom na Bradu",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2024709-sulovske-skaly-v-plamenoch-do-boja-nasadili-tri-vrtulniky-turistov-varuju-pred-vstupom-na-bradu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-15T09:25:00+00:00",
@@ -182,24 +173,6 @@
       "region": "zilinsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/15/2518905/4x3-medium/sulov-poziar.jpg?v=T/w"
-    },
-    {
-      "title": "Vo Svinnej havaroval kamión. Dopravu na ceste I/9 prerušili pri jeho odťahu",
-      "link": "https://www.trencinak.sk/clanky/13412/na-hlavnej-ceste-vo-svinnej-vyletel-z-cesty-kamion-cestu-uplne-uzavreli-aby-ho-mohli-vytiahnut",
-      "time": "2026-08-15T08:12:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786802877-na-hlavnej-ceste-vo-svinnej-vyletel-z-cesty-kamion-cestu-uplne-uzavreli-aby-ho-mohli-vytiahnut.webp"
-    },
-    {
-      "title": "Skúter narazil do bicykla, cyklista skončil v nemocnici. Polícia pátra po druhom vodičovi",
-      "link": "https://korzar.sme.sk/kosice/c/skuter-narazil-do-bicykla-cyklista-skoncil-v-nemocnici-policia-patra-po-druhom-vodicovi?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-15T08:05:33+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/019d7644-bc52-7e23-8760-ee236bec86ad.jpg"
     }
   ]
 }

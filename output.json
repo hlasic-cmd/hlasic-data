@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T16:54:46.912326+00:00",
+  "generated_at": "2026-08-15T17:41:47.097677+00:00",
   "max_age_hours": 12,
-  "count": 27,
+  "count": 26,
   "items": [
     {
       "title": "V Tatrách vypukol lesný požiar, na mieste sú hasiči, dobrovoľníci aj zamestnanci TANAP-u",
@@ -11,24 +11,6 @@
       "region": "presovsky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2026/08/6a5105b8c1ac8244366677-1-688x387.jpg"
-    },
-    {
-      "title": "Požiar na Kojšovskej holi sa už ďalej nešíri",
-      "link": "https://www.teraz.sk/regiony/poziar-na-kojsovskej-holi-sa-uz-dale/985230-clanok.html",
-      "time": "2026-08-15T16:19:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Hasiči zasahujú pri požiari pod Popradským plesom",
-      "link": "https://www.teraz.sk/regiony/hasici-zasahuju-pri-poziari-pod-popra/985203-clanok.html",
-      "time": "2026-08-15T14:13:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
     },
     {
       "title": "Plamene zasiahli Tatranský národný park. Oheň sa šíri pod Popradským plesom",
@@ -103,7 +85,7 @@
       "image": null
     },
     {
-      "title": "Poplach vo Vysokých Tatrách: Pod obľúbeným Popradským plesom horí les, hasiči zvádzajú boj s ohňom",
+      "title": "Pod obľúbeným Popradským plesom horí les, do boja nasadili Black Hawk",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2024813-poplach-vo-vysokych-tatrach-pod-oblubenym-popradskym-plesom-hori-les-hasici-zvadzaju-boj-s-ohnom?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-15T13:20:16+00:00",
       "cat": "poziar",
@@ -131,12 +113,12 @@
     },
     {
       "title": "Kojšovskú hoľu zachvátil požiar: Hasiči zvažujú aj zásah zo vzduchu",
-      "link": "https://www.kosicak.sk/clanky/13709/video-na-kojsovskej-holi-vypukol-poziar-hasici-sa-k-ohnu-pre-tazky-teren-nevedia-dostat-miesto-preveruje-dron",
+      "link": "https://www.kosicak.sk/clanky/13709/video-na-kojsovskej-holi-vypukol-poziar-hasici-sa-k-ohnu-pre-tazky-teren-nevedeli-dostat-miesto-preveroval-dron",
       "time": "2026-08-15T11:06:00+00:00",
       "cat": "poziar",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786792064-video-na-kojsovskej-holi-vypukol-poziar-hasici-sa-k-ohnu-pre-tazky-teren-nevedia-dostat-miesto-preveruje-dron.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786814280-video-na-kojsovskej-holi-vypukol-poziar-hasici-sa-k-ohnu-pre-tazky-teren-nevedeli-dostat-miesto-preveroval-dron.webp"
     },
     {
       "title": "Požiar na Kojšovej holi sa hasičom podarilo dostať pod kontrolu",
@@ -164,6 +146,15 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Súľovské skaly v plameňoch. Do boja nasadili tri vrtuľníky,  turistov varujú pred vstupom na Bradu",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2024709-sulovske-skaly-v-plamenoch-do-boja-nasadili-tri-vrtulniky-turistov-varuju-pred-vstupom-na-bradu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-15T09:25:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/15/2518905/4x3-medium/sulov-poziar.jpg?v=T/w"
     },
     {
       "title": "Nehoda na D1 pri Leopoldove zablokovala ľavý pruh smerom na Piešťany",

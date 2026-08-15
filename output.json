@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-15T09:02:35.493862+00:00",
+  "generated_at": "2026-08-15T09:52:53.586017+00:00",
   "max_age_hours": 12,
-  "count": 15,
+  "count": 18,
   "items": [
+    {
+      "title": "Na Kojšovej holi vypukol požiar: Hasiči bojujú s plameňmi v ťažko dostupnom teréne",
+      "link": "https://www.aktuality.sk/clanok/SbuoBLc/na-kojsovej-holi-vypukol-poziar-hasici-bojuju-s-plamenmi-v-tazko-dostupnom-terene/",
+      "time": "2026-08-15T09:39:30+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Kojšovu hoľu zasiahol požiar, zasahujú tam hasiči",
+      "link": "https://www.teraz.sk/regiony/kojsovu-holu-zasiahol-poziar-zasahuj/985164-clanok.html",
+      "time": "2026-08-15T09:31:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Nehoda na D1 pri Leopoldove zablokovala ľavý pruh smerom na Piešťany",
       "link": "https://www.trnavak.sk/clanky/11805/na-d1-smerom-na-piestany-havarovalo-auto-cesta-je-ciastocne-blokovana",
@@ -119,6 +137,15 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786771945-tragicka-nehoda-na-orave-cyklista-presiel-do-protismeru-zrazila-ho-dodavka-v-nemocnici-podlahol-tazkym-zraneniam.webp"
+    },
+    {
+      "title": "Rodine pri Leviciach zhorel dom: Starý otec to neuniesol",
+      "link": "https://www1.pluska.sk/krimi/rodine-pri-leviciach-zhorel-dom-stary-otec-to-neuniesol",
+      "time": "2026-08-15T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/9c9/9c9e388c-22c7-4781-ab35-cbc0e5431d2a.webp"
     },
     {
       "title": "Veľká tragédia: Pri Bratislave zomrela 17-ročná motorkárka",

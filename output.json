@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-08-15T05:56:55.637439+00:00",
+  "generated_at": "2026-08-15T07:18:50.261701+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 7,
   "items": [
+    {
+      "title": "Polícia od piatka pátra po 20-ročnej Viktórii Marikovej z Galanty",
+      "link": "https://www.trnavak.sk/clanky/11804/policia-od-piatka-patra-po-20-rocnej-viktorii-z-galanty-nevideli-ste-ju",
+      "time": "2026-08-15T06:35:00+00:00",
+      "cat": "patranie",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786775668-policia-od-piatka-patra-po-20rocnej-viktorii-z-galanty-nevideli-ste-ju.webp"
+    },
+    {
+      "title": "Tragédia na D4 pri Bratislave: Len 17-ročná motocyklistka narazila do zvodidiel, záchranári jej už nedokázali pomôcť",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2024655-tragedia-na-d4-pri-bratislave-len-17-rocna-motocyklistka-narazila-do-zvodidiel-zachranari-jej-uz-nedokazali-pomoct?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-15T06:16:01+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/15/2518897/4x3-medium/nehoda-d4-bratislava-rovinka.jpg?v=T/w"
+    },
+    {
+      "title": "Nehoda na D1 pri Čataji blokuje jeden jazdný pruh smerom na Trnavu",
+      "link": "https://www.trnavak.sk/clanky/11803/na-d1-v-smere-na-trnavu-havarovalo-auto-premavka-je-ciastocne-obmedzena",
+      "time": "2026-08-15T06:11:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Na D4 pri Rovinke sa v piatok večer stala tragédia, vyžiadala si život len 17-ročnej vodičky motocykla",
+      "link": "https://www.bratislavak.sk/clanky/14974/na-dialnici-d4-pri-rovinke-doslo-k-tragickej-dopravnej-nehode-o-zivot-prisla-len-17-rocna-motocyklistka",
+      "time": "2026-08-15T06:05:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786772627-na-dialnici-d4-pri-rovinke-doslo-k-tragickej-dopravnej-nehode-o-zivot-prisla-len-17rocna-motocyklistka.webp"
+    },
     {
       "title": "Tragická nehoda na Orave. Cyklista po zrážke s nákladným vozidlom zomrel",
       "link": "https://www.zilinak.sk/clanky/42304/tragicka-nehoda-na-orave-cyklista-presiel-do-protismeru-zrazila-ho-dodavka-v-nemocnici-podlahol-tazkym-zraneniam",
@@ -29,15 +65,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786746388-poziar-pri-sulovskych-skalach-sa-opat-rozhorel-plamene-zachvatili-aj-stromy-rano-maju-nasadit-tri-vrtulniky.webp"
-    },
-    {
-      "title": "Pri nehode na D4 pri Bratislave zomrela 17-ročná motocyklistka",
-      "link": "https://www.teraz.sk/regiony/pri-nehode-na-d4-pri-bratislave-zomrela/985094-clanok.html",
-      "time": "2026-08-14T18:37:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

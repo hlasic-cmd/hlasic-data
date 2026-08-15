@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T22:52:21.267130+00:00",
+  "generated_at": "2026-08-15T23:39:34.971221+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
@@ -119,15 +119,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Kojšovskú hoľu zachvátil požiar: Hasiči zvažujú aj zásah zo vzduchu",
-      "link": "https://www.kosicak.sk/clanky/13709/video-na-kojsovskej-holi-vypukol-poziar-hasici-sa-k-ohnu-pre-tazky-teren-nevedeli-dostat-miesto-preveroval-dron",
-      "time": "2026-08-15T11:06:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786814280-video-na-kojsovskej-holi-vypukol-poziar-hasici-sa-k-ohnu-pre-tazky-teren-nevedeli-dostat-miesto-preveroval-dron.webp"
     }
   ]
 }

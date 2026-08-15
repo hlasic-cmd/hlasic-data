@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-08-15T07:18:50.261701+00:00",
+  "generated_at": "2026-08-15T07:59:51.833904+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 10,
   "items": [
+    {
+      "title": "Nehoda komplikuje premávku na R1 z Nitry do Trnavy",
+      "link": "https://www.nitrak.sk/clanky/11559/na-r1-v-smere-z-nitry-do-trnavy-sa-stala-dopravna-nehoda-na-mieste-zasahuju-zachranne-zlozky-vodicov-caka-zdrzanie",
+      "time": "2026-08-15T07:37:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Vodič zrejme zaspal za volantom a prešiel do protismeru. Nasledovala čelná zrážka pred Banskou Štiavnicou",
+      "link": "https://www.bystricak.sk/clanky/12705/foto-hlavny-tah-k-banskej-stiavnici-uzavrela-vazna-nehoda-mal-ju-sposobit-mikrospanok-zranili-sa-traja-ludia",
+      "time": "2026-08-15T07:30:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786777335-foto-hlavny-tah-k-banskej-stiavnici-uzavrela-vazna-nehoda-mal-ju-sposobit-mikrospanok-zranili-sa-traja-ludia.webp"
+    },
+    {
+      "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
+      "link": "https://www.kosicak.sk/clanky/13683/slovensko-vratane-vychodu-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
+      "time": "2026-08-15T07:15:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786711079-slovensko-vratane-vychodu-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
+    },
     {
       "title": "Polícia od piatka pátra po 20-ročnej Viktórii Marikovej z Galanty",
       "link": "https://www.trnavak.sk/clanky/11804/policia-od-piatka-patra-po-20-rocnej-viktorii-z-galanty-nevideli-ste-ju",

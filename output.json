@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T04:07:22.328715+00:00",
+  "generated_at": "2026-08-15T05:02:06.323118+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 2,
   "items": [
     {
       "title": "Požiar pri Súľovských skalách sa opäť rozhorel. Plamene zachvátili aj stromy, ráno majú nasadiť tri vrtuľníky",
@@ -20,33 +20,6 @@
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "POŽIAR v nedostupnom teréne: Hasiči zasahujú v Súľovských skalách",
-      "link": "https://www.teraz.sk/regiony/poziar-v-nedostupnom-terene-hasici-z/985074-clanok.html",
-      "time": "2026-08-14T16:53:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V obci pri Nitre došlo k dopravnej nehode, vodiči hlásia aj zdržanie",
-      "link": "https://www.nitrak.sk/clanky/11558/v-okoli-nitry-sa-zdrzite-dovodom-je-cerstva-dopravna-nehoda-ratajte-aj-so-zdrzanim",
-      "time": "2026-08-14T16:42:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Zrážka áut pri Banskej Štiavnici skomplikovala situáciu na cestách",
-      "link": "https://www.bystricak.sk/clanky/12704/premavku-pri-banskej-stiavnici-komplikuje-dopravna-nehoda-pocitajte-tu-so-zdrzanim-a-v-useku-zvyste-opatrnost",
-      "time": "2026-08-14T16:28:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786724895-premavku-pri-banskej-stiavnici-komplikuje-dopravna-nehoda-pocitajte-tu-so-zdrzanim-a-v-useku-zvyste-opatrnost.webp"
     }
   ]
 }

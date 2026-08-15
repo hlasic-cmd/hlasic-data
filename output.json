@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T20:52:05.521387+00:00",
+  "generated_at": "2026-08-15T21:40:26.847675+00:00",
   "max_age_hours": 12,
-  "count": 19,
+  "count": 16,
   "items": [
     {
       "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
@@ -58,15 +58,6 @@
       "image": null
     },
     {
-      "title": "Plamene zasiahli Tatranský národný park. Oheň sa šíri pod Popradským plesom",
-      "link": "https://www.bratislavak.sk/clanky/14979/video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene",
-      "time": "2026-08-15T14:04:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786800731-video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene.webp"
-    },
-    {
       "title": "Na Liptove došlo k tragickej nehode, ktorú spôsobila opitá žena. Zomrel pri nej motocyklista",
       "link": "https://www.zilinak.sk/clanky/42311/opita-vodicka-na-liptove-sposobila-smrtelnu-nehodu-neprezil-ju-motorkar-z-miesta-kolizie-odisla",
       "time": "2026-08-15T13:50:00+00:00",
@@ -74,15 +65,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786822745-opita-vodicka-na-liptove-sposobila-smrtelnu-nehodu-neprezil-ju-motorkar-z-miesta-kolizie-odisla.webp"
-    },
-    {
-      "title": "Plamene zasiahli Tatranský národný park. Oheň sa šíri pod Popradským plesom",
-      "link": "https://www.kosicak.sk/clanky/13710/video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene",
-      "time": "2026-08-15T13:43:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786800731-video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene.webp"
     },
     {
       "title": "Plamene zasiahli Tatranský národný park. Oheň sa šíri pod Popradským plesom",
@@ -164,15 +146,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786797231-foto-tomas-z-tajova-bol-nezvestny-tri-dni-nasli-ho-v-polovnickom-posede-skoncil-v-nemocnici.webp"
-    },
-    {
-      "title": "Súľovské skaly v plameňoch. Do boja nasadili tri vrtuľníky,  turistov varujú pred vstupom na Bradu",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2024709-sulovske-skaly-v-plamenoch-do-boja-nasadili-tri-vrtulniky-turistov-varuju-pred-vstupom-na-bradu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-15T09:25:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/15/2518905/4x3-medium/sulov-poziar.jpg?v=T/w"
     }
   ]
 }

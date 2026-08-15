@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T22:01:02.758112+00:00",
+  "generated_at": "2026-08-15T22:52:21.267130+00:00",
   "max_age_hours": 12,
-  "count": 16,
+  "count": 14,
   "items": [
     {
       "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
@@ -128,24 +128,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786814280-video-na-kojsovskej-holi-vypukol-poziar-hasici-sa-k-ohnu-pre-tazky-teren-nevedeli-dostat-miesto-preveroval-dron.webp"
-    },
-    {
-      "title": "Požiar na Kojšovej holi sa hasičom podarilo dostať pod kontrolu",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2024739-kojsovu-holu-zasiahol-poziar-zasahuju-tam-profesionalni-i-dobrovolni-hasici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-15T10:31:01+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2024/01/03/4x3-medium/kojsov.jpg?v=Zxc"
-    },
-    {
-      "title": "Tomáš z Tajova zmizol bez stopy, po troch dňoch ho našli kamaráti. Čo sa mu stalo?",
-      "link": "https://www.bystricak.sk/clanky/12707/foto-tomas-z-tajova-bol-nezvestny-tri-dni-nasli-ho-v-polovnickom-posede-skoncil-v-nemocnici",
-      "time": "2026-08-15T10:20:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786797231-foto-tomas-z-tajova-bol-nezvestny-tri-dni-nasli-ho-v-polovnickom-posede-skoncil-v-nemocnici.webp"
     }
   ]
 }

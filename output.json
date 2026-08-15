@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-15T17:41:47.097677+00:00",
+  "generated_at": "2026-08-15T18:00:52.120255+00:00",
   "max_age_hours": 12,
-  "count": 26,
+  "count": 28,
   "items": [
+    {
+      "title": "Bratislavskí hasiči zasahovali pri požiari na Kukučínovej",
+      "link": "https://www.teraz.sk/regiony/bratislavski-hasici-zasahovali-pri-po/985242-clanok.html",
+      "time": "2026-08-15T17:10:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "V Tatrách vypukol lesný požiar, na mieste sú hasiči, dobrovoľníci aj zamestnanci TANAP-u",
       "link": "https://sita.sk/v-tatrach-vypukol-lesny-poziar-na-mieste-su-hasici-dobrovolnici-aj-zamestnanci-tanapu/",
@@ -11,6 +20,24 @@
       "region": "presovsky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2026/08/6a5105b8c1ac8244366677-1-688x387.jpg"
+    },
+    {
+      "title": "Požiar na Kojšovskej holi sa už ďalej nešíri",
+      "link": "https://www.teraz.sk/regiony/poziar-na-kojsovskej-holi-sa-uz-dale/985230-clanok.html",
+      "time": "2026-08-15T16:19:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Hasiči zasahujú pri požiari pod Popradským plesom",
+      "link": "https://www.teraz.sk/regiony/hasici-zasahuju-pri-poziari-pod-popra/985203-clanok.html",
+      "time": "2026-08-15T14:13:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
     },
     {
       "title": "Plamene zasiahli Tatranský národný park. Oheň sa šíri pod Popradským plesom",
@@ -85,7 +112,7 @@
       "image": null
     },
     {
-      "title": "Pod obľúbeným Popradským plesom horí les, do boja nasadili Black Hawk",
+      "title": "Popradské pleso ohrozoval požiar. Desiatky hasičov bojovali s plameňmi, priletel aj vojenský vrtuľník",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2024813-poplach-vo-vysokych-tatrach-pod-oblubenym-popradskym-plesom-hori-les-hasici-zvadzaju-boj-s-ohnom?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-15T13:20:16+00:00",
       "cat": "poziar",
@@ -209,15 +236,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Vodič zrejme zaspal za volantom a prešiel do protismeru. Nasledovala čelná zrážka pred Banskou Štiavnicou",
-      "link": "https://www.bystricak.sk/clanky/12705/foto-hlavny-tah-k-banskej-stiavnici-uzavrela-vazna-nehoda-mal-ju-sposobit-mikrospanok-zranili-sa-traja-ludia",
-      "time": "2026-08-15T07:30:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786777335-foto-hlavny-tah-k-banskej-stiavnici-uzavrela-vazna-nehoda-mal-ju-sposobit-mikrospanok-zranili-sa-traja-ludia.webp"
     },
     {
       "title": "Tragédia na D4 pri Bratislave: Len 17-ročná motocyklistka narazila do zvodidiel, záchranári jej už nedokázali pomôcť",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T16:00:33.524533+00:00",
+  "generated_at": "2026-08-15T16:54:46.912326+00:00",
   "max_age_hours": 12,
   "count": 27,
   "items": [
@@ -11,6 +11,15 @@
       "region": "presovsky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2026/08/6a5105b8c1ac8244366677-1-688x387.jpg"
+    },
+    {
+      "title": "Požiar na Kojšovskej holi sa už ďalej nešíri",
+      "link": "https://www.teraz.sk/regiony/poziar-na-kojsovskej-holi-sa-uz-dale/985230-clanok.html",
+      "time": "2026-08-15T16:19:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
     },
     {
       "title": "Hasiči zasahujú pri požiari pod Popradským plesom",
@@ -100,7 +109,7 @@
       "cat": "poziar",
       "region": "presovsky",
       "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2025/09/10/4x3-medium/popradske-pleso-mreporter.png?v=T/w"
+      "image": "https://prvd.sk/cdn/2026/08/15/2519073/4x3-medium/popradske-pleso-poziar.jpg?v=T/w"
     },
     {
       "title": "Vo Vysokých Tatrách horí les pod Popradským plesom: Hasiči zápasia s plameňmi v neprístupnom teréne",
@@ -220,24 +229,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786777335-foto-hlavny-tah-k-banskej-stiavnici-uzavrela-vazna-nehoda-mal-ju-sposobit-mikrospanok-zranili-sa-traja-ludia.webp"
     },
     {
-      "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
-      "link": "https://www.kosicak.sk/clanky/13683/slovensko-vratane-vychodu-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
-      "time": "2026-08-15T07:15:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786711079-slovensko-vratane-vychodu-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
-    },
-    {
-      "title": "Polícia od piatka pátra po 20-ročnej Viktórii Marikovej z Galanty",
-      "link": "https://www.trnavak.sk/clanky/11804/policia-od-piatka-patra-po-20-rocnej-viktorii-z-galanty-nevideli-ste-ju",
-      "time": "2026-08-15T06:35:00+00:00",
-      "cat": "patranie",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786775668-policia-od-piatka-patra-po-20rocnej-viktorii-z-galanty-nevideli-ste-ju.webp"
-    },
-    {
       "title": "Tragédia na D4 pri Bratislave: Len 17-ročná motocyklistka narazila do zvodidiel, záchranári jej už nedokázali pomôcť",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2024655-tragedia-na-d4-pri-bratislave-len-17-rocna-motocyklistka-narazila-do-zvodidiel-zachranari-jej-uz-nedokazali-pomoct?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-15T06:16:01+00:00",
@@ -245,6 +236,15 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/15/2518897/4x3-medium/nehoda-d4-bratislava-rovinka.jpg?v=T/w"
+    },
+    {
+      "title": "Na D4 pri Rovinke sa v piatok večer stala tragédia, vyžiadala si život len 17-ročnej vodičky motocykla",
+      "link": "https://www.bratislavak.sk/clanky/14974/na-dialnici-d4-pri-rovinke-doslo-k-tragickej-dopravnej-nehode-o-zivot-prisla-len-17-rocna-motocyklistka",
+      "time": "2026-08-15T06:05:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786772627-na-dialnici-d4-pri-rovinke-doslo-k-tragickej-dopravnej-nehode-o-zivot-prisla-len-17rocna-motocyklistka.webp"
     }
   ]
 }

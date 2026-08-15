@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-15T19:01:38.831808+00:00",
+  "generated_at": "2026-08-15T19:44:13.866615+00:00",
   "max_age_hours": 12,
-  "count": 24,
+  "count": 22,
   "items": [
+    {
+      "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
+      "link": "https://www.teraz.sk/regiony/poziar-lesneho-porastu-pod-popradskym/985251-clanok.html",
+      "time": "2026-08-15T19:24:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Slovensko čakajú mimoriadne vysoké teploty a neskôr aj búrky",
       "link": "https://www.aktuality.sk/clanok/wQuPGDE/slovensko-cakaju-mimoriadne-vysoke-teploty-a-neskor-aj-burky/",
@@ -10,15 +19,6 @@
       "cat": "burka",
       "region": "zilinsky",
       "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
-      "link": "https://www.teraz.sk/regiony/poziar-lesneho-porastu-pod-popradskym/985251-clanok.html",
-      "time": "2026-08-15T18:04:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "teraz.sk",
       "image": null
     },
     {
@@ -67,13 +67,13 @@
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786800731-video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene.webp"
     },
     {
-      "title": "Medzi Liptovom a Oravou zasahujú všetky zložky. Po nehode motorkára uzavreli cestu",
-      "link": "https://www.zilinak.sk/clanky/42311/cestu-medzi-oravou-a-liptovom-uplne-uzavreli-pristal-tam-vrtulnik-zrazil-sa-motorkar-s-autom",
+      "title": "Na Liptove došlo k tragickej nehode, ktorú spôsobila opitá žena. Zomrel pri nej motocyklista",
+      "link": "https://www.zilinak.sk/clanky/42311/opita-vodicka-na-liptove-sposobila-smrtelnu-nehodu-neprezil-ju-motorkar-z-miesta-kolizie-odisla",
       "time": "2026-08-15T13:50:00+00:00",
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/02_aktualne.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786822745-opita-vodicka-na-liptove-sposobila-smrtelnu-nehodu-neprezil-ju-motorkar-z-miesta-kolizie-odisla.webp"
     },
     {
       "title": "Plamene zasiahli Tatranský národný park. Oheň sa šíri pod Popradským plesom",
@@ -83,15 +83,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786800731-video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene.webp"
-    },
-    {
-      "title": "Plamene zasiahli Tatranský národný park. Oheň sa šíri pod Popradským plesom",
-      "link": "https://www.zilinak.sk/clanky/42312/video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene",
-      "time": "2026-08-15T13:40:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786800731-video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene.webp"
     },
     {
       "title": "Plamene zasiahli Tatranský národný park. Oheň sa šíri pod Popradským plesom",
@@ -209,15 +200,6 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/019d7644-bc52-7e23-8760-ee236bec86ad.jpg"
-    },
-    {
-      "title": "Nehoda komplikuje premávku na R1 z Nitry do Trnavy",
-      "link": "https://www.nitrak.sk/clanky/11559/na-r1-v-smere-z-nitry-do-trnavy-sa-stala-dopravna-nehoda-na-mieste-zasahuju-zachranne-zlozky-vodicov-caka-zdrzanie",
-      "time": "2026-08-15T07:37:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
     }
   ]
 }

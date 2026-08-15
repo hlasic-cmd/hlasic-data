@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T23:44:41.541251+00:00",
+  "generated_at": "2026-08-15T02:40:20.351994+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 5,
   "items": [
     {
       "title": "Požiar pri Súľovských skalách sa opäť rozhorel. Plamene zachvátili aj stromy, ráno majú nasadiť tri vrtuľníky",
@@ -47,33 +47,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786724895-premavku-pri-banskej-stiavnici-komplikuje-dopravna-nehoda-pocitajte-tu-so-zdrzanim-a-v-useku-zvyste-opatrnost.webp"
-    },
-    {
-      "title": "Mimoriadne riziko požiarov na celom Slovensku. Opekačky radšej zrušte",
-      "link": "https://www.trnavak.sk/clanky/11772/cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky",
-      "time": "2026-08-14T14:00:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786611191-cele-slovensko-je-v-cervenom-pasme-hasici-varuju-pred-poziarmi-a-odporucaju-zrusit-opekacky.webp"
-    },
-    {
-      "title": "Dostali všetci naraz zelenú? Polícia po dvoch nehodách električky skontrolovala petržalské semafory",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2024379-dostali-vsetci-naraz-zelenu-policia-po-dvoch-nehodach-elektricky-skontrolovala-petrzalske-semafory?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-14T13:06:25+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/04/02/4x3-medium/zaber-na-elektricku-v-depe-krasnany_02.jpg?v=T/w"
-    },
-    {
-      "title": "Polícia po nehodách električiek v Petržalke chybu semaforov nenašla",
-      "link": "https://www.bratislavak.sk/clanky/14973/video-policia-po-dvoch-nehodach-elektriciek-preverila-semafory-v-petrzalke-toto-su-ich-zistenia",
-      "time": "2026-08-14T13:01:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786710809-video-policia-po-dvoch-nehodach-elektriciek-preverila-semafory-v-petrzalke-toto-su-ich-zistenia.webp"
     }
   ]
 }

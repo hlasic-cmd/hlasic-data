@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-15T05:02:06.323118+00:00",
+  "generated_at": "2026-08-15T05:56:55.637439+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 4,
   "items": [
+    {
+      "title": "Tragická nehoda na Orave. Cyklista po zrážke s nákladným vozidlom zomrel",
+      "link": "https://www.zilinak.sk/clanky/42304/tragicka-nehoda-na-orave-cyklista-presiel-do-protismeru-zrazila-ho-dodavka-v-nemocnici-podlahol-tazkym-zraneniam",
+      "time": "2026-08-15T05:31:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786771945-tragicka-nehoda-na-orave-cyklista-presiel-do-protismeru-zrazila-ho-dodavka-v-nemocnici-podlahol-tazkym-zraneniam.webp"
+    },
+    {
+      "title": "Veľká tragédia: Pri Bratislave zomrela 17-ročná motorkárka",
+      "link": "https://www1.pluska.sk/krimi/velka-tragedia-pri-bratislave-zomrela-17-rocna-motorkarka",
+      "time": "2026-08-15T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/df8/df853d42-ac09-4c15-a2f2-886656311768.webp"
+    },
     {
       "title": "Požiar pri Súľovských skalách sa opäť rozhorel. Plamene zachvátili aj stromy, ráno majú nasadiť tri vrtuľníky",
       "link": "https://www.zilinak.sk/clanky/42303/poziar-pri-sulovskych-skalach-sa-opat-rozhorel-plamene-zachvatili-aj-stromy-rano-maju-nasadit-tri-vrtulniky",

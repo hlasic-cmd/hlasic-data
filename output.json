@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-08-16T14:43:56.360847+00:00",
+  "generated_at": "2026-08-16T15:41:12.540415+00:00",
   "max_age_hours": 12,
-  "count": 16,
+  "count": 20,
   "items": [
+    {
+      "title": "V Košickom kraji zahynulo pri nehodách 23 ľudí, polícia sprísni dohľad na cestách",
+      "link": "https://korzar.sme.sk/kosice/c/v-kosickom-kraji-zahynulo-pri-nehodach-23-ludi-policia-sprisni-dohlad-na-cestach?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-16T15:35:15+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a00b35-881e-7f37-96fd-2cebdb58d0ea.jpg"
+    },
+    {
+      "title": "Polícia pátra po 17-ročnom Oliverovi z okresu Košice-okolie, môže byť v okolí Košíc",
+      "link": "https://www.kosicak.sk/clanky/13715/policia-patra-po-nezvestnom-17-rocnom-oliverovi-z-okolia-kosic",
+      "time": "2026-08-16T15:14:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786893268-policia-patra-po-nezvestnom-17rocnom-oliverovi-z-okolia-kosic.webp"
+    },
+    {
+      "title": "Hasičom sa požiar v Tatranskom národnom parku podarilo zlikvidovať",
+      "link": "https://www.teraz.sk/regiony/hasicom-sa-poziar-v-tatranskom-narodn/985366-clanok.html",
+      "time": "2026-08-16T15:01:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Požiare na ostrove Salamina si vyžiadali dve obete a spôsobili hromadnú evakuáciu",
+      "link": "https://www.aktuality.sk/clanok/ITpeC5w/poziare-na-ostrove-salamina-si-vyziadali-dve-obete-a-sposobili-hromadnu-evakuaciu/",
+      "time": "2026-08-16T14:51:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "aktuality.sk",
+      "image": null
+    },
     {
       "title": "Polícia varuje: V Prešovskom kraji už prišlo o život 25 ľudí, tento rok evidujú 1 398 nehôd",
       "link": "https://www.presovak.sk/clanky/15003/policia-zverejnila-desivu-bilanciu-nehod-v-presovskom-kraji-25-mrtvych-a-stovky-zranenych-varuje-vodicov",
@@ -65,6 +101,15 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786880816-policia-bije-na-poplach-na-cestach-kosickeho-kraja-zomrelo-uz-23-ludi-horsiu-bilanciu-sme-desat-rokov-nemali.webp"
+    },
+    {
+      "title": "Nehoda pri Vranove nad Topľou: Po zrážke auta s motorkou skončil 50-ročný vodič v nemocnici",
+      "link": "https://www.presovak.sk/clanky/15004/dopravna-nehoda-pri-vranove-nad-toplou-motocyklista-skoncil-v-nemocnici",
+      "time": "2026-08-16T12:20:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786893943-dopravna-nehoda-pri-vranove-nad-toplou-motocyklista-skoncil-v-nemocnici.webp"
     },
     {
       "title": "V Trnavskom kraji polícia po 717 nehodách a 22 obetiach pritvrdí",
@@ -137,15 +182,6 @@
       "region": "presovsky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/01a00998-4853-7ace-b7b5-33648d70ecb5.jpg"
-    },
-    {
-      "title": "Hasiči v Tatranskom národnom parku majú požiar pod kontrolou, dohášajú skryté ohniská",
-      "link": "https://www.aktuality.sk/clanok/tc9xvFE/hasici-v-tatranskom-narodnom-parku-maju-poziar-pod-kontrolou-dohasaju-skryte-ohniska/",
-      "time": "2026-08-16T06:38:48+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "aktuality.sk",
-      "image": null
     }
   ]
 }

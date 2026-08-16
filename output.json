@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T00:00:38.140666+00:00",
+  "generated_at": "2026-08-16T03:16:34.896850+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 5,
   "items": [
     {
       "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
@@ -47,78 +47,6 @@
       "region": "kosicky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Hasiči zasahujú pri požiari pod Popradským plesom",
-      "link": "https://www.teraz.sk/regiony/hasici-zasahuju-pri-poziari-pod-popra/985203-clanok.html",
-      "time": "2026-08-15T14:13:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Na Liptove došlo k tragickej nehode, ktorú spôsobila opitá žena. Zomrel pri nej motocyklista",
-      "link": "https://www.zilinak.sk/clanky/42311/opita-vodicka-na-liptove-sposobila-smrtelnu-nehodu-neprezil-ju-motorkar-z-miesta-kolizie-odisla",
-      "time": "2026-08-15T13:50:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786822745-opita-vodicka-na-liptove-sposobila-smrtelnu-nehodu-neprezil-ju-motorkar-z-miesta-kolizie-odisla.webp"
-    },
-    {
-      "title": "Plamene zasiahli Tatranský národný park. Oheň sa šíri pod Popradským plesom",
-      "link": "https://www.presovak.sk/clanky/14998/video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene",
-      "time": "2026-08-15T13:31:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786802156-video-v-tatranskom-narodnom-parku-zacal-horiet-les-na-slovensku-naraz-hasia-tri-poziare-v-tazkom-terene.webp"
-    },
-    {
-      "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
-      "link": "https://korzar.sme.sk/spis-gemer/c/pod-popradskym-plesom-hori-lesny-porast-ohen-zachvatil-plochu-50-krat-100-metrov?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-15T13:24:43+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a005c9-611b-75d0-8f60-1f4a3c0f4b1a.jpg"
-    },
-    {
-      "title": "Požiar na Kojšovej holi dostali pod kontrolu: Dobrovoľníci v náročnom teréne dohášajú skryté ohniská",
-      "link": "https://www.aktuality.sk/clanok/3bWm643/poziar-na-kojsovej-holi-dostali-pod-kontrolu-dobrovolnici-v-narocnom-terene-dohasaju-skryte-ohniska/",
-      "time": "2026-08-15T13:21:30+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Popradské pleso ohrozoval požiar. Desiatky hasičov bojovali s plameňmi, priletel aj vojenský vrtuľník",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2024813-poplach-vo-vysokych-tatrach-pod-oblubenym-popradskym-plesom-hori-les-hasici-zvadzaju-boj-s-ohnom?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-15T13:20:16+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/15/2519073/4x3-medium/popradske-pleso-poziar.jpg?v=T/w"
-    },
-    {
-      "title": "Vo Vysokých Tatrách horí les pod Popradským plesom: Hasiči zápasia s plameňmi v neprístupnom teréne",
-      "link": "https://www.aktuality.sk/clanok/IxyEghX/vo-vysokych-tatrach-hori-les-pod-popradskym-plesom-hasici-zapasia-s-plamenmi-v-nepristupnom-terene/",
-      "time": "2026-08-15T13:19:59+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Nehoda za Matúškovom smerom na Dolné Saliby, vodiči prejdú striedavo",
-      "link": "https://www.trnavak.sk/clanky/11806/pozor-na-nehodu-nedaleko-galanty-vodici-usekom-prejdu-striedavo",
-      "time": "2026-08-15T12:16:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     }
   ]
 }

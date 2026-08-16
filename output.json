@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T17:39:51.110672+00:00",
+  "generated_at": "2026-08-16T18:00:11.573374+00:00",
   "max_age_hours": 12,
-  "count": 22,
+  "count": 23,
   "items": [
     {
       "title": "Požiar pri stanici v Dunajskej Lužnej zastavil železničnú dopravu",
@@ -191,6 +191,15 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786869572-patraju-po-19rocnom-ivanovi-z-okresu-poltar-naposledy-ho-videli-v-tomto-obleceni.webp"
+    },
+    {
+      "title": "Zrážka troch motocyklistov pri Tatranskej Kotline. Traja ľudia skončili v nemocnici",
+      "link": "https://www.presovak.sk/clanky/15000/zrazka-troch-motoriek-na-spisi-traja-ludia-skoncili-v-nemocniciach-zasahovali-vsetky-zlozky",
+      "time": "2026-08-16T08:09:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786867737-zrazka-troch-motoriek-na-spisi-traja-ludia-skoncili-v-nemocniciach-zasahovali-vsetky-zlozky.webp"
     },
     {
       "title": "Situácia na požiarisku pod Popradským plesom bola počas noci pokojná",

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T23:02:28.601183+00:00",
+  "generated_at": "2026-08-16T23:41:14.136841+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 13,
   "items": [
     {
       "title": "Požiar pri stanici v Dunajskej Lužnej zastavil železničnú dopravu",
@@ -119,15 +119,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786881636-policia-varuje-vodicov-v-banskobystrickom-kraji-uz-zomrelo-14-ludi-pri-678-nehodach.webp"
-    },
-    {
-      "title": "V Trnavskom kraji polícia po 717 nehodách a 22 obetiach pritvrdí",
-      "link": "https://www.trnavak.sk/clanky/11808/policia-v-trnavskom-kraji-pritvrdzuje-po-12-nehodach-za-posledne-tri-dni-chysta-tvrdu-akciu",
-      "time": "2026-08-16T11:30:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786879839-policia-v-trnavskom-kraji-pritvrdzuje-po-12-nehodach-za-posledne-tri-dni-chysta-tvrdu-akciu.webp"
     }
   ]
 }

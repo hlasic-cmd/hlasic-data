@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T19:59:09.510577+00:00",
+  "generated_at": "2026-08-16T20:50:26.270126+00:00",
   "max_age_hours": 12,
-  "count": 19,
+  "count": 17,
   "items": [
     {
       "title": "Požiar pri stanici v Dunajskej Lužnej zastavil železničnú dopravu",
@@ -155,24 +155,6 @@
       "region": "zilinsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/16/2519167/4x3-medium/sulov-poziar-sulovske-skaly.jpg?v=JHM"
-    },
-    {
-      "title": "Zrážka troch motocyklistov pri Tatranskej Kotline. Traja ľudia skončili v nemocnici",
-      "link": "https://www.presovak.sk/clanky/15000/zrazka-troch-motoriek-na-spisi-traja-ludia-skoncili-v-nemocniciach-zasahovali-vsetky-zlozky",
-      "time": "2026-08-16T08:09:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786867737-zrazka-troch-motoriek-na-spisi-traja-ludia-skoncili-v-nemocniciach-zasahovali-vsetky-zlozky.webp"
-    },
-    {
-      "title": "Situácia na požiarisku pod Popradským plesom bola počas noci pokojná",
-      "link": "https://korzar.sme.sk/spis-gemer/c/situacia-na-poziarisku-pod-popradskym-plesom-bola-pocas-noci-pokojna?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-16T08:04:20+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a00998-4853-7ace-b7b5-33648d70ecb5.jpg"
     }
   ]
 }

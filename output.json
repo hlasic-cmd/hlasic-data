@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-16T10:50:04.658151+00:00",
+  "generated_at": "2026-08-16T11:40:07.428907+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 11,
   "items": [
+    {
+      "title": "Požiar vo Vysokých Tatrách je lokalizovaný. Hasiči dohášajú skryté ohniská",
+      "link": "https://www.presovak.sk/clanky/15002/foto-poziar-vo-vysokych-tatrach-je-lokalizovany-hasici-stale-dohasaju-skryte-ohniska",
+      "time": "2026-08-16T11:00:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786873630-foto-poziar-vo-vysokych-tatrach-je-lokalizovany-hasici-stale-dohasaju-skryte-ohniska.webp"
+    },
     {
       "title": "V Nitrianskom kraji pribudlo 65 nehôd, polícia kontroluje rizikových vodičov",
       "link": "https://www.nitrak.sk/clanky/11562/tragicke-nehody-pribudaju-policia-v-nitrianskom-kraji-pritvrdila-voci-rizikovym-vodicom",
@@ -13,6 +22,15 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786876329-tragicke-nehody-pribudaju-policia-v-nitrianskom-kraji-pritvrdila-voci-rizikovym-vodicom.webp"
     },
     {
+      "title": "Polícia pátra po 72-ročnom Jánovi z Nového Mesta nad Váhom. Videli ste ho?",
+      "link": "https://www.trencinak.sk/clanky/13419/policia-patra-po-72-rocnom-janovi-z-noveho-mesta-nad-vahom-videli-ste-ho",
+      "time": "2026-08-16T10:30:00+00:00",
+      "cat": "patranie",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786873634-policia-patra-po-72rocnom-janovi-z-noveho-mesta-nad-vahom-videli-ste-ho.webp"
+    },
+    {
       "title": "Súľovské skaly stále horia. Do boja nasadili Black Hawky, príčinou bol otvorený oheň",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2025085-sulovske-skaly-stale-horia-do-boja-nasadili-black-hawky-pricinou-bol-otvoreny-ohen?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-16T10:23:21+00:00",
@@ -20,6 +38,15 @@
       "region": "zilinsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/16/2519167/4x3-medium/sulov-poziar-sulovske-skaly.jpg?v=JHM"
+    },
+    {
+      "title": "Tragická nehoda v Rabči: 55-ročný chodec po zrážke s autom zomrel",
+      "link": "https://www.zilinak.sk/clanky/42317/dalsia-tragicka-nehoda-na-orave-pod-kolesami-auta-zomrel-55-rocny-chodec-policia-apeluje-na-vodicov",
+      "time": "2026-08-16T10:19:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786875560-dalsia-tragicka-nehoda-na-orave-pod-kolesami-auta-zomrel-55rocny-chodec-policia-apeluje-na-vodicov.webp"
     },
     {
       "title": "Nezvestný Ivan Cibuľa (19) z okresu Poltár. Polícia a rodina prosia o pomoc",

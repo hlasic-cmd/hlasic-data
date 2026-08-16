@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-08-16T05:58:55.531644+00:00",
+  "generated_at": "2026-08-16T07:44:44.001447+00:00",
   "max_age_hours": 12,
   "count": 3,
   "items": [
     {
-      "title": "Horúčavy na Slovensku vyvrcholia, podvečer však hrozia prvé búrky",
-      "link": "https://www.aktuality.sk/clanok/4OVIcW4/horucavy-na-slovensku-vyvrcholia-podvecer-vsak-hrozia-prve-burky/",
-      "time": "2026-08-16T04:30:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
+      "title": "Hasiči v Tatranskom národnom parku majú požiar pod kontrolou, dohášajú skryté ohniská",
+      "link": "https://www.aktuality.sk/clanok/tc9xvFE/hasici-v-tatranskom-narodnom-parku-maju-poziar-pod-kontrolou-dohasaju-skryte-ohniska/",
+      "time": "2026-08-16T06:38:48+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
       "src": "aktuality.sk",
       "image": null
     },
     {
-      "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
-      "link": "https://www.teraz.sk/regiony/poziar-lesneho-porastu-pod-popradskym/985251-clanok.html",
-      "time": "2026-08-15T19:24:00+00:00",
+      "title": "Požiar lesného porastu v Tatrách sa nerozšíril, situáciu monitorujú",
+      "link": "https://www.teraz.sk/regiony/poziar-lesneho-porastu-v-tatrach-sa-n/985279-clanok.html",
+      "time": "2026-08-16T05:48:00+00:00",
       "cat": "poziar",
       "region": "presovsky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Slovensko čakajú mimoriadne vysoké teploty a neskôr aj búrky",
-      "link": "https://www.aktuality.sk/clanok/wQuPGDE/slovensko-cakaju-mimoriadne-vysoke-teploty-a-neskor-aj-burky/",
-      "time": "2026-08-15T19:00:00+00:00",
+      "title": "Horúčavy na Slovensku vyvrcholia, podvečer však hrozia prvé búrky",
+      "link": "https://www.aktuality.sk/clanok/4OVIcW4/horucavy-na-slovensku-vyvrcholia-podvecer-vsak-hrozia-prve-burky/",
+      "time": "2026-08-16T04:30:00+00:00",
       "cat": "burka",
       "region": "zilinsky",
       "src": "aktuality.sk",

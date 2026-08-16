@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-16T03:16:34.896850+00:00",
+  "generated_at": "2026-08-16T05:00:27.066740+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 4,
   "items": [
+    {
+      "title": "Horúčavy na Slovensku vyvrcholia, podvečer však hrozia prvé búrky",
+      "link": "https://www.aktuality.sk/clanok/4OVIcW4/horucavy-na-slovensku-vyvrcholia-podvecer-vsak-hrozia-prve-burky/",
+      "time": "2026-08-16T04:30:00+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
     {
       "title": "Požiar lesného porastu pod Popradským plesom sa podarilo stabilizovať",
       "link": "https://www.teraz.sk/regiony/poziar-lesneho-porastu-pod-popradskym/985251-clanok.html",
@@ -27,24 +36,6 @@
       "time": "2026-08-15T17:10:00+00:00",
       "cat": "poziar",
       "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Lesný požiar v Tatrách sa podarilo stabilizovať, hasiči ešte zostali na mieste",
-      "link": "https://sita.sk/v-tatrach-vypukol-lesny-poziar-na-mieste-su-hasici-dobrovolnici-aj-zamestnanci-tanapu/",
-      "time": "2026-08-15T17:00:18+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/08/6a5105b8c1ac8244366677-1-688x387.jpg"
-    },
-    {
-      "title": "Požiar na Kojšovskej holi sa už ďalej nešíri",
-      "link": "https://www.teraz.sk/regiony/poziar-na-kojsovskej-holi-sa-uz-dale/985230-clanok.html",
-      "time": "2026-08-15T16:19:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
       "src": "teraz.sk",
       "image": null
     }

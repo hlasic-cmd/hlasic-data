@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-08-16T13:44:21.855581+00:00",
+  "generated_at": "2026-08-16T14:43:56.360847+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 16,
   "items": [
+    {
+      "title": "Polícia varuje: V Prešovskom kraji už prišlo o život 25 ľudí, tento rok evidujú 1 398 nehôd",
+      "link": "https://www.presovak.sk/clanky/15003/policia-zverejnila-desivu-bilanciu-nehod-v-presovskom-kraji-25-mrtvych-a-stovky-zranenych-varuje-vodicov",
+      "time": "2026-08-16T14:00:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786881244-policia-zverejnila-desivu-bilanciu-nehod-v-presovskom-kraji-25-mrtvych-a-stovky-zranenych-varuje-vodicov.webp"
+    },
+    {
+      "title": "Na cestách Nitrianskeho kraja zomrelo pri 922 nehodách 20 ľudí",
+      "link": "https://www.teraz.sk/regiony/na-cestach-nitrianskeho-kraja-zomrelo-p/985356-clanok.html",
+      "time": "2026-08-16T13:55:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "SHMÚ varuje pred búrkami: Pre okres Senec platí výstraha, hrozia aj krúpy a silný vietor",
+      "link": "https://www.bratislavak.sk/clanky/14986/pozor-okres-pri-bratislave-cakaju-burky-shmu-vydal-vystrahu-hrozia-aj-krupy",
+      "time": "2026-08-16T13:50:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786882729-pozor-okres-pri-bratislave-cakaju-burky-shmu-vydal-vystrahu-hrozia-aj-krupy.webp"
+    },
     {
       "title": "Požiar na Súľovských skalách: Hasiči poznajú príčinu, škody zatiaľ nevyčíslili",
       "link": "https://www.zilinak.sk/clanky/42318/zasah-na-sulovskych-skalach-pokracuje-hasici-urcili-pricinu-poziaru-skody-zatial-neboli-vycislene",

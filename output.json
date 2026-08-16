@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T05:00:27.066740+00:00",
+  "generated_at": "2026-08-16T05:58:55.531644+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "title": "Horúčavy na Slovensku vyvrcholia, podvečer však hrozia prvé búrky",
@@ -28,15 +28,6 @@
       "cat": "burka",
       "region": "zilinsky",
       "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Bratislavskí hasiči zasahovali pri požiari na Kukučínovej",
-      "link": "https://www.teraz.sk/regiony/bratislavski-hasici-zasahovali-pri-po/985242-clanok.html",
-      "time": "2026-08-15T17:10:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
       "image": null
     }
   ]

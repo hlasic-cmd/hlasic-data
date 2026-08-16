@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-08-16T07:44:44.001447+00:00",
+  "generated_at": "2026-08-16T08:59:55.030888+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 6,
   "items": [
+    {
+      "title": "Nezvestný Ivan Cibuľa (19) z okresu Poltár. Polícia a rodina prosia o pomoc",
+      "link": "https://www.bystricak.sk/clanky/12709/patraju-po-19-rocnom-ivanovi-z-okresu-poltar-naposledy-ho-videli-v-tomto-obleceni",
+      "time": "2026-08-16T08:40:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786869572-patraju-po-19rocnom-ivanovi-z-okresu-poltar-naposledy-ho-videli-v-tomto-obleceni.webp"
+    },
+    {
+      "title": "Požiar lesného porastu v Tatrách sa nerozšíril, situáciu monitorujú",
+      "link": "https://www.teraz.sk/regiony/poziar-lesneho-porastu-v-tatrach-sa-n/985279-clanok.html",
+      "time": "2026-08-16T08:25:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Zrážka troch motocyklistov pri Tatranskej Kotline. Traja ľudia skončili v nemocnici",
+      "link": "https://www.presovak.sk/clanky/15000/zrazka-troch-motoriek-na-spisi-traja-ludia-skoncili-v-nemocniciach-zasahovali-vsetky-zlozky",
+      "time": "2026-08-16T08:09:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786867737-zrazka-troch-motoriek-na-spisi-traja-ludia-skoncili-v-nemocniciach-zasahovali-vsetky-zlozky.webp"
+    },
+    {
+      "title": "Situácia na požiarisku pod Popradským plesom bola počas noci pokojná",
+      "link": "https://korzar.sme.sk/spis-gemer/c/situacia-na-poziarisku-pod-popradskym-plesom-bola-pocas-noci-pokojna?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-16T08:04:20+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a00998-4853-7ace-b7b5-33648d70ecb5.jpg"
+    },
     {
       "title": "Hasiči v Tatranskom národnom parku majú požiar pod kontrolou, dohášajú skryté ohniská",
       "link": "https://www.aktuality.sk/clanok/tc9xvFE/hasici-v-tatranskom-narodnom-parku-maju-poziar-pod-kontrolou-dohasaju-skryte-ohniska/",
@@ -10,15 +46,6 @@
       "cat": "poziar",
       "region": "presovsky",
       "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Požiar lesného porastu v Tatrách sa nerozšíril, situáciu monitorujú",
-      "link": "https://www.teraz.sk/regiony/poziar-lesneho-porastu-v-tatrach-sa-n/985279-clanok.html",
-      "time": "2026-08-16T05:48:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "teraz.sk",
       "image": null
     },
     {

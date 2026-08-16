@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-16T12:00:44.238569+00:00",
+  "generated_at": "2026-08-16T13:44:21.855581+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "title": "Požiar na Súľovských skalách: Hasiči poznajú príčinu, škody zatiaľ nevyčíslili",
+      "link": "https://www.zilinak.sk/clanky/42318/zasah-na-sulovskych-skalach-pokracuje-hasici-urcili-pricinu-poziaru-skody-zatial-neboli-vycislene",
+      "time": "2026-08-16T13:17:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786886315-zasah-na-sulovskych-skalach-pokracuje-hasici-urcili-pricinu-poziaru-skody-zatial-neboli-vycislene.webp"
+    },
+    {
+      "title": "Polícia zintenzívnila kontroly, v Trenčianskom kraji zomrelo 16 ľudí",
+      "link": "https://www.trencinak.sk/clanky/13424/policia-zintenzivnila-kontroly-v-trencianskom-kraji-eviduju-od-zaciatku-roka-uz-16-tragickych-nehod",
+      "time": "2026-08-16T13:05:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786885536-policia-zintenzivnila-kontroly-v-trencianskom-kraji-eviduju-od-zaciatku-roka-uz-16-tragickych-nehod.webp"
+    },
+    {
+      "title": "Polícia varuje: V Banskobystrickom kraji už zomrelo 14 ľudí pri 678 nehodách",
+      "link": "https://www.bystricak.sk/clanky/12711/policia-varuje-vodicov-v-banskobystrickom-kraji-uz-zomrelo-14-ludi-pri-678-nehodach",
+      "time": "2026-08-16T13:00:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786881636-policia-varuje-vodicov-v-banskobystrickom-kraji-uz-zomrelo-14-ludi-pri-678-nehodach.webp"
+    },
+    {
+      "title": "Polícia varuje: Na cestách Košického kraja zomrelo už 23 ľudí, ide o najhoršiu bilanciu za 10 rokov",
+      "link": "https://www.kosicak.sk/clanky/13713/policia-bije-na-poplach-na-cestach-kosickeho-kraja-zomrelo-uz-23-ludi-horsiu-bilanciu-sme-desat-rokov-nemali",
+      "time": "2026-08-16T12:30:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786880816-policia-bije-na-poplach-na-cestach-kosickeho-kraja-zomrelo-uz-23-ludi-horsiu-bilanciu-sme-desat-rokov-nemali.webp"
+    },
+    {
+      "title": "V Trnavskom kraji polícia po 717 nehodách a 22 obetiach pritvrdí",
+      "link": "https://www.trnavak.sk/clanky/11808/policia-v-trnavskom-kraji-pritvrdzuje-po-12-nehodach-za-posledne-tri-dni-chysta-tvrdu-akciu",
+      "time": "2026-08-16T11:30:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786879839-policia-v-trnavskom-kraji-pritvrdzuje-po-12-nehodach-za-posledne-tri-dni-chysta-tvrdu-akciu.webp"
+    },
     {
       "title": "Požiar vo Vysokých Tatrách je lokalizovaný. Hasiči dohášajú skryté ohniská",
       "link": "https://www.presovak.sk/clanky/15002/foto-poziar-vo-vysokych-tatrach-je-lokalizovany-hasici-stale-dohasaju-skryte-ohniska",
@@ -58,24 +103,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786869572-patraju-po-19rocnom-ivanovi-z-okresu-poltar-naposledy-ho-videli-v-tomto-obleceni.webp"
     },
     {
-      "title": "Požiar lesného porastu v Tatrách sa nerozšíril, situáciu monitorujú",
-      "link": "https://www.teraz.sk/regiony/poziar-lesneho-porastu-v-tatrach-sa-n/985279-clanok.html",
-      "time": "2026-08-16T08:25:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Zrážka troch motocyklistov pri Tatranskej Kotline. Traja ľudia skončili v nemocnici",
-      "link": "https://www.presovak.sk/clanky/15000/zrazka-troch-motoriek-na-spisi-traja-ludia-skoncili-v-nemocniciach-zasahovali-vsetky-zlozky",
-      "time": "2026-08-16T08:09:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786867737-zrazka-troch-motoriek-na-spisi-traja-ludia-skoncili-v-nemocniciach-zasahovali-vsetky-zlozky.webp"
-    },
-    {
       "title": "Situácia na požiarisku pod Popradským plesom bola počas noci pokojná",
       "link": "https://korzar.sme.sk/spis-gemer/c/situacia-na-poziarisku-pod-popradskym-plesom-bola-pocas-noci-pokojna?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
       "time": "2026-08-16T08:04:20+00:00",
@@ -90,15 +117,6 @@
       "time": "2026-08-16T06:38:48+00:00",
       "cat": "poziar",
       "region": "presovsky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Horúčavy na Slovensku vyvrcholia, podvečer však hrozia prvé búrky",
-      "link": "https://www.aktuality.sk/clanok/4OVIcW4/horucavy-na-slovensku-vyvrcholia-podvecer-vsak-hrozia-prve-burky/",
-      "time": "2026-08-16T04:30:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
       "src": "aktuality.sk",
       "image": null
     }

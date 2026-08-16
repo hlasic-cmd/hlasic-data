@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-16T16:01:28.033872+00:00",
+  "generated_at": "2026-08-16T16:56:23.721796+00:00",
   "max_age_hours": 12,
-  "count": 21,
+  "count": 22,
   "items": [
+    {
+      "title": "Požiar pri stanici v Dunajskej Lužnej zastavil železničnú dopravu",
+      "link": "https://www.bratislavak.sk/clanky/14989/poziar-v-satelite-nedaleko-bratislavy-obmedzil-zeleznicnu-dopravu-plamene-sa-rychlo-sirili",
+      "time": "2026-08-16T16:37:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786898445-poziar-v-satelite-nedaleko-bratislavy-obmedzil-zeleznicnu-dopravu-plamene-sa-rychlo-sirili.webp"
+    },
+    {
+      "title": "Požiar pri stanici v Dunajskej Lužnej zastavil vlaky. Hasiči bojujú s plameňmi vo viacerých objektoch",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2025201-poziar-pri-stanici-v-dunajskej-luznej-zastavil-vlaky-hasici-bojuju-s-plamenmi-vo-viacerych-objektoch?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-16T16:25:51+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/16/2519209/4x3-medium/poziar-blizko-stanice-v-dunajskej-luznej.jpg?v=MTc"
+    },
     {
       "title": "Rozsiahly požiar suchého porastu pri Nitre sa šíril pod elektrickým vedením",
       "link": "https://www.nitrak.sk/clanky/11564/foto-obrovsky-poziar-zachvatil-pole-pri-nitre-plamene-sa-sirili-pod-elektrickym-vedenim",
@@ -128,15 +146,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786879839-policia-v-trnavskom-kraji-pritvrdzuje-po-12-nehodach-za-posledne-tri-dni-chysta-tvrdu-akciu.webp"
-    },
-    {
-      "title": "Požiar vo Vysokých Tatrách je lokalizovaný. Hasiči dohášajú skryté ohniská",
-      "link": "https://www.presovak.sk/clanky/15002/foto-poziar-vo-vysokych-tatrach-je-lokalizovany-hasici-stale-dohasaju-skryte-ohniska",
-      "time": "2026-08-16T11:00:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786873630-foto-poziar-vo-vysokych-tatrach-je-lokalizovany-hasici-stale-dohasaju-skryte-ohniska.webp"
     },
     {
       "title": "V Nitrianskom kraji pribudlo 65 nehôd, polícia kontroluje rizikových vodičov",

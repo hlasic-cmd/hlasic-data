@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-08-17T11:02:03.338092+00:00",
+  "generated_at": "2026-08-17T11:54:38.186053+00:00",
   "max_age_hours": 12,
-  "count": 19,
+  "count": 22,
   "items": [
+    {
+      "title": "717 nehôd a 22 obetí. Polícia vytiahla drony aj autobus",
+      "link": "https://www.trnavak.sk/clanky/11821/policia-straca-s-vodicmi-trpezlivost-a-avizuje-tvrdsie-kontroly-trnavsky-kraj-ma-za-sebou-717-nehod-a-22-obeti",
+      "time": "2026-08-17T11:40:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786965881-policia-straca-s-vodicmi-trpezlivost-a-avizuje-tvrdsie-kontroly-trnavsky-kraj-ma-za-sebou-717-nehod-a-22-obeti.webp"
+    },
+    {
+      "title": "Polícia v Žilinskom kraji minulý týždeň odhalila 21 opitých vodičov",
+      "link": "https://www.teraz.sk/regiony/policia-v-zilinskom-kraji-minuly-ty/985545-clanok.html",
+      "time": "2026-08-17T11:36:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Žilinský kraj zaplavili opití šoféri. Policajti za týždeň odhalili 21 vodičov a štyri nehody pod vplyvom alkoholu",
+      "link": "https://www.aktuality.sk/clanok/G1CMSyr/zilinsky-kraj-zaplavili-opiti-soferi-policajti-za-tyzden-odhalili-21-vodicov-a-styri-nehody-pod-vplyvom-alkoholu/",
+      "time": "2026-08-17T11:33:49+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "POŽIAR v Súľovských skalách: Podarilo sa ho lokalizovať",
+      "link": "https://www.teraz.sk/regiony/poziar-v-sulovskych-skalach-podari/985537-clanok.html",
+      "time": "2026-08-17T11:14:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Nový trojpruh na I/18 pri Hubovej mätie vodičov, skoro došlo aj k nehode",
       "link": "https://www.zilinak.sk/clanky/42327/vodici-su-zmateni-z-noveho-trojpruhu-medzi-turanmi-a-hubovou-v-strednom-pruhu-sa-stretli-auta-z-oboch-smerov",
@@ -76,13 +112,13 @@
       "image": null
     },
     {
-      "title": "Požiar vo Veľkej Fatre: Hasiči zasahujú medzi Smrekovicou a Skalnou Alpou",
-      "link": "https://www.zilinak.sk/clanky/42325/vo-velkej-fatre-hori-35-hektara-lesa-nad-znamou-chatou-zasahuju-profesionalni-aj-dobrovolni-hasici",
+      "title": "Požiar vo Veľkej Fatre zrejme spôsobili ľudia. Toto našli pod vyhliadkou",
+      "link": "https://www.zilinak.sk/clanky/42325/poziar-vo-velkej-fatre-zrejme-sposobili-ludia-sprava-narodneho-parku-informovala-co-nasli-pod-vyhliadkou",
       "time": "2026-08-17T07:48:00+00:00",
       "cat": "poziar",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786960092-vo-velkej-fatre-hori-35-hektara-lesa-nad-znamou-chatou-zasahuju-profesionalni-aj-dobrovolni-hasici.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786966859-poziar-vo-velkej-fatre-zrejme-sposobili-ludia-sprava-narodneho-parku-informovala-co-nasli-pod-vyhliadkou.webp"
     },
     {
       "title": "Polícia pátra po nezvestnej 39-ročnej Ivone z okresu Zlaté Moravce. Nevideli ste ju niekde?",
@@ -146,15 +182,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786948387-na-dialnici-pri-ziline-narazilo-auto-do-zvodidiel-tvori-prekazku-na-ceste-zasahuju-zachranari.webp"
-    },
-    {
-      "title": "V Terni havaroval starší vodič, s autom nabúral do budovy",
-      "link": "https://www.presovak.sk/clanky/15008/v-obci-pri-presove-nabural-starsi-vodic-s-autom-do-budovy-po-prevoze-do-nemocnice-zomrel",
-      "time": "2026-08-17T06:14:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786947275-v-obci-pri-presove-nabural-starsi-vodic-s-autom-do-budovy-po-prevoze-do-nemocnice-zomrel.webp"
     },
     {
       "title": "Ranná nehoda na I/76 pri Kalnej nad Hronom, dopravu riadi polícia",

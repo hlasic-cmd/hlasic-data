@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-17T13:56:18.549304+00:00",
+  "generated_at": "2026-08-17T14:58:12.247275+00:00",
   "max_age_hours": 12,
-  "count": 23,
+  "count": 19,
   "items": [
+    {
+      "title": "V košickej nemocnici horelo, hasiči evakuovali pacientov a zamestnancov – VIDEO",
+      "link": "https://sita.sk/v-kosickej-nemocnici-horelo-hasici-evakuovali-pacientov-a-zamestnancov-video/",
+      "time": "2026-08-17T16:22:23+00:00",
+      "cat": "zasah",
+      "region": "kosicky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2025/09/hasici2-688x387.jpg"
+    },
     {
       "title": "POŽIAR V KOŠICKEJ NEMOCNICI: Evakuovali pacientov a zamestnancov",
       "link": "https://www.teraz.sk/regiony/poziar-v-kosickej-nemocnici-evakuoval/985587-clanok.html",
@@ -32,12 +41,21 @@
     },
     {
       "title": "V úvode týždňa ohrozovali v košickej nemocnici pacientov aj zamestnancov nebezpečné plamene",
-      "link": "https://www.kosicak.sk/clanky/13735/v-kosickej-nemocnici-vypukol-v-uvode-tyzdna-nebezpecny-poziar-evakuuovali-pacientov-aj-zamestnancov",
+      "link": "https://www.kosicak.sk/clanky/13735/v-kosickej-nemocnici-vypukol-v-uvode-tyzdna-poziar-evakuuovali-pacientov-aj-zamestnancov",
       "time": "2026-08-17T13:40:00+00:00",
       "cat": "poziar",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786974406-v-kosickej-nemocnici-vypukol-v-uvode-tyzdna-nebezpecny-poziar-evakuuovali-pacientov-aj-zamestnancov.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786975703-v-kosickej-nemocnici-vypukol-v-uvode-tyzdna-poziar-evakuuovali-pacientov-aj-zamestnancov.webp"
+    },
+    {
+      "title": "Najviac dopravných nehôd za týždeň bolo v Žilinskom kraji. Polícia už zintenzívňuje kontroly",
+      "link": "https://www.zilinak.sk/clanky/42334/zilinsky-kraj-mal-najviac-nehod-na-slovensku-hasici-zasahovali-pri-36-pripadoch-za-jediny-tyzden",
+      "time": "2026-08-17T13:31:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786972712-zilinsky-kraj-mal-najviac-nehod-na-slovensku-hasici-zasahovali-pri-36-pripadoch-za-jediny-tyzden.webp"
     },
     {
       "title": "Požiar v košickej nemocnici vyvolal poplach. Hasiči evakuovali pacientov aj personál",
@@ -58,15 +76,6 @@
       "image": "https://image.smedata.sk/image/w660-h440/1ef8a71d-ffe9-6918-b7a2-d33a4132ab43.jpg"
     },
     {
-      "title": "Most v Klokočove je v havarijnom stave. KSK spúšťa rekonštrukciu za takmer 332 tisíc eur z vlastného rozpočtu",
-      "link": "https://www.aktuality.sk/clanok/XPB6RG8/most-v-klokocove-je-v-havarijnom-stave-ksk-spusta-rekonstrukciu-za-takmer-332-tisic-eur-z-vlastneho-rozpoctu/",
-      "time": "2026-08-17T12:07:10+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
       "title": "717 nehôd a 22 obetí. Polícia vytiahla drony aj autobus",
       "link": "https://www.trnavak.sk/clanky/11821/policia-straca-s-vodicmi-trpezlivost-a-avizuje-tvrdsie-kontroly-trnavsky-kraj-ma-za-sebou-717-nehod-a-22-obeti",
       "time": "2026-08-17T11:40:00+00:00",
@@ -74,24 +83,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786965881-policia-straca-s-vodicmi-trpezlivost-a-avizuje-tvrdsie-kontroly-trnavsky-kraj-ma-za-sebou-717-nehod-a-22-obeti.webp"
-    },
-    {
-      "title": "Polícia v Žilinskom kraji minulý týždeň odhalila 21 opitých vodičov",
-      "link": "https://www.teraz.sk/regiony/policia-v-zilinskom-kraji-minuly-ty/985545-clanok.html",
-      "time": "2026-08-17T11:36:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "POŽIAR v Súľovských skalách: Podarilo sa ho lokalizovať",
-      "link": "https://www.teraz.sk/regiony/poziar-v-sulovskych-skalach-podari/985537-clanok.html",
-      "time": "2026-08-17T11:14:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
     },
     {
       "title": "Nový trojpruh na I/18 pri Hubovej mätie vodičov, skoro došlo aj k nehode",
@@ -182,33 +173,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786951438-pozor-dopravu-pri-zvolenskej-nemocnici-komplikuje-nehoda-vodici-hlasia-cestu-ako-neprejazdnu.webp"
-    },
-    {
-      "title": "Banská Štiavnica dnes odstaví vodu, týka sa Štefultova, Klingera a oboch Resiel",
-      "link": "https://www.bystricak.sk/clanky/12713/havaria-v-banskej-stiavnici-prerusi-dodavku-vody-odstavka-sa-tyka-styroch-casti-mesta",
-      "time": "2026-08-17T07:05:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Búrky zasiahli Žilinský kraj. SHMÚ vydal výstrahu 1. stupňa",
-      "link": "https://www.zilinak.sk/clanky/42323/zilinsky-kraj-zasiahla-prudka-zmena-pocasia-burky-vsak-opat-vystrieda-horuce-leto",
-      "time": "2026-08-17T07:03:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786950242-zilinsky-kraj-zasiahla-prudka-zmena-pocasia-burky-vsak-opat-vystrieda-horuce-leto.webp"
-    },
-    {
-      "title": "Nehoda za tunelom Višňové. Auto narazilo do zvodidiel na D1",
-      "link": "https://www.zilinak.sk/clanky/42321/na-dialnici-pri-ziline-narazilo-auto-do-zvodidiel-tvori-prekazku-na-ceste-zasahuju-zachranari",
-      "time": "2026-08-17T06:29:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786948387-na-dialnici-pri-ziline-narazilo-auto-do-zvodidiel-tvori-prekazku-na-ceste-zasahuju-zachranari.webp"
     }
   ]
 }

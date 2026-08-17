@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T19:17:44.515299+00:00",
+  "generated_at": "2026-08-17T20:00:01.257462+00:00",
   "max_age_hours": 12,
-  "count": 18,
+  "count": 15,
   "items": [
     {
       "title": "Žilinu bičuje lejak a silný vietor",
@@ -38,15 +38,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786971743-policia-patra-po-nezvestnom-49rocnom-miroslavovi-z-okresu-levice-odisiel-z-domu-a-nevratil-sa.webp"
-    },
-    {
-      "title": "Na Záhorí horí približne 12 hektárov porastu",
-      "link": "https://www.trnavak.sk/clanky/11826/foto-zahorie-bojuje-s-rozsiahlym-poziarom-plamene-zasiahli-priblizne-12-hektarov-porastu",
-      "time": "2026-08-17T14:36:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786977423-foto-zahorie-bojuje-s-rozsiahlym-poziarom-plamene-zasiahli-priblizne-12-hektarov-porastu.webp"
     },
     {
       "title": "Doživotný zákaz mu nestačil. Vodič v Nitre si rýchlo presadol dozadu, policajtov však neoklamal",
@@ -121,6 +112,15 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786956772-tragedia-v-starej-lubovni-nezvestnu-17rocnu-michaelu-nasli-pri-panelakoch-bez-znamok-zivota.webp"
     },
     {
+      "title": "Požiar v Dunajskej Lužnej zasiahol tri hektáre a zastavil vlaky",
+      "link": "https://www.bratislavak.sk/clanky/14992/video-poziar-pri-dunajskej-luznej-sposobil-skodu-za-stvrt-miliona-eur-horeli-tri-hektare-plamene-zastavili-aj-vlaky",
+      "time": "2026-08-17T08:20:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786956428-video-poziar-pri-dunajskej-luznej-sposobil-skodu-za-stvrt-miliona-eur-horeli-tri-hektare-plamene-zastavili-aj-vlaky.webp"
+    },
+    {
       "title": "Búrky sa blížia k Banskobystrickému kraju. SHMÚ upozorňuje na lejak a nárazy vetra",
       "link": "https://www.bystricak.sk/clanky/12717/banskobystricky-kraj-cakaju-burky-meteorologovia-upozornuju-na-prudky-dazd-a-narazovy-vietor",
       "time": "2026-08-17T08:20:00+00:00",
@@ -137,33 +137,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786952868-do-nitrianskeho-kraja-konecne-prichadzaju-burky-a-dazd-treba-vsak-pocitat-aj-so-silnym-narazovym-vetrom.webp"
-    },
-    {
-      "title": "FOTO: Pod Skalnou Alpou našli ohnisko, vo Veľkej Fatre horí. Hasiči nasadia do ťažkého terénu nákladný dron",
-      "link": "https://www.zilinak.sk/clanky/42325/ohen-v-najprisnejsie-chranenom-uzemi-velkej-fatry-pod-skalnou-alpou-nasli-ohnisko-zasahuju-desiatky-hasicov-aj-dron",
-      "time": "2026-08-17T07:48:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786980242-ohen-v-najprisnejsie-chranenom-uzemi-velkej-fatry-pod-skalnou-alpou-nasli-ohnisko-zasahuju-desiatky-hasicov-aj-dron.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnej 39-ročnej Ivone z okresu Zlaté Moravce. Nevideli ste ju niekde?",
-      "link": "https://www.nitrak.sk/clanky/11569/policia-vyhlasila-patranie-po-nezvestnej-zene-z-okresu-zlate-moravce-nevideli-ste-niekde-ivonu",
-      "time": "2026-08-17T07:45:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786948140-policia-vyhlasila-patranie-po-nezvestnej-zene-z-okresu-zlate-moravce-nevideli-ste-niekde-ivonu.webp"
-    },
-    {
-      "title": "Do Trenčianskeho kraja prichádzajú búrky a nárazový vietor",
-      "link": "https://www.trencinak.sk/clanky/13428/obyvatelia-trencianskeho-kraja-mozu-od-pondelka-pocitat-s-burkami-aj-silnym-narazovym-vetrom",
-      "time": "2026-08-17T07:30:00+00:00",
-      "cat": "burka",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786949866-obyvatelia-trencianskeho-kraja-mozu-od-pondelka-pocitat-s-burkami-aj-silnym-narazovym-vetrom.webp"
     }
   ]
 }

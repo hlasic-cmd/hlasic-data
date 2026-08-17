@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T20:00:01.257462+00:00",
+  "generated_at": "2026-08-17T20:59:27.154380+00:00",
   "max_age_hours": 12,
-  "count": 15,
+  "count": 9,
   "items": [
     {
       "title": "Žilinu bičuje lejak a silný vietor",
@@ -38,15 +38,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786971743-policia-patra-po-nezvestnom-49rocnom-miroslavovi-z-okresu-levice-odisiel-z-domu-a-nevratil-sa.webp"
-    },
-    {
-      "title": "Doživotný zákaz mu nestačil. Vodič v Nitre si rýchlo presadol dozadu, policajtov však neoklamal",
-      "link": "https://www.nitrak.sk/clanky/11571/dozivotny-zakaz-mu-nestacil-vodic-v-nitre-si-presadol-na-zadne-sedadlo-no-policajtov-neoklamal-dalsia-naburala",
-      "time": "2026-08-17T13:40:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786957473-dozivotny-zakaz-mu-nestacil-vodic-v-nitre-si-presadol-na-zadne-sedadlo-no-policajtov-neoklamal-dalsia-naburala.webp"
     },
     {
       "title": "V úvode týždňa ohrozovali v košickej nemocnici pacientov aj zamestnancov nebezpečné plamene",
@@ -92,51 +83,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/17/2519371/4x3-medium/poziar-dunajska-luzna-porast-hasici.jpg?v=VXY"
-    },
-    {
-      "title": "Búrky zasiahnu celý Trnavský kraj. Hrozia krúpy aj silný vietor",
-      "link": "https://www.trnavak.sk/clanky/11811/cely-trnavsky-kraj-je-pod-vystrahou-burky-mozu-priniest-krupy-privalovy-dazd-aj-vietor-do-85-kmh",
-      "time": "2026-08-17T08:50:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786951826-cely-trnavsky-kraj-je-pod-vystrahou-burky-mozu-priniest-krupy-privalovy-dazd-aj-vietor-do-85-kmh.webp"
-    },
-    {
-      "title": "Tragický koniec pátrania: 17-ročnú Michaelu zo Starej Ľubovne našli mŕtvu",
-      "link": "https://www.presovak.sk/clanky/15013/tragedia-v-starej-lubovni-nezvestnu-17-rocnu-michaelu-nasli-pri-panelakoch-bez-znamok-zivota",
-      "time": "2026-08-17T08:48:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786956772-tragedia-v-starej-lubovni-nezvestnu-17rocnu-michaelu-nasli-pri-panelakoch-bez-znamok-zivota.webp"
-    },
-    {
-      "title": "Požiar v Dunajskej Lužnej zasiahol tri hektáre a zastavil vlaky",
-      "link": "https://www.bratislavak.sk/clanky/14992/video-poziar-pri-dunajskej-luznej-sposobil-skodu-za-stvrt-miliona-eur-horeli-tri-hektare-plamene-zastavili-aj-vlaky",
-      "time": "2026-08-17T08:20:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786956428-video-poziar-pri-dunajskej-luznej-sposobil-skodu-za-stvrt-miliona-eur-horeli-tri-hektare-plamene-zastavili-aj-vlaky.webp"
-    },
-    {
-      "title": "Búrky sa blížia k Banskobystrickému kraju. SHMÚ upozorňuje na lejak a nárazy vetra",
-      "link": "https://www.bystricak.sk/clanky/12717/banskobystricky-kraj-cakaju-burky-meteorologovia-upozornuju-na-prudky-dazd-a-narazovy-vietor",
-      "time": "2026-08-17T08:20:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786953253-banskobystricky-kraj-cakaju-burky-meteorologovia-upozornuju-na-prudky-dazd-a-narazovy-vietor.webp"
-    },
-    {
-      "title": "Meteorológovia varujú obyvateľov Nitrianskeho kraja pred búrkami, prívalovým dažďom a vetrom",
-      "link": "https://www.nitrak.sk/clanky/11570/do-nitrianskeho-kraja-konecne-prichadzaju-burky-a-dazd-treba-vsak-pocitat-aj-so-silnym-narazovym-vetrom",
-      "time": "2026-08-17T08:15:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786952868-do-nitrianskeho-kraja-konecne-prichadzaju-burky-a-dazd-treba-vsak-pocitat-aj-so-silnym-narazovym-vetrom.webp"
     }
   ]
 }

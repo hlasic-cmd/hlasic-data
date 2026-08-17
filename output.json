@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-08-17T11:54:38.186053+00:00",
+  "generated_at": "2026-08-17T13:56:18.549304+00:00",
   "max_age_hours": 12,
-  "count": 22,
+  "count": 23,
   "items": [
+    {
+      "title": "POŽIAR V KOŠICKEJ NEMOCNICI: Evakuovali pacientov a zamestnancov",
+      "link": "https://www.teraz.sk/regiony/poziar-v-kosickej-nemocnici-evakuoval/985587-clanok.html",
+      "time": "2026-08-17T13:43:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Požiar v monobloku košickej nemocnice na Rastislavovej ulici. Hasiči evakuovali pacientov aj personál",
+      "link": "https://www.aktuality.sk/clanok/0y4vBt2/poziar-v-monobloku-kosickej-nemocnice-na-rastislavovej-ulici-hasici-evakuovali-pacientov-aj-personal/",
+      "time": "2026-08-17T13:42:47+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Doživotný zákaz mu nestačil. Vodič v Nitre si rýchlo presadol dozadu, policajtov však neoklamal",
+      "link": "https://www.nitrak.sk/clanky/11571/dozivotny-zakaz-mu-nestacil-vodic-v-nitre-si-presadol-na-zadne-sedadlo-no-policajtov-neoklamal-dalsia-naburala",
+      "time": "2026-08-17T13:40:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786957473-dozivotny-zakaz-mu-nestacil-vodic-v-nitre-si-presadol-na-zadne-sedadlo-no-policajtov-neoklamal-dalsia-naburala.webp"
+    },
+    {
+      "title": "V úvode týždňa ohrozovali v košickej nemocnici pacientov aj zamestnancov nebezpečné plamene",
+      "link": "https://www.kosicak.sk/clanky/13735/v-kosickej-nemocnici-vypukol-v-uvode-tyzdna-nebezpecny-poziar-evakuuovali-pacientov-aj-zamestnancov",
+      "time": "2026-08-17T13:40:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786974406-v-kosickej-nemocnici-vypukol-v-uvode-tyzdna-nebezpecny-poziar-evakuuovali-pacientov-aj-zamestnancov.webp"
+    },
+    {
+      "title": "Požiar v košickej nemocnici vyvolal poplach. Hasiči evakuovali pacientov aj personál",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2025635-poziar-v-kosickej-nemocnici-vyvolal-poplach-hasici-evakuuju-pacientov-aj-personal?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-17T13:30:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/05/31/4x3-medium/hasici-kosice-evakuacia.jpeg?v=ICs"
+    },
+    {
+      "title": "V košickej nemocnici horelo, časť pacientov a personálu evakuovali",
+      "link": "https://korzar.sme.sk/kosice/c/v-kosickej-nemocnici-horelo-cast-pacientov-a-personalu-evakuovali?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-17T13:19:23+00:00",
+      "cat": "zasah",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/1ef8a71d-ffe9-6918-b7a2-d33a4132ab43.jpg"
+    },
+    {
+      "title": "Most v Klokočove je v havarijnom stave. KSK spúšťa rekonštrukciu za takmer 332 tisíc eur z vlastného rozpočtu",
+      "link": "https://www.aktuality.sk/clanok/XPB6RG8/most-v-klokocove-je-v-havarijnom-stave-ksk-spusta-rekonstrukciu-za-takmer-332-tisic-eur-z-vlastneho-rozpoctu/",
+      "time": "2026-08-17T12:07:10+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "aktuality.sk",
+      "image": null
+    },
     {
       "title": "717 nehôd a 22 obetí. Polícia vytiahla drony aj autobus",
       "link": "https://www.trnavak.sk/clanky/11821/policia-straca-s-vodicmi-trpezlivost-a-avizuje-tvrdsie-kontroly-trnavsky-kraj-ma-za-sebou-717-nehod-a-22-obeti",
@@ -19,15 +82,6 @@
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Žilinský kraj zaplavili opití šoféri. Policajti za týždeň odhalili 21 vodičov a štyri nehody pod vplyvom alkoholu",
-      "link": "https://www.aktuality.sk/clanok/G1CMSyr/zilinsky-kraj-zaplavili-opiti-soferi-policajti-za-tyzden-odhalili-21-vodicov-a-styri-nehody-pod-vplyvom-alkoholu/",
-      "time": "2026-08-17T11:33:49+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
       "image": null
     },
     {
@@ -67,15 +121,6 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786951826-cely-trnavsky-kraj-je-pod-vystrahou-burky-mozu-priniest-krupy-privalovy-dazd-aj-vietor-do-85-kmh.webp"
     },
     {
-      "title": "Tragický koniec pátrania: 17-ročnú Michaelu zo Starej Ľubovne našli mŕtvu",
-      "link": "https://www.presovak.sk/clanky/15013/tragedia-v-starej-lubovni-nezvestnu-17-rocnu-michaelu-nasli-pri-panelakoch-bez-znamok-zivota",
-      "time": "2026-08-17T08:48:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786956772-tragedia-v-starej-lubovni-nezvestnu-17rocnu-michaelu-nasli-pri-panelakoch-bez-znamok-zivota.webp"
-    },
-    {
       "title": "Požiar v Dunajskej Lužnej zasiahol tri hektáre a zastavil vlaky",
       "link": "https://www.bratislavak.sk/clanky/14992/video-poziar-pri-dunajskej-luznej-sposobil-skodu-za-stvrt-miliona-eur-horeli-tri-hektare-plamene-zastavili-aj-vlaky",
       "time": "2026-08-17T08:20:00+00:00",
@@ -101,15 +146,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786952868-do-nitrianskeho-kraja-konecne-prichadzaju-burky-a-dazd-treba-vsak-pocitat-aj-so-silnym-narazovym-vetrom.webp"
-    },
-    {
-      "title": "Týždenná štatistika: Hasiči zasahovali 1014-krát",
-      "link": "https://www.teraz.sk/slovensko/tyzdenna-statistika-hasici-zasahov/985452-clanok.html",
-      "time": "2026-08-17T07:53:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
     },
     {
       "title": "Požiar vo Veľkej Fatre zrejme spôsobili ľudia. Toto našli pod vyhliadkou",
@@ -148,15 +184,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786951438-pozor-dopravu-pri-zvolenskej-nemocnici-komplikuje-nehoda-vodici-hlasia-cestu-ako-neprejazdnu.webp"
     },
     {
-      "title": "Návrat z rybníka sa zmenil na tragédiu. 15-ročný chlapec neprežil haváriu na poľnej ceste",
-      "link": "https://www.kosicak.sk/clanky/13719/osemclenna-posadka-sa-bola-kupat-v-rybniku-po-ceste-domov-havarovali-15-rocny-chlapec-zostal-lezat-pod-autom-neprezil",
-      "time": "2026-08-17T07:20:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786950666-osemclenna-posadka-sa-bola-kupat-v-rybniku-po-ceste-domov-havarovali-15rocny-chlapec-zostal-lezat-pod-autom-neprezil.webp"
-    },
-    {
       "title": "Banská Štiavnica dnes odstaví vodu, týka sa Štefultova, Klingera a oboch Resiel",
       "link": "https://www.bystricak.sk/clanky/12713/havaria-v-banskej-stiavnici-prerusi-dodavku-vody-odstavka-sa-tyka-styroch-casti-mesta",
       "time": "2026-08-17T07:05:00+00:00",
@@ -182,24 +209,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786948387-na-dialnici-pri-ziline-narazilo-auto-do-zvodidiel-tvori-prekazku-na-ceste-zasahuju-zachranari.webp"
-    },
-    {
-      "title": "Ranná nehoda na I/76 pri Kalnej nad Hronom, dopravu riadi polícia",
-      "link": "https://www.nitrak.sk/clanky/11567/pozor-ranna-nehoda-v-okrese-levice-po-zrazke-auta-s-nakladiakom-riadi-dopravu-policia",
-      "time": "2026-08-17T06:12:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786947154-pozor-ranna-nehoda-v-okrese-levice-po-zrazke-auta-s-nakladiakom-riadi-dopravu-policia.webp"
-    },
-    {
-      "title": "Za Sobotišťom v okrese Trnava sa stala nehoda",
-      "link": "https://www.trnavak.sk/clanky/11810/pozor-za-sobotistom-v-okrese-trnava-skoncilo-auto-mimo-cesty-prejdete-striedavo",
-      "time": "2026-08-17T06:10:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
     }
   ]
 }

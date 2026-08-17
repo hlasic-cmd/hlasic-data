@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-17T16:59:16.374958+00:00",
+  "generated_at": "2026-08-17T18:00:38.150611+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 17,
   "items": [
+    {
+      "title": "Žilinu bičuje lejak a silný vietor",
+      "link": "https://www.zilinak.sk/clanky/42336/video-burky-uz-aj-na-nasom-uzemi-zilinu-zasiahol-silny-lejak",
+      "time": "2026-08-17T17:24:00+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786987334-video-burky-uz-aj-na-nasom-uzemi-zilinu-zasiahol-silny-lejak.webp"
+    },
     {
       "title": "POŽIAR V KOŠICKEJ NEMOCNICI: Evakuovali pacientov a zamestnancov",
       "link": "https://www.teraz.sk/regiony/poziar-v-kosickej-nemocnici-evakuoval/985587-clanok.html",
@@ -20,15 +29,6 @@
       "region": "kosicky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2025/09/hasici2-688x387.jpg"
-    },
-    {
-      "title": "Rozsiahly lesný požiar pri Moravskom Svätom Jáne. Plamene zasiahli 12 hektárov porastu v okrese Senica",
-      "link": "https://www.aktuality.sk/clanok/Bh4BM7W/rozsiahly-lesny-poziar-pri-moravskom-svatom-jane-plamene-zasiahli-12-hektarov-porastu-v-okrese-senica/",
-      "time": "2026-08-17T15:13:30+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "aktuality.sk",
-      "image": null
     },
     {
       "title": "Polícia pátra po 49-ročnom Miroslavovi z Bajky, odišiel z domu a viac sa nevrátil",
@@ -112,6 +112,15 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786951826-cely-trnavsky-kraj-je-pod-vystrahou-burky-mozu-priniest-krupy-privalovy-dazd-aj-vietor-do-85-kmh.webp"
     },
     {
+      "title": "Búrky sa blížia k Banskobystrickému kraju. SHMÚ upozorňuje na lejak a nárazy vetra",
+      "link": "https://www.bystricak.sk/clanky/12717/banskobystricky-kraj-cakaju-burky-meteorologovia-upozornuju-na-prudky-dazd-a-narazovy-vietor",
+      "time": "2026-08-17T08:20:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786953253-banskobystricky-kraj-cakaju-burky-meteorologovia-upozornuju-na-prudky-dazd-a-narazovy-vietor.webp"
+    },
+    {
       "title": "Meteorológovia varujú obyvateľov Nitrianskeho kraja pred búrkami, prívalovým dažďom a vetrom",
       "link": "https://www.nitrak.sk/clanky/11570/do-nitrianskeho-kraja-konecne-prichadzaju-burky-a-dazd-treba-vsak-pocitat-aj-so-silnym-narazovym-vetrom",
       "time": "2026-08-17T08:15:00+00:00",
@@ -128,6 +137,24 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786980242-ohen-v-najprisnejsie-chranenom-uzemi-velkej-fatry-pod-skalnou-alpou-nasli-ohnisko-zasahuju-desiatky-hasicov-aj-dron.webp"
+    },
+    {
+      "title": "Polícia pátra po nezvestnej 39-ročnej Ivone z okresu Zlaté Moravce. Nevideli ste ju niekde?",
+      "link": "https://www.nitrak.sk/clanky/11569/policia-vyhlasila-patranie-po-nezvestnej-zene-z-okresu-zlate-moravce-nevideli-ste-niekde-ivonu",
+      "time": "2026-08-17T07:45:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786948140-policia-vyhlasila-patranie-po-nezvestnej-zene-z-okresu-zlate-moravce-nevideli-ste-niekde-ivonu.webp"
+    },
+    {
+      "title": "Do Trenčianskeho kraja prichádzajú búrky a nárazový vietor",
+      "link": "https://www.trencinak.sk/clanky/13428/obyvatelia-trencianskeho-kraja-mozu-od-pondelka-pocitat-s-burkami-aj-silnym-narazovym-vetrom",
+      "time": "2026-08-17T07:30:00+00:00",
+      "cat": "burka",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786949866-obyvatelia-trencianskeho-kraja-mozu-od-pondelka-pocitat-s-burkami-aj-silnym-narazovym-vetrom.webp"
     }
   ]
 }

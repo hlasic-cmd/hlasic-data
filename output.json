@@ -1,6 +1,115 @@
 {
-  "generated_at": "2026-08-17T05:21:41.575138+00:00",
+  "generated_at": "2026-08-17T08:02:28.273510+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 12,
+  "items": [
+    {
+      "title": "Týždenná štatistika: Hasiči zasahovali 1014-krát",
+      "link": "https://www.teraz.sk/slovensko/tyzdenna-statistika-hasici-zasahov/985452-clanok.html",
+      "time": "2026-08-17T07:53:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Požiar vo Veľkej Fatre: Hasiči zasahujú medzi Smrekovicou a Skalnou Alpou",
+      "link": "https://www.zilinak.sk/clanky/42325/lesny-poziar-zasiahol-centralnu-cast-velkej-fatry-sprava-parku-vyzyva-turistov-aby-tam-nechodili",
+      "time": "2026-08-17T07:48:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786952910-lesny-poziar-zasiahol-centralnu-cast-velkej-fatry-sprava-parku-vyzyva-turistov-aby-tam-nechodili.webp"
+    },
+    {
+      "title": "Polícia pátra po nezvestnej 39-ročnej Ivone z okresu Zlaté Moravce. Nevideli ste ju niekde?",
+      "link": "https://www.nitrak.sk/clanky/11569/policia-vyhlasila-patranie-po-nezvestnej-zene-z-okresu-zlate-moravce-nevideli-ste-niekde-ivonu",
+      "time": "2026-08-17T07:45:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786948140-policia-vyhlasila-patranie-po-nezvestnej-zene-z-okresu-zlate-moravce-nevideli-ste-niekde-ivonu.webp"
+    },
+    {
+      "title": "Do Trenčianskeho kraja prichádzajú búrky a nárazový vietor",
+      "link": "https://www.trencinak.sk/clanky/13428/obyvatelia-trencianskeho-kraja-mozu-od-pondelka-pocitat-s-burkami-aj-silnym-narazovym-vetrom",
+      "time": "2026-08-17T07:30:00+00:00",
+      "cat": "burka",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786949866-obyvatelia-trencianskeho-kraja-mozu-od-pondelka-pocitat-s-burkami-aj-silnym-narazovym-vetrom.webp"
+    },
+    {
+      "title": "Pri nemocnici sa zrazil autobus MHD s autom, zasahujú hasiči aj polícia",
+      "link": "https://www.bystricak.sk/clanky/12714/pozor-dopravu-pri-zvolenskej-nemocnici-komplikuje-nehoda-vodici-hlasia-cestu-ako-neprejazdnu",
+      "time": "2026-08-17T07:24:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786951438-pozor-dopravu-pri-zvolenskej-nemocnici-komplikuje-nehoda-vodici-hlasia-cestu-ako-neprejazdnu.webp"
+    },
+    {
+      "title": "Návrat z rybníka sa zmenil na tragédiu. 15-ročný chlapec neprežil haváriu na poľnej ceste",
+      "link": "https://www.kosicak.sk/clanky/13719/osemclenna-posadka-sa-bola-kupat-v-rybniku-po-ceste-domov-havarovali-15-rocny-chlapec-zostal-lezat-pod-autom-neprezil",
+      "time": "2026-08-17T07:20:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786950666-osemclenna-posadka-sa-bola-kupat-v-rybniku-po-ceste-domov-havarovali-15rocny-chlapec-zostal-lezat-pod-autom-neprezil.webp"
+    },
+    {
+      "title": "Banská Štiavnica dnes odstaví vodu, týka sa Štefultova, Klingera a oboch Resiel",
+      "link": "https://www.bystricak.sk/clanky/12713/havaria-v-banskej-stiavnici-prerusi-dodavku-vody-odstavka-sa-tyka-styroch-casti-mesta",
+      "time": "2026-08-17T07:05:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Búrky zasiahli Žilinský kraj. SHMÚ vydal výstrahu 1. stupňa",
+      "link": "https://www.zilinak.sk/clanky/42323/zilinsky-kraj-zasiahla-prudka-zmena-pocasia-burky-vsak-opat-vystrieda-horuce-leto",
+      "time": "2026-08-17T07:03:00+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786950242-zilinsky-kraj-zasiahla-prudka-zmena-pocasia-burky-vsak-opat-vystrieda-horuce-leto.webp"
+    },
+    {
+      "title": "Nehoda za tunelom Višňové. Auto narazilo do zvodidiel na D1",
+      "link": "https://www.zilinak.sk/clanky/42321/na-dialnici-pri-ziline-narazilo-auto-do-zvodidiel-tvori-prekazku-na-ceste-zasahuju-zachranari",
+      "time": "2026-08-17T06:29:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786948387-na-dialnici-pri-ziline-narazilo-auto-do-zvodidiel-tvori-prekazku-na-ceste-zasahuju-zachranari.webp"
+    },
+    {
+      "title": "V Terni havaroval starší vodič, s autom nabúral do budovy",
+      "link": "https://www.presovak.sk/clanky/15008/v-obci-pri-presove-nabural-starsi-vodic-s-autom-do-budovy-po-prevoze-do-nemocnice-zomrel",
+      "time": "2026-08-17T06:14:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1786947275-v-obci-pri-presove-nabural-starsi-vodic-s-autom-do-budovy-po-prevoze-do-nemocnice-zomrel.webp"
+    },
+    {
+      "title": "Ranná nehoda na I/76 pri Kalnej nad Hronom, dopravu riadi polícia",
+      "link": "https://www.nitrak.sk/clanky/11567/pozor-ranna-nehoda-v-okrese-levice-po-zrazke-auta-s-nakladiakom-riadi-dopravu-policia",
+      "time": "2026-08-17T06:12:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786947154-pozor-ranna-nehoda-v-okrese-levice-po-zrazke-auta-s-nakladiakom-riadi-dopravu-policia.webp"
+    },
+    {
+      "title": "Za Sobotišťom v okrese Trnava sa stala nehoda",
+      "link": "https://www.trnavak.sk/clanky/11810/pozor-za-sobotistom-v-okrese-trnava-skoncilo-auto-mimo-cesty-prejdete-striedavo",
+      "time": "2026-08-17T06:10:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
+    }
+  ]
 }

@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-17T15:52:31.073307+00:00",
+  "generated_at": "2026-08-17T16:59:16.374958+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 14,
   "items": [
+    {
+      "title": "POŽIAR V KOŠICKEJ NEMOCNICI: Evakuovali pacientov a zamestnancov",
+      "link": "https://www.teraz.sk/regiony/poziar-v-kosickej-nemocnici-evakuoval/985587-clanok.html",
+      "time": "2026-08-17T16:25:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "V košickej nemocnici horelo, hasiči evakuovali pacientov a zamestnancov – VIDEO",
       "link": "https://sita.sk/v-kosickej-nemocnici-horelo-hasici-evakuovali-pacientov-a-zamestnancov-video/",
@@ -38,15 +47,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786977423-foto-zahorie-bojuje-s-rozsiahlym-poziarom-plamene-zasiahli-priblizne-12-hektarov-porastu.webp"
-    },
-    {
-      "title": "POŽIAR V KOŠICKEJ NEMOCNICI: Evakuovali pacientov a zamestnancov",
-      "link": "https://www.teraz.sk/regiony/poziar-v-kosickej-nemocnici-evakuoval/985587-clanok.html",
-      "time": "2026-08-17T13:43:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
     },
     {
       "title": "Doživotný zákaz mu nestačil. Vodič v Nitre si rýchlo presadol dozadu, policajtov však neoklamal",
@@ -94,15 +94,6 @@
       "image": "https://image.smedata.sk/image/w660-h440/1ef8a71d-ffe9-6918-b7a2-d33a4132ab43.jpg"
     },
     {
-      "title": "717 nehôd a 22 obetí. Polícia vytiahla drony aj autobus",
-      "link": "https://www.trnavak.sk/clanky/11821/policia-straca-s-vodicmi-trpezlivost-a-avizuje-tvrdsie-kontroly-trnavsky-kraj-ma-za-sebou-717-nehod-a-22-obeti",
-      "time": "2026-08-17T11:40:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786965881-policia-straca-s-vodicmi-trpezlivost-a-avizuje-tvrdsie-kontroly-trnavsky-kraj-ma-za-sebou-717-nehod-a-22-obeti.webp"
-    },
-    {
       "title": "Plamene v Dunajskej Lužnej pohltili takmer tri hektáre. Požiar napáchal škody za štvrť milióna eur",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2025421-plamene-v-dunajskej-luznej-pohltili-takmer-tri-hektare-poziar-napachal-skody-za-stvrt-miliona-eur?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-17T09:00:00+00:00",
@@ -110,6 +101,24 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/17/2519371/4x3-medium/poziar-dunajska-luzna-porast-hasici.jpg?v=VXY"
+    },
+    {
+      "title": "Búrky zasiahnu celý Trnavský kraj. Hrozia krúpy aj silný vietor",
+      "link": "https://www.trnavak.sk/clanky/11811/cely-trnavsky-kraj-je-pod-vystrahou-burky-mozu-priniest-krupy-privalovy-dazd-aj-vietor-do-85-kmh",
+      "time": "2026-08-17T08:50:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786951826-cely-trnavsky-kraj-je-pod-vystrahou-burky-mozu-priniest-krupy-privalovy-dazd-aj-vietor-do-85-kmh.webp"
+    },
+    {
+      "title": "Meteorológovia varujú obyvateľov Nitrianskeho kraja pred búrkami, prívalovým dažďom a vetrom",
+      "link": "https://www.nitrak.sk/clanky/11570/do-nitrianskeho-kraja-konecne-prichadzaju-burky-a-dazd-treba-vsak-pocitat-aj-so-silnym-narazovym-vetrom",
+      "time": "2026-08-17T08:15:00+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786952868-do-nitrianskeho-kraja-konecne-prichadzaju-burky-a-dazd-treba-vsak-pocitat-aj-so-silnym-narazovym-vetrom.webp"
     },
     {
       "title": "FOTO: Pod Skalnou Alpou našli ohnisko, vo Veľkej Fatre horí. Hasiči nasadia do ťažkého terénu nákladný dron",

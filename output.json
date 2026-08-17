@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T14:58:12.247275+00:00",
+  "generated_at": "2026-08-17T15:52:31.073307+00:00",
   "max_age_hours": 12,
-  "count": 19,
+  "count": 13,
   "items": [
     {
       "title": "V košickej nemocnici horelo, hasiči evakuovali pacientov a zamestnancov – VIDEO",
@@ -13,21 +13,39 @@
       "image": "https://cdn.sita.sk/sites/32/2025/09/hasici2-688x387.jpg"
     },
     {
+      "title": "Rozsiahly lesný požiar pri Moravskom Svätom Jáne. Plamene zasiahli 12 hektárov porastu v okrese Senica",
+      "link": "https://www.aktuality.sk/clanok/Bh4BM7W/rozsiahly-lesny-poziar-pri-moravskom-svatom-jane-plamene-zasiahli-12-hektarov-porastu-v-okrese-senica/",
+      "time": "2026-08-17T15:13:30+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Polícia pátra po 49-ročnom Miroslavovi z Bajky, odišiel z domu a viac sa nevrátil",
+      "link": "https://www.nitrak.sk/clanky/11578/policia-patra-po-nezvestnom-49-rocnom-miroslavovi-z-okresu-levice-odisiel-z-domu-a-nevratil-sa",
+      "time": "2026-08-17T14:40:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786971743-policia-patra-po-nezvestnom-49rocnom-miroslavovi-z-okresu-levice-odisiel-z-domu-a-nevratil-sa.webp"
+    },
+    {
+      "title": "Na Záhorí horí približne 12 hektárov porastu",
+      "link": "https://www.trnavak.sk/clanky/11826/foto-zahorie-bojuje-s-rozsiahlym-poziarom-plamene-zasiahli-priblizne-12-hektarov-porastu",
+      "time": "2026-08-17T14:36:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786977423-foto-zahorie-bojuje-s-rozsiahlym-poziarom-plamene-zasiahli-priblizne-12-hektarov-porastu.webp"
+    },
+    {
       "title": "POŽIAR V KOŠICKEJ NEMOCNICI: Evakuovali pacientov a zamestnancov",
       "link": "https://www.teraz.sk/regiony/poziar-v-kosickej-nemocnici-evakuoval/985587-clanok.html",
       "time": "2026-08-17T13:43:00+00:00",
       "cat": "poziar",
       "region": "kosicky",
       "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Požiar v monobloku košickej nemocnice na Rastislavovej ulici. Hasiči evakuovali pacientov aj personál",
-      "link": "https://www.aktuality.sk/clanok/0y4vBt2/poziar-v-monobloku-kosickej-nemocnice-na-rastislavovej-ulici-hasici-evakuovali-pacientov-aj-personal/",
-      "time": "2026-08-17T13:42:47+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "aktuality.sk",
       "image": null
     },
     {
@@ -85,15 +103,6 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786965881-policia-straca-s-vodicmi-trpezlivost-a-avizuje-tvrdsie-kontroly-trnavsky-kraj-ma-za-sebou-717-nehod-a-22-obeti.webp"
     },
     {
-      "title": "Nový trojpruh na I/18 pri Hubovej mätie vodičov, skoro došlo aj k nehode",
-      "link": "https://www.zilinak.sk/clanky/42327/vodici-su-zmateni-z-noveho-trojpruhu-medzi-turanmi-a-hubovou-v-strednom-pruhu-sa-stretli-auta-z-oboch-smerov",
-      "time": "2026-08-17T09:20:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786958243-vodici-su-zmateni-z-noveho-trojpruhu-medzi-turanmi-a-hubovou-v-strednom-pruhu-sa-stretli-auta-z-oboch-smerov.webp"
-    },
-    {
       "title": "Plamene v Dunajskej Lužnej pohltili takmer tri hektáre. Požiar napáchal škody za štvrť milióna eur",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2025421-plamene-v-dunajskej-luznej-pohltili-takmer-tri-hektare-poziar-napachal-skody-za-stvrt-miliona-eur?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-17T09:00:00+00:00",
@@ -103,76 +112,13 @@
       "image": "https://prvd.sk/cdn/2026/08/17/2519371/4x3-medium/poziar-dunajska-luzna-porast-hasici.jpg?v=VXY"
     },
     {
-      "title": "Búrky zasiahnu celý Trnavský kraj. Hrozia krúpy aj silný vietor",
-      "link": "https://www.trnavak.sk/clanky/11811/cely-trnavsky-kraj-je-pod-vystrahou-burky-mozu-priniest-krupy-privalovy-dazd-aj-vietor-do-85-kmh",
-      "time": "2026-08-17T08:50:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1786951826-cely-trnavsky-kraj-je-pod-vystrahou-burky-mozu-priniest-krupy-privalovy-dazd-aj-vietor-do-85-kmh.webp"
-    },
-    {
-      "title": "Požiar v Dunajskej Lužnej zasiahol tri hektáre a zastavil vlaky",
-      "link": "https://www.bratislavak.sk/clanky/14992/video-poziar-pri-dunajskej-luznej-sposobil-skodu-za-stvrt-miliona-eur-horeli-tri-hektare-plamene-zastavili-aj-vlaky",
-      "time": "2026-08-17T08:20:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786956428-video-poziar-pri-dunajskej-luznej-sposobil-skodu-za-stvrt-miliona-eur-horeli-tri-hektare-plamene-zastavili-aj-vlaky.webp"
-    },
-    {
-      "title": "Búrky sa blížia k Banskobystrickému kraju. SHMÚ upozorňuje na lejak a nárazy vetra",
-      "link": "https://www.bystricak.sk/clanky/12717/banskobystricky-kraj-cakaju-burky-meteorologovia-upozornuju-na-prudky-dazd-a-narazovy-vietor",
-      "time": "2026-08-17T08:20:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786953253-banskobystricky-kraj-cakaju-burky-meteorologovia-upozornuju-na-prudky-dazd-a-narazovy-vietor.webp"
-    },
-    {
-      "title": "Meteorológovia varujú obyvateľov Nitrianskeho kraja pred búrkami, prívalovým dažďom a vetrom",
-      "link": "https://www.nitrak.sk/clanky/11570/do-nitrianskeho-kraja-konecne-prichadzaju-burky-a-dazd-treba-vsak-pocitat-aj-so-silnym-narazovym-vetrom",
-      "time": "2026-08-17T08:15:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786952868-do-nitrianskeho-kraja-konecne-prichadzaju-burky-a-dazd-treba-vsak-pocitat-aj-so-silnym-narazovym-vetrom.webp"
-    },
-    {
-      "title": "Požiar vo Veľkej Fatre zrejme spôsobili ľudia. Toto našli pod vyhliadkou",
-      "link": "https://www.zilinak.sk/clanky/42325/poziar-vo-velkej-fatre-zrejme-sposobili-ludia-sprava-narodneho-parku-informovala-co-nasli-pod-vyhliadkou",
+      "title": "FOTO: Pod Skalnou Alpou našli ohnisko, vo Veľkej Fatre horí. Hasiči nasadia do ťažkého terénu nákladný dron",
+      "link": "https://www.zilinak.sk/clanky/42325/ohen-v-najprisnejsie-chranenom-uzemi-velkej-fatry-pod-skalnou-alpou-nasli-ohnisko-zasahuju-desiatky-hasicov-aj-dron",
       "time": "2026-08-17T07:48:00+00:00",
       "cat": "poziar",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786966859-poziar-vo-velkej-fatre-zrejme-sposobili-ludia-sprava-narodneho-parku-informovala-co-nasli-pod-vyhliadkou.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnej 39-ročnej Ivone z okresu Zlaté Moravce. Nevideli ste ju niekde?",
-      "link": "https://www.nitrak.sk/clanky/11569/policia-vyhlasila-patranie-po-nezvestnej-zene-z-okresu-zlate-moravce-nevideli-ste-niekde-ivonu",
-      "time": "2026-08-17T07:45:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786948140-policia-vyhlasila-patranie-po-nezvestnej-zene-z-okresu-zlate-moravce-nevideli-ste-niekde-ivonu.webp"
-    },
-    {
-      "title": "Do Trenčianskeho kraja prichádzajú búrky a nárazový vietor",
-      "link": "https://www.trencinak.sk/clanky/13428/obyvatelia-trencianskeho-kraja-mozu-od-pondelka-pocitat-s-burkami-aj-silnym-narazovym-vetrom",
-      "time": "2026-08-17T07:30:00+00:00",
-      "cat": "burka",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1786949866-obyvatelia-trencianskeho-kraja-mozu-od-pondelka-pocitat-s-burkami-aj-silnym-narazovym-vetrom.webp"
-    },
-    {
-      "title": "Pri nemocnici sa zrazil autobus MHD s autom, zasahujú hasiči aj polícia",
-      "link": "https://www.bystricak.sk/clanky/12714/pozor-dopravu-pri-zvolenskej-nemocnici-komplikuje-nehoda-vodici-hlasia-cestu-ako-neprejazdnu",
-      "time": "2026-08-17T07:24:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1786951438-pozor-dopravu-pri-zvolenskej-nemocnici-komplikuje-nehoda-vodici-hlasia-cestu-ako-neprejazdnu.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786980242-ohen-v-najprisnejsie-chranenom-uzemi-velkej-fatry-pod-skalnou-alpou-nasli-ohnisko-zasahuju-desiatky-hasicov-aj-dron.webp"
     }
   ]
 }

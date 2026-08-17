@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T20:59:27.154380+00:00",
+  "generated_at": "2026-08-17T21:54:23.961499+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 7,
   "items": [
     {
       "title": "Žilinu bičuje lejak a silný vietor",
@@ -65,24 +65,6 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/1ef8a71d-ffe9-6918-b7a2-d33a4132ab43.jpg"
-    },
-    {
-      "title": "Nový trojpruh na I/18 pri Hubovej mätie vodičov, skoro došlo aj k nehode",
-      "link": "https://www.zilinak.sk/clanky/42327/vodici-su-zmateni-z-noveho-trojpruhu-medzi-turanmi-a-hubovou-v-strednom-pruhu-sa-stretli-auta-z-oboch-smerov",
-      "time": "2026-08-17T09:20:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786958243-vodici-su-zmateni-z-noveho-trojpruhu-medzi-turanmi-a-hubovou-v-strednom-pruhu-sa-stretli-auta-z-oboch-smerov.webp"
-    },
-    {
-      "title": "Plamene v Dunajskej Lužnej pohltili takmer tri hektáre. Požiar napáchal škody za štvrť milióna eur",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2025421-plamene-v-dunajskej-luznej-pohltili-takmer-tri-hektare-poziar-napachal-skody-za-stvrt-miliona-eur?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-17T09:00:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/17/2519371/4x3-medium/poziar-dunajska-luzna-porast-hasici.jpg?v=VXY"
     }
   ]
 }

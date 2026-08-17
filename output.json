@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-08-17T03:16:05.458007+00:00",
+  "generated_at": "2026-08-17T05:21:41.575138+00:00",
   "max_age_hours": 12,
-  "count": 4,
-  "items": [
-    {
-      "title": "Požiar pri stanici v Dunajskej Lužnej zastavil železničnú dopravu",
-      "link": "https://www.bratislavak.sk/clanky/14989/poziar-v-satelite-nedaleko-bratislavy-obmedzil-zeleznicnu-dopravu-plamene-sa-rychlo-sirili",
-      "time": "2026-08-16T16:37:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1786898445-poziar-v-satelite-nedaleko-bratislavy-obmedzil-zeleznicnu-dopravu-plamene-sa-rychlo-sirili.webp"
-    },
-    {
-      "title": "VIDEO: Požiar pri stanici v Dunajskej Lužnej zastavil vlaky. Hasiči bojovali s plameňmi vo viacerých objektoch",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2025201-poziar-pri-stanici-v-dunajskej-luznej-zastavil-vlaky-hasici-bojuju-s-plamenmi-vo-viacerych-objektoch?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-16T16:25:51+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/16/2519209/4x3-medium/poziar-blizko-stanice-v-dunajskej-luznej.jpg?v=MTc"
-    },
-    {
-      "title": "Rozsiahly požiar suchého porastu pri Nitre sa šíril pod elektrickým vedením",
-      "link": "https://www.nitrak.sk/clanky/11564/foto-obrovsky-poziar-zachvatil-pole-pri-nitre-plamene-sa-sirili-pod-elektrickym-vedenim",
-      "time": "2026-08-16T15:37:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786894631-foto-obrovsky-poziar-zachvatil-pole-pri-nitre-plamene-sa-sirili-pod-elektrickym-vedenim.webp"
-    },
-    {
-      "title": "V Košickom kraji zahynulo pri nehodách 23 ľudí, polícia sprísni dohľad na cestách",
-      "link": "https://korzar.sme.sk/kosice/c/v-kosickom-kraji-zahynulo-pri-nehodach-23-ludi-policia-sprisni-dohlad-na-cestach?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-16T15:35:15+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a00b35-881e-7f37-96fd-2cebdb58d0ea.jpg"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

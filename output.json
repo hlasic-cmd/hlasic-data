@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-18T16:04:11.046905+00:00",
+  "generated_at": "2026-08-18T17:03:43.134083+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 11,
   "items": [
+    {
+      "title": "Dve nehody v križovatkách komplikujú dopravu v Žiline",
+      "link": "https://www.zilinak.sk/clanky/42361/na-dvoch-dolezitych-krizovatkach-v-ziline-sa-stali-nehody-jedna-blokuje-aj-vyjazd-na-dialnicu",
+      "time": "2026-08-18T15:31:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787067092-na-dvoch-dolezitych-krizovatkach-v-ziline-sa-stali-nehody-jedna-blokuje-aj-vyjazd-na-dialnicu.webp"
+    },
     {
       "title": "Pri Banskej Štiavnici zasahoval vrtuľník. 71-ročná žena utrpela vážne zranenia",
       "link": "https://www.bystricak.sk/clanky/12744/pri-banskej-stiavnici-zislo-auto-mimo-cesty-vazne-zranenu-zenu-prevazal-vrtulnik",

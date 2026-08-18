@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-08-18T07:57:41.688410+00:00",
+  "generated_at": "2026-08-18T09:18:07.833753+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 11,
   "items": [
+    {
+      "title": "Dvaja maloletí havarovali na motocykli pri Krupine. Jeden z nich nemal prilbu, ťažko sa zranil",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2026031-dvaja-maloleti-havarovali-na-motocykli-pri-krupine-jeden-z-nich-nemal-prilbu-tazko-sa-zranil?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-18T08:35:50+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/18/2519763/4x3-medium/motocykel.jpg?v=M/Y"
+    },
+    {
+      "title": "Na motorke havarovali dvaja maloletí. 14-ročný spolujazdec utrpel ťažké zranenia",
+      "link": "https://www.bystricak.sk/clanky/12730/pri-krupine-havaroval-15-rocny-motorkar-jeho-mladsi-spolujazdec-skoncil-s-tazkymi-zraneniami",
+      "time": "2026-08-18T08:30:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787039771-pri-krupine-havaroval-15rocny-motorkar-jeho-mladsi-spolujazdec-skoncil-s-tazkymi-zraneniami.webp"
+    },
+    {
+      "title": "Duchonku večer zasiahla silná búrka s vetrom, jeden strom sa zlomil a spadol na zaparkovaný karavan",
+      "link": "https://www.nitrak.sk/clanky/11582/burka-sa-vecer-prehnala-aj-duchonkou-silny-vietor-nicil-stromy-jeden-spadol-na-zaparkovany-karavan",
+      "time": "2026-08-18T08:15:00+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787039191-burka-sa-vecer-prehnala-aj-duchonkou-silny-vietor-nicil-stromy-jeden-spadol-na-zaparkovany-karavan.webp"
+    },
     {
       "title": "V Novom Meste nad Váhom sa stala nehoda na križovatke Jánošíkovej a Javorinskej",
       "link": "https://www.trencinak.sk/clanky/13437/vodici-pozor-v-novom-meste-nad-vahom-sa-stala-nehoda-na-krizovatke-janosikovej-a-javorinskej-useku-sa-radsej-vyhnite",
@@ -22,13 +49,13 @@
       "image": null
     },
     {
-      "title": "Kompletná obnova mosta v Kráľovom Brode vstupuje do ďalšej fázy",
-      "link": "https://www.teraz.sk/regiony/kompletna-obnova-mosta-v-kralovom-bro/985709-clanok.html",
-      "time": "2026-08-18T07:14:00+00:00",
+      "title": "Na D1 pri Čataji sa zrazili tri osobné vozidlá, tvorí sa kolóna",
+      "link": "https://www.trnavak.sk/clanky/11831/aktualizacia-nasledky-hromadnej-dopravnej-nehody-na-d1-pri-trnave-uz-odstranili-premavka-sa-rozbieha",
+      "time": "2026-08-18T07:04:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
-      "src": "teraz.sk",
-      "image": null
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787040439-aktualizacia-nasledky-hromadnej-dopravnej-nehody-na-d1-pri-trnave-uz-odstranili-premavka-sa-rozbieha.webp"
     },
     {
       "title": "Stala sa vážna nehoda pri Partizánskom, motocyklista skončil v nemocnici",
@@ -67,13 +94,13 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787033652-smrtelna-nehoda-pri-secovciach-neosvetleneho-chodca-zrazilo-auto-zachranit-sa-ho-uz-nepodarilo.webp"
     },
     {
-      "title": "ZRÁŽKA AUTA S CHODCOM: Nehoda sa stala v okrese Trebišov",
-      "link": "https://www.teraz.sk/regiony/pre-zrazku-s-chodcom-na-krizovatke-kr/985664-clanok.html",
-      "time": "2026-08-18T04:05:00+00:00",
+      "title": "Vážne nehody na Slovensku: Zahynul chodec, dvaja maloletí skončili v nemocnici",
+      "link": "https://www1.pluska.sk/krimi/vazne-nehody-na-slovensku-zahynul-chodec-dvaja-maloleti-skoncili-v-nemocnici",
+      "time": "2026-08-18T00:00:00+00:00",
       "cat": "nehoda",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
+      "region": "banskobystricky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/844/844d168a-f83e-4bd8-a6ba-bcdb6be281c1.webp"
     }
   ]
 }

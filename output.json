@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T19:55:35.985862+00:00",
+  "generated_at": "2026-08-18T20:53:02.889604+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 5,
   "items": [
     {
       "title": "Dve nehody v križovatkách komplikujú dopravu v Žiline",
@@ -31,33 +31,6 @@
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787062368-adrian-z-okresu-puchov-je-nezvestny-patra-po-nom-policia-naposledy-mal-obleceny-zlty-textilny-kabat-nevideli-ste-ho.webp"
     },
     {
-      "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
-      "link": "https://www.trencinak.sk/clanky/13446/soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",
-      "time": "2026-08-18T13:25:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787056093-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
-    },
-    {
-      "title": "Nehoda medzi Skalkou nad Váhom a Zamaravocami uzavrela cestu II/507",
-      "link": "https://www.trencinak.sk/clanky/13445/vodici-medzi-skalkou-nad-vahom-a-zamarovcami-doslo-k-nehode-dany-usek-je-neprejazdny-v-oboch-smeroch",
-      "time": "2026-08-18T12:34:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Záchranná akcia v Prešove. V pivnici našli nezvestného muža v bezvedomí, rozhodovali sekundy",
-      "link": "https://www.presovak.sk/clanky/15032/zachranna-akcia-v-presove-v-pivnici-nasli-nezvestneho-muza-v-bezvedomi-rozhodovali-sekundy",
-      "time": "2026-08-18T12:10:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787045164-zachranna-akcia-v-presove-v-pivnici-nasli-nezvestneho-muza-v-bezvedomi-rozhodovali-sekundy.webp"
-    },
-    {
       "title": "Pri Trnave na D1 havarovalo auto, jeden jazdný pruh zostáva blokovaný",
       "link": "https://www.trnavak.sk/clanky/11849/pri-trnave-na-d1-havarovalo-auto-jeden-jazdny-pruh-je-blokovany",
       "time": "2026-08-18T11:54:00+00:00",
@@ -74,24 +47,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/18/2519787/4x3-medium/sanitka-nehoda.jpg?v=grQ"
-    },
-    {
-      "title": "Dvaja maloletí havarovali na motocykli pri Krupine. Jeden z nich nemal prilbu, ťažko sa zranil",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2026031-dvaja-maloleti-havarovali-na-motocykli-pri-krupine-jeden-z-nich-nemal-prilbu-tazko-sa-zranil?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-18T08:35:50+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/18/2519763/4x3-medium/motocykel.jpg?v=M/Y"
-    },
-    {
-      "title": "Duchonku večer zasiahla silná búrka s vetrom, jeden strom sa zlomil a spadol na zaparkovaný karavan",
-      "link": "https://www.nitrak.sk/clanky/11582/burka-sa-vecer-prehnala-aj-duchonkou-silny-vietor-nicil-stromy-jeden-spadol-na-zaparkovany-karavan",
-      "time": "2026-08-18T08:15:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787039191-burka-sa-vecer-prehnala-aj-duchonkou-silny-vietor-nicil-stromy-jeden-spadol-na-zaparkovany-karavan.webp"
     }
   ]
 }

@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-08-18T05:50:10.963824+00:00",
+  "generated_at": "2026-08-18T07:57:41.688410+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 8,
   "items": [
+    {
+      "title": "V Novom Meste nad Váhom sa stala nehoda na križovatke Jánošíkovej a Javorinskej",
+      "link": "https://www.trencinak.sk/clanky/13437/vodici-pozor-v-novom-meste-nad-vahom-sa-stala-nehoda-na-krizovatke-janosikovej-a-javorinskej-useku-sa-radsej-vyhnite",
+      "time": "2026-08-18T07:17:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787037429-vodici-pozor-v-novom-meste-nad-vahom-sa-stala-nehoda-na-krizovatke-janosikovej-a-javorinskej-useku-sa-radsej-vyhnite.webp"
+    },
+    {
+      "title": "Hasiči v Žilinskom kraji minulý týždeň zasahovali 131-krát",
+      "link": "https://www.teraz.sk/regiony/hasici-v-zilinskom-kraji-minuly-tyz/985710-clanok.html",
+      "time": "2026-08-18T07:16:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Kompletná obnova mosta v Kráľovom Brode vstupuje do ďalšej fázy",
+      "link": "https://www.teraz.sk/regiony/kompletna-obnova-mosta-v-kralovom-bro/985709-clanok.html",
+      "time": "2026-08-18T07:14:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Stala sa vážna nehoda pri Partizánskom, motocyklista skončil v nemocnici",
+      "link": "https://www.trencinak.sk/clanky/13435/pri-partizanskom-sa-zrazil-motocykel-s-land-roverom-zasahoval-vrtulnik",
+      "time": "2026-08-18T06:43:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787035437-pri-partizanskom-sa-zrazil-motocykel-s-land-roverom-zasahoval-vrtulnik.webp"
+    },
+    {
+      "title": "Na D1 pri Čataji sa zrazili tri autá, kolóny brzdia aj Bratislavu",
+      "link": "https://www.bratislavak.sk/clanky/15006/na-d1-sa-zrazili-tri-auta-v-kolone-si-pockate-desiatky-minut-obmedzena-je-aj-doprava-v-hlavnom-meste",
+      "time": "2026-08-18T06:31:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787034732-na-d1-sa-zrazili-tri-auta-v-kolone-si-pockate-desiatky-minut-obmedzena-je-aj-doprava-v-hlavnom-meste.webp"
+    },
+    {
+      "title": "Medzi Sninou a Stakčínom sa zrazili dve autá, blokujú časť cesty",
+      "link": "https://www.presovak.sk/clanky/15027/medzi-sninou-a-stakcinom-sa-zrazili-dve-auta-blokuju-cast-cesty",
+      "time": "2026-08-18T06:26:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Vodič zrazil na ceste pri Sečovciach chodca, ktorý kráčal neosvetlený, zomrel na mieste",
+      "link": "https://www.kosicak.sk/clanky/13736/smrtelna-nehoda-pri-secovciach-neosvetleneho-chodca-zrazilo-auto-zachranit-sa-ho-uz-nepodarilo",
+      "time": "2026-08-18T06:13:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787033652-smrtelna-nehoda-pri-secovciach-neosvetleneho-chodca-zrazilo-auto-zachranit-sa-ho-uz-nepodarilo.webp"
+    },
     {
       "title": "ZRÁŽKA AUTA S CHODCOM: Nehoda sa stala v okrese Trebišov",
       "link": "https://www.teraz.sk/regiony/pre-zrazku-s-chodcom-na-krizovatke-kr/985664-clanok.html",

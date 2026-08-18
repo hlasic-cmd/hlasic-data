@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T04:21:30.162393+00:00",
+  "generated_at": "2026-08-18T05:50:10.963824+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 1,
   "items": [
     {
       "title": "ZRÁŽKA AUTA S CHODCOM: Nehoda sa stala v okrese Trebišov",
@@ -11,33 +11,6 @@
       "region": "kosicky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Žilinu bičuje lejak a silný vietor",
-      "link": "https://www.zilinak.sk/clanky/42336/video-burky-uz-aj-na-nasom-uzemi-zilinu-zasiahol-silny-lejak",
-      "time": "2026-08-17T17:24:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1786987334-video-burky-uz-aj-na-nasom-uzemi-zilinu-zasiahol-silny-lejak.webp"
-    },
-    {
-      "title": "POŽIAR V KOŠICKEJ NEMOCNICI: Evakuovali pacientov a zamestnancov",
-      "link": "https://www.teraz.sk/regiony/poziar-v-kosickej-nemocnici-evakuoval/985587-clanok.html",
-      "time": "2026-08-17T16:25:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V košickej nemocnici horelo, hasiči evakuovali pacientov a zamestnancov – VIDEO",
-      "link": "https://sita.sk/v-kosickej-nemocnici-horelo-hasici-evakuovali-pacientov-a-zamestnancov-video/",
-      "time": "2026-08-17T16:22:23+00:00",
-      "cat": "zasah",
-      "region": "kosicky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2025/09/hasici2-688x387.jpg"
     }
   ]
 }

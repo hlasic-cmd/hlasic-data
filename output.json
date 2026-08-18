@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T10:51:18.494239+00:00",
+  "generated_at": "2026-08-18T11:53:07.304313+00:00",
   "max_age_hours": 12,
-  "count": 16,
+  "count": 14,
   "items": [
     {
       "title": "Hasiči zasahujú na železničnom moste v Galante, úsek je neprejazdný",
@@ -110,24 +110,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787035437-pri-partizanskom-sa-zrazil-motocykel-s-land-roverom-zasahoval-vrtulnik.webp"
-    },
-    {
-      "title": "Na D1 pri Čataji sa zrazili tri autá, kolóny brzdia aj Bratislavu",
-      "link": "https://www.bratislavak.sk/clanky/15006/na-d1-sa-zrazili-tri-auta-v-kolone-si-pockate-desiatky-minut-obmedzena-je-aj-doprava-v-hlavnom-meste",
-      "time": "2026-08-18T06:31:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787034732-na-d1-sa-zrazili-tri-auta-v-kolone-si-pockate-desiatky-minut-obmedzena-je-aj-doprava-v-hlavnom-meste.webp"
-    },
-    {
-      "title": "Medzi Sninou a Stakčínom sa zrazili dve autá, blokujú časť cesty",
-      "link": "https://www.presovak.sk/clanky/15027/medzi-sninou-a-stakcinom-sa-zrazili-dve-auta-blokuju-cast-cesty",
-      "time": "2026-08-18T06:26:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
     },
     {
       "title": "Vodič zrazil na ceste pri Sečovciach chodca, ktorý kráčal neosvetlený, zomrel na mieste",

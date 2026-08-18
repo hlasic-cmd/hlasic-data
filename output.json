@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-18T15:17:22.971039+00:00",
+  "generated_at": "2026-08-18T16:04:11.046905+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 10,
   "items": [
+    {
+      "title": "Pri Banskej Štiavnici zasahoval vrtuľník. 71-ročná žena utrpela vážne zranenia",
+      "link": "https://www.bystricak.sk/clanky/12744/pri-banskej-stiavnici-zislo-auto-mimo-cesty-vazne-zranenu-zenu-prevazal-vrtulnik",
+      "time": "2026-08-18T15:05:00+00:00",
+      "cat": "zasah",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787064099-pri-banskej-stiavnici-zislo-auto-mimo-cesty-vazne-zranenu-zenu-prevazal-vrtulnik.webp"
+    },
     {
       "title": "Polícia pátra po nezvestnom 33-ročnom Adriánovi Valachovi z okresu Púchov",
       "link": "https://www.trencinak.sk/clanky/13451/adrian-z-okresu-puchov-je-nezvestny-patra-po-nom-policia-naposledy-mal-obleceny-zlty-textilny-kabat-nevideli-ste-ho",
@@ -40,15 +49,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787058546-z-kosickej-nemocnice-evakuovali-80-ludi-pre-siriaci-sa-dym-za-poziarom-stala-chyba-pracovnika-externej-firmy.webp"
     },
     {
-      "title": "VÁŽNA NEHODA: Pri Trenčíne je cesta obojstranne neprejazdná",
-      "link": "https://www.teraz.sk/regiony/policia-cesta-ii507-v-skalke-nad-vah/985826-clanok.html",
-      "time": "2026-08-18T12:54:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Nehoda medzi Skalkou nad Váhom a Zamaravocami uzavrela cestu II/507",
       "link": "https://www.trencinak.sk/clanky/13445/vodici-medzi-skalkou-nad-vahom-a-zamarovcami-doslo-k-nehode-dany-usek-je-neprejazdny-v-oboch-smeroch",
       "time": "2026-08-18T12:34:00+00:00",
@@ -74,15 +74,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787054109-pri-trnave-na-d1-havarovalo-auto-jeden-jazdny-pruh-je-blokovany.webp"
-    },
-    {
-      "title": "Hasiči zasahujú na železničnom moste v Galante, úsek je neprejazdný",
-      "link": "https://www.trnavak.sk/clanky/11841/dopravu-v-galante-komplikuje-zasah-hasicov-usek-je-neprejazdny-vodici-musia-vyuzit-obchadzku",
-      "time": "2026-08-18T09:55:00+00:00",
-      "cat": "zasah",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     },
     {
       "title": "Policajt mimo služby zrazil na východe Slovenska chodca. Muž nehodu neprežil",

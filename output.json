@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:59:26.992477+00:00",
+  "generated_at": "2026-08-18T19:18:32.172508+00:00",
   "max_age_hours": 12,
   "count": 11,
   "items": [
@@ -38,15 +38,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787056093-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
-    },
-    {
-      "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
-      "link": "https://www.bratislavak.sk/clanky/15012/soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",
-      "time": "2026-08-18T13:20:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787056093-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
     },
     {
       "title": "Košická nemocnica objasnila požiar v jej priestoroch, bola za tým chyba jednotlivca",
@@ -101,6 +92,15 @@
       "region": "banskobystricky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/18/2519763/4x3-medium/motocykel.jpg?v=M/Y"
+    },
+    {
+      "title": "Duchonku večer zasiahla silná búrka s vetrom, jeden strom sa zlomil a spadol na zaparkovaný karavan",
+      "link": "https://www.nitrak.sk/clanky/11582/burka-sa-vecer-prehnala-aj-duchonkou-silny-vietor-nicil-stromy-jeden-spadol-na-zaparkovany-karavan",
+      "time": "2026-08-18T08:15:00+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787039191-burka-sa-vecer-prehnala-aj-duchonkou-silny-vietor-nicil-stromy-jeden-spadol-na-zaparkovany-karavan.webp"
     }
   ]
 }

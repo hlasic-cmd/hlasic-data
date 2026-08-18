@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-17T23:43:12.428865+00:00",
+  "generated_at": "2026-08-18T02:44:28.347791+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 3,
   "items": [
     {
       "title": "Žilinu bičuje lejak a silný vietor",
@@ -29,42 +29,6 @@
       "region": "kosicky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2025/09/hasici2-688x387.jpg"
-    },
-    {
-      "title": "Polícia pátra po 49-ročnom Miroslavovi z Bajky, odišiel z domu a viac sa nevrátil",
-      "link": "https://www.nitrak.sk/clanky/11578/policia-patra-po-nezvestnom-49-rocnom-miroslavovi-z-okresu-levice-odisiel-z-domu-a-nevratil-sa",
-      "time": "2026-08-17T14:40:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1786971743-policia-patra-po-nezvestnom-49rocnom-miroslavovi-z-okresu-levice-odisiel-z-domu-a-nevratil-sa.webp"
-    },
-    {
-      "title": "V úvode týždňa ohrozovali v košickej nemocnici pacientov aj zamestnancov nebezpečné plamene",
-      "link": "https://www.kosicak.sk/clanky/13735/v-kosickej-nemocnici-vypukol-v-uvode-tyzdna-poziar-evakuuovali-pacientov-aj-zamestnancov",
-      "time": "2026-08-17T13:40:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1786975703-v-kosickej-nemocnici-vypukol-v-uvode-tyzdna-poziar-evakuuovali-pacientov-aj-zamestnancov.webp"
-    },
-    {
-      "title": "Požiar v košickej nemocnici vyvolal poplach. Hasiči evakuovali pacientov aj personál",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2025635-poziar-v-kosickej-nemocnici-vyvolal-poplach-hasici-evakuuju-pacientov-aj-personal?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-17T13:30:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/05/31/4x3-medium/hasici-kosice-evakuacia.jpeg?v=ICs"
-    },
-    {
-      "title": "V košickej nemocnici horelo, časť pacientov a personálu evakuovali",
-      "link": "https://korzar.sme.sk/kosice/c/v-kosickej-nemocnici-horelo-cast-pacientov-a-personalu-evakuovali?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-17T13:19:23+00:00",
-      "cat": "zasah",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/1ef8a71d-ffe9-6918-b7a2-d33a4132ab43.jpg"
     }
   ]
 }

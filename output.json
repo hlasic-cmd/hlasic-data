@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-08-19T06:01:41.928741+00:00",
+  "generated_at": "2026-08-19T07:58:25.475166+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 4,
+  "items": [
+    {
+      "title": "Polícia vyhlásila pátranie po mužovi z Lučenca. Eugen je nezvestný",
+      "link": "https://www.bystricak.sk/clanky/12747/policia-vyhlasila-patranie-po-eugenovi-z-lucenca-57-rocneho-muza-sa-zatial-nepodarilo-najst",
+      "time": "2026-08-19T07:40:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787123877-policia-vyhlasila-patranie-po-eugenovi-z-lucenca-57rocneho-muza-sa-zatial-nepodarilo-najst.webp"
+    },
+    {
+      "title": "NOČNÝ POŽIAR: Pri Bytči horel rodinný dom, jedna osoba zomrela",
+      "link": "https://www.teraz.sk/regiony/pri-nocnom-poziari-rodinneho-domu-v-/985952-clanok.html",
+      "time": "2026-08-19T07:38:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Račiansku uzavrú smerom do centra. Opravujú poškodenú kanalizáciu",
+      "link": "https://www.bratislavak.sk/clanky/15018/mapa-raciansku-caka-uplna-uzavera-smerom-do-centra-kanalizacia-je-po-havarii-opravy-potrvaju-niekolko-dni",
+      "time": "2026-08-19T05:40:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787052554-mapa-raciansku-caka-uplna-uzavera-smerom-do-centra-kanalizacia-je-po-havarii-opravy-potrvaju-niekolko-dni.webp"
+    },
+    {
+      "title": "Nočný požiar pri Bytči skončil tragicky. Zomrel pri ňom jeden človek",
+      "link": "https://www.zilinak.sk/clanky/42364/foto-tragedia-pri-bytci-v-noci-vyhorel-rodinny-dom-hasici-v-nom-nasli-cloveka-po-smrti-vysetruje-to-policia",
+      "time": "2026-08-19T05:30:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787123879-foto-tragedia-pri-bytci-v-noci-vyhorel-rodinny-dom-hasici-v-nom-nasli-cloveka-po-smrti-vysetruje-to-policia.webp"
+    }
+  ]
 }

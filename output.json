@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-19T07:58:25.475166+00:00",
+  "generated_at": "2026-08-19T09:18:56.745982+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 7,
   "items": [
+    {
+      "title": "VÁŽNA NEHODA V TRENČÍNE: Motorkár narazil do autobusu",
+      "link": "https://www.teraz.sk/regiony/po-naraze-do-autobusu-skoncil-motocykl/985996-clanok.html",
+      "time": "2026-08-19T09:01:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Polícia pátra po 64-ročnom Pierrovi z okresu Piešťany",
+      "link": "https://www.trnavak.sk/clanky/11853/policia-patra-po-nezvestnom-64-rocnom-pierrovi-z-okresu-piestany-o-pomoc-ziada-aj-verejnost",
+      "time": "2026-08-19T07:40:00+00:00",
+      "cat": "patranie",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787121668-policia-patra-po-nezvestnom-64rocnom-pierrovi-z-okresu-piestany-o-pomoc-ziada-aj-verejnost.webp"
+    },
     {
       "title": "Polícia vyhlásila pátranie po mužovi z Lučenca. Eugen je nezvestný",
       "link": "https://www.bystricak.sk/clanky/12747/policia-vyhlasila-patranie-po-eugenovi-z-lucenca-57-rocneho-muza-sa-zatial-nepodarilo-najst",
@@ -38,6 +56,15 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787123879-foto-tragedia-pri-bytci-v-noci-vyhorel-rodinny-dom-hasici-v-nom-nasli-cloveka-po-smrti-vysetruje-to-policia.webp"
+    },
+    {
+      "title": "V Štiavniku horel rodinný dom: Požiar neprežil muž",
+      "link": "https://www1.pluska.sk/krimi/v-stiavniku-horel-rodinny-dom-poziar-neprezil-muz",
+      "time": "2026-08-19T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/f29/f29b11de-45a1-444c-ad4c-2102622604c3.webp"
     }
   ]
 }

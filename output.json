@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T23:43:28.871367+00:00",
+  "generated_at": "2026-08-19T03:10:39.726163+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 1,
   "items": [
     {
       "title": "Dve nehody v križovatkách komplikujú dopravu v Žiline",
@@ -11,24 +11,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787067092-na-dvoch-dolezitych-krizovatkach-v-ziline-sa-stali-nehody-jedna-blokuje-aj-vyjazd-na-dialnicu.webp"
-    },
-    {
-      "title": "Pri Banskej Štiavnici zasahoval vrtuľník. 71-ročná žena utrpela vážne zranenia",
-      "link": "https://www.bystricak.sk/clanky/12744/pri-banskej-stiavnici-zislo-auto-mimo-cesty-vazne-zranenu-zenu-prevazal-vrtulnik",
-      "time": "2026-08-18T15:05:00+00:00",
-      "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787064099-pri-banskej-stiavnici-zislo-auto-mimo-cesty-vazne-zranenu-zenu-prevazal-vrtulnik.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnom 33-ročnom Adriánovi Valachovi z okresu Púchov",
-      "link": "https://www.trencinak.sk/clanky/13451/adrian-z-okresu-puchov-je-nezvestny-patra-po-nom-policia-naposledy-mal-obleceny-zlty-textilny-kabat-nevideli-ste-ho",
-      "time": "2026-08-18T14:15:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787062368-adrian-z-okresu-puchov-je-nezvestny-patra-po-nom-policia-naposledy-mal-obleceny-zlty-textilny-kabat-nevideli-ste-ho.webp"
     }
   ]
 }

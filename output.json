@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-19T15:17:03.905787+00:00",
+  "generated_at": "2026-08-19T16:52:04.666669+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 4,
   "items": [
     {
       "title": "FOTO: Šimkovičová navštívila Višňové. Na obnovu kostola pôjde 55-tisíc eur",
-      "link": "https://www.zilinak.sk/clanky/42377/foto-ministerka-simkovicova-navstivila-visnove-na-obnovu-kostola-ma-ist-55-tisic-eur",
+      "link": "https://www.zilinak.sk/clanky/42377/video-ministerka-simkovicova-navstivila-visnove-na-obnovu-kostola-ma-ist-55-tisic-eur",
       "time": "2026-08-19T13:00:00+00:00",
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787147168-foto-ministerka-simkovicova-navstivila-visnove-na-obnovu-kostola-ma-ist-55tisic-eur.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787156918-video-ministerka-simkovicova-navstivila-visnove-na-obnovu-kostola-ma-ist-55tisic-eur.webp"
     },
     {
       "title": "FOTO: Ničivý požiar pripravil rodiny o domovy, no ľudia ukázali veľké srdce",
@@ -20,15 +20,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787131393-foto-po-nicivom-poziari-v-bravacove-prisla-velka-pomoc-desiatky-ochotnych-ludi-sa-pustili-do-odpratavania-skod.webp"
-    },
-    {
-      "title": "Teploty v Trnavskom kraji vo štvrtok prekročia 30 °C. Večer ale môže studený front priniesť intenzívne búrky",
-      "link": "https://www.trnavak.sk/clanky/11861/stvrtkove-pocasie-v-trnavskom-kraji-bude-nevyspytatelne-pocas-dna-horuco-vecer-moze-prist-zlom-v-podobe-silnych-burok",
-      "time": "2026-08-19T11:00:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787131106-stvrtkove-pocasie-v-trnavskom-kraji-bude-nevyspytatelne-pocas-dna-horuco-vecer-moze-prist-zlom-v-podobe-silnych-burok.webp"
     },
     {
       "title": "Nehoda uzavrela cestu do Trenčianskych Teplíc v oboch smeroch",
@@ -47,15 +38,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787128259-dalsi-motocyklista-skoncil-v-trencine-po-nehode-v-nemocnici-31rocny-vodic-narazil-zozadu-do-autobusu.webp"
-    },
-    {
-      "title": "Pri Lučenci skončilo auto s prívesom na streche, vnútri bolo päť ľudí",
-      "link": "https://www.bystricak.sk/clanky/12752/auto-s-privesnom-skoncilo-pri-lucenci-v-priekope-vsetkych-pat-ucastnikov-previezli-do-nemocnice",
-      "time": "2026-08-19T10:00:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787128446-auto-s-privesnom-skoncilo-pri-lucenci-v-priekope-vsetkych-pat-ucastnikov-previezli-do-nemocnice.webp"
     }
   ]
 }

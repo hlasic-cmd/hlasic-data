@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-19T11:52:43.769854+00:00",
+  "generated_at": "2026-08-19T14:03:31.337433+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 7,
   "items": [
+    {
+      "title": "FOTO: Šimkovičová navštívila Višňové. Na obnovu kostola pôjde 55-tisíc eur",
+      "link": "https://www.zilinak.sk/clanky/42377/foto-ministerka-simkovicova-navstivila-visnove-na-obnovu-kostola-ma-ist-55-tisic-eur",
+      "time": "2026-08-19T13:00:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787147168-foto-ministerka-simkovicova-navstivila-visnove-na-obnovu-kostola-ma-ist-55tisic-eur.webp"
+    },
     {
       "title": "FOTO: Ničivý požiar pripravil rodiny o domovy, no ľudia ukázali veľké srdce",
       "link": "https://www.bystricak.sk/clanky/12753/foto-po-nicivom-poziari-v-bravacove-prisla-velka-pomoc-desiatky-ochotnych-ludi-sa-pustili-do-odpratavania-skod",
@@ -56,51 +65,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787129630-len-17rocna-emma-zomrela-po-nehode-jej-motocykla-pri-rovinke-jazdci-ju-chcu-na-rozlucke-odprevadit-hukotom-motoriek.webp"
-    },
-    {
-      "title": "Polícia pátra po 64-ročnom Pierrovi z okresu Piešťany",
-      "link": "https://www.trnavak.sk/clanky/11853/policia-patra-po-nezvestnom-64-rocnom-pierrovi-z-okresu-piestany-o-pomoc-ziada-aj-verejnost",
-      "time": "2026-08-19T07:40:00+00:00",
-      "cat": "patranie",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787121668-policia-patra-po-nezvestnom-64rocnom-pierrovi-z-okresu-piestany-o-pomoc-ziada-aj-verejnost.webp"
-    },
-    {
-      "title": "Polícia vyhlásila pátranie po mužovi z Lučenca. Eugen je nezvestný",
-      "link": "https://www.bystricak.sk/clanky/12747/policia-vyhlasila-patranie-po-eugenovi-z-lucenca-57-rocneho-muza-sa-zatial-nepodarilo-najst",
-      "time": "2026-08-19T07:40:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787123877-policia-vyhlasila-patranie-po-eugenovi-z-lucenca-57rocneho-muza-sa-zatial-nepodarilo-najst.webp"
-    },
-    {
-      "title": "Račiansku uzavrú smerom do centra. Opravujú poškodenú kanalizáciu",
-      "link": "https://www.bratislavak.sk/clanky/15018/mapa-raciansku-caka-uplna-uzavera-smerom-do-centra-kanalizacia-je-po-havarii-opravy-potrvaju-niekolko-dni",
-      "time": "2026-08-19T05:40:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787052554-mapa-raciansku-caka-uplna-uzavera-smerom-do-centra-kanalizacia-je-po-havarii-opravy-potrvaju-niekolko-dni.webp"
-    },
-    {
-      "title": "Náhradné auto za 200 eur, odťah za 400. Tak dopadla „bezstarostná“ pomoc z havarijnej poistky",
-      "link": "https://www1.pluska.sk/rady-a-tipy/nahradne-auto-za-200-eur-odtah-za-400-tak-dopadla-bezstarostna-pomoc-z-havarijnej-poistky",
-      "time": "2026-08-19T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/560/5602c689-8098-4599-93af-8fa4bd816ca3.webp"
-    },
-    {
-      "title": "V Štiavniku horel rodinný dom: Požiar neprežil muž",
-      "link": "https://www1.pluska.sk/krimi/v-stiavniku-horel-rodinny-dom-poziar-neprezil-muz",
-      "time": "2026-08-19T00:00:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/f29/f29b11de-45a1-444c-ad4c-2102622604c3.webp"
     }
   ]
 }

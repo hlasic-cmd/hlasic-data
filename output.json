@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T21:55:20.930638+00:00",
+  "generated_at": "2026-08-19T22:54:23.605668+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "title": "Na prešovskom Sídlisku II sa zrazilo auto s cyklistom, odvážala ho záchranka",
@@ -11,15 +11,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787158907-na-presovskom-sidlisku-ii-sa-zrazilo-auto-s-cyklistom-odvazala-ho-zachranka.webp"
-    },
-    {
-      "title": "Motocyklista po zrážke s autobusom v Trenčíne skončil v nemocnici",
-      "link": "https://www.trencinak.sk/clanky/13459/dalsi-motocyklista-skoncil-v-trencine-po-nehode-v-nemocnici-31-rocny-vodic-narazil-zozadu-do-autobusu",
-      "time": "2026-08-19T10:15:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787128259-dalsi-motocyklista-skoncil-v-trencine-po-nehode-v-nemocnici-31rocny-vodic-narazil-zozadu-do-autobusu.webp"
     }
   ]
 }

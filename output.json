@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-08-20T06:02:31.693394+00:00",
+  "generated_at": "2026-08-20T08:04:59.554262+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 9,
   "items": [
+    {
+      "title": "Teplo, potom prudký zlom. Banskobystrický kraj čakajú búrky, na horách môže byť až víchrica",
+      "link": "https://www.bystricak.sk/clanky/12761/horucavy-vystriedaju-nebezpecne-burky-v-banskobystrickom-kraji-hrozi-silny-vietor-privalovy-dazd-aj-krupy",
+      "time": "2026-08-20T07:50:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787211041-horucavy-vystriedaju-nebezpecne-burky-v-banskobystrickom-kraji-hrozi-silny-vietor-privalovy-dazd-aj-krupy.webp"
+    },
+    {
+      "title": "Nezvestná je 14-ročná Viktória z Bratislavy. Nevideli ste ju?",
+      "link": "https://www.bratislavak.sk/clanky/15040/foto-v-bratislave-patraju-po-iba-14-rocnej-viktorii-ma-sive-oblecenie-a-cerveno-biele-tenisky",
+      "time": "2026-08-20T07:42:00+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787212031-foto-v-bratislave-patraju-po-iba-14rocnej-viktorii-ma-sive-oblecenie-a-cervenobiele-tenisky.webp"
+    },
+    {
+      "title": "Na Slovensku treba počítať s vysokými teplotami i búrkami",
+      "link": "https://www.teraz.sk/slovensko/na-slovensku-treba-pocitat-s-vysokym/986216-clanok.html",
+      "time": "2026-08-20T07:00:00+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Pozor, v Novom Meste nad Váhom sa stala dopravná nehoda",
+      "link": "https://www.trencinak.sk/clanky/13469/pozor-v-novom-meste-nad-vahom-sa-stala-nehoda-na-malinovskeho-ulici-cesta-je-od-kruhacu-neprejazdna",
+      "time": "2026-08-20T06:56:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787208338-pozor-v-novom-meste-nad-vahom-sa-stala-nehoda-na-malinovskeho-ulici-cesta-je-od-kruhacu-neprejazdna.webp"
+    },
+    {
+      "title": "Na diaľnici D1 pri Dubnici nad Váhom sa stala dopravná nehoda",
+      "link": "https://www.trencinak.sk/clanky/13465/pozor-na-dialnici-d1-pri-dubnici-nad-vahom-smerom-na-zilinu-je-nehoda-havarovane-auta-blokuju-jeden-pruh",
+      "time": "2026-08-20T06:07:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787209214-pozor-na-dialnici-d1-pri-dubnici-nad-vahom-smerom-na-zilinu-je-nehoda-havarovane-auta-blokuju-jeden-pruh.webp"
+    },
+    {
+      "title": "Pri známom skanzene vypukol lesný požiar. Bojovalo s ním desať hasičských zborov",
+      "link": "https://www.zilinak.sk/clanky/42386/video-plamene-zasiahli-les-pri-znamom-skanzene-na-liptove-hasici-nasadili-desiatky-prudov-vody-aj-drony",
+      "time": "2026-08-20T06:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787211983-video-plamene-zasiahli-les-pri-znamom-skanzene-na-liptove-hasici-nasadili-desiatky-prudov-vody-aj-drony.webp"
+    },
     {
       "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
       "link": "https://www.bystricak.sk/clanky/12739/bystricania-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",

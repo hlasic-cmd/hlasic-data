@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-08-20T18:01:51.715421+00:00",
+  "generated_at": "2026-08-20T19:46:06.285076+00:00",
   "max_age_hours": 12,
-  "count": 17,
+  "count": 12,
   "items": [
     {
-      "title": "SLEDUJEME: Búrky spôsobujú viaceré škody a komplikujú dopravu",
+      "title": "SLEDUJEME: Búrky komplikujú dopravu, spôsobili viaceré škody",
       "link": "https://www.teraz.sk/regiony/sledujeme-burka-v-bratislave-sposobil/986387-clanok.html",
-      "time": "2026-08-20T17:56:00+00:00",
+      "time": "2026-08-20T19:18:00+00:00",
       "cat": "burka",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Na D1 z Bratislavy smerom do Trnavy platia pre nehodu obmedzenia",
+      "link": "https://www.teraz.sk/regiony/na-d1-z-bratislavy-smerom-do-trnavy-plat/986406-clanok.html",
+      "time": "2026-08-20T18:44:00+00:00",
+      "cat": "nehoda",
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null
@@ -58,15 +67,6 @@
       "image": null
     },
     {
-      "title": "Bratislavu zasiahla intenzívna búrka, ľudia sa sťažujú na strhnuté strechy aj výpadky elektriny",
-      "link": "https://www.aktuality.sk/clanok/BPisGyz/bratislavu-zasiahla-intenzivna-burka-ludia-sa-stazuju-na-strhnute-strechy-aj-vypadky-elektriny/",
-      "time": "2026-08-20T15:25:38+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
       "title": "Medzi Vrábľami a Nitrou sa zrazila motorka s osobným autom, premávku riadi polícia",
       "link": "https://www.nitrak.sk/clanky/11617/medzi-vrablami-a-nitrou-sa-zrazila-motorka-s-osobnym-autom-premavku-riadi-policia",
       "time": "2026-08-20T15:04:00+00:00",
@@ -85,58 +85,13 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787231154-foto-hrdina-emil-z-presova-sa-po-oprave-lavicky-pustil-do-znicenej-striesky-skolky-po-krupobiti-zabralo-mu-to-2-hodiny.webp"
     },
     {
-      "title": "Napnutý luk na radare neveští nič dobré. Najhorší scenár hrozí západu, na Bratislavu udrela silná búrka",
+      "title": "Slovensko zasiahla silná búrková vlna, Bratislava hlási popadané stromy aj zatopené cesty",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2027465-pocasie-slovensko-burky-vietor-vystrahy-shmu-supercela?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-20T14:44:34+00:00",
       "cat": "burka",
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/20/2520799/4x3-medium/pocasie-bratislava.jpg?v=6Xw"
-    },
-    {
-      "title": "Búrky dorazili na Záhorie. Skalici hrozia krúpy aj silný vietor",
-      "link": "https://www.trnavak.sk/clanky/11888/burky-uz-dorazili-na-zahorie-skalicu-aj-malacky-caka-lejak-krupy-aj-narazy-vetra-s-rychlostou-do-85-kmh",
-      "time": "2026-08-20T14:12:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787235104-burky-uz-dorazili-na-zahorie-skalicu-aj-malacky-caka-lejak-krupy-aj-narazy-vetra-s-rychlostou-do-85-kmh.webp"
-    },
-    {
-      "title": "Búrky dorazili na Záhorie. Skalici hrozia krúpy aj silný vietor",
-      "link": "https://www.bratislavak.sk/clanky/15055/burky-uz-dorazili-na-zahorie-skalicu-aj-malacky-caka-lejak-krupy-aj-narazy-vetra-s-rychlostou-do-85-kmh",
-      "time": "2026-08-20T14:11:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787235104-burky-uz-dorazili-na-zahorie-skalicu-aj-malacky-caka-lejak-krupy-aj-narazy-vetra-s-rychlostou-do-85-kmh.webp"
-    },
-    {
-      "title": "Nehoda na Rajeckej v Žiline: Zrazilo sa nákladné a osobné auto, blokovaný je pruh",
-      "link": "https://www.zilinak.sk/clanky/42401/na-rajeckej-v-ziline-sa-zrazilo-nakladne-a-osobne-auto-blokovany-je-pruh",
-      "time": "2026-08-20T13:20:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "FOTO: Náhla nevoľnosť vodiča mohla spôsobiť vážnu nehodu v Bystrici",
-      "link": "https://www.bystricak.sk/clanky/12773/foto-auto-v-bystrici-tvrdo-narazilo-do-stlpu-zranili-sa-dvaja-ludia-vodicovi-malo-prist-nahle-nevolno",
-      "time": "2026-08-20T12:45:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787229266-foto-auto-v-bystrici-tvrdo-narazilo-do-stlpu-zranili-sa-dvaja-ludia-vodicovi-malo-prist-nahle-nevolno.webp"
-    },
-    {
-      "title": "Na križovatke VSS narazilo osobné auto do stĺpa, zasahujú záchranné zložky",
-      "link": "https://www.kosicak.sk/clanky/13785/na-krizovatke-vss-narazilo-osobne-auto-do-stlpa-zasahuju-zachranne-zlozky",
-      "time": "2026-08-20T12:18:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
     },
     {
       "title": "SHMÚ varuje Nitriansky kraj: O pár hodín udrú silné búrky, vietor nad 100 km/h aj nebezpečný bow echo",

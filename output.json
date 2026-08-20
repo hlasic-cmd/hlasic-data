@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-08-20T11:57:49.232826+00:00",
+  "generated_at": "2026-08-20T14:09:15.732873+00:00",
   "max_age_hours": 12,
-  "count": 15,
+  "count": 13,
   "items": [
+    {
+      "title": "Na D1 smerom na Trnavu sa zrazila dodávka s dvomi autami, na R1 je nebezpečná prekážka",
+      "link": "https://www.trnavak.sk/clanky/11887/na-d1-smerom-na-trnavu-sa-stala-hromadna-nehoda-pozor-aj-na-nebezpecnu-prekazku-na-r1",
+      "time": "2026-08-20T13:46:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Nehoda na Rajeckej v Žiline: Zrazilo sa nákladné a osobné auto, blokovaný je pruh",
+      "link": "https://www.zilinak.sk/clanky/42401/na-rajeckej-v-ziline-sa-zrazilo-nakladne-a-osobne-auto-blokovany-je-pruh",
+      "time": "2026-08-20T13:20:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "FOTO: Náhla nevoľnosť vodiča mohla spôsobiť vážnu nehodu v Bystrici",
+      "link": "https://www.bystricak.sk/clanky/12773/foto-auto-v-bystrici-tvrdo-narazilo-do-stlpu-zranili-sa-dvaja-ludia-vodicovi-malo-prist-nahle-nevolno",
+      "time": "2026-08-20T12:45:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787229266-foto-auto-v-bystrici-tvrdo-narazilo-do-stlpu-zranili-sa-dvaja-ludia-vodicovi-malo-prist-nahle-nevolno.webp"
+    },
+    {
+      "title": "Na križovatke VSS narazilo osobné auto do stĺpa, zasahujú záchranné zložky",
+      "link": "https://www.kosicak.sk/clanky/13785/na-krizovatke-vss-narazilo-osobne-auto-do-stlpa-zasahuju-zachranne-zlozky",
+      "time": "2026-08-20T12:18:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "SHMÚ varuje Nitriansky kraj: O pár hodín udrú silné búrky, vietor nad 100 km/h aj nebezpečný bow echo",
+      "link": "https://www.nitrak.sk/clanky/11614/po-horucavach-nastane-v-nitrianskom-kraji-nebezpecny-zvrat-udru-burky-s-vetrom-nad-100-kmh-hrozi-aj-bow-echo",
+      "time": "2026-08-20T12:00:00+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787225305-po-horucavach-nastane-v-nitrianskom-kraji-nebezpecny-zvrat-udru-burky-s-vetrom-nad-100-kmh-hrozi-aj-bow-echo.webp"
+    },
+    {
+      "title": "Záchranári zasahovali pri chlapčekovi v bezvedomí, nasledoval vrtuľník do Bystrice",
+      "link": "https://www.bystricak.sk/clanky/12767/chlapcek-zostal-v-skolke-v-bezvedomi-mama-stanka-dakuje-breznianskym-zachranarom-za-rychlu-pomoc-a-velku-oporu",
+      "time": "2026-08-20T12:00:00+00:00",
+      "cat": "zasah",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787220997-chlapcek-zostal-v-skolke-v-bezvedomi-mama-stanka-dakuje-breznianskym-zachranarom-za-rychlu-pomoc-a-velku-oporu.webp"
+    },
     {
       "title": "Večer zasiahnu Trnavský kraj silné búrky, hrozí aj bow echo",
       "link": "https://www.trnavak.sk/clanky/11881/uz-o-par-hodin-to-pride-hlavna-vlna-burok-zasiahne-aj-trnavsky-kraj-meteorologovia-varuju-pred-nebezpecnymi-javmi",
@@ -29,15 +83,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787210947-pozor-v-trencianskom-kraji-hrozia-burky-a-intenzivny-lejak-vystraha-plati-az-do-piatka-vecera.webp"
-    },
-    {
-      "title": "Zrážka dvoch vozidiel v meste v Trnavskom kraji obmedzila premávku",
-      "link": "https://www.trnavak.sk/clanky/11880/nehoda-skomplikovala-premavku-na-juhu-trnavskeho-kraja-policia-upozornila-na-obmedzenie",
-      "time": "2026-08-20T09:26:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787218087-nehoda-skomplikovala-premavku-na-juhu-trnavskeho-kraja-policia-upozornila-na-obmedzenie.webp"
     },
     {
       "title": "Bratislavský kraj čaká 34 °C a večerné búrky, potom ochladenie",
@@ -67,15 +112,6 @@
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787212265-video-odvazny-prepravca-si-bratislavou-stahoval-chladnicku-na-kolobezke-po-niekolkych-dnoch-ho-hlada-aj-policia.webp"
     },
     {
-      "title": "Teplo, potom prudký zlom. Banskobystrický kraj čakajú búrky, na horách môže byť až víchrica",
-      "link": "https://www.bystricak.sk/clanky/12761/horucavy-vystriedaju-nebezpecne-burky-v-banskobystrickom-kraji-hrozi-silny-vietor-privalovy-dazd-aj-krupy",
-      "time": "2026-08-20T07:50:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787211041-horucavy-vystriedaju-nebezpecne-burky-v-banskobystrickom-kraji-hrozi-silny-vietor-privalovy-dazd-aj-krupy.webp"
-    },
-    {
       "title": "Nezvestná je 14-ročná Viktória z Bratislavy. Nevideli ste ju?",
       "link": "https://www.bratislavak.sk/clanky/15040/foto-v-bratislave-patraju-po-iba-14-rocnej-viktorii-ma-sive-oblecenie-a-cerveno-biele-tenisky",
       "time": "2026-08-20T07:42:00+00:00",
@@ -83,60 +119,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787212031-foto-v-bratislave-patraju-po-iba-14rocnej-viktorii-ma-sive-oblecenie-a-cervenobiele-tenisky.webp"
-    },
-    {
-      "title": "Na Slovensku treba počítať s vysokými teplotami i búrkami",
-      "link": "https://www.teraz.sk/slovensko/na-slovensku-treba-pocitat-s-vysokym/986216-clanok.html",
-      "time": "2026-08-20T07:00:00+00:00",
-      "cat": "burka",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Pozor, v Novom Meste nad Váhom sa stala dopravná nehoda",
-      "link": "https://www.trencinak.sk/clanky/13469/pozor-v-novom-meste-nad-vahom-sa-stala-nehoda-na-malinovskeho-ulici-cesta-je-od-kruhacu-neprejazdna",
-      "time": "2026-08-20T06:56:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787208338-pozor-v-novom-meste-nad-vahom-sa-stala-nehoda-na-malinovskeho-ulici-cesta-je-od-kruhacu-neprejazdna.webp"
-    },
-    {
-      "title": "Na diaľnici D1 pri Dubnici nad Váhom sa stala dopravná nehoda",
-      "link": "https://www.trencinak.sk/clanky/13465/pozor-na-dialnici-d1-pri-dubnici-nad-vahom-smerom-na-zilinu-je-nehoda-havarovane-auta-blokuju-jeden-pruh",
-      "time": "2026-08-20T06:07:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787209214-pozor-na-dialnici-d1-pri-dubnici-nad-vahom-smerom-na-zilinu-je-nehoda-havarovane-auta-blokuju-jeden-pruh.webp"
-    },
-    {
-      "title": "Pri známom skanzene vypukol lesný požiar. Bojovalo s ním desať hasičských zborov",
-      "link": "https://www.zilinak.sk/clanky/42386/video-plamene-zasiahli-les-pri-znamom-skanzene-na-liptove-hasici-nasadili-desiatky-prudov-vody-aj-drony",
-      "time": "2026-08-20T06:00:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787211983-video-plamene-zasiahli-les-pri-znamom-skanzene-na-liptove-hasici-nasadili-desiatky-prudov-vody-aj-drony.webp"
-    },
-    {
-      "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
-      "link": "https://www.bystricak.sk/clanky/12739/bystricania-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",
-      "time": "2026-08-20T05:40:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787133107-bystricania-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
-    },
-    {
-      "title": "V Gbeľanoch havaroval motocyklista, podľa svedkov je nehoda vážna",
-      "link": "https://www.zilinak.sk/clanky/42385/foto-nestastne-rano-v-gbelanoch-motocyklista-sa-zrazil-s-autom-zo-zvodidiel-vytiahli-znicenu-motorku",
-      "time": "2026-08-20T05:20:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787213305-foto-nestastne-rano-v-gbelanoch-motocyklista-sa-zrazil-s-autom-zo-zvodidiel-vytiahli-znicenu-motorku.webp"
     }
   ]
 }

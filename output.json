@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-08-20T08:04:59.554262+00:00",
+  "generated_at": "2026-08-20T09:53:54.471789+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 13,
   "items": [
+    {
+      "title": "Zrážka dvoch vozidiel v meste v Trnavskom kraji obmedzila premávku",
+      "link": "https://www.trnavak.sk/clanky/11880/nehoda-skomplikovala-premavku-na-juhu-trnavskeho-kraja-policia-upozornila-na-obmedzenie",
+      "time": "2026-08-20T09:26:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787218087-nehoda-skomplikovala-premavku-na-juhu-trnavskeho-kraja-policia-upozornila-na-obmedzenie.webp"
+    },
+    {
+      "title": "Bratislavský kraj čaká 34 °C a večerné búrky, potom ochladenie",
+      "link": "https://www.bratislavak.sk/clanky/15041/bratislavsky-kraj-caka-horuci-stvrtok-potom-pride-vyrazna-zmena-burky-mozu-priniest-silny-vietor",
+      "time": "2026-08-20T09:20:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787212764-bratislavsky-kraj-caka-horuci-stvrtok-potom-pride-vyrazna-zmena-burky-mozu-priniest-silny-vietor.webp"
+    },
+    {
+      "title": "Výstrahy pred búrkami platia aj v Prešovskom kraji",
+      "link": "https://www.presovak.sk/clanky/15059/pozor-na-burky-uz-o-par-hodin-udru-aj-v-presovskom-kraji",
+      "time": "2026-08-20T09:20:00+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787215123-pozor-na-burky-uz-o-par-hodin-udru-aj-v-presovskom-kraji.webp"
+    },
+    {
+      "title": "VIDEO: Chladnička na kolobežke? Odvážneho prepravcu hľadá polícia",
+      "link": "https://www.bratislavak.sk/clanky/15039/video-odvazny-prepravca-si-bratislavou-stahoval-chladnicku-na-kolobezke-po-niekolkych-dnoch-ho-hlada-aj-policia",
+      "time": "2026-08-20T08:30:00+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787212265-video-odvazny-prepravca-si-bratislavou-stahoval-chladnicku-na-kolobezke-po-niekolkych-dnoch-ho-hlada-aj-policia.webp"
+    },
     {
       "title": "Teplo, potom prudký zlom. Banskobystrický kraj čakajú búrky, na horách môže byť až víchrica",
       "link": "https://www.bystricak.sk/clanky/12761/horucavy-vystriedaju-nebezpecne-burky-v-banskobystrickom-kraji-hrozi-silny-vietor-privalovy-dazd-aj-krupy",
@@ -68,12 +104,12 @@
     },
     {
       "title": "V Gbeľanoch havaroval motocyklista, podľa svedkov je nehoda vážna",
-      "link": "https://www.zilinak.sk/clanky/42385/nestastne-rano-v-gbelanoch-havaroval-tam-motocyklista-zo-zvodidiel-vytiahli-znicenu-motorku",
+      "link": "https://www.zilinak.sk/clanky/42385/foto-nestastne-rano-v-gbelanoch-motocyklista-sa-zrazil-s-autom-zo-zvodidiel-vytiahli-znicenu-motorku",
       "time": "2026-08-20T05:20:00+00:00",
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787203072-nestastne-rano-v-gbelanoch-havaroval-tam-motocyklista-zo-zvodidiel-vytiahli-znicenu-motorku.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787213305-foto-nestastne-rano-v-gbelanoch-motocyklista-sa-zrazil-s-autom-zo-zvodidiel-vytiahli-znicenu-motorku.webp"
     },
     {
       "title": "Vo štvrtok bude veľmi teplo a dusno, môžu sa vyskytnúť aj búrky",

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-20T19:46:06.285076+00:00",
+  "generated_at": "2026-08-20T21:00:15.778430+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "title": "SLEDUJEME: Búrky komplikujú dopravu, spôsobili viaceré škody",
       "link": "https://www.teraz.sk/regiony/sledujeme-burka-v-bratislave-sposobil/986387-clanok.html",
-      "time": "2026-08-20T19:18:00+00:00",
+      "time": "2026-08-20T19:59:00+00:00",
       "cat": "burka",
       "region": "bratislavsky",
       "src": "teraz.sk",
@@ -67,15 +67,6 @@
       "image": null
     },
     {
-      "title": "Medzi Vrábľami a Nitrou sa zrazila motorka s osobným autom, premávku riadi polícia",
-      "link": "https://www.nitrak.sk/clanky/11617/medzi-vrablami-a-nitrou-sa-zrazila-motorka-s-osobnym-autom-premavku-riadi-policia",
-      "time": "2026-08-20T15:04:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
       "title": "Prešovčan Emil po oprave lavičky pomáhal s výmenou striešky na škôlke",
       "link": "https://www.presovak.sk/clanky/15071/foto-hrdina-emil-z-presova-sa-po-oprave-lavicky-pustil-do-znicenej-striesky-skolky-po-krupobiti-zabralo-mu-to-2-hodiny",
       "time": "2026-08-20T15:00:00+00:00",
@@ -85,7 +76,7 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787231154-foto-hrdina-emil-z-presova-sa-po-oprave-lavicky-pustil-do-znicenej-striesky-skolky-po-krupobiti-zabralo-mu-to-2-hodiny.webp"
     },
     {
-      "title": "Slovensko zasiahla silná búrková vlna, Bratislava hlási popadané stromy aj zatopené cesty",
+      "title": "Slovensko zasiahla silná búrková vlna, Bratislava hlásila popadané stromy aj zatopené cesty",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2027465-pocasie-slovensko-burky-vietor-vystrahy-shmu-supercela?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-20T14:44:34+00:00",
       "cat": "burka",

@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-08-20T15:52:53.434041+00:00",
+  "generated_at": "2026-08-20T17:05:42.157257+00:00",
   "max_age_hours": 12,
-  "count": 16,
+  "count": 17,
   "items": [
+    {
+      "title": "Silná búrka zasiahla Bratislavu. V Petržalke hlásia popadané stromy aj poškodené autá",
+      "link": "https://www.aktuality.sk/clanok/ioQM8TS/silna-burka-zasiahla-bratislavu-v-petrzalke-hlasia-popadane-stromy-aj-poskodene-auta/",
+      "time": "2026-08-20T17:04:21+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "SLEDUJEME: Búrky spôsobili viaceré škody a komplikujú dopravu",
+      "link": "https://www.teraz.sk/regiony/sledujeme-burka-v-bratislave-sposobil/986387-clanok.html",
+      "time": "2026-08-20T16:53:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Búrka komplikuje dopravu v Bratislave a okrese Senec, cesty blokujú stromy",
+      "link": "https://www.bratislavak.sk/clanky/15056/video-burka-komplikuje-dopravu-v-bratislave-aj-v-seneckom-okrese-niektore-useky-su-zatopene-popadali-stromy",
+      "time": "2026-08-20T16:28:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787244441-video-burka-komplikuje-dopravu-v-bratislave-aj-v-seneckom-okrese-niektore-useky-su-zatopene-popadali-stromy.webp"
+    },
     {
       "title": "Búrky prinášajú riziká: Počas nich sú dôležité tieto veci",
       "link": "https://www.teraz.sk/slovensko/burky-prinasaju-rizika-pocas-nich/986376-clanok.html",
@@ -13,8 +40,8 @@
       "image": null
     },
     {
-      "title": "Bratislavu zasiahla intenzívna búrka",
-      "link": "https://www.aktuality.sk/clanok/BPisGyz/bratislavu-zasiahla-intenzivna-burka/",
+      "title": "Bratislavu zasiahla intenzívna búrka, ľudia sa sťažujú na strhnuté strechy aj výpadky elektriny",
+      "link": "https://www.aktuality.sk/clanok/BPisGyz/bratislavu-zasiahla-intenzivna-burka-ludia-sa-stazuju-na-strhnute-strechy-aj-vypadky-elektriny/",
       "time": "2026-08-20T15:25:38+00:00",
       "cat": "burka",
       "region": "bratislavsky",
@@ -128,24 +155,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787237304-foto-tragicka-dopravna-nehoda-nedaleko-dunajskej-stredy-auto-sa-v-protismere-zrazilo-s-kamionom-zomrela-starsia-zena.webp"
-    },
-    {
-      "title": "Pozor na búrky: Výstraha platí pre celý Trenčiansky kraj",
-      "link": "https://www.trencinak.sk/clanky/13471/pozor-v-trencianskom-kraji-hrozia-burky-a-intenzivny-lejak-vystraha-plati-az-do-piatka-vecera",
-      "time": "2026-08-20T09:40:00+00:00",
-      "cat": "burka",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787210947-pozor-v-trencianskom-kraji-hrozia-burky-a-intenzivny-lejak-vystraha-plati-az-do-piatka-vecera.webp"
-    },
-    {
-      "title": "Výstrahy pred búrkami platia aj v Prešovskom kraji",
-      "link": "https://www.presovak.sk/clanky/15059/pozor-na-burky-uz-o-par-hodin-udru-aj-v-presovskom-kraji",
-      "time": "2026-08-20T09:20:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787215123-pozor-na-burky-uz-o-par-hodin-udru-aj-v-presovskom-kraji.webp"
     }
   ]
 }

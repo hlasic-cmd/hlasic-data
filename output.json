@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-20T05:04:49.661720+00:00",
+  "generated_at": "2026-08-20T06:02:31.693394+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 3,
   "items": [
+    {
+      "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
+      "link": "https://www.bystricak.sk/clanky/12739/bystricania-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",
+      "time": "2026-08-20T05:40:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787133107-bystricania-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
+    },
+    {
+      "title": "V Gbeľanoch havaroval motocyklista, podľa svedkov je nehoda vážna",
+      "link": "https://www.zilinak.sk/clanky/42385/nestastne-rano-v-gbelanoch-havaroval-tam-motocyklista-zo-zvodidiel-vytiahli-znicenu-motorku",
+      "time": "2026-08-20T05:20:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787203072-nestastne-rano-v-gbelanoch-havaroval-tam-motocyklista-zo-zvodidiel-vytiahli-znicenu-motorku.webp"
+    },
     {
       "title": "Vo štvrtok bude veľmi teplo a dusno, môžu sa vyskytnúť aj búrky",
       "link": "https://www.teraz.sk/slovensko/pocasie-predpoved-pocasia-pre-sloven/986027-clanok.html",

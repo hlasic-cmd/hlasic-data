@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-08-20T14:09:15.732873+00:00",
+  "generated_at": "2026-08-20T15:52:53.434041+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 16,
   "items": [
+    {
+      "title": "Búrky prinášajú riziká: Počas nich sú dôležité tieto veci",
+      "link": "https://www.teraz.sk/slovensko/burky-prinasaju-rizika-pocas-nich/986376-clanok.html",
+      "time": "2026-08-20T15:33:00+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Bratislavu zasiahla intenzívna búrka",
+      "link": "https://www.aktuality.sk/clanok/BPisGyz/bratislavu-zasiahla-intenzivna-burka/",
+      "time": "2026-08-20T15:25:38+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Medzi Vrábľami a Nitrou sa zrazila motorka s osobným autom, premávku riadi polícia",
+      "link": "https://www.nitrak.sk/clanky/11617/medzi-vrablami-a-nitrou-sa-zrazila-motorka-s-osobnym-autom-premavku-riadi-policia",
+      "time": "2026-08-20T15:04:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Prešovčan Emil po oprave lavičky pomáhal s výmenou striešky na škôlke",
+      "link": "https://www.presovak.sk/clanky/15071/foto-hrdina-emil-z-presova-sa-po-oprave-lavicky-pustil-do-znicenej-striesky-skolky-po-krupobiti-zabralo-mu-to-2-hodiny",
+      "time": "2026-08-20T15:00:00+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787231154-foto-hrdina-emil-z-presova-sa-po-oprave-lavicky-pustil-do-znicenej-striesky-skolky-po-krupobiti-zabralo-mu-to-2-hodiny.webp"
+    },
+    {
+      "title": "Napnutý luk na radare neveští nič dobré. Najhorší scenár hrozí západu, na Bratislavu udrela silná búrka",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2027465-pocasie-slovensko-burky-vietor-vystrahy-shmu-supercela?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-20T14:44:34+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/20/2520715/4x3-medium/burka-blesk.jpg?v=8bg"
+    },
+    {
+      "title": "Búrky dorazili na Záhorie. Skalici hrozia krúpy aj silný vietor",
+      "link": "https://www.trnavak.sk/clanky/11888/burky-uz-dorazili-na-zahorie-skalicu-aj-malacky-caka-lejak-krupy-aj-narazy-vetra-s-rychlostou-do-85-kmh",
+      "time": "2026-08-20T14:12:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787235104-burky-uz-dorazili-na-zahorie-skalicu-aj-malacky-caka-lejak-krupy-aj-narazy-vetra-s-rychlostou-do-85-kmh.webp"
+    },
+    {
+      "title": "Búrky dorazili na Záhorie. Skalici hrozia krúpy aj silný vietor",
+      "link": "https://www.bratislavak.sk/clanky/15055/burky-uz-dorazili-na-zahorie-skalicu-aj-malacky-caka-lejak-krupy-aj-narazy-vetra-s-rychlostou-do-85-kmh",
+      "time": "2026-08-20T14:11:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787235104-burky-uz-dorazili-na-zahorie-skalicu-aj-malacky-caka-lejak-krupy-aj-narazy-vetra-s-rychlostou-do-85-kmh.webp"
+    },
     {
       "title": "Na D1 smerom na Trnavu sa zrazila dodávka s dvomi autami, na R1 je nebezpečná prekážka",
       "link": "https://www.trnavak.sk/clanky/11887/na-d1-smerom-na-trnavu-sa-stala-hromadna-nehoda-pozor-aj-na-nebezpecnu-prekazku-na-r1",
@@ -58,22 +121,13 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787220997-chlapcek-zostal-v-skolke-v-bezvedomi-mama-stanka-dakuje-breznianskym-zachranarom-za-rychlu-pomoc-a-velku-oporu.webp"
     },
     {
-      "title": "Večer zasiahnu Trnavský kraj silné búrky, hrozí aj bow echo",
-      "link": "https://www.trnavak.sk/clanky/11881/uz-o-par-hodin-to-pride-hlavna-vlna-burok-zasiahne-aj-trnavsky-kraj-meteorologovia-varuju-pred-nebezpecnymi-javmi",
-      "time": "2026-08-20T10:40:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787219310-uz-o-par-hodin-to-pride-hlavna-vlna-burok-zasiahne-aj-trnavsky-kraj-meteorologovia-varuju-pred-nebezpecnymi-javmi.webp"
-    },
-    {
-      "title": "Vážna nehoda pri Dunajskej Strede uzavrela cestu, vodiči musia využiť obchádzku",
-      "link": "https://www.trnavak.sk/clanky/11882/nedaleko-dunajskej-stredy-sa-stala-vazna-dopravna-nehoda-cesta-je-neprejazdna-vodici-musia-vyuzit-obchadzku",
+      "title": "Pri Dunajskej Strede sa auto v protismere zrazilo s kamiónom, žena zomrela",
+      "link": "https://www.trnavak.sk/clanky/11882/foto-tragicka-dopravna-nehoda-nedaleko-dunajskej-stredy-auto-sa-v-protismere-zrazilo-s-kamionom-zomrela-starsia-zena",
       "time": "2026-08-20T09:57:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787219902-nedaleko-dunajskej-stredy-sa-stala-vazna-dopravna-nehoda-cesta-je-neprejazdna-vodici-musia-vyuzit-obchadzku.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787237304-foto-tragicka-dopravna-nehoda-nedaleko-dunajskej-stredy-auto-sa-v-protismere-zrazilo-s-kamionom-zomrela-starsia-zena.webp"
     },
     {
       "title": "Pozor na búrky: Výstraha platí pre celý Trenčiansky kraj",
@@ -85,15 +139,6 @@
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787210947-pozor-v-trencianskom-kraji-hrozia-burky-a-intenzivny-lejak-vystraha-plati-az-do-piatka-vecera.webp"
     },
     {
-      "title": "Bratislavský kraj čaká 34 °C a večerné búrky, potom ochladenie",
-      "link": "https://www.bratislavak.sk/clanky/15041/bratislavsky-kraj-caka-horuci-stvrtok-potom-pride-vyrazna-zmena-burky-mozu-priniest-silny-vietor",
-      "time": "2026-08-20T09:20:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787212764-bratislavsky-kraj-caka-horuci-stvrtok-potom-pride-vyrazna-zmena-burky-mozu-priniest-silny-vietor.webp"
-    },
-    {
       "title": "Výstrahy pred búrkami platia aj v Prešovskom kraji",
       "link": "https://www.presovak.sk/clanky/15059/pozor-na-burky-uz-o-par-hodin-udru-aj-v-presovskom-kraji",
       "time": "2026-08-20T09:20:00+00:00",
@@ -101,24 +146,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787215123-pozor-na-burky-uz-o-par-hodin-udru-aj-v-presovskom-kraji.webp"
-    },
-    {
-      "title": "VIDEO: Chladnička na kolobežke? Odvážneho prepravcu hľadá polícia",
-      "link": "https://www.bratislavak.sk/clanky/15039/video-odvazny-prepravca-si-bratislavou-stahoval-chladnicku-na-kolobezke-po-niekolkych-dnoch-ho-hlada-aj-policia",
-      "time": "2026-08-20T08:30:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787212265-video-odvazny-prepravca-si-bratislavou-stahoval-chladnicku-na-kolobezke-po-niekolkych-dnoch-ho-hlada-aj-policia.webp"
-    },
-    {
-      "title": "Nezvestná je 14-ročná Viktória z Bratislavy. Nevideli ste ju?",
-      "link": "https://www.bratislavak.sk/clanky/15040/foto-v-bratislave-patraju-po-iba-14-rocnej-viktorii-ma-sive-oblecenie-a-cerveno-biele-tenisky",
-      "time": "2026-08-20T07:42:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787212031-foto-v-bratislave-patraju-po-iba-14rocnej-viktorii-ma-sive-oblecenie-a-cervenobiele-tenisky.webp"
     }
   ]
 }

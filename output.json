@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-20T17:05:42.157257+00:00",
+  "generated_at": "2026-08-20T18:01:51.715421+00:00",
   "max_age_hours": 12,
   "count": 17,
   "items": [
+    {
+      "title": "SLEDUJEME: Búrky spôsobujú viaceré škody a komplikujú dopravu",
+      "link": "https://www.teraz.sk/regiony/sledujeme-burka-v-bratislave-sposobil/986387-clanok.html",
+      "time": "2026-08-20T17:56:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Silná búrka môže obmedziť dopravu v troch okresoch Trnavského kraja",
+      "link": "https://www.trnavak.sk/clanky/11889/na-cestach-v-trnavskom-kraji-mozu-pre-silnu-burku-vzniknut-obmedzenia-v-tychto-okresov-shmu-varuje-pred-povodnami",
+      "time": "2026-08-20T17:29:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787246999-na-cestach-v-trnavskom-kraji-mozu-pre-silnu-burku-vzniknut-obmedzenia-v-tychto-okresov-shmu-varuje-pred-povodnami.webp"
+    },
     {
       "title": "Silná búrka zasiahla Bratislavu. V Petržalke hlásia popadané stromy aj poškodené autá",
       "link": "https://www.aktuality.sk/clanok/ioQM8TS/silna-burka-zasiahla-bratislavu-v-petrzalke-hlasia-popadane-stromy-aj-poskodene-auta/",
@@ -13,13 +31,13 @@
       "image": null
     },
     {
-      "title": "SLEDUJEME: Búrky spôsobili viaceré škody a komplikujú dopravu",
-      "link": "https://www.teraz.sk/regiony/sledujeme-burka-v-bratislave-sposobil/986387-clanok.html",
-      "time": "2026-08-20T16:53:00+00:00",
+      "title": "Búrky môžu obmedziť dopravu v Trenčianskom kraji, polícia radí zastaviť",
+      "link": "https://www.trencinak.sk/clanky/13486/na-cestach-v-trencianskom-kraji-sa-mozu-vyskytnut-pre-burky-dopravne-obmedzenia-pri-tomto-scenari-radsej-zastavte",
+      "time": "2026-08-20T17:03:00+00:00",
       "cat": "burka",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787245445-na-cestach-v-trencianskom-kraji-sa-mozu-vyskytnut-pre-burky-dopravne-obmedzenia-pri-tomto-scenari-radsej-zastavte.webp"
     },
     {
       "title": "Búrka komplikuje dopravu v Bratislave a okrese Senec, cesty blokujú stromy",
@@ -73,7 +91,7 @@
       "cat": "burka",
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/20/2520715/4x3-medium/burka-blesk.jpg?v=8bg"
+      "image": "https://prvd.sk/cdn/2026/08/20/2520799/4x3-medium/pocasie-bratislava.jpg?v=6Xw"
     },
     {
       "title": "Búrky dorazili na Záhorie. Skalici hrozia krúpy aj silný vietor",
@@ -92,15 +110,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787235104-burky-uz-dorazili-na-zahorie-skalicu-aj-malacky-caka-lejak-krupy-aj-narazy-vetra-s-rychlostou-do-85-kmh.webp"
-    },
-    {
-      "title": "Na D1 smerom na Trnavu sa zrazila dodávka s dvomi autami, na R1 je nebezpečná prekážka",
-      "link": "https://www.trnavak.sk/clanky/11887/na-d1-smerom-na-trnavu-sa-stala-hromadna-nehoda-pozor-aj-na-nebezpecnu-prekazku-na-r1",
-      "time": "2026-08-20T13:46:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     },
     {
       "title": "Nehoda na Rajeckej v Žiline: Zrazilo sa nákladné a osobné auto, blokovaný je pruh",
@@ -137,15 +146,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787225305-po-horucavach-nastane-v-nitrianskom-kraji-nebezpecny-zvrat-udru-burky-s-vetrom-nad-100-kmh-hrozi-aj-bow-echo.webp"
-    },
-    {
-      "title": "Záchranári zasahovali pri chlapčekovi v bezvedomí, nasledoval vrtuľník do Bystrice",
-      "link": "https://www.bystricak.sk/clanky/12767/chlapcek-zostal-v-skolke-v-bezvedomi-mama-stanka-dakuje-breznianskym-zachranarom-za-rychlu-pomoc-a-velku-oporu",
-      "time": "2026-08-20T12:00:00+00:00",
-      "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787220997-chlapcek-zostal-v-skolke-v-bezvedomi-mama-stanka-dakuje-breznianskym-zachranarom-za-rychlu-pomoc-a-velku-oporu.webp"
     },
     {
       "title": "Pri Dunajskej Strede sa auto v protismere zrazilo s kamiónom, žena zomrela",

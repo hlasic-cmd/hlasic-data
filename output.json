@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T20:53:10.939461+00:00",
+  "generated_at": "2026-08-21T21:51:46.665815+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 4,
   "items": [
     {
       "title": "FOTO: Na Kalvárii v Trnave horí porast, zasahujú hasiči",
@@ -38,24 +38,6 @@
       "region": null,
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "VIDEO: Vážna nehoda motorkárov na R1 pri Voznici",
-      "link": "https://www.bystricak.sk/clanky/12785/video-na-r1-pri-zarnovici-havarovali-traja-motorkari-jeden-skoncil-po-nehode-v-nemocnici-prevazal-ho-vrtulnik",
-      "time": "2026-08-21T09:29:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787316858-video-na-r1-pri-zarnovici-havarovali-traja-motorkari-jeden-skoncil-po-nehode-v-nemocnici-prevazal-ho-vrtulnik.webp"
-    },
-    {
-      "title": "Búrka v Nitrianskom kraji lámala stromy, zastavila vlaky, tisíce bez prúdu",
-      "link": "https://www.nitrak.sk/clanky/11628/video-niciva-burka-v-nitrianskom-kraji-stromy-padali-na-cesty-vlaky-stali-a-tisice-ludi-ostali-bez-prudu",
-      "time": "2026-08-21T09:01:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787303136-video-niciva-burka-v-nitrianskom-kraji-stromy-padali-na-cesty-vlaky-stali-a-tisice-ludi-ostali-bez-prudu.webp"
     }
   ]
 }

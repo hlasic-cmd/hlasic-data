@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T03:30:41.618142+00:00",
+  "generated_at": "2026-08-21T05:08:31.667734+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 3,
   "items": [
     {
       "title": "SLEDUJEME: Búrky komplikujú dopravu, spôsobili viaceré škody",
       "link": "https://www.teraz.sk/regiony/sledujeme-burka-v-bratislave-sposobil/986387-clanok.html",
-      "time": "2026-08-20T19:59:00+00:00",
+      "time": "2026-08-21T04:12:00+00:00",
       "cat": "burka",
       "region": "bratislavsky",
       "src": "teraz.sk",
@@ -29,42 +29,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787246999-na-cestach-v-trnavskom-kraji-mozu-pre-silnu-burku-vzniknut-obmedzenia-v-tychto-okresov-shmu-varuje-pred-povodnami.webp"
-    },
-    {
-      "title": "Silná búrka zasiahla Bratislavu. V Petržalke hlásia popadané stromy aj poškodené autá",
-      "link": "https://www.aktuality.sk/clanok/ioQM8TS/silna-burka-zasiahla-bratislavu-v-petrzalke-hlasia-popadane-stromy-aj-poskodene-auta/",
-      "time": "2026-08-20T17:04:21+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Búrky môžu obmedziť dopravu v Trenčianskom kraji, polícia radí zastaviť",
-      "link": "https://www.trencinak.sk/clanky/13486/na-cestach-v-trencianskom-kraji-sa-mozu-vyskytnut-pre-burky-dopravne-obmedzenia-pri-tomto-scenari-radsej-zastavte",
-      "time": "2026-08-20T17:03:00+00:00",
-      "cat": "burka",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787245445-na-cestach-v-trencianskom-kraji-sa-mozu-vyskytnut-pre-burky-dopravne-obmedzenia-pri-tomto-scenari-radsej-zastavte.webp"
-    },
-    {
-      "title": "Búrka komplikuje dopravu v Bratislave a okrese Senec, cesty blokujú stromy",
-      "link": "https://www.bratislavak.sk/clanky/15056/video-burka-komplikuje-dopravu-v-bratislave-aj-v-seneckom-okrese-niektore-useky-su-zatopene-popadali-stromy",
-      "time": "2026-08-20T16:28:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787244441-video-burka-komplikuje-dopravu-v-bratislave-aj-v-seneckom-okrese-niektore-useky-su-zatopene-popadali-stromy.webp"
-    },
-    {
-      "title": "Búrky prinášajú riziká: Počas nich sú dôležité tieto veci",
-      "link": "https://www.teraz.sk/slovensko/burky-prinasaju-rizika-pocas-nich/986376-clanok.html",
-      "time": "2026-08-20T15:33:00+00:00",
-      "cat": "burka",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-21T14:06:05.978300+00:00",
+  "generated_at": "2026-08-21T15:52:40.150826+00:00",
   "max_age_hours": 12,
-  "count": 20,
+  "count": 10,
   "items": [
+    {
+      "title": "Nehoda pred Podzámčokom skomplikovala dopravu. Auto skončilo v jarku na streche",
+      "link": "https://www.bystricak.sk/clanky/12789/nedaleko-zvolena-skoncilo-auto-prevratene-na-streche-vodici-sa-zdrzia-v-oboch-smeroch",
+      "time": "2026-08-21T14:22:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Blesk udrel do bytovky vo Zvolene. Strecha začala horieť, ľudia museli v noci von",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2028009-zvolen-bytovka-blesk-pocasie-poziar-hasici-strecha?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-21T14:08:02+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/21/2521245/4x3-medium/783256094-122184706574730895-8345215511231490271-n.jpg?v=s2A"
+    },
     {
       "title": "Východniari môžu dostať až 2 500 eur po ničivej júlovej búrke. Takto o ne požiadate",
       "link": "https://www.kosicak.sk/clanky/13790/julova-burka-poskodila-vychodniarom-domy-teraz-mozu-dostat-peniaze-na-opravy-pozrite-si-kto-ma-narok",
@@ -58,108 +76,9 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     },
     {
-      "title": "Nehoda odštartovala riešenie výrubov. Dopravu na I/11 budú cez víkend zastavovať",
-      "link": "https://www.zilinak.sk/clanky/42416/hlavny-tah-cez-kysuce-cakaju-dva-dni-kratkodobych-uzaver-starostka-iniciovala-vyruby-stromov-po-nehode",
-      "time": "2026-08-21T12:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787308873-hlavny-tah-cez-kysuce-cakaju-dva-dni-kratkodobych-uzaver-starostka-iniciovala-vyruby-stromov-po-nehode.webp"
-    },
-    {
-      "title": "V Košickom kraji platia výstrahy pred búrkami aj horúčavami",
-      "link": "https://www.kosicak.sk/clanky/13797/piatok-je-na-vychode-znova-horuci-kvapky-potu-moze-neskor-nahradit-dazd-cast-kosickeho-kraja-zasiahnu-aj-burky",
-      "time": "2026-08-21T11:00:00+00:00",
-      "cat": "burka",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787308526-piatok-je-na-vychode-znova-horuci-kvapky-potu-moze-neskor-nahradit-dazd-cast-kosickeho-kraja-zasiahnu-aj-burky.webp"
-    },
-    {
       "title": "Dopravná nehoda sa stala v piatok napoludnie neďaleko Nových Zámkov",
       "link": "https://www.nitrak.sk/clanky/11631/pozor-na-cestach-nedaleko-novych-zamkov-doslo-k-nehode",
       "time": "2026-08-21T10:54:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Po štvrtkovej búrke prídu ďalšie: Na západe Slovenska hrozí opäť silný dážď a vietor",
-      "link": "https://www.trnavak.sk/clanky/11899/stvrtkova-burka-napachala-velke-skody-dnes-pridu-dalsie-pozrite-co-caka-trnavsky-kraj",
-      "time": "2026-08-21T10:50:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787308587-stvrtkova-burka-napachala-velke-skody-dnes-pridu-dalsie-pozrite-co-caka-trnavsky-kraj.webp"
-    },
-    {
-      "title": "Po štvrtkovej smršti hrozia Bratislave a okoliu v piatok ďalšie búrky",
-      "link": "https://www.bratislavak.sk/clanky/15068/po-nicivej-burke-hrozia-bratislave-a-okoliu-burky-aj-v-piatok-shmu-uz-vydal-vystrahu",
-      "time": "2026-08-21T10:40:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787308865-po-nicivej-burke-hrozia-bratislave-a-okoliu-burky-aj-v-piatok-shmu-uz-vydal-vystrahu.webp"
-    },
-    {
-      "title": "VIDEO: Vážna nehoda motorkárov na R1 pri Voznici",
-      "link": "https://www.bystricak.sk/clanky/12785/video-na-r1-pri-zarnovici-havarovali-traja-motorkari-jeden-skoncil-po-nehode-v-nemocnici-prevazal-ho-vrtulnik",
-      "time": "2026-08-21T09:29:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787316858-video-na-r1-pri-zarnovici-havarovali-traja-motorkari-jeden-skoncil-po-nehode-v-nemocnici-prevazal-ho-vrtulnik.webp"
-    },
-    {
-      "title": "Silná búrka zasiahla Bratislavu a okolie, hasiči odstraňovali škody",
-      "link": "https://www.bratislavak.sk/clanky/15060/foto-supercela-sa-prehnala-aj-satelitmi-pri-bratislave-najhorsie-obisiel-miloslavov-ci-rovinka-lietali-aj-trampoliny",
-      "time": "2026-08-21T09:03:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787303120-foto-supercela-sa-prehnala-aj-satelitmi-pri-bratislave-najhorsie-obisiel-miloslavov-ci-rovinka-lietali-aj-trampoliny.webp"
-    },
-    {
-      "title": "Búrky udreli aj do elektrickej siete, bez prúdu zostali celé obce. Elektrikári poruchy odstraňujú",
-      "link": "https://www.bystricak.sk/clanky/12784/po-burkach-zostali-tisice-ludi-bez-elektriny-najhorsia-situacia-je-na-juhu-banskobystrickeho-kraja",
-      "time": "2026-08-21T09:02:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787303259-po-burkach-zostali-tisice-ludi-bez-elektriny-najhorsia-situacia-je-na-juhu-banskobystrickeho-kraja.webp"
-    },
-    {
-      "title": "Búrka v Nitrianskom kraji lámala stromy, zastavila vlaky, tisíce bez prúdu",
-      "link": "https://www.nitrak.sk/clanky/11628/video-niciva-burka-v-nitrianskom-kraji-stromy-padali-na-cesty-vlaky-stali-a-tisice-ludi-ostali-bez-prudu",
-      "time": "2026-08-21T09:01:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787303136-video-niciva-burka-v-nitrianskom-kraji-stromy-padali-na-cesty-vlaky-stali-a-tisice-ludi-ostali-bez-prudu.webp"
-    },
-    {
-      "title": "V Sečovciach horí nelegálna skládka už niekoľko hodín, zásah stále neskončil",
-      "link": "https://www.kosicak.sk/clanky/13800/foto-nelegalna-skladka-secovciach-hori-uz-niekolko-hodin-hasici-bojovali-s-poziarom-celu-noc-zasah-pokracuje",
-      "time": "2026-08-21T09:00:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787301853-foto-nelegalna-skladka-secovciach-hori-uz-niekolko-hodin-hasici-bojovali-s-poziarom-celu-noc-zasah-pokracuje.webp"
-    },
-    {
-      "title": "Búrky nekončia. SHMÚ vydal výstrahy aj na piatok, platia pre celý Bystrický kraj",
-      "link": "https://www.bystricak.sk/clanky/12780/burky-mozu-banskobystricky-kraj-potrapit-aj-v-piatok-shmu-vydal-vystrahy-na-juhu-zostane-horuco",
-      "time": "2026-08-21T08:37:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787298840-burky-mozu-banskobystricky-kraj-potrapit-aj-v-piatok-shmu-vydal-vystrahy-na-juhu-zostane-horuco.webp"
-    },
-    {
-      "title": "Hromadná nehoda v Nitre uzavrela smer do centra, zrazili sa tri autá",
-      "link": "https://www.nitrak.sk/clanky/11625/dopravu-v-nitre-skomplikovala-hromadna-nehoda-premavka-je-obmedzena",
-      "time": "2026-08-21T08:17:00+00:00",
       "cat": "nehoda",
       "region": "nitriansky",
       "src": "nitrak.sk",
@@ -173,15 +92,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/20/2520801/4x3-medium/bratislava-burka-20-8-2026.jpg?v=C7g"
-    },
-    {
-      "title": "Búrka vo Vrábľoch poškodila Kuliho raj, život psov ohrozujú zničené výbehy",
-      "link": "https://www.nitrak.sk/clanky/11623/silna-burka-vo-vrabloch-znicila-aj-areal-kuliho-raja-psiky-su-v-ohrozeni-utulok-prosi-o-pomoc",
-      "time": "2026-08-21T07:30:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787297440-silna-burka-vo-vrabloch-znicila-aj-areal-kuliho-raja-psiky-su-v-ohrozeni-utulok-prosi-o-pomoc.webp"
     }
   ]
 }

@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-21T09:56:24.700586+00:00",
+  "generated_at": "2026-08-21T11:01:43.713638+00:00",
   "max_age_hours": 12,
-  "count": 17,
+  "count": 20,
   "items": [
+    {
+      "title": "Po štvrtkovej smršti hrozia Bratislave a okoliu v piatok ďalšie búrky",
+      "link": "https://www.bratislavak.sk/clanky/15068/po-nicivej-burke-hrozia-bratislave-a-okoliu-burky-aj-v-piatok-shmu-uz-vydal-vystrahu",
+      "time": "2026-08-21T10:40:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787308865-po-nicivej-burke-hrozia-bratislave-a-okoliu-burky-aj-v-piatok-shmu-uz-vydal-vystrahu.webp"
+    },
     {
       "title": "Silné búrky potrápili Slovensko, hasiči mali najviac zásahov na západe krajiny a v Bratislave sa činila aj mestská polícia – VIDEO",
       "link": "https://sita.sk/silne-burky-potrapili-slovensko-hasici-mali-najviac-zasahov-na-zapade-krajiny-a-v-bratislave-sa-cinila-aj-mestska-policia-video/",
@@ -13,12 +22,30 @@
       "image": "https://cdn.sita.sk/sites/32/2026/08/img_20260820_180446_412-688x387.jpg"
     },
     {
+      "title": "Priamu škodu po požiari vo Zvolene predbežne stanovili na 100.000 eur",
+      "link": "https://www.teraz.sk/regiony/poziar-strechy-bytoveho-domu-vo-zvolen/986441-clanok.html",
+      "time": "2026-08-21T10:13:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
       "title": "SLEDUJEME: Po búrke hlásia poškodené strechy či popadané stromy",
       "link": "https://www.teraz.sk/slovensko/sledujeme/986431-clanok.html",
-      "time": "2026-08-21T09:43:00+00:00",
+      "time": "2026-08-21T10:08:00+00:00",
       "cat": "burka",
       "region": null,
       "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Silná veterná smršť napáchala v Bratislave rozsiahle škody, štát ponúka finančnú pomoc (+foto)",
+      "link": "https://www.aktuality.sk/clanok/qxGv9s5/silna-veterna-smrst-napachala-v-bratislave-rozsiahle-skody-stat-ponuka-financnu-pomoc-foto/",
+      "time": "2026-08-21T10:00:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
       "image": null
     },
     {

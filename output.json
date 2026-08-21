@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T23:54:13.068856+00:00",
+  "generated_at": "2026-08-21T03:30:41.618142+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 7,
   "items": [
     {
       "title": "SLEDUJEME: Búrky komplikujú dopravu, spôsobili viaceré škody",
@@ -65,42 +65,6 @@
       "region": null,
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Prešovčan Emil po oprave lavičky pomáhal s výmenou striešky na škôlke",
-      "link": "https://www.presovak.sk/clanky/15071/foto-hrdina-emil-z-presova-sa-po-oprave-lavicky-pustil-do-znicenej-striesky-skolky-po-krupobiti-zabralo-mu-to-2-hodiny",
-      "time": "2026-08-20T15:00:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787231154-foto-hrdina-emil-z-presova-sa-po-oprave-lavicky-pustil-do-znicenej-striesky-skolky-po-krupobiti-zabralo-mu-to-2-hodiny.webp"
-    },
-    {
-      "title": "Slovensko zasiahla silná búrková vlna, Bratislava hlásila popadané stromy aj zatopené cesty",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2027465-pocasie-slovensko-burky-vietor-vystrahy-shmu-supercela?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-20T14:44:34+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/20/2520799/4x3-medium/pocasie-bratislava.jpg?v=6Xw"
-    },
-    {
-      "title": "SHMÚ varuje Nitriansky kraj: O pár hodín udrú silné búrky, vietor nad 100 km/h aj nebezpečný bow echo",
-      "link": "https://www.nitrak.sk/clanky/11614/po-horucavach-nastane-v-nitrianskom-kraji-nebezpecny-zvrat-udru-burky-s-vetrom-nad-100-kmh-hrozi-aj-bow-echo",
-      "time": "2026-08-20T12:00:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787225305-po-horucavach-nastane-v-nitrianskom-kraji-nebezpecny-zvrat-udru-burky-s-vetrom-nad-100-kmh-hrozi-aj-bow-echo.webp"
-    },
-    {
-      "title": "Záchranári zasahovali pri chlapčekovi v bezvedomí, nasledoval vrtuľník do Bystrice",
-      "link": "https://www.bystricak.sk/clanky/12767/chlapcek-zostal-v-skolke-v-bezvedomi-mama-stanka-dakuje-breznianskym-zachranarom-za-rychlu-pomoc-a-velku-oporu",
-      "time": "2026-08-20T12:00:00+00:00",
-      "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787220997-chlapcek-zostal-v-skolke-v-bezvedomi-mama-stanka-dakuje-breznianskym-zachranarom-za-rychlu-pomoc-a-velku-oporu.webp"
     }
   ]
 }

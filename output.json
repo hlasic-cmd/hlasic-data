@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-08-21T11:01:43.713638+00:00",
+  "generated_at": "2026-08-21T11:58:01.519737+00:00",
   "max_age_hours": 12,
-  "count": 20,
+  "count": 24,
   "items": [
+    {
+      "title": "V Bratislave spadli solárne panely na terasu v blízkosti detského ihriska",
+      "link": "https://www.aktuality.sk/clanok/Dj02VBZ/v-bratislave-spadli-solarne-panely-na-terasu-v-blizkosti-detskeho-ihriska/",
+      "time": "2026-08-21T11:48:40+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "V Košickom kraji platia výstrahy pred búrkami aj horúčavami",
+      "link": "https://www.kosicak.sk/clanky/13797/piatok-je-na-vychode-znova-horuci-kvapky-potu-moze-neskor-nahradit-dazd-cast-kosickeho-kraja-zasiahnu-aj-burky",
+      "time": "2026-08-21T11:00:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787308526-piatok-je-na-vychode-znova-horuci-kvapky-potu-moze-neskor-nahradit-dazd-cast-kosickeho-kraja-zasiahnu-aj-burky.webp"
+    },
+    {
+      "title": "Dopravná nehoda sa stala v piatok napoludnie neďaleko Nových Zámkov",
+      "link": "https://www.nitrak.sk/clanky/11631/pozor-na-cestach-nedaleko-novych-zamkov-doslo-k-nehode",
+      "time": "2026-08-21T10:54:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Po štvrtkovej búrke prídu ďalšie: Na západe Slovenska hrozí opäť silný dážď a vietor",
+      "link": "https://www.trnavak.sk/clanky/11899/stvrtkova-burka-napachala-velke-skody-dnes-pridu-dalsie-pozrite-co-caka-trnavsky-kraj",
+      "time": "2026-08-21T10:50:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787308587-stvrtkova-burka-napachala-velke-skody-dnes-pridu-dalsie-pozrite-co-caka-trnavsky-kraj.webp"
+    },
     {
       "title": "Po štvrtkovej smršti hrozia Bratislave a okoliu v piatok ďalšie búrky",
       "link": "https://www.bratislavak.sk/clanky/15068/po-nicivej-burke-hrozia-bratislave-a-okoliu-burky-aj-v-piatok-shmu-uz-vydal-vystrahu",
@@ -22,15 +58,6 @@
       "image": "https://cdn.sita.sk/sites/32/2026/08/img_20260820_180446_412-688x387.jpg"
     },
     {
-      "title": "Priamu škodu po požiari vo Zvolene predbežne stanovili na 100.000 eur",
-      "link": "https://www.teraz.sk/regiony/poziar-strechy-bytoveho-domu-vo-zvolen/986441-clanok.html",
-      "time": "2026-08-21T10:13:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "SLEDUJEME: Po búrke hlásia poškodené strechy či popadané stromy",
       "link": "https://www.teraz.sk/slovensko/sledujeme/986431-clanok.html",
       "time": "2026-08-21T10:08:00+00:00",
@@ -47,6 +74,15 @@
       "region": "bratislavsky",
       "src": "aktuality.sk",
       "image": null
+    },
+    {
+      "title": "Pozor na R1 pri Žarnovici: Zrazili sa tri motorky, tvorí sa kolóna",
+      "link": "https://www.bystricak.sk/clanky/12785/na-r1-pred-zarnovicou-sa-zrazili-tri-motorky-nehoda-je-aj-v-opacnom-smere-ratajte-s-kolonami",
+      "time": "2026-08-21T09:29:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787311202-na-r1-pred-zarnovicou-sa-zrazili-tri-motorky-nehoda-je-aj-v-opacnom-smere-ratajte-s-kolonami.webp"
     },
     {
       "title": "Silná búrka zasiahla Bratislavu a okolie, hasiči odstraňovali škody",

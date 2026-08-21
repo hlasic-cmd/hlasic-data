@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:05:47.068800+00:00",
+  "generated_at": "2026-08-21T18:03:14.705959+00:00",
   "max_age_hours": 12,
   "count": 10,
   "items": [
@@ -67,24 +67,6 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787315476-v-ivanke-pri-nitre-zostala-po-burke-spust-hrozba-niciveho-pocasia-pokracuje-v-nitrianskom-kraji-aj-dnes.webp"
     },
     {
-      "title": "Električka linky 3 sa v Petržalke zrazila s autom na križovatke",
-      "link": "https://www.bratislavak.sk/clanky/15070/foto-dalsia-nehoda-elektricky-s-autom-ochromila-dopravu-v-bratislave-opat-k-nej-doslo-na-znamej-petrzalskej-krizovatke",
-      "time": "2026-08-21T12:18:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787315059-foto-dalsia-nehoda-elektricky-s-autom-ochromila-dopravu-v-bratislave-opat-k-nej-doslo-na-znamej-petrzalskej-krizovatke.webp"
-    },
-    {
-      "title": "V Dunajskej Strede došlo k havárii, blízko Galanty hasiči zrezávajú stromy",
-      "link": "https://www.trnavak.sk/clanky/11901/aktualne-z-dopravy-v-dunajskej-strede-doslo-k-havarii-nedaleko-galanty-cast-cesty-blokuju-pracujuci-hasici",
-      "time": "2026-08-21T12:01:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
       "title": "Západ sčítava škody po silných búrkach. Petržalka obišla z Bratislavy najhoršie, štát chce pomôcť",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2027681-pocasie-slovensko-nasledky-doprava-prerusenie-burka-vlaky-vyjazdy-skody-zatopenie-hasici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-21T07:44:29+00:00",
@@ -92,6 +74,24 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/20/2520801/4x3-medium/bratislava-burka-20-8-2026.jpg?v=C7g"
+    },
+    {
+      "title": "VIDEO: Zvolenom sa večer šíril dym a plamene. Po blesku začala horieť strecha bytovky",
+      "link": "https://www.bystricak.sk/clanky/12779/video-dramaticky-vecer-vo-zvolene-po-udere-bleskom-zachvatili-plamene-strechu-bytovky-doslo-aj-na-evakuaciu",
+      "time": "2026-08-21T07:33:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787297617-video-dramaticky-vecer-vo-zvolene-po-udere-bleskom-zachvatili-plamene-strechu-bytovky-doslo-aj-na-evakuaciu.webp"
+    },
+    {
+      "title": "Leteli do Bratislavy, pristáli v Budapešti. Supercelárna búrka nad hlavným mestom skomplikovala let",
+      "link": "https://www.bratislavak.sk/clanky/15062/supercela-nad-bratislavou-nedovolila-pristat-cestujucim-z-kosic-lietadlo-skoncilo-po-2-hodinach-v-budapesti",
+      "time": "2026-08-21T06:35:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787294345-supercela-nad-bratislavou-nedovolila-pristat-cestujucim-z-kosic-lietadlo-skoncilo-po-2-hodinach-v-budapesti.webp"
     }
   ]
 }

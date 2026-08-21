@@ -1,25 +1,97 @@
 {
-  "generated_at": "2026-08-21T08:06:39.641811+00:00",
+  "generated_at": "2026-08-21T09:56:24.700586+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 17,
   "items": [
     {
-      "title": "Západ sčítava škody po silných búrkach. Hasiči mali stovky výjazdov, Petržalka obišla z Bratislavy najhoršie",
+      "title": "Silné búrky potrápili Slovensko, hasiči mali najviac zásahov na západe krajiny a v Bratislave sa činila aj mestská polícia – VIDEO",
+      "link": "https://sita.sk/silne-burky-potrapili-slovensko-hasici-mali-najviac-zasahov-na-zapade-krajiny-a-v-bratislave-sa-cinila-aj-mestska-policia-video/",
+      "time": "2026-08-21T10:23:08+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/08/img_20260820_180446_412-688x387.jpg"
+    },
+    {
+      "title": "SLEDUJEME: Po búrke hlásia poškodené strechy či popadané stromy",
+      "link": "https://www.teraz.sk/slovensko/sledujeme/986431-clanok.html",
+      "time": "2026-08-21T09:43:00+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Silná búrka zasiahla Bratislavu a okolie, hasiči odstraňovali škody",
+      "link": "https://www.bratislavak.sk/clanky/15060/foto-supercela-sa-prehnala-aj-satelitmi-pri-bratislave-najhorsie-obisiel-miloslavov-ci-rovinka-lietali-aj-trampoliny",
+      "time": "2026-08-21T09:03:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787303120-foto-supercela-sa-prehnala-aj-satelitmi-pri-bratislave-najhorsie-obisiel-miloslavov-ci-rovinka-lietali-aj-trampoliny.webp"
+    },
+    {
+      "title": "Búrky udreli aj do elektrickej siete, bez prúdu zostali celé obce. Elektrikári poruchy odstraňujú",
+      "link": "https://www.bystricak.sk/clanky/12784/po-burkach-zostali-tisice-ludi-bez-elektriny-najhorsia-situacia-je-na-juhu-banskobystrickeho-kraja",
+      "time": "2026-08-21T09:02:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787303259-po-burkach-zostali-tisice-ludi-bez-elektriny-najhorsia-situacia-je-na-juhu-banskobystrickeho-kraja.webp"
+    },
+    {
+      "title": "Búrka v Nitrianskom kraji lámala stromy, zastavila vlaky, tisíce bez prúdu",
+      "link": "https://www.nitrak.sk/clanky/11628/video-niciva-burka-v-nitrianskom-kraji-stromy-padali-na-cesty-vlaky-stali-a-tisice-ludi-ostali-bez-prudu",
+      "time": "2026-08-21T09:01:00+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787303136-video-niciva-burka-v-nitrianskom-kraji-stromy-padali-na-cesty-vlaky-stali-a-tisice-ludi-ostali-bez-prudu.webp"
+    },
+    {
+      "title": "V Sečovciach horí nelegálna skládka už niekoľko hodín, zásah stále neskončil",
+      "link": "https://www.kosicak.sk/clanky/13800/foto-nelegalna-skladka-secovciach-hori-uz-niekolko-hodin-hasici-bojovali-s-poziarom-celu-noc-zasah-pokracuje",
+      "time": "2026-08-21T09:00:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787301853-foto-nelegalna-skladka-secovciach-hori-uz-niekolko-hodin-hasici-bojovali-s-poziarom-celu-noc-zasah-pokracuje.webp"
+    },
+    {
+      "title": "Búrky nekončia. SHMÚ vydal výstrahy aj na piatok, platia pre celý Bystrický kraj",
+      "link": "https://www.bystricak.sk/clanky/12780/burky-mozu-banskobystricky-kraj-potrapit-aj-v-piatok-shmu-vydal-vystrahy-na-juhu-zostane-horuco",
+      "time": "2026-08-21T08:37:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787298840-burky-mozu-banskobystricky-kraj-potrapit-aj-v-piatok-shmu-vydal-vystrahy-na-juhu-zostane-horuco.webp"
+    },
+    {
+      "title": "Hromadná nehoda v Nitre uzavrela smer do centra, zrazili sa tri autá",
+      "link": "https://www.nitrak.sk/clanky/11625/dopravu-v-nitre-skomplikovala-hromadna-nehoda-premavka-je-obmedzena",
+      "time": "2026-08-21T08:17:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Požiar auta v okrese Námestovo: Z vozidla zostala takmer len kostra, škoda je 12-tisíc eur",
+      "link": "https://www.zilinak.sk/clanky/42408/foto-auto-v-okrese-namestovo-zachvatil-poziar-z-vozidla-zostala-len-kostra",
+      "time": "2026-08-21T08:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787299746-foto-auto-v-okrese-namestovo-zachvatil-poziar-z-vozidla-zostala-len-kostra.webp"
+    },
+    {
+      "title": "Západ sčítava škody po silných búrkach. Petržalka obišla z Bratislavy najhoršie, štát chce pomôcť",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2027681-pocasie-slovensko-nasledky-doprava-prerusenie-burka-vlaky-vyjazdy-skody-zatopenie-hasici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-21T07:44:29+00:00",
       "cat": "burka",
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/20/2520801/4x3-medium/bratislava-burka-20-8-2026.jpg?v=C7g"
-    },
-    {
-      "title": "SLEDUJEME: Po búrke hlásia poškodené strechy či popadané stromy",
-      "link": "https://www.teraz.sk/slovensko/sledujeme/986431-clanok.html",
-      "time": "2026-08-21T07:39:00+00:00",
-      "cat": "burka",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
     },
     {
       "title": "Silná búrka zasiahla Trnavský kraj: Obce zostali bez elektriny a vody, hasiči odstraňovali popadané stromy",
@@ -83,24 +155,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787293114-dopravna-situacia-v-bratislave-v-piatok-nefunguju-semafory-hlasene-su-aj-nehody-a-uzavrete-priecestie.webp"
-    },
-    {
-      "title": "Požiar strechy bytového domu vo Zvolene uhasili",
-      "link": "https://www.teraz.sk/regiony/poziar-strechy-bytoveho-domu-vo-zvolen/986441-clanok.html",
-      "time": "2026-08-21T06:14:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "SLEDUJEME: Búrky komplikujú dopravu, spôsobili viaceré škody",
-      "link": "https://www.teraz.sk/regiony/sledujeme-burka-v-bratislave-sposobil/986387-clanok.html",
-      "time": "2026-08-21T04:12:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

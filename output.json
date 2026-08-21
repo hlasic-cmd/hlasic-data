@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T05:08:31.667734+00:00",
+  "generated_at": "2026-08-21T06:05:39.557686+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "title": "SLEDUJEME: Búrky komplikujú dopravu, spôsobili viaceré škody",
@@ -20,15 +20,6 @@
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Silná búrka môže obmedziť dopravu v troch okresoch Trnavského kraja",
-      "link": "https://www.trnavak.sk/clanky/11889/na-cestach-v-trnavskom-kraji-mozu-pre-silnu-burku-vzniknut-obmedzenia-v-tychto-okresov-shmu-varuje-pred-povodnami",
-      "time": "2026-08-20T17:29:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787246999-na-cestach-v-trnavskom-kraji-mozu-pre-silnu-burku-vzniknut-obmedzenia-v-tychto-okresov-shmu-varuje-pred-povodnami.webp"
     }
   ]
 }

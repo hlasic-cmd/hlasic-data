@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-21T15:52:40.150826+00:00",
+  "generated_at": "2026-08-21T17:05:47.068800+00:00",
   "max_age_hours": 12,
   "count": 10,
   "items": [
+    {
+      "title": "FOTO: Na Kalvárii v Trnave horí porast, zasahujú hasiči",
+      "link": "https://www.trnavak.sk/clanky/11907/foto-na-trnavskej-kalvarii-hori-suchy-porast-plamene-sa-siria-popri-ceste-zasahuju-hasici",
+      "time": "2026-08-21T15:52:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787327627-foto-na-trnavskej-kalvarii-hori-suchy-porast-plamene-sa-siria-popri-ceste-zasahuju-hasici.webp"
+    },
     {
       "title": "Nehoda pred Podzámčokom skomplikovala dopravu. Auto skončilo v jarku na streche",
       "link": "https://www.bystricak.sk/clanky/12789/nedaleko-zvolena-skoncilo-auto-prevratene-na-streche-vodici-sa-zdrzia-v-oboch-smeroch",
@@ -74,15 +83,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Dopravná nehoda sa stala v piatok napoludnie neďaleko Nových Zámkov",
-      "link": "https://www.nitrak.sk/clanky/11631/pozor-na-cestach-nedaleko-novych-zamkov-doslo-k-nehode",
-      "time": "2026-08-21T10:54:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
     },
     {
       "title": "Západ sčítava škody po silných búrkach. Petržalka obišla z Bratislavy najhoršie, štát chce pomôcť",

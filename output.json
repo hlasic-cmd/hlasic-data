@@ -1,22 +1,103 @@
 {
-  "generated_at": "2026-08-21T06:05:39.557686+00:00",
+  "generated_at": "2026-08-21T08:06:39.641811+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 11,
   "items": [
+    {
+      "title": "Západ sčítava škody po silných búrkach. Hasiči mali stovky výjazdov, Petržalka obišla z Bratislavy najhoršie",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2027681-pocasie-slovensko-nasledky-doprava-prerusenie-burka-vlaky-vyjazdy-skody-zatopenie-hasici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-21T07:44:29+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/20/2520801/4x3-medium/bratislava-burka-20-8-2026.jpg?v=C7g"
+    },
+    {
+      "title": "SLEDUJEME: Po búrke hlásia poškodené strechy či popadané stromy",
+      "link": "https://www.teraz.sk/slovensko/sledujeme/986431-clanok.html",
+      "time": "2026-08-21T07:39:00+00:00",
+      "cat": "burka",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Silná búrka zasiahla Trnavský kraj: Obce zostali bez elektriny a vody, hasiči odstraňovali popadané stromy",
+      "link": "https://www.trnavak.sk/clanky/11892/video-trnavskym-krajom-sa-prehnala-silna-burka-napachala-znacne-skody-jedna-z-obci-vyhlasila-mimoriadnu-situaciu",
+      "time": "2026-08-21T07:38:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787297958-video-trnavskym-krajom-sa-prehnala-silna-burka-napachala-znacne-skody-jedna-z-obci-vyhlasila-mimoriadnu-situaciu.webp"
+    },
+    {
+      "title": "VIDEO: Zvolenom sa večer šíril dym a plamene. Po blesku začala horieť strecha bytovky",
+      "link": "https://www.bystricak.sk/clanky/12779/video-dramaticky-vecer-vo-zvolene-po-udere-bleskom-zachvatili-plamene-strechu-bytovky-doslo-aj-na-evakuaciu",
+      "time": "2026-08-21T07:33:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787297617-video-dramaticky-vecer-vo-zvolene-po-udere-bleskom-zachvatili-plamene-strechu-bytovky-doslo-aj-na-evakuaciu.webp"
+    },
+    {
+      "title": "Búrka vo Vrábľoch poškodila Kuliho raj, život psov ohrozujú zničené výbehy",
+      "link": "https://www.nitrak.sk/clanky/11623/silna-burka-vo-vrabloch-znicila-aj-areal-kuliho-raja-psiky-su-v-ohrozeni-utulok-prosi-o-pomoc",
+      "time": "2026-08-21T07:30:00+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787297440-silna-burka-vo-vrabloch-znicila-aj-areal-kuliho-raja-psiky-su-v-ohrozeni-utulok-prosi-o-pomoc.webp"
+    },
+    {
+      "title": "Búrka v Bratislave poškodila autá, popadané stromy najviac zasiahli Petržalku",
+      "link": "https://www.bratislavak.sk/clanky/15058/video-bratislavou-sa-prehnala-apokalypsa-znicene-auta-vytrhnute-stromy-kolaps-dopravy-najhorsie-dopadla-petrzalka",
+      "time": "2026-08-21T07:01:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787295760-video-bratislavou-sa-prehnala-apokalypsa-znicene-auta-vytrhnute-stromy-kolaps-dopravy-najhorsie-dopadla-petrzalka.webp"
+    },
+    {
+      "title": "Leteli do Bratislavy, pristáli v Budapešti. Supercelárna búrka nad hlavným mestom skomplikovala let",
+      "link": "https://www.bratislavak.sk/clanky/15062/supercela-nad-bratislavou-nedovolila-pristat-cestujucim-z-kosic-lietadlo-skoncilo-po-2-hodinach-v-budapesti",
+      "time": "2026-08-21T06:35:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787294345-supercela-nad-bratislavou-nedovolila-pristat-cestujucim-z-kosic-lietadlo-skoncilo-po-2-hodinach-v-budapesti.webp"
+    },
+    {
+      "title": "Leteli do Bratislavy, pristáli v Budapešti. Supercelárna búrka nad hlavným mestom skomplikovala let",
+      "link": "https://www.kosicak.sk/clanky/13795/supercela-nad-bratislavou-nedovolila-pristat-cestujucim-z-kosic-lietadlo-skoncilo-po-2-hodinach-v-budapesti",
+      "time": "2026-08-21T06:35:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787294345-supercela-nad-bratislavou-nedovolila-pristat-cestujucim-z-kosic-lietadlo-skoncilo-po-2-hodinach-v-budapesti.webp"
+    },
+    {
+      "title": "Bratislavu v piatok brzdia nefunkčné semafory, nehody a uzavreté priecestie",
+      "link": "https://www.bratislavak.sk/clanky/15059/dopravna-situacia-v-bratislave-v-piatok-nefunguju-semafory-hlasene-su-aj-nehody-a-uzavrete-priecestie",
+      "time": "2026-08-21T06:18:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787293114-dopravna-situacia-v-bratislave-v-piatok-nefunguju-semafory-hlasene-su-aj-nehody-a-uzavrete-priecestie.webp"
+    },
+    {
+      "title": "Požiar strechy bytového domu vo Zvolene uhasili",
+      "link": "https://www.teraz.sk/regiony/poziar-strechy-bytoveho-domu-vo-zvolen/986441-clanok.html",
+      "time": "2026-08-21T06:14:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "SLEDUJEME: Búrky komplikujú dopravu, spôsobili viaceré škody",
       "link": "https://www.teraz.sk/regiony/sledujeme-burka-v-bratislave-sposobil/986387-clanok.html",
       "time": "2026-08-21T04:12:00+00:00",
       "cat": "burka",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Na D1 z Bratislavy smerom do Trnavy platia pre nehodu obmedzenia",
-      "link": "https://www.teraz.sk/regiony/na-d1-z-bratislavy-smerom-do-trnavy-plat/986406-clanok.html",
-      "time": "2026-08-20T18:44:00+00:00",
-      "cat": "nehoda",
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null

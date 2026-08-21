@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T18:03:14.705959+00:00",
+  "generated_at": "2026-08-21T19:16:35.697519+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 12,
   "items": [
     {
       "title": "FOTO: Na Kalvárii v Trnave horí porast, zasahujú hasiči",
@@ -67,6 +67,24 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787315476-v-ivanke-pri-nitre-zostala-po-burke-spust-hrozba-niciveho-pocasia-pokracuje-v-nitrianskom-kraji-aj-dnes.webp"
     },
     {
+      "title": "VIDEO: Vážna nehoda motorkárov na R1 pri Voznici",
+      "link": "https://www.bystricak.sk/clanky/12785/video-na-r1-pri-zarnovici-havarovali-traja-motorkari-jeden-skoncil-po-nehode-v-nemocnici-prevazal-ho-vrtulnik",
+      "time": "2026-08-21T09:29:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787316858-video-na-r1-pri-zarnovici-havarovali-traja-motorkari-jeden-skoncil-po-nehode-v-nemocnici-prevazal-ho-vrtulnik.webp"
+    },
+    {
+      "title": "Búrka v Nitrianskom kraji lámala stromy, zastavila vlaky, tisíce bez prúdu",
+      "link": "https://www.nitrak.sk/clanky/11628/video-niciva-burka-v-nitrianskom-kraji-stromy-padali-na-cesty-vlaky-stali-a-tisice-ludi-ostali-bez-prudu",
+      "time": "2026-08-21T09:01:00+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787303136-video-niciva-burka-v-nitrianskom-kraji-stromy-padali-na-cesty-vlaky-stali-a-tisice-ludi-ostali-bez-prudu.webp"
+    },
+    {
       "title": "Západ sčítava škody po silných búrkach. Petržalka obišla z Bratislavy najhoršie, štát chce pomôcť",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2027681-pocasie-slovensko-nasledky-doprava-prerusenie-burka-vlaky-vyjazdy-skody-zatopenie-hasici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-08-21T07:44:29+00:00",
@@ -76,6 +94,15 @@
       "image": "https://prvd.sk/cdn/2026/08/20/2520801/4x3-medium/bratislava-burka-20-8-2026.jpg?v=C7g"
     },
     {
+      "title": "Silná búrka zasiahla Trnavský kraj: Obce zostali bez elektriny a vody, hasiči odstraňovali popadané stromy",
+      "link": "https://www.trnavak.sk/clanky/11892/video-trnavskym-krajom-sa-prehnala-silna-burka-napachala-znacne-skody-jedna-z-obci-vyhlasila-mimoriadnu-situaciu",
+      "time": "2026-08-21T07:38:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787297958-video-trnavskym-krajom-sa-prehnala-silna-burka-napachala-znacne-skody-jedna-z-obci-vyhlasila-mimoriadnu-situaciu.webp"
+    },
+    {
       "title": "VIDEO: Zvolenom sa večer šíril dym a plamene. Po blesku začala horieť strecha bytovky",
       "link": "https://www.bystricak.sk/clanky/12779/video-dramaticky-vecer-vo-zvolene-po-udere-bleskom-zachvatili-plamene-strechu-bytovky-doslo-aj-na-evakuaciu",
       "time": "2026-08-21T07:33:00+00:00",
@@ -83,15 +110,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787297617-video-dramaticky-vecer-vo-zvolene-po-udere-bleskom-zachvatili-plamene-strechu-bytovky-doslo-aj-na-evakuaciu.webp"
-    },
-    {
-      "title": "Leteli do Bratislavy, pristáli v Budapešti. Supercelárna búrka nad hlavným mestom skomplikovala let",
-      "link": "https://www.bratislavak.sk/clanky/15062/supercela-nad-bratislavou-nedovolila-pristat-cestujucim-z-kosic-lietadlo-skoncilo-po-2-hodinach-v-budapesti",
-      "time": "2026-08-21T06:35:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787294345-supercela-nad-bratislavou-nedovolila-pristat-cestujucim-z-kosic-lietadlo-skoncilo-po-2-hodinach-v-budapesti.webp"
     }
   ]
 }

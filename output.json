@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-08-22T12:01:34.760700+00:00",
+  "generated_at": "2026-08-22T13:44:21.940079+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 17,
   "items": [
+    {
+      "title": "Slobodná Európa a Chiki liki tu-a. Koľaj 22 sa po ničivom požiari vracia na kultúrnu mapu",
+      "link": "https://korzar.sme.sk/spis-gemer/c/slobodna-europa-a-chiki-liki-tu-a-kolaj-22-sa-po-nicivom-poziari-vracia-na-kulturnu-mapu?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-22T13:39:31+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a029b1-6788-75e3-bd71-88a74c539800.jpg"
+    },
+    {
+      "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
+      "link": "https://www.trnavak.sk/clanky/11851/soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",
+      "time": "2026-08-22T13:30:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787056093-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
+    },
+    {
+      "title": "Koľaj 22 sa po požiari vracia, nový priestor otvoria v centre Popradu",
+      "link": "https://www.teraz.sk/regiony/kolaj-22-sa-po-poziari-vracia-novy-p/986748-clanok.html",
+      "time": "2026-08-22T13:26:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V Rovinke autobus zrazil cyklistu, zasahoval aj záchranársky vrtuľník",
+      "link": "https://www.bratislavak.sk/clanky/15076/na-hlavnom-tahu-v-rovinke-doslo-k-zrazke-autobusu-s-cyklistom-zasahoval-aj-zachranarsky-vrtulnik",
+      "time": "2026-08-22T13:22:00+00:00",
+      "cat": "zasah",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787404989-na-hlavnom-tahu-v-rovinke-doslo-k-zrazke-autobusu-s-cyklistom-zasahoval-aj-zachranarsky-vrtulnik.webp"
+    },
+    {
+      "title": "Vodiči pri Galante, zvýšte pozornosť. Na obchvate sa zrazili dve autá",
+      "link": "https://www.trnavak.sk/clanky/11909/pozor-pri-galante-na-obchvate-sa-zrazili-dve-osobne-auta-vodici-by-mali-zbystrit-v-tomto-useku",
+      "time": "2026-08-22T13:21:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Silné búrky odstavili stredné Slovensko od elektriny. Energetická kalamita zasiahla tisíce domácností",
+      "link": "https://www.aktuality.sk/clanok/dG8LCkS/silne-burky-odstavili-stredne-slovensko-od-elektriny-energeticka-kalamita-zasiahla-tisice-domacnosti/",
+      "time": "2026-08-22T12:14:35+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Polícia pátra po nezvestnom 14-ročnom Nikolasovi z Medzilaboriec",
+      "link": "https://www.presovak.sk/clanky/15090/nezvestneho-14-rocneho-nikolasa-z-medzilaboriec-hlada-policia-ma-viacfarebne-vlasy-stratil-sa-pred-par-dnami",
+      "time": "2026-08-22T12:02:00+00:00",
+      "cat": "patranie",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787400183-nezvestneho-14rocneho-nikolasa-z-medzilaboriec-hlada-policia-ma-viacfarebne-vlasy-stratil-sa-pred-par-dnami.webp"
+    },
+    {
+      "title": "Polícia pátra po dvoch nezvestných tínedžeroch z okresu Trebišov",
+      "link": "https://www.kosicak.sk/clanky/13807/policia-patra-po-nezvestnych-tinedzeroch-z-okresu-trebisov-nevideli-ste-16-rocnu-dominiku-a-17-rocneho-sebastiana",
+      "time": "2026-08-22T12:00:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787399005-policia-patra-po-nezvestnych-tinedzeroch-z-okresu-trebisov-nevideli-ste-16rocnu-dominiku-a-17rocneho-sebastiana.webp"
+    },
     {
       "title": "Popradský underground ožíva: Nová Koľaj 22 odštartuje vernisážou aj Slobodnou Európou",
       "link": "https://www.aktuality.sk/clanok/hEV0enE/popradsky-underground-oziva-nova-kolaj-22-odstartuje-vernisazou-aj-slobodnou-europou/",
@@ -23,7 +95,7 @@
     },
     {
       "title": "Po búrkach zostali na cestách spadnuté elektrické stĺpy",
-      "link": "https://www.bystricak.sk/clanky/12794/vodici-davajte-si-na-cestach-pozor-na-gemeri-su-pre-spadnute-stlpy-dva-useky-neprejazdne",
+      "link": "https://www.bystricak.sk/clanky/12794/vodici-pozor-na-cestach-na-gemeri-su-pre-spadnute-elektricke-stlpy-nadalej-neprejazdne-dva-useky",
       "time": "2026-08-22T11:14:00+00:00",
       "cat": "burka",
       "region": "banskobystricky",
@@ -51,7 +123,7 @@
     {
       "title": "Takúto noc tu ešte nezažili. Búrka udrela obrovskou silou, strechy lietali a celé obce zostali bez elektriny",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2028327-skaza-po-nocnej-burke-rumince-zostali-bez-elektriny-strechy-lietali-a-cestu-zablokoval-stoziar?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-22T09:23:11+00:00",
+      "time": "2026-08-22T09:20:00+00:00",
       "cat": "burka",
       "region": "banskobystricky",
       "src": "spravy.pravda.sk",

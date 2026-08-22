@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-08-22T09:00:18.763345+00:00",
+  "generated_at": "2026-08-22T09:54:19.059079+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 4,
   "items": [
     {
+      "title": "Uvoľnená skala zranila turistku v Slovenskom raji, evakuoval ju vrtuľník",
+      "link": "https://www.kosicak.sk/clanky/13806/video-na-turistku-v-slovenskom-raji-spadla-uvolnena-skala-na-pomoc-jej-vyrazili-horski-aj-letecki-zachranari",
+      "time": "2026-08-22T09:00:00+00:00",
+      "cat": "zasah",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787389028-video-na-turistku-v-slovenskom-raji-spadla-uvolnena-skala-na-pomoc-jej-vyrazili-horski-aj-letecki-zachranari.webp"
+    },
+    {
       "title": "VIDEO: Búrka na Gemeri narobila poriadne škody",
-      "link": "https://www.bystricak.sk/clanky/12791/video-silna-burka-sa-prehnala-gemerom-strhavala-strechy-lamala-stromy-a-poskodila-elektricke-vedenie",
+      "link": "https://www.bystricak.sk/clanky/12791/video-gemerom-sa-prehnala-silna-burka-strhavala-strechy-lamala-stromy-a-poskodila-elektricke-vedenie",
       "time": "2026-08-22T07:46:00+00:00",
       "cat": "burka",
       "region": "banskobystricky",
       "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787383958-video-silna-burka-sa-prehnala-gemerom-strhavala-strechy-lamala-stromy-a-poskodila-elektricke-vedenie.webp"
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787390015-video-gemerom-sa-prehnala-silna-burka-strhavala-strechy-lamala-stromy-a-poskodila-elektricke-vedenie.webp"
     },
     {
       "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
@@ -20,6 +29,15 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787056093-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
+    },
+    {
+      "title": "Mimoriadna situácia pri Rimavskej Sobote: Ľudia sú bez prúdu, vietor strhol strechy",
+      "link": "https://www1.pluska.sk/regiony/mimoriadna-situacia-pri-rimavskej-sobote-ludia-su-bez-prudu-vietor-strhol-strechy",
+      "time": "2026-08-22T00:00:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/cc9/cc923e9f-37be-4b15-aa21-17752cbc7f3a.webp"
     }
   ]
 }

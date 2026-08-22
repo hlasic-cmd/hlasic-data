@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T23:50:08.125963+00:00",
+  "generated_at": "2026-08-22T03:06:22.871176+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 1,
   "items": [
     {
       "title": "FOTO: Na Kalvárii v Trnave horí porast, zasahujú hasiči",
@@ -11,33 +11,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787327627-foto-na-trnavskej-kalvarii-hori-suchy-porast-plamene-sa-siria-popri-ceste-zasahuju-hasici.webp"
-    },
-    {
-      "title": "Blesk udrel do bytovky vo Zvolene. Strecha začala horieť, ľudia museli v noci von",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2028009-zvolen-bytovka-blesk-pocasie-poziar-hasici-strecha?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-21T14:08:02+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/21/2521245/4x3-medium/783256094-122184706574730895-8345215511231490271-n.jpg?v=s2A"
-    },
-    {
-      "title": "Nová Baňa zriadila účet na pomoc rodine zasiahnutej piatkovým požiarom",
-      "link": "https://www.teraz.sk/regiony/nova-bana-zriadila-ucet-na-pomoc-rod/986586-clanok.html",
-      "time": "2026-08-21T13:13:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "SLEDUJEME: Po búrke hlásia poškodené strechy či popadané stromy",
-      "link": "https://www.teraz.sk/slovensko/sledujeme/986431-clanok.html",
-      "time": "2026-08-21T12:34:00+00:00",
-      "cat": "burka",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

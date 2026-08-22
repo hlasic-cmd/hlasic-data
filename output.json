@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-22T07:45:31.945351+00:00",
+  "generated_at": "2026-08-22T09:00:18.763345+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "title": "VIDEO: Búrka na Gemeri narobila poriadne škody",
+      "link": "https://www.bystricak.sk/clanky/12791/video-silna-burka-sa-prehnala-gemerom-strhavala-strechy-lamala-stromy-a-poskodila-elektricke-vedenie",
+      "time": "2026-08-22T07:46:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787383958-video-silna-burka-sa-prehnala-gemerom-strhavala-strechy-lamala-stromy-a-poskodila-elektricke-vedenie.webp"
+    },
+    {
+      "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
+      "link": "https://www.nitrak.sk/clanky/11591/soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",
+      "time": "2026-08-22T07:15:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787056093-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
+    }
+  ]
 }

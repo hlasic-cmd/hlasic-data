@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-22T13:44:21.940079+00:00",
+  "generated_at": "2026-08-22T14:43:06.158570+00:00",
   "max_age_hours": 12,
-  "count": 17,
+  "count": 22,
   "items": [
+    {
+      "title": "V Rožňave nočná búrka vyvrátila stromy a poškodila autobusovú zastávku",
+      "link": "https://www.teraz.sk/regiony/v-roznave-nocna-burka-vyvratila-st/986753-clanok.html",
+      "time": "2026-08-22T14:20:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Búrka so silným vetrom sa prehnala Rožňavou. Vyvrátila stromy a poškodila autobusovú zastávku",
+      "link": "https://korzar.sme.sk/spis-gemer/c/burka-so-silnym-vetrom-sa-prehnala-roznavou-vyvratila-stromy-a-poskodila-autobusovu-zastavku?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-22T14:13:16+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a029cd-d44a-745a-ba6d-85b350d061ba.jpg"
+    },
+    {
+      "title": "Silná nočná búrka zdemolovala Rožňavu, vietor vyvracal stromy a zničil aj prístrešok na zastávke",
+      "link": "https://www.aktuality.sk/clanok/QLqEITB/silna-nocna-burka-zdemolovala-roznavu-vietor-vyvracal-stromy-a-znicil-aj-pristresok-na-zastavke/",
+      "time": "2026-08-22T14:10:23+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Koľaj 22 po požiari našla nový domov v Poprade, otvorí ho výstavami a koncertmi",
+      "link": "https://www.presovak.sk/clanky/15091/vyhorena-kolaj-22-nasla-v-poprade-novy-domov-nahradila-znamy-bar-brany-otvori-vernisazou-aj-koncertom-slobodnej-europy",
+      "time": "2026-08-22T14:00:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787407240-vyhorena-kolaj-22-nasla-v-poprade-novy-domov-nahradila-znamy-bar-brany-otvori-vernisazou-aj-koncertom-slobodnej-europy.webp"
+    },
+    {
+      "title": "Nočná búrka zasiahla Tornaľu naplno. Mesto vyhlásilo mimoriadnu situáciu",
+      "link": "https://www.bystricak.sk/clanky/12795/tornalu-zasiahla-supercela-mesto-vyhlasilo-mimoriadnu-situaciu-burka-prerusila-aj-dodavky-elektriny",
+      "time": "2026-08-22T13:50:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787406266-tornalu-zasiahla-supercela-mesto-vyhlasilo-mimoriadnu-situaciu-burka-prerusila-aj-dodavky-elektriny.webp"
+    },
     {
       "title": "Slobodná Európa a Chiki liki tu-a. Koľaj 22 sa po ničivom požiari vracia na kultúrnu mapu",
       "link": "https://korzar.sme.sk/spis-gemer/c/slobodna-europa-a-chiki-liki-tu-a-kolaj-22-sa-po-nicivom-poziari-vracia-na-kulturnu-mapu?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",

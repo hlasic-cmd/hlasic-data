@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T20:45:47.074148+00:00",
+  "generated_at": "2026-08-22T21:41:11.960325+00:00",
   "max_age_hours": 12,
-  "count": 16,
+  "count": 14,
   "items": [
     {
       "title": "Silná búrka a smršť bičovali Rimavskú Sobotu a okolie, vietor strhával aj strechy a vyhlásili mimoriadnu situáciu – FOTO",
@@ -47,15 +47,6 @@
       "region": "kosicky",
       "src": "aktuality.sk",
       "image": null
-    },
-    {
-      "title": "Koľaj 22 po požiari našla nový domov v Poprade, otvorí ho výstavami a koncertmi",
-      "link": "https://www.presovak.sk/clanky/15091/vyhorena-kolaj-22-nasla-v-poprade-novy-domov-nahradila-znamy-bar-brany-otvori-vernisazou-aj-koncertom-slobodnej-europy",
-      "time": "2026-08-22T14:00:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787407240-vyhorena-kolaj-22-nasla-v-poprade-novy-domov-nahradila-znamy-bar-brany-otvori-vernisazou-aj-koncertom-slobodnej-europy.webp"
     },
     {
       "title": "Nočná búrka zasiahla Tornaľu naplno. Mesto vyhlásilo mimoriadnu situáciu",
@@ -137,15 +128,6 @@
       "region": "banskobystricky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Takúto noc tu ešte nezažili. Búrka udrela obrovskou silou, strechy lietali a celé obce zostali bez elektriny",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2028327-skaza-po-nocnej-burke-rumince-zostali-bez-elektriny-strechy-lietali-a-cestu-zablokoval-stoziar?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-22T09:20:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2024/09/16/4x3-medium/stupava-zaplavy-hasici_01.jpg?v=CoI"
     }
   ]
 }

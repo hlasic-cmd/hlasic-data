@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-22T14:43:06.158570+00:00",
+  "generated_at": "2026-08-22T15:40:03.263019+00:00",
   "max_age_hours": 12,
-  "count": 22,
+  "count": 23,
   "items": [
+    {
+      "title": "Silná búrka a smršť bičovali Rimavskú Sobotu a okolie, vietor strhával aj strechy a vyhlásili mimoriadnu situáciu – FOTO",
+      "link": "https://sita.sk/silna-burka-a-smrst-bicovali-rimavsku-sobotu-a-okolie-vietor-strhaval-aj-strechy-a-vyhlasili-mimoriadnu-situaciu-foto/",
+      "time": "2026-08-22T17:33:18+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/08/silna-burka-a-veterna-smrst-v-rimavskej-sobote-a-okoli-688x387.jpg"
+    },
+    {
+      "title": "Martin z Piešťan zostal po nehode zostal na vozíku, no neustále napreduje. Potrebuje však pomoc",
+      "link": "https://www.trnavak.sk/clanky/11739/martin-z-piestan-bojuje-po-tazkej-nehode-o-samostatnost-potrebuje-specialny-vozik-bezne-sa-pod-nim-rozpadavaju",
+      "time": "2026-08-22T15:00:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787136413-martin-z-piestan-bojuje-po-tazkej-nehode-o-samostatnost-potrebuje-specialny-vozik-bezne-sa-pod-nim-rozpadavaju.webp"
+    },
     {
       "title": "V Rožňave nočná búrka vyvrátila stromy a poškodila autobusovú zastávku",
       "link": "https://www.teraz.sk/regiony/v-roznave-nocna-burka-vyvratila-st/986753-clanok.html",
@@ -182,15 +200,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787389028-video-na-turistku-v-slovenskom-raji-spadla-uvolnena-skala-na-pomoc-jej-vyrazili-horski-aj-letecki-zachranari.webp"
-    },
-    {
-      "title": "VIDEO: Búrka na Gemeri narobila poriadne škody",
-      "link": "https://www.bystricak.sk/clanky/12791/video-gemerom-sa-prehnala-silna-burka-strhavala-strechy-lamala-stromy-a-poskodila-elektricke-vedenie",
-      "time": "2026-08-22T07:46:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787390015-video-gemerom-sa-prehnala-silna-burka-strhavala-strechy-lamala-stromy-a-poskodila-elektricke-vedenie.webp"
     },
     {
       "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",

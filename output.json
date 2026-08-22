@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T11:40:52.003576+00:00",
+  "generated_at": "2026-08-22T12:01:34.760700+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "title": "Popradský underground ožíva: Nová Koľaj 22 odštartuje vernisážou aj Slobodnou Európou",
@@ -83,15 +83,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787056093-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
-    },
-    {
-      "title": "Mimoriadna situácia pri Rimavskej Sobote: Ľudia sú bez prúdu, vietor strhol strechy",
-      "link": "https://www1.pluska.sk/regiony/mimoriadna-situacia-pri-rimavskej-sobote-ludia-su-bez-prudu-vietor-strhol-strechy",
-      "time": "2026-08-22T00:00:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/cc9/cc923e9f-37be-4b15-aa21-17752cbc7f3a.webp"
     }
   ]
 }

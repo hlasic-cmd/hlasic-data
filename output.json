@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-08-22T10:51:42.074806+00:00",
+  "generated_at": "2026-08-22T11:40:52.003576+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 10,
   "items": [
+    {
+      "title": "Popradský underground ožíva: Nová Koľaj 22 odštartuje vernisážou aj Slobodnou Európou",
+      "link": "https://www.aktuality.sk/clanok/hEV0enE/popradsky-underground-oziva-nova-kolaj-22-odstartuje-vernisazou-aj-slobodnou-europou/",
+      "time": "2026-08-22T11:39:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "V meste Tornaľa vyhlásili po nočnej búrke mimoriadnu situáciu",
+      "link": "https://www.teraz.sk/regiony/v-meste-tornala-vyhlasili-po-nocnej-b/986728-clanok.html",
+      "time": "2026-08-22T11:34:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Po búrkach zostali na cestách spadnuté elektrické stĺpy",
+      "link": "https://www.bystricak.sk/clanky/12794/vodici-davajte-si-na-cestach-pozor-na-gemeri-su-pre-spadnute-stlpy-dva-useky-neprejazdne",
+      "time": "2026-08-22T11:14:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/03_aktualne.webp"
+    },
+    {
+      "title": "Mimoriadna situácia v Tornali a okolí. Supercelárna búrka zničila strechy, lámala stromy a brala elektrinu",
+      "link": "https://www.aktuality.sk/clanok/UVxX4Ym/mimoriadna-situacia-v-tornali-a-okoli-supercelarna-burka-znicila-strechy-lamala-stromy-a-brala-elektrinu/",
+      "time": "2026-08-22T10:59:35+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Hasiči po búrke v Žilinskom kraji zasahovali pri stromoch a lešení",
+      "link": "https://www.zilinak.sk/clanky/42427/hasici-v-zilinskom-kraji-po-burke-zasahovali-pri-spadnutych-stromoch-a-oprave-lesenia-kde-mali-najviac-prace",
+      "time": "2026-08-22T10:30:00+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787394358-hasici-v-zilinskom-kraji-po-burke-zasahovali-pri-spadnutych-stromoch-a-oprave-lesenia-kde-mali-najviac-prace.webp"
+    },
+    {
+      "title": "Takúto noc tu ešte nezažili. Búrka udrela obrovskou silou, strechy lietali a celé obce zostali bez elektriny",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2028327-skaza-po-nocnej-burke-rumince-zostali-bez-elektriny-strechy-lietali-a-cestu-zablokoval-stoziar?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-22T09:23:11+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2024/09/16/4x3-medium/stupava-zaplavy-hasici_01.jpg?v=CoI"
+    },
     {
       "title": "Uvoľnená skala zranila turistku v Slovenskom raji, evakuoval ju vrtuľník",
       "link": "https://www.kosicak.sk/clanky/13806/video-na-turistku-v-slovenskom-raji-spadla-uvolnena-skala-na-pomoc-jej-vyrazili-horski-aj-letecki-zachranari",

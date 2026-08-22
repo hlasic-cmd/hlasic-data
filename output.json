@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T18:01:20.407762+00:00",
+  "generated_at": "2026-08-22T19:03:01.200776+00:00",
   "max_age_hours": 12,
-  "count": 22,
+  "count": 20,
   "items": [
     {
       "title": "Silná búrka a smršť bičovali Rimavskú Sobotu a okolie, vietor strhával aj strechy a vyhlásili mimoriadnu situáciu – FOTO",
@@ -121,15 +121,6 @@
       "image": null
     },
     {
-      "title": "Polícia pátra po nezvestnom 14-ročnom Nikolasovi z Medzilaboriec",
-      "link": "https://www.presovak.sk/clanky/15090/nezvestneho-14-rocneho-nikolasa-z-medzilaboriec-hlada-policia-ma-viacfarebne-vlasy-stratil-sa-pred-par-dnami",
-      "time": "2026-08-22T12:02:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787400183-nezvestneho-14rocneho-nikolasa-z-medzilaboriec-hlada-policia-ma-viacfarebne-vlasy-stratil-sa-pred-par-dnami.webp"
-    },
-    {
       "title": "Polícia pátra po dvoch nezvestných tínedžeroch z okresu Trebišov",
       "link": "https://www.kosicak.sk/clanky/13807/policia-patra-po-nezvestnych-tinedzeroch-z-okresu-trebisov-nevideli-ste-16-rocnu-dominiku-a-17-rocneho-sebastiana",
       "time": "2026-08-22T12:00:00+00:00",
@@ -137,15 +128,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787399005-policia-patra-po-nezvestnych-tinedzeroch-z-okresu-trebisov-nevideli-ste-16rocnu-dominiku-a-17rocneho-sebastiana.webp"
-    },
-    {
-      "title": "Popradský underground ožíva: Nová Koľaj 22 odštartuje vernisážou aj Slobodnou Európou",
-      "link": "https://www.aktuality.sk/clanok/hEV0enE/popradsky-underground-oziva-nova-kolaj-22-odstartuje-vernisazou-aj-slobodnou-europou/",
-      "time": "2026-08-22T11:39:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "aktuality.sk",
-      "image": null
     },
     {
       "title": "V meste Tornaľa vyhlásili po nočnej búrke mimoriadnu situáciu",
@@ -193,13 +175,13 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787389028-video-na-turistku-v-slovenskom-raji-spadla-uvolnena-skala-na-pomoc-jej-vyrazili-horski-aj-letecki-zachranari.webp"
     },
     {
-      "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
-      "link": "https://www.nitrak.sk/clanky/11591/soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",
-      "time": "2026-08-22T07:15:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787056093-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
+      "title": "VIDEO: Búrka na Gemeri narobila poriadne škody",
+      "link": "https://www.bystricak.sk/clanky/12791/video-gemerom-sa-prehnala-silna-burka-strhavala-strechy-lamala-stromy-a-poskodila-elektricke-vedenie",
+      "time": "2026-08-22T07:46:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787390015-video-gemerom-sa-prehnala-silna-burka-strhavala-strechy-lamala-stromy-a-poskodila-elektricke-vedenie.webp"
     }
   ]
 }

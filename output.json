@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-23T06:00:21.014325+00:00",
+  "generated_at": "2026-08-23T07:48:11.570673+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "title": "Havária motorkára uzavrela cestu medzi Dolnými Lefantovcami a Oponicami",
+      "link": "https://www.nitrak.sk/clanky/11640/medzi-dolnymi-lefantovcami-a-oponicami-havaroval-motorkar-cesta-je-uzavreta-v-oboch-smeroch-takto-ju-obidete",
+      "time": "2026-08-23T07:11:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    }
+  ]
 }

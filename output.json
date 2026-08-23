@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-23T07:48:11.570673+00:00",
+  "generated_at": "2026-08-23T09:01:09.670150+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "title": "Polícia vo Zvolene pátra po nezvestnom mladíkovi",
+      "link": "https://www.bystricak.sk/clanky/12796/po-16-rocnom-markusovi-zo-zvolena-sa-zlahla-zem-policia-preto-rozbehla-patraciu-akciu-a-prosi-o-pomoc-aj-vas",
+      "time": "2026-08-23T08:22:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787473396-po-16rocnom-markusovi-zo-zvolena-sa-zlahla-zem-policia-preto-rozbehla-patraciu-akciu-a-prosi-o-pomoc-aj-vas.webp"
+    },
     {
       "title": "Havária motorkára uzavrela cestu medzi Dolnými Lefantovcami a Oponicami",
       "link": "https://www.nitrak.sk/clanky/11640/medzi-dolnymi-lefantovcami-a-oponicami-havaroval-motorkar-cesta-je-uzavreta-v-oboch-smeroch-takto-ju-obidete",

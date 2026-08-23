@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-23T11:40:53.189666+00:00",
+  "generated_at": "2026-08-23T12:02:05.607475+00:00",
   "max_age_hours": 12,
   "count": 13,
   "items": [
+    {
+      "title": "Premávku pri Hanušovciach nad Topľou spomaľuje hromadná dopravná nehoda",
+      "link": "https://www.presovak.sk/clanky/15095/pri-hanusovciach-doslo-k-hromadnej-dopravnej-nehode-v-useku-zvyste-svoju-opatrnost-a-riadte-sa-pokynmi-policie",
+      "time": "2026-08-23T11:44:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
     {
       "title": "Obciam na južnom Gemeri zasiahnutým víchricou ponúka kraj pomoc",
       "link": "https://www.teraz.sk/regiony/obciam-na-juznom-gemeri-zasiahnutym-v/986863-clanok.html",
@@ -110,15 +119,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Dráma v Rožňave: Horela bytovka, jeden zranený a škody za 10-tisíc eur",
-      "link": "https://www1.pluska.sk/krimi/drama-v-roznave-horela-bytovka-jeden-zraneny-a-skody-za-10-tisic-eur",
-      "time": "2026-08-23T00:00:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/a34/a34e2eb7-4fe1-4559-9e17-532f9b4c5d26.webp"
     }
   ]
 }

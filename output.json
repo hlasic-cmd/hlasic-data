@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-08-23T10:52:36.943009+00:00",
+  "generated_at": "2026-08-23T11:40:53.189666+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 13,
   "items": [
+    {
+      "title": "Obciam na južnom Gemeri zasiahnutým víchricou ponúka kraj pomoc",
+      "link": "https://www.teraz.sk/regiony/obciam-na-juznom-gemeri-zasiahnutym-v/986863-clanok.html",
+      "time": "2026-08-23T11:15:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
+      "link": "https://www.presovak.sk/clanky/15039/soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",
+      "time": "2026-08-23T11:00:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787056093-soi-upozornuje-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
+    },
+    {
+      "title": "Vážna nehoda pri Lozorne ochromila diaľnicu D2. Vodiča v kritickom stave prevážal záchranársky vrtuľník",
+      "link": "https://www.aktuality.sk/clanok/7iM1Xbd/vazna-nehoda-pri-lozorne-ochromila-dialnicu-d2-vodica-v-kritickom-stave-prevazal-zachranarsky-vrtulnik/",
+      "time": "2026-08-23T10:55:45+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
     {
       "title": "V Košiciach došlo k dopravnej nehode, na Moldavskej rátajte so zdržaním",
       "link": "https://www.kosicak.sk/clanky/13812/premavku-na-kruhaci-na-moldavskej-v-kosiciach-blokuje-dopravna-nehoda-na-mieste-pocitajte-so-zdrzanim",
@@ -11,6 +38,15 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787481550-premavku-na-kruhaci-na-moldavskej-v-kosiciach-blokuje-dopravna-nehoda-na-mieste-pocitajte-so-zdrzanim.webp"
+    },
+    {
+      "title": "Doprava na diaľnici D2 v smere do Bratislavy je pre nehodu obmedzená",
+      "link": "https://www.teraz.sk/regiony/doprava-na-dialnici-d2-v-smere-do-brati/986856-clanok.html",
+      "time": "2026-08-23T10:30:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
     },
     {
       "title": "Hliadka policajtov pomáhala žene, ktorá vážne havarovala pri Beluši",

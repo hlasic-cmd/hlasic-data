@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T15:42:44.128245+00:00",
+  "generated_at": "2026-08-23T16:51:35.091147+00:00",
   "max_age_hours": 12,
-  "count": 15,
+  "count": 13,
   "items": [
     {
       "title": "Nehoda na D2 smer Bratislava výrazne obmedzila dopravu. Vodiča musel do nemocnice previezť vrtuľník – FOTO",
@@ -67,15 +67,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787481550-premavku-na-kruhaci-na-moldavskej-v-kosiciach-blokuje-dopravna-nehoda-na-mieste-pocitajte-so-zdrzanim.webp"
     },
     {
-      "title": "Doprava na diaľnici D2 v smere do Bratislavy je pre nehodu obmedzená",
-      "link": "https://www.teraz.sk/regiony/doprava-na-dialnici-d2-v-smere-do-brati/986856-clanok.html",
-      "time": "2026-08-23T10:30:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Hliadka policajtov pomáhala žene, ktorá vážne havarovala pri Beluši",
       "link": "https://www.trencinak.sk/clanky/13499/petra-po-vaznej-nehode-pri-belusi-zazila-sok-ale-aj-obrovsku-podporu-zo-strany-policajtov-tym-poslala-dojimavy-odkaz",
       "time": "2026-08-23T10:29:00+00:00",
@@ -128,15 +119,6 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/01a02d9b-b576-722d-a754-33844dd9d57a.jpg"
-    },
-    {
-      "title": "Havária motorkára uzavrela cestu medzi Dolnými Lefantovcami a Oponicami",
-      "link": "https://www.nitrak.sk/clanky/11640/medzi-dolnymi-lefantovcami-a-oponicami-havaroval-motorkar-cesta-je-uzavreta-v-oboch-smeroch-takto-ju-obidete",
-      "time": "2026-08-23T07:11:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
     }
   ]
 }

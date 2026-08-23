@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T22:52:23.746495+00:00",
+  "generated_at": "2026-08-23T23:40:41.942902+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "title": "Nehoda na D2 smer Bratislava výrazne obmedzila dopravu. Vodiča musel do nemocnice previezť vrtuľník – FOTO",
@@ -29,15 +29,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Vážna nehoda pri Lozorne ochromila diaľnicu D2. Vodiča v kritickom stave prevážal záchranársky vrtuľník",
-      "link": "https://www.aktuality.sk/clanok/7iM1Xbd/vazna-nehoda-pri-lozorne-ochromila-dialnicu-d2-vodica-v-kritickom-stave-prevazal-zachranarsky-vrtulnik/",
-      "time": "2026-08-23T10:55:45+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "aktuality.sk",
-      "image": null
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T09:01:09.670150+00:00",
+  "generated_at": "2026-08-23T09:56:08.234180+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 4,
   "items": [
     {
       "title": "Polícia vo Zvolene pátra po nezvestnom mladíkovi",
@@ -13,6 +13,15 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787473396-po-16rocnom-markusovi-zo-zvolena-sa-zlahla-zem-policia-preto-rozbehla-patraciu-akciu-a-prosi-o-pomoc-aj-vas.webp"
     },
     {
+      "title": "V byte na Jarnej ulici v Rožňave horelo, jeden človek pri požiari utrpel popáleniny",
+      "link": "https://korzar.sme.sk/spis-gemer/c/v-jednom-z-bytov-v-roznave-horelo-zranena-je-jedna-osoba?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-23T07:56:02+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a02d9b-b576-722d-a754-33844dd9d57a.jpg"
+    },
+    {
       "title": "Havária motorkára uzavrela cestu medzi Dolnými Lefantovcami a Oponicami",
       "link": "https://www.nitrak.sk/clanky/11640/medzi-dolnymi-lefantovcami-a-oponicami-havaroval-motorkar-cesta-je-uzavreta-v-oboch-smeroch-takto-ju-obidete",
       "time": "2026-08-23T07:11:00+00:00",
@@ -20,6 +29,15 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Dráma v Rožňave: Horela bytovka, jeden zranený a škody za 10-tisíc eur",
+      "link": "https://www1.pluska.sk/krimi/drama-v-roznave-horela-bytovka-jeden-zraneny-a-skody-za-10-tisic-eur",
+      "time": "2026-08-23T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/a34/a34e2eb7-4fe1-4559-9e17-532f9b4c5d26.webp"
     }
   ]
 }

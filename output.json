@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T16:51:35.091147+00:00",
+  "generated_at": "2026-08-23T17:40:52.415696+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 11,
   "items": [
     {
       "title": "Nehoda na D2 smer Bratislava výrazne obmedzila dopravu. Vodiča musel do nemocnice previezť vrtuľník – FOTO",
@@ -76,15 +76,6 @@
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787480945-petra-po-vaznej-nehode-pri-belusi-zazila-sok-ale-aj-obrovsku-podporu-zo-strany-policajtov-tym-poslala-dojimavy-odkaz.webp"
     },
     {
-      "title": "Polícia pátra po nezvestnej žene z Popradu",
-      "link": "https://www.presovak.sk/clanky/15094/popradcanka-jana-odisla-z-domu-v-ciernych-leginach-a-bielom-tricku-doteraz-sa-vsak-nevratila-policia-prosi-o-pomoc",
-      "time": "2026-08-23T10:00:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787475411-popradcanka-jana-odisla-z-domu-v-ciernych-leginach-a-bielom-tricku-doteraz-sa-vsak-nevratila-policia-prosi-o-pomoc.webp"
-    },
-    {
       "title": "V Rožňave došlo k požiaru, hasiči už vyčíslili aj škodu",
       "link": "https://www.kosicak.sk/clanky/13811/pokojne-letne-rano-narusili-v-roznavskej-bytovke-plamene-na-miesto-hned-vyrazili-hasici-pomoc-poskytli-zranenej-osobe",
       "time": "2026-08-23T10:00:00+00:00",
@@ -101,15 +92,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787481033-aktualizovane-na-dialnici-d2-pred-lozornom-havarovalo-osobne-auto-skoncilo-mimo-cesty-doprava-je-obmedzena.webp"
-    },
-    {
-      "title": "Polícia vo Zvolene pátra po nezvestnom mladíkovi",
-      "link": "https://www.bystricak.sk/clanky/12796/po-16-rocnom-markusovi-zo-zvolena-sa-zlahla-zem-policia-preto-rozbehla-patraciu-akciu-a-prosi-o-pomoc-aj-vas",
-      "time": "2026-08-23T08:22:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787473396-po-16rocnom-markusovi-zo-zvolena-sa-zlahla-zem-policia-preto-rozbehla-patraciu-akciu-a-prosi-o-pomoc-aj-vas.webp"
     },
     {
       "title": "V byte na Jarnej ulici v Rožňave horelo, jeden človek pri požiari utrpel popáleniny",

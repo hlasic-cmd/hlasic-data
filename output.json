@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-08-24T00:00:58.775985+00:00",
+  "generated_at": "2026-08-24T03:33:24.141764+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Nehoda na D2 smer Bratislava výrazne obmedzila dopravu. Vodiča musel do nemocnice previezť vrtuľník – FOTO",
-      "link": "https://sita.sk/nehoda-na-d2-smer-bratislava-vyrazne-obmedzila-dopravu-vodica-musel-do-nemocnice-previezt-vrtulnik-foto/",
-      "time": "2026-08-23T14:33:22+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/08/778985448_1047348567939288_5036035793532216768_n-png-e1787483896510-688x387.jpeg"
-    },
-    {
-      "title": "Rezort: V obciach zasiahnutých víchricou pokračujú záchranné práce",
-      "link": "https://www.teraz.sk/regiony/rezort-v-obciach-zasiahnutych-vichric/986884-clanok.html",
-      "time": "2026-08-23T13:24:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    }
-  ]
+  "count": 0,
+  "items": []
 }

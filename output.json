@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-08-24T05:26:44.102052+00:00",
+  "generated_at": "2026-08-24T08:08:22.306662+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "title": "Nehoda dvoch áut na D1 komplikuje premávku do Bratislavy",
+      "link": "https://www.bratislavak.sk/clanky/15081/dopravu-na-d1-smerom-do-bratislavy-brzdi-nehoda-vodici-si-pockaju",
+      "time": "2026-08-24T06:15:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Nehoda dvoch áut na D1 za Voderadmi komplikuje premávku",
+      "link": "https://www.trnavak.sk/clanky/11916/pozor-na-d1-za-voderadmi-nehoda-a-prace-cestarov-sposobuju-zdrzanie",
+      "time": "2026-08-24T06:13:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    }
+  ]
 }

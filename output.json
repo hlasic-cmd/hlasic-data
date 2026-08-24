@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-24T20:58:03.875168+00:00",
+  "generated_at": "2026-08-24T21:57:21.026249+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 12,
   "items": [
+    {
+      "title": "Od soboty po ňom niet ani stopy. Polícia pátra po 45-ročnom Andrejovi z Bratislavy",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2029457-od-soboty-po-nom-niet-ani-stopy-policia-patra-po-45-rocnom-andrejovi-z-bratislavy?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-24T20:56:41+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/24/2522181/4x3-medium/patranie.jpg?v=8n0"
+    },
     {
       "title": "V Dolnom Kubíne auto zrazilo maloletého chlapca, vrtuľníkom ho previezli",
       "link": "https://www.zilinak.sk/clanky/42463/foto-vazna-nehoda-v-dolnom-kubine-auto-zrazilo-maloleteho-chlapca-zasahoval-vrtulnik",
@@ -67,15 +76,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787584578-foto-kosicanov-cakal-pohlad-ako-z-hororu-zo-spalovne-odpadu-v-koksov-baksi-stupal-husty-cierny-a-zapachajuci-dym.webp"
     },
     {
-      "title": "V Trebišove a okolí beží pátranie po nezvestnej žene, polícia prosí o pomoc aj verejnosť",
-      "link": "https://www.kosicak.sk/clanky/13831/policia-obdrzala-v-uvode-tyzdna-volanie-o-pomoc-tentoraz-bez-stopy-zmizla-37-rocna-zena-z-trebisova-nestretli-ste-ju",
-      "time": "2026-08-24T14:15:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787579877-policia-obdrzala-v-uvode-tyzdna-volanie-o-pomoc-tentoraz-bez-stopy-zmizla-37rocna-zena-z-trebisova-nestretli-ste-ju.webp"
-    },
-    {
       "title": "V bratislavskej Vrakuni pokračujú s odstraňovaním následkov smršte",
       "link": "https://www.teraz.sk/regiony/v-bratislavskej-vrakuni-pokracuju-s-od/987067-clanok.html",
       "time": "2026-08-24T14:13:00+00:00",
@@ -110,15 +110,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787587454-video-pri-hlinnom-sa-zrazil-motocyklista-s-vozidlom-na-tom-istom-mieste-pred-par-dnami-doslo-k-tragickej-nehode.webp"
-    },
-    {
-      "title": "Desivá nehoda pri Vadaši v Štúrove: Z kolotoča mali počas jazdy vypadnúť deti",
-      "link": "https://www.nitrak.sk/clanky/11650/nestastie-pri-vadasi-z-kolotoca-mali-pocas-jazdy-vypadnut-deti-do-nemocnice-previezli-styroch-zranenych",
-      "time": "2026-08-24T09:35:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787564087-nestastie-pri-vadasi-z-kolotoca-mali-pocas-jazdy-vypadnut-deti-do-nemocnice-previezli-styroch-zranenych.webp"
     }
   ]
 }

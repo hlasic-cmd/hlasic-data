@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-08-24T11:48:30.532144+00:00",
+  "generated_at": "2026-08-24T14:11:50.334695+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 13,
   "items": [
+    {
+      "title": "V okrese Vranov nad Topľou sa zrazilo auto s motocyklom. Zasahuje aj vrtuľník",
+      "link": "https://korzar.sme.sk/presov/c/v-okrese-vranov-nad-toplou-sa-zrazilo-auto-s-motocyklom-zasahuje-aj-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-24T14:05:14+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a03415-77e1-7d67-af89-8be50409087a.jpg"
+    },
+    {
+      "title": "Tornaľa žiada občanov, aby po búrke nahlásili vzniknuté škody",
+      "link": "https://www.teraz.sk/regiony/tornala-ziada-obcanov-aby-po-burke/987131-clanok.html",
+      "time": "2026-08-24T13:42:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Po nehode pri Podzámčoku pomáhali okoloidúci, nasledovalo poďakovanie",
+      "link": "https://www.bystricak.sk/clanky/12805/po-nehode-pri-podzamcoku-prislo-velke-podakovanie-ludom-ktori-pomohli-v-najtazsej-chvili-nezostali-sami",
+      "time": "2026-08-24T13:40:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787559751-po-nehode-pri-podzamcoku-prislo-velke-podakovanie-ludom-ktori-pomohli-v-najtazsej-chvili-nezostali-sami.webp"
+    },
+    {
+      "title": "VIDEO: Pri Hlinnom zasahuje vrtuľník, došlo k vážnej nehode motocyklistu a vozidla. Cesta je neprejazdná",
+      "link": "https://www.presovak.sk/clanky/15113/video-pri-hlinnom-zasahuje-vrtulnik-doslo-k-vaznej-nehode-motocyklistu-a-vozidla-cesta-je-neprejazdna",
+      "time": "2026-08-24T13:23:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787580144-video-pri-hlinnom-zasahuje-vrtulnik-doslo-k-vaznej-nehode-motocyklistu-a-vozidla-cesta-je-neprejazdna.webp"
+    },
+    {
+      "title": "Na ceste pri Dunajskej Strede sa zrazili dve autá",
+      "link": "https://www.trnavak.sk/clanky/11926/nehoda-na-podunajsku-zrazili-sa-dve-auta-na-mieste-zasahuju-hasici-i-policia",
+      "time": "2026-08-24T12:33:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787574823-nehoda-na-podunajsku-zrazili-sa-dve-auta-na-mieste-zasahuju-hasici-i-policia.webp"
+    },
+    {
+      "title": "V Žilinskom kraji minulý týždeň odhalila 23 opitých vodičov",
+      "link": "https://www.teraz.sk/regiony/v-zilinskom-kraji-minuly-tyzden-odh/987099-clanok.html",
+      "time": "2026-08-24T12:21:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Auto pri kostole na Teplickej horelo. Predchádzať mu mala hádka",
+      "link": "https://www.bratislavak.sk/clanky/15086/video-auto-pri-kostole-na-teplickej-zachvatili-plamene-exstarosta-kusy-tvrdi-ze-poziaru-predchadzala-hadka",
+      "time": "2026-08-24T11:20:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787559786-video-auto-pri-kostole-na-teplickej-zachvatili-plamene-exstarosta-kusy-tvrdi-ze-poziaru-predchadzala-hadka.webp"
+    },
     {
       "title": "Vodiči v Košiciach a okolí hlásia dopravné nehody",
       "link": "https://www.kosicak.sk/clanky/13829/uvod-tyzdna-preveruje-nervy-vodicov-zo-secoviec-hlasite-zrazku-kamiona-s-autom-v-kosiciach-si-postojite-na-presovskej",
@@ -11,15 +74,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787569032-uvod-tyzdna-preveruje-nervy-vodicov-zo-secoviec-hlasite-zrazku-kamiona-s-autom-v-kosiciach-si-postojite-na-presovskej.webp"
-    },
-    {
-      "title": "V bratislavskej Vrakuni pokračujú s odstraňovaním následkov smršte",
-      "link": "https://www.teraz.sk/regiony/v-bratislavskej-vrakuni-pokracuju-s-od/987067-clanok.html",
-      "time": "2026-08-24T10:54:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
     },
     {
       "title": "Zvolen chystá Zumbu s dobrovoľným príspevkom. Cvičením pomôžu rodine po leteckej tragédii",
@@ -65,24 +119,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787559905-foto-juzny-gemer-sa-spamatava-z-nicivej-vichrice-zachranne-prace-pokracuju-v-kazdej-obci-plati-mimoriadna-situacia.webp"
-    },
-    {
-      "title": "Skládka vo Vrakuni horela, hasiči s plameňmi bojovali do noci",
-      "link": "https://www.bratislavak.sk/clanky/15084/foto-poziar-skladky-vo-vrakuni-zamestnal-hasicov-na-cele-hodiny-v-dychacich-pristrojoch-bojovali-do-noci",
-      "time": "2026-08-24T08:20:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787556250-foto-poziar-skladky-vo-vrakuni-zamestnal-hasicov-na-cele-hodiny-v-dychacich-pristrojoch-bojovali-do-noci.webp"
-    },
-    {
-      "title": "Nehoda dvoch áut na D1 za Voderadmi komplikuje premávku",
-      "link": "https://www.trnavak.sk/clanky/11916/pozor-na-d1-za-voderadmi-nehoda-a-prace-cestarov-sposobuju-zdrzanie",
-      "time": "2026-08-24T06:13:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     }
   ]
 }

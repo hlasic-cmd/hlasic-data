@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-24T17:49:36.518162+00:00",
+  "generated_at": "2026-08-24T19:19:06.335239+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "title": "V Dolnom Kubíne auto zrazilo maloletého chlapca, vrtuľníkom ho previezli",
+      "link": "https://www.zilinak.sk/clanky/42463/foto-vazna-nehoda-v-dolnom-kubine-auto-zrazilo-maloleteho-chlapca-zasahoval-vrtulnik",
+      "time": "2026-08-24T17:42:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787593078-foto-vazna-nehoda-v-dolnom-kubine-auto-zrazilo-maloleteho-chlapca-zasahoval-vrtulnik.webp"
+    },
     {
       "title": "V pondelok pokračovali práce pri požiari skládky v Bratislave",
       "link": "https://www.teraz.sk/regiony/v-pondelok-pokracovali-prace-pri-pozi/987177-clanok.html",
@@ -103,13 +112,13 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787587454-video-pri-hlinnom-sa-zrazil-motocyklista-s-vozidlom-na-tom-istom-mieste-pred-par-dnami-doslo-k-tragickej-nehode.webp"
     },
     {
-      "title": "Na ceste pri Dunajskej Strede sa zrazili dve autá",
-      "link": "https://www.trnavak.sk/clanky/11926/nehoda-na-podunajsku-zrazili-sa-dve-auta-na-mieste-zasahuju-hasici-i-policia",
-      "time": "2026-08-24T12:33:00+00:00",
+      "title": "Desivá nehoda pri Vadaši v Štúrove: Z kolotoča mali počas jazdy vypadnúť deti",
+      "link": "https://www.nitrak.sk/clanky/11650/nestastie-pri-vadasi-z-kolotoca-mali-pocas-jazdy-vypadnut-deti-do-nemocnice-previezli-styroch-zranenych",
+      "time": "2026-08-24T09:35:00+00:00",
       "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787574823-nehoda-na-podunajsku-zrazili-sa-dve-auta-na-mieste-zasahuju-hasici-i-policia.webp"
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787564087-nestastie-pri-vadasi-z-kolotoca-mali-pocas-jazdy-vypadnut-deti-do-nemocnice-previezli-styroch-zranenych.webp"
     }
   ]
 }

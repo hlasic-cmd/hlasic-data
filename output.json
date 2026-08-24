@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-08-24T10:21:54.371342+00:00",
+  "generated_at": "2026-08-24T11:48:30.532144+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 9,
   "items": [
+    {
+      "title": "Vodiči v Košiciach a okolí hlásia dopravné nehody",
+      "link": "https://www.kosicak.sk/clanky/13829/uvod-tyzdna-preveruje-nervy-vodicov-zo-secoviec-hlasite-zrazku-kamiona-s-autom-v-kosiciach-si-postojite-na-presovskej",
+      "time": "2026-08-24T10:57:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787569032-uvod-tyzdna-preveruje-nervy-vodicov-zo-secoviec-hlasite-zrazku-kamiona-s-autom-v-kosiciach-si-postojite-na-presovskej.webp"
+    },
+    {
+      "title": "V bratislavskej Vrakuni pokračujú s odstraňovaním následkov smršte",
+      "link": "https://www.teraz.sk/regiony/v-bratislavskej-vrakuni-pokracuju-s-od/987067-clanok.html",
+      "time": "2026-08-24T10:54:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Zvolen chystá Zumbu s dobrovoľným príspevkom. Cvičením pomôžu rodine po leteckej tragédii",
+      "link": "https://www.bystricak.sk/clanky/12807/ani-po-niekolkych-tyzdnoch-od-tragedie-v-ocovej-ludia-nezabudaju-zvolencania-pomozu-pozostalym-naozaj-netradicne",
+      "time": "2026-08-24T10:50:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787564962-ani-po-niekolkych-tyzdnoch-od-tragedie-v-ocovej-ludia-nezabudaju-zvolencania-pomozu-pozostalym-naozaj-netradicne.webp"
+    },
+    {
+      "title": "Požiare a nehody: Hasiči mali minulý týždeň plné ruky práce",
+      "link": "https://www.teraz.sk/slovensko/hazz-hasici-zasahovali-minuly-tyzde/987006-clanok.html",
+      "time": "2026-08-24T10:13:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "FOTO: Pri výjazde z hradného nádvoria v Nitre si vodič poškodil olejovú vaňu, zasahovali policajti aj hasiči",
       "link": "https://www.nitrak.sk/clanky/11646/foto-nehoda-pri-vyjazde-z-hradneho-nadvoria-v-nitre-z-auta-vytiekol-olej-zasahovali-policajti-aj-hasici",
@@ -22,15 +58,6 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787564087-nestastie-pri-vadasi-z-kolotoca-mali-pocas-jazdy-vypadnut-deti-do-nemocnice-previezli-styroch-zranenych.webp"
     },
     {
-      "title": "Požiare a nehody: Hasiči mali minulý týždeň plné ruky práce",
-      "link": "https://www.teraz.sk/slovensko/hazz-hasici-zasahovali-minuly-tyzde/987006-clanok.html",
-      "time": "2026-08-24T08:35:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "FOTO: Následky silnej víchrice na Gemeri odstraňujú hasiči, obce aj energetici",
       "link": "https://www.bystricak.sk/clanky/12804/foto-juzny-gemer-sa-spamatava-z-nicivej-vichrice-zachranne-prace-pokracuju-v-kazdej-obci-plati-mimoriadna-situacia",
       "time": "2026-08-24T08:30:00+00:00",
@@ -47,15 +74,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787556250-foto-poziar-skladky-vo-vrakuni-zamestnal-hasicov-na-cele-hodiny-v-dychacich-pristrojoch-bojovali-do-noci.webp"
-    },
-    {
-      "title": "Nehoda dvoch áut na D1 komplikuje premávku do Bratislavy",
-      "link": "https://www.bratislavak.sk/clanky/15081/dopravu-na-d1-smerom-do-bratislavy-brzdi-nehoda-vodici-si-pockaju",
-      "time": "2026-08-24T06:15:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
     },
     {
       "title": "Nehoda dvoch áut na D1 za Voderadmi komplikuje premávku",

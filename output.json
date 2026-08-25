@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-08-25T06:04:19.903747+00:00",
+  "generated_at": "2026-08-25T08:21:58.840135+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 10,
   "items": [
+    {
+      "title": "Andrej z Bratislavy je nezvestný. Polícia žiada verejnosť o pomoc",
+      "link": "https://www.bratislavak.sk/clanky/15108/policia-patra-po-andrejovi-kmetovi-z-bratislavy-nezvestny-je-od-soboty-neozval-sa-ani-blizkym",
+      "time": "2026-08-25T08:00:00+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787643524-policia-patra-po-andrejovi-kmetovi-z-bratislavy-nezvestny-je-od-soboty-neozval-sa-ani-blizkym.webp"
+    },
+    {
+      "title": "VIDEO: ZRÁŽKA MOTORKÁRA S AUTOM V BRATISLAVE: Utrpel zranenia",
+      "link": "https://www.teraz.sk/regiony/video-zrazka-motorkara-s-autom-v-bra/987233-clanok.html",
+      "time": "2026-08-25T07:47:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V Dolnom Kubíne osobné auto zrazilo chlapca, do nemocnice ho prevážal vrtuľník",
+      "link": "https://www.aktuality.sk/clanok/3DFtvVx/v-dolnom-kubine-osobne-auto-zrazilo-chlapca-do-nemocnice-ho-prevazal-vrtulnik/",
+      "time": "2026-08-25T07:36:08+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Banská Štiavnica pre haváriu od rána preruší dodávku vody v uliciach",
+      "link": "https://www.bystricak.sk/clanky/12817/banska-stiavnica-zostane-na-niekolko-hodin-bez-vody-pozrite-si-ktorych-ulic-sa-odstavka-tyka",
+      "time": "2026-08-25T07:26:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787642595-banska-stiavnica-zostane-na-niekolko-hodin-bez-vody-pozrite-si-ktorych-ulic-sa-odstavka-tyka.webp"
+    },
+    {
+      "title": "Polícia pátra po nezvestnom Dávidovi z okresu Komárno, verejnosť prosí o pomoc",
+      "link": "https://www.nitrak.sk/clanky/11656/nevideli-ste-ho-23-rocny-david-z-okresu-komarno-je-uz-niekolko-dni-nezvestny-patraju-po-nom",
+      "time": "2026-08-25T07:10:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787640301-nevideli-ste-ho-23rocny-david-z-okresu-komarno-je-uz-niekolko-dni-nezvestny-patraju-po-nom.webp"
+    },
+    {
+      "title": "Vodič nákladiaka započul presknutie a potom to prišlo, z prívesu sa mu vysypala guľatina rovno na železničnú trať",
+      "link": "https://www.presovak.sk/clanky/15117/nedaleko-medzilaboriec-sa-z-nakladiaka-vysypala-gulatina-dopadla-rovno-na-zeleznicnu-trat-kde-zablokovala-dopravu",
+      "time": "2026-08-25T06:20:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787642008-nedaleko-medzilaboriec-sa-z-nakladiaka-vysypala-gulatina-dopadla-rovno-na-zeleznicnu-trat-kde-zablokovala-dopravu.webp"
+    },
+    {
+      "title": "Pozor, v Bratislave hlásite viaceré nehody, počítajte so zdržaním",
+      "link": "https://www.bratislavak.sk/clanky/15099/vodici-pozor-v-bratislave-su-na-viacerych-miestach-nehody-pocitajte-so-zdrzaniami-v-roznych-castiach-mesta",
+      "time": "2026-08-25T06:14:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
+      "link": "https://www.kosicak.sk/clanky/13752/soi-upozornuje-vychodniarov-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",
+      "time": "2026-08-25T05:40:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787577272-soi-upozornuje-vychodniarov-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
+    },
+    {
+      "title": "Vážna nehoda v Krásnom Brode: Na trať sa vysypala guľatina",
+      "link": "https://www1.pluska.sk/krimi/vazna-nehoda-v-krasnom-brode-na-trat-sa-vysypala-gulatina",
+      "time": "2026-08-25T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/94c/94ceec38-dfd4-47dd-8ad6-06e09779ea4a.webp"
+    },
     {
       "title": "Od soboty po ňom niet ani stopy. Polícia pátra po 45-ročnom Andrejovi",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2029457-od-soboty-po-nom-niet-ani-stopy-policia-patra-po-45-rocnom-andrejovi-z-bratislavy?utm_source=pravda&utm_medium=rss&utm_campaign=rss",

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T20:03:37.659021+00:00",
+  "generated_at": "2026-08-25T21:01:49.392286+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 4,
   "items": [
     {
       "title": "Banskobystrický kraj pomôže obciam v okrese Rimavská Sobota odstraňovať následky po ničivej víchrici",
@@ -38,15 +38,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787665574-v-prievidzi-doslo-k-hromadnej-nehode-na-mieste-zasahuju-zachranne-zlozky.webp"
-    },
-    {
-      "title": "Pri Nových Zámkoch došlo k tragickej nehode, o život prišla 60-ročná vodička",
-      "link": "https://www.nitrak.sk/clanky/11662/foto-pri-novych-zamkoch-doslo-k-tragickej-nehode-60-rocna-vodicka-zraneniam-podlahla-v-nemocnici",
-      "time": "2026-08-25T08:19:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787644923-foto-pri-novych-zamkoch-doslo-k-tragickej-nehode-60rocna-vodicka-zraneniam-podlahla-v-nemocnici.webp"
     }
   ]
 }

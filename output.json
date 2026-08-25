@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-25T11:04:42.440376+00:00",
+  "generated_at": "2026-08-25T12:02:07.057113+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 9,
   "items": [
+    {
+      "title": "Všetky zberné dvory v Košiciach zatvorili. Dôvodom je rozsiahly požiar spaľovne pri Kokšov-Bakši",
+      "link": "https://www.kosicak.sk/clanky/13845/kosicania-nemaju-kam-odviezt-nadrozmerny-odpad-zberne-dvory-docasne-zatvorili-pre-poziar-spalovne-pri-koksov-baksi",
+      "time": "2026-08-25T11:30:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787648369-kosicania-nemaju-kam-odviezt-nadrozmerny-odpad-zberne-dvory-docasne-zatvorili-pre-poziar-spalovne-pri-koksovbaksi.webp"
+    },
     {
       "title": "VIDEO: ZRÁŽKA MOTORKÁRA S AUTOM V BRATISLAVE: Utrpel zranenia",
       "link": "https://www.teraz.sk/regiony/video-zrazka-motorkara-s-autom-v-bra/987233-clanok.html",
@@ -58,15 +67,6 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787640301-nevideli-ste-ho-23rocny-david-z-okresu-komarno-je-uz-niekolko-dni-nezvestny-patraju-po-nom.webp"
     },
     {
-      "title": "Vodič nákladiaka započul presknutie a potom to prišlo, z prívesu sa mu vysypala guľatina rovno na železničnú trať",
-      "link": "https://www.presovak.sk/clanky/15117/nedaleko-medzilaboriec-sa-z-nakladiaka-vysypala-gulatina-dopadla-rovno-na-zeleznicnu-trat-kde-zablokovala-dopravu",
-      "time": "2026-08-25T06:20:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787642008-nedaleko-medzilaboriec-sa-z-nakladiaka-vysypala-gulatina-dopadla-rovno-na-zeleznicnu-trat-kde-zablokovala-dopravu.webp"
-    },
-    {
       "title": "Pozor, v Bratislave hlásite viaceré nehody, počítajte so zdržaním",
       "link": "https://www.bratislavak.sk/clanky/15099/vodici-pozor-v-bratislave-su-na-viacerych-miestach-nehody-pocitajte-so-zdrzaniami-v-roznych-castiach-mesta",
       "time": "2026-08-25T06:14:00+00:00",
@@ -83,15 +83,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787577272-soi-upozornuje-vychodniarov-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
-    },
-    {
-      "title": "Vážna nehoda v Krásnom Brode: Na trať sa vysypala guľatina",
-      "link": "https://www1.pluska.sk/krimi/vazna-nehoda-v-krasnom-brode-na-trat-sa-vysypala-gulatina",
-      "time": "2026-08-25T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/94c/94ceec38-dfd4-47dd-8ad6-06e09779ea4a.webp"
     }
   ]
 }

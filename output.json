@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T03:13:49.304903+00:00",
+  "generated_at": "2026-08-25T05:07:55.398307+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 3,
   "items": [
     {
       "title": "Od soboty po ňom niet ani stopy. Polícia pátra po 45-ročnom Andrejovi z Bratislavy",
@@ -29,33 +29,6 @@
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Hrôza na kolotoči pri Vadaši: Deti vypadli počas jazdy. To, čo sa dialo potom, zaráža",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2029387-hroza-na-kolotoci-pri-vadasi-deti-vypadli-pocas-jazdy-to-co-sa-dialo-potom-zaraza?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-24T17:05:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2025/11/05/4x3-medium/kolotoc-zabavny-park.jpg?v=m6k"
-    },
-    {
-      "title": "Polícia v Žilinskom kraji odhalila vodičov pod vplyvom alkoholu aj drog. Jeden z nich spôsobil nehodu",
-      "link": "https://www.zilinak.sk/clanky/42459/policia-v-zilinskom-kraji-odhalila-23-vodicov-pod-vplyvom-alkoholu-dalsich-14-malo-pozitivny-test-na-drogy",
-      "time": "2026-08-24T15:35:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787582821-policia-v-zilinskom-kraji-odhalila-23-vodicov-pod-vplyvom-alkoholu-dalsich-14-malo-pozitivny-test-na-drogy.webp"
-    },
-    {
-      "title": "Hasiči zasahujú v spaľovni v Kokšov-Bakši. Horí tam uskladnený odpad",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2029333-hasici-zasahuju-v-spalovni-v-koksov-baksi-hori-tam-uskladneny-odpad?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-24T15:14:06+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/08/2516145/4x3-medium/hasici-poziar.jpg?v=MOU"
     }
   ]
 }

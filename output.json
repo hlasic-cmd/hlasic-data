@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-08-25T12:02:07.057113+00:00",
+  "generated_at": "2026-08-25T14:28:40.805445+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 12,
   "items": [
+    {
+      "title": "Pri troch nehodách asistoval minulý týždeň v Trnavskom kraji alkohol",
+      "link": "https://www.teraz.sk/regiony/pri-troch-nehodach-asistoval-minuly-t/987368-clanok.html",
+      "time": "2026-08-25T13:54:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "NEVIDELI STE HO? Pátrajú po 20-ročnom Filipovi z Dubnice nad Váhom",
+      "link": "https://www.teraz.sk/regiony/nevideli-ste-ho-patraju-po-20-rocnom/987363-clanok.html",
+      "time": "2026-08-25T13:47:00+00:00",
+      "cat": "patranie",
+      "region": "trenciansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V Prievidzi sa na Bojnickej ceste zrazili tri autá, na mieste zasahujú hasiči a policajti",
+      "link": "https://www.trencinak.sk/clanky/13528/v-prievidzi-doslo-k-hromadnej-nehode-na-mieste-zasahuju-zachranne-zlozky",
+      "time": "2026-08-25T13:46:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787665574-v-prievidzi-doslo-k-hromadnej-nehode-na-mieste-zasahuju-zachranne-zlozky.webp"
+    },
+    {
+      "title": "Pri Prievidzi horel trávnatý krovinatý porast na troch miestach, zásah hasičov obmedzil dopravu",
+      "link": "https://www.trencinak.sk/clanky/13524/foto-plamene-pohltili-travnaty-krovinaty-porast-pri-prievidzi-zasah-hasicov-skomplikoval-premavku-v-okoli",
+      "time": "2026-08-25T13:25:00+00:00",
+      "cat": "poziar",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787660275-foto-plamene-pohltili-travnaty-krovinaty-porast-pri-prievidzi-zasah-hasicov-skomplikoval-premavku-v-okoli.webp"
+    },
+    {
+      "title": "Tri nehody za približne hodinu. Vodiči hlásia zrážky na trase medzi Bystricou a Breznom",
+      "link": "https://www.bystricak.sk/clanky/12828/na-trase-z-bystrice-do-brezna-doslo-k-trom-nehodam-vodici-upozornuju-v-tychto-usekoch-na-opatrnost",
+      "time": "2026-08-25T13:11:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787664461-na-trase-z-bystrice-do-brezna-doslo-k-trom-nehodam-vodici-upozornuju-v-tychto-usekoch-na-opatrnost.webp"
+    },
+    {
+      "title": "Víchrica poškodila väčšinu z 200 domov v Bottove a zasiahla 15 obcí",
+      "link": "https://www.bystricak.sk/clanky/12824/foto-na-juhu-gemera-odstranuju-nasledky-vichrice-lunter-navstivil-bottovo-vichrica-tu-poskodila-vacsinu-z-200-domov",
+      "time": "2026-08-25T12:50:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787660512-foto-na-juhu-gemera-odstranuju-nasledky-vichrice-lunter-navstivil-bottovo-vichrica-tu-poskodila-vacsinu-z-200-domov.webp"
+    },
     {
       "title": "Všetky zberné dvory v Košiciach zatvorili. Dôvodom je rozsiahly požiar spaľovne pri Kokšov-Bakši",
       "link": "https://www.kosicak.sk/clanky/13845/kosicania-nemaju-kam-odviezt-nadrozmerny-odpad-zberne-dvory-docasne-zatvorili-pre-poziar-spalovne-pri-koksov-baksi",
@@ -13,22 +67,13 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787648369-kosicania-nemaju-kam-odviezt-nadrozmerny-odpad-zberne-dvory-docasne-zatvorili-pre-poziar-spalovne-pri-koksovbaksi.webp"
     },
     {
-      "title": "VIDEO: ZRÁŽKA MOTORKÁRA S AUTOM V BRATISLAVE: Utrpel zranenia",
-      "link": "https://www.teraz.sk/regiony/video-zrazka-motorkara-s-autom-v-bra/987233-clanok.html",
-      "time": "2026-08-25T10:23:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "FOTO: Pozor na vážnu nehodu v smere na Kapušany, zdržíte sa aj v Kežmarku",
-      "link": "https://www.presovak.sk/clanky/15123/foto-pozor-na-vaznu-nehodu-v-smere-na-kapusany-zdrzite-sa-aj-v-kezmarku",
+      "title": "Nehoda medzi Prešovom a Kapušanmi: auto skončilo na streche",
+      "link": "https://www.presovak.sk/clanky/15123/foto-v-smere-na-kapusany-doslo-k-vaznej-nehode-auto-skoncilo-na-streche",
       "time": "2026-08-25T09:08:00+00:00",
       "cat": "nehoda",
       "region": "presovsky",
       "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787648955-foto-pozor-na-vaznu-nehodu-v-smere-na-kapusany-zdrzite-sa-aj-v-kezmarku.webp"
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787662992-foto-v-smere-na-kapusany-doslo-k-vaznej-nehode-auto-skoncilo-na-streche.webp"
     },
     {
       "title": "Pri Nových Zámkoch došlo k tragickej nehode, o život prišla 60-ročná vodička",
@@ -65,24 +110,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787640301-nevideli-ste-ho-23rocny-david-z-okresu-komarno-je-uz-niekolko-dni-nezvestny-patraju-po-nom.webp"
-    },
-    {
-      "title": "Pozor, v Bratislave hlásite viaceré nehody, počítajte so zdržaním",
-      "link": "https://www.bratislavak.sk/clanky/15099/vodici-pozor-v-bratislave-su-na-viacerych-miestach-nehody-pocitajte-so-zdrzaniami-v-roznych-castiach-mesta",
-      "time": "2026-08-25T06:14:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "SOI upozorňuje na zvolávacie akcie, týkajú sa týchto modelov áut",
-      "link": "https://www.kosicak.sk/clanky/13752/soi-upozornuje-vychodniarov-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru",
-      "time": "2026-08-25T05:40:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787577272-soi-upozornuje-vychodniarov-na-velke-zvolavacie-akcie-u-viacerych-vozidiel-tejto-znacky-hrozi-riziko-zranenia-a-poziaru.webp"
     }
   ]
 }

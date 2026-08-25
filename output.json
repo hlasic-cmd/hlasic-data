@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-25T08:21:58.840135+00:00",
+  "generated_at": "2026-08-25T10:03:16.331323+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 9,
   "items": [
+    {
+      "title": "FOTO: Pozor na vážnu nehodu v smere na Kapušany, zdržíte sa aj v Kežmarku",
+      "link": "https://www.presovak.sk/clanky/15123/foto-pozor-na-vaznu-nehodu-v-smere-na-kapusany-zdrzite-sa-aj-v-kezmarku",
+      "time": "2026-08-25T09:08:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787648955-foto-pozor-na-vaznu-nehodu-v-smere-na-kapusany-zdrzite-sa-aj-v-kezmarku.webp"
+    },
+    {
+      "title": "Pri Nových Zámkoch došlo k tragickej nehode, o život prišla 60-ročná vodička",
+      "link": "https://www.nitrak.sk/clanky/11662/foto-pri-novych-zamkoch-doslo-k-tragickej-nehode-60-rocna-vodicka-zraneniam-podlahla-v-nemocnici",
+      "time": "2026-08-25T08:19:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787644923-foto-pri-novych-zamkoch-doslo-k-tragickej-nehode-60rocna-vodicka-zraneniam-podlahla-v-nemocnici.webp"
+    },
     {
       "title": "Andrej z Bratislavy je nezvestný. Polícia žiada verejnosť o pomoc",
       "link": "https://www.bratislavak.sk/clanky/15108/policia-patra-po-andrejovi-kmetovi-z-bratislavy-nezvestny-je-od-soboty-neozval-sa-ani-blizkym",
@@ -11,24 +29,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787643524-policia-patra-po-andrejovi-kmetovi-z-bratislavy-nezvestny-je-od-soboty-neozval-sa-ani-blizkym.webp"
-    },
-    {
-      "title": "VIDEO: ZRÁŽKA MOTORKÁRA S AUTOM V BRATISLAVE: Utrpel zranenia",
-      "link": "https://www.teraz.sk/regiony/video-zrazka-motorkara-s-autom-v-bra/987233-clanok.html",
-      "time": "2026-08-25T07:47:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V Dolnom Kubíne osobné auto zrazilo chlapca, do nemocnice ho prevážal vrtuľník",
-      "link": "https://www.aktuality.sk/clanok/3DFtvVx/v-dolnom-kubine-osobne-auto-zrazilo-chlapca-do-nemocnice-ho-prevazal-vrtulnik/",
-      "time": "2026-08-25T07:36:08+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": null
     },
     {
       "title": "Banská Štiavnica pre haváriu od rána preruší dodávku vody v uliciach",
@@ -83,15 +83,6 @@
       "region": "bratislavsky",
       "src": "www1.pluska.sk",
       "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/94c/94ceec38-dfd4-47dd-8ad6-06e09779ea4a.webp"
-    },
-    {
-      "title": "Od soboty po ňom niet ani stopy. Polícia pátra po 45-ročnom Andrejovi",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2029457-od-soboty-po-nom-niet-ani-stopy-policia-patra-po-45-rocnom-andrejovi-z-bratislavy?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-24T20:56:41+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/24/2522181/4x3-medium/patranie.jpg?v=8n0"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T23:46:15.403282+00:00",
+  "generated_at": "2026-08-25T03:13:49.304903+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 6,
   "items": [
     {
       "title": "Od soboty po ňom niet ani stopy. Polícia pátra po 45-ročnom Andrejovi z Bratislavy",
@@ -56,60 +56,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/08/2516145/4x3-medium/hasici-poziar.jpg?v=MOU"
-    },
-    {
-      "title": "Hasiči zasahujú v spaľovni v Kokšov-Bakši, horí uskladnený odpad",
-      "link": "https://www.teraz.sk/regiony/hasici-zasahuju-v-spalovni-v-koksov-/987153-clanok.html",
-      "time": "2026-08-24T14:50:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V tesnej blízkosti Košíc horí v areáli spaľovne odpadu",
-      "link": "https://www.kosicak.sk/clanky/13832/foto-kosicanov-cakal-pohlad-ako-z-hororu-zo-spalovne-odpadu-v-koksov-baksi-stupal-husty-cierny-a-zapachajuci-dym",
-      "time": "2026-08-24T14:30:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787584578-foto-kosicanov-cakal-pohlad-ako-z-hororu-zo-spalovne-odpadu-v-koksov-baksi-stupal-husty-cierny-a-zapachajuci-dym.webp"
-    },
-    {
-      "title": "V bratislavskej Vrakuni pokračujú s odstraňovaním následkov smršte",
-      "link": "https://www.teraz.sk/regiony/v-bratislavskej-vrakuni-pokracuju-s-od/987067-clanok.html",
-      "time": "2026-08-24T14:13:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V okrese Vranov nad Topľou sa zrazilo auto s motocyklom. Zasahuje aj vrtuľník",
-      "link": "https://korzar.sme.sk/presov/c/v-okrese-vranov-nad-toplou-sa-zrazilo-auto-s-motocyklom-zasahuje-aj-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-24T14:05:14+00:00",
-      "cat": "zasah",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a03415-77e1-7d67-af89-8be50409087a.jpg"
-    },
-    {
-      "title": "Po nehode pri Podzámčoku pomáhali okoloidúci, nasledovalo poďakovanie",
-      "link": "https://www.bystricak.sk/clanky/12805/po-nehode-pri-podzamcoku-prislo-velke-podakovanie-ludom-ktori-pomohli-v-najtazsej-chvili-nezostali-sami",
-      "time": "2026-08-24T13:40:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787559751-po-nehode-pri-podzamcoku-prislo-velke-podakovanie-ludom-ktori-pomohli-v-najtazsej-chvili-nezostali-sami.webp"
-    },
-    {
-      "title": "VIDEO: Pri Hlinnom sa zrazil motocyklista s vozidlom. Na tom istom mieste pred pár dňami došlo k tragickej nehode",
-      "link": "https://www.presovak.sk/clanky/15113/video-pri-hlinnom-sa-zrazil-motocyklista-s-vozidlom-na-tom-istom-mieste-pred-par-dnami-doslo-k-tragickej-nehode",
-      "time": "2026-08-24T13:23:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787587454-video-pri-hlinnom-sa-zrazil-motocyklista-s-vozidlom-na-tom-istom-mieste-pred-par-dnami-doslo-k-tragickej-nehode.webp"
     }
   ]
 }

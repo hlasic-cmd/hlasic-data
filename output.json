@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-26T14:08:19.931207+00:00",
+  "generated_at": "2026-08-26T16:56:24.291831+00:00",
   "max_age_hours": 12,
   "count": 10,
   "items": [
+    {
+      "title": "Pri Sládkovičove spadlo lietadlo. Stroju mal počas letu zlyhať motor",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2030697-pri-sladkovicove-spadlo-lietadlo-stroju-mal-pocas-letu-zlyhat-motor?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-26T16:42:04+00:00",
+      "cat": "zasah",
+      "region": "trnavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/26/2523209/4x3-medium/786900101-1656488462714047-8371321423921741478-n.jpg?v=k4k"
+    },
+    {
+      "title": "ZDRŽÍTE SA: Pred výjazdom Lamač v Bratislave došlo k nehode",
+      "link": "https://www.teraz.sk/regiony/zdrzite-sa-pred-vyjazdom-lamac-v-br/987720-clanok.html",
+      "time": "2026-08-26T14:53:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Nehoda na diaľnici pred Lamačom ochromila dopravu v hlavnom meste, v kolónach stvrdnete dlhé minúty",
+      "link": "https://www.bratislavak.sk/clanky/15140/nehoda-na-dialnici-pred-lamacom-ochromila-dopravu-v-hlavnom-meste-v-kolonach-stvrdnete-dlhe-minuty",
+      "time": "2026-08-26T14:51:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Pozor na hromadnú nehodu medzi Tlmačmi a Hronskými Kľačanmi. Premávku riadi polícia",
+      "link": "https://www.nitrak.sk/clanky/11684/pozor-na-hromadnu-nehodu-medzi-tlmacmi-a-hronskymi-klacanmi-premavku-riadi-policia",
+      "time": "2026-08-26T14:43:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Zranený medveď sa po zrážke s autom stratil. Pátrajú po ňom pri Telgárte",
+      "link": "https://www.bystricak.sk/clanky/12852/davajte-si-pozor-pri-telgarte-auto-tam-zrazilo-medveda-zranene-zviera-po-nehode-uslo-do-lesa",
+      "time": "2026-08-26T14:12:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787753028-davajte-si-pozor-pri-telgarte-auto-tam-zrazilo-medveda-zranene-zviera-po-nehode-uslo-do-lesa.webp"
+    },
     {
       "title": "FOTO: Nehoda v Podbrezovej si vyžiadala zranenie motocyklistu",
       "link": "https://www.bystricak.sk/clanky/12849/foto-v-podbrezovej-zasahovali-zachranari-pri-nehode-auta-a-motocyklistu-zraneny-skoncil-na-urgente",
@@ -22,67 +67,13 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787749585-trest-sefa-sis-gaspara-po-nehode-v-nitre-zostava-v-platnosti-prezident-pellegrini-odmietol-protest-prokuratora.webp"
     },
     {
-      "title": "Suché počasie stále ZVYŠUJE RIZIKO vzniku požiarov v prírode",
-      "link": "https://www.teraz.sk/slovensko/suche-pocasie-stale-zvysuje-riziko-v/987617-clanok.html",
-      "time": "2026-08-26T11:29:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Zrážka auta s autobusom uzavrela cestu z Kysúc do Česka. Pre vodiča priletel vrtuľník",
       "link": "https://www.zilinak.sk/clanky/42509/vazna-nehoda-na-kysuciach-vodic-auta-presiel-do-protismeru-zrazil-sa-s-autobusom-odviezol-ho-vrtulnik",
       "time": "2026-08-26T11:25:00+00:00",
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787750826-vazna-nehoda-na-kysuciach-vodic-auta-presiel-do-protismeru-zrazil-sa-s-autobusom-odviezol-ho-vrtulnik.webp"
-    },
-    {
-      "title": "Mladá Žilinčanka Vanesa je nezvestná. Ak ste ju videli, volajte políciu",
-      "link": "https://www.zilinak.sk/clanky/42504/mlada-zilincanka-vanesa-je-nezvestna-spoznate-ju-podla-specifickych-tetovani-jedno-je-nedokoncene",
-      "time": "2026-08-26T11:10:00+00:00",
-      "cat": "patranie",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787739620-mlada-zilincanka-vanesa-je-nezvestna-spoznate-ju-podla-specifickych-tetovani-jedno-je-nedokoncene.webp"
-    },
-    {
-      "title": "V Brezne pátrajú po nezvestnom 29-ročnom Andrejovi Bartošovi",
-      "link": "https://www.bystricak.sk/clanky/12838/v-brezne-vyhlasili-patranie-po-29-rocnom-andrejovi-bartosovi-spoznate-ho-podla-fotografie",
-      "time": "2026-08-26T09:30:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787734829-v-brezne-vyhlasili-patranie-po-29rocnom-andrejovi-bartosovi-spoznate-ho-podla-fotografie.webp"
-    },
-    {
-      "title": "Na R1 blízko Trnavy smerom na Nitru horí auto, rátajte so zdržaním",
-      "link": "https://www.nitrak.sk/clanky/11675/pozor-na-cestach-na-r1-smerom-z-trnavy-do-nitry-hori-auto-v-useku-hlasia-zdrzanie",
-      "time": "2026-08-26T09:26:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/03_aktualne.webp"
-    },
-    {
-      "title": "Nezvestného Andreja našli. Podľa blízkych však už bolo neskoro",
-      "link": "https://www.bratislavak.sk/clanky/15126/potvrdili-sa-najhorsie-obavy-nezvestneho-andreja-z-bratislavy-nasli-podla-blizkych-vsak-uz-bolo-neskoro",
-      "time": "2026-08-26T08:55:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787733967-potvrdili-sa-najhorsie-obavy-nezvestneho-andreja-z-bratislavy-nasli-podla-blizkych-vsak-uz-bolo-neskoro.webp"
-    },
-    {
-      "title": "Tragická nehoda troch áut uzavrela cestu za Novými Zámkami, dvaja ľudia neprežili",
-      "link": "https://www.nitrak.sk/clanky/11671/foto-pri-hromadnej-zrazke-za-novymi-zamkami-vyhasli-dva-zivoty-prezila-len-jedna-maloleta-osoba",
-      "time": "2026-08-26T08:37:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787747942-foto-pri-hromadnej-zrazke-za-novymi-zamkami-vyhasli-dva-zivoty-prezila-len-jedna-maloleta-osoba.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787755272-vazna-nehoda-na-kysuciach-vodic-auta-presiel-do-protismeru-zrazil-sa-s-autobusom-odviezol-ho-vrtulnik.webp"
     },
     {
       "title": "Hasiči uhasili požiar bytu na košickom Juhu. Dve osoby sa nadýchali splodín horenia",
@@ -92,6 +83,15 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/019c150b-1133-7bb4-8f4d-93215c6052a2.jpg"
+    },
+    {
+      "title": "Obyvateľov košického Juhu vystrašili uprostred týždňa plamene",
+      "link": "https://www.kosicak.sk/clanky/13857/na-kosickom-juhu-vypukol-v-jednej-z-bytoviek-poziar-hasici-evakuovali-domacich",
+      "time": "2026-08-26T07:29:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787741109-na-kosickom-juhu-vypukol-v-jednej-z-bytoviek-poziar-hasici-evakuovali-domacich.webp"
     }
   ]
 }

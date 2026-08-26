@@ -1,16 +1,52 @@
 {
-  "generated_at": "2026-08-26T11:17:03.205486+00:00",
+  "generated_at": "2026-08-26T14:08:19.931207+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 10,
   "items": [
     {
-      "title": "NEHODA V NEMŠOVEJ: Opitý muž nafúkal vyše 3,3 promile",
-      "link": "https://www.teraz.sk/regiony/muz-sposobil-v-nemsovej-dopravnu-neh/987591-clanok.html",
-      "time": "2026-08-26T10:48:00+00:00",
+      "title": "FOTO: Nehoda v Podbrezovej si vyžiadala zranenie motocyklistu",
+      "link": "https://www.bystricak.sk/clanky/12849/foto-v-podbrezovej-zasahovali-zachranari-pri-nehode-auta-a-motocyklistu-zraneny-skoncil-na-urgente",
+      "time": "2026-08-26T13:20:00+00:00",
       "cat": "nehoda",
-      "region": "trenciansky",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787749562-foto-v-podbrezovej-zasahovali-zachranari-pri-nehode-auta-a-motocyklistu-zraneny-skoncil-na-urgente.webp"
+    },
+    {
+      "title": "Nový zvrat v prípade nehody Pavla Gašpara v Nitre: Pellegrini odmietol Žilinkov protest",
+      "link": "https://www.nitrak.sk/clanky/11681/trest-sefa-sis-gaspara-po-nehode-v-nitre-zostava-v-platnosti-prezident-pellegrini-odmietol-protest-prokuratora",
+      "time": "2026-08-26T13:16:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787749585-trest-sefa-sis-gaspara-po-nehode-v-nitre-zostava-v-platnosti-prezident-pellegrini-odmietol-protest-prokuratora.webp"
+    },
+    {
+      "title": "Suché počasie stále ZVYŠUJE RIZIKO vzniku požiarov v prírode",
+      "link": "https://www.teraz.sk/slovensko/suche-pocasie-stale-zvysuje-riziko-v/987617-clanok.html",
+      "time": "2026-08-26T11:29:00+00:00",
+      "cat": "poziar",
+      "region": null,
       "src": "teraz.sk",
       "image": null
+    },
+    {
+      "title": "Zrážka auta s autobusom uzavrela cestu z Kysúc do Česka. Pre vodiča priletel vrtuľník",
+      "link": "https://www.zilinak.sk/clanky/42509/vazna-nehoda-na-kysuciach-vodic-auta-presiel-do-protismeru-zrazil-sa-s-autobusom-odviezol-ho-vrtulnik",
+      "time": "2026-08-26T11:25:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787750826-vazna-nehoda-na-kysuciach-vodic-auta-presiel-do-protismeru-zrazil-sa-s-autobusom-odviezol-ho-vrtulnik.webp"
+    },
+    {
+      "title": "Mladá Žilinčanka Vanesa je nezvestná. Ak ste ju videli, volajte políciu",
+      "link": "https://www.zilinak.sk/clanky/42504/mlada-zilincanka-vanesa-je-nezvestna-spoznate-ju-podla-specifickych-tetovani-jedno-je-nedokoncene",
+      "time": "2026-08-26T11:10:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787739620-mlada-zilincanka-vanesa-je-nezvestna-spoznate-ju-podla-specifickych-tetovani-jedno-je-nedokoncene.webp"
     },
     {
       "title": "V Brezne pátrajú po nezvestnom 29-ročnom Andrejovi Bartošovi",
@@ -40,22 +76,13 @@
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787733967-potvrdili-sa-najhorsie-obavy-nezvestneho-andreja-z-bratislavy-nasli-podla-blizkych-vsak-uz-bolo-neskoro.webp"
     },
     {
-      "title": "Vážna nehoda troch áut uzavrela cestu I/75 za Novými Zámkami v oboch smeroch",
-      "link": "https://www.nitrak.sk/clanky/11671/za-novymi-zamkami-doslo-k-vaznej-dopravnej-nehode-troch-aut-cesta-je-uzavreta-v-oboch-smeroch",
+      "title": "Tragická nehoda troch áut uzavrela cestu za Novými Zámkami, dvaja ľudia neprežili",
+      "link": "https://www.nitrak.sk/clanky/11671/foto-pri-hromadnej-zrazke-za-novymi-zamkami-vyhasli-dva-zivoty-prezila-len-jedna-maloleta-osoba",
       "time": "2026-08-26T08:37:00+00:00",
       "cat": "nehoda",
       "region": "nitriansky",
       "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787736219-za-novymi-zamkami-doslo-k-vaznej-dopravnej-nehode-troch-aut-cesta-je-uzavreta-v-oboch-smeroch.webp"
-    },
-    {
-      "title": "VIDEO: RANNÁ DRÁMA V KOŠICIACH: Z bytovky evakuovali 14 ľudí",
-      "link": "https://www.teraz.sk/regiony/hasici-zasahuju-pri-poziari-bytu-v-ko/987496-clanok.html",
-      "time": "2026-08-26T08:37:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787747942-foto-pri-hromadnej-zrazke-za-novymi-zamkami-vyhasli-dva-zivoty-prezila-len-jedna-maloleta-osoba.webp"
     },
     {
       "title": "Hasiči uhasili požiar bytu na košickom Juhu. Dve osoby sa nadýchali splodín horenia",
@@ -65,69 +92,6 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/019c150b-1133-7bb4-8f4d-93215c6052a2.jpg"
-    },
-    {
-      "title": "Zrážka cyklistky s autom v Lučenci skončila vyšetrovaním",
-      "link": "https://www.bystricak.sk/clanky/12834/lucenecka-policia-patra-po-svedkoch-nehody-auto-zrazilo-cyklistku-priamo-na-priechode-pre-chodcov",
-      "time": "2026-08-26T07:41:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787729937-lucenecka-policia-patra-po-svedkoch-nehody-auto-zrazilo-cyklistku-priamo-na-priechode-pre-chodcov.webp"
-    },
-    {
-      "title": "Obyvateľov košického Juhu vystrašili uprostred týždňa plamene",
-      "link": "https://www.kosicak.sk/clanky/13857/na-kosickom-juhu-vypukol-v-jednej-z-bytoviek-poziar-hasici-evakuovali-domacich",
-      "time": "2026-08-26T07:29:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787741109-na-kosickom-juhu-vypukol-v-jednej-z-bytoviek-poziar-hasici-evakuovali-domacich.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnom Rolandovi z okresu Levice, odišiel a viac ho nevideli",
-      "link": "https://www.nitrak.sk/clanky/11666/policia-patra-po-46-rocnom-rolandovi-z-okresu-levice-naposledy-ho-videla-manzelka-ked-odchadzal-z-domu",
-      "time": "2026-08-26T07:10:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787726851-policia-patra-po-46rocnom-rolandovi-z-okresu-levice-naposledy-ho-videla-manzelka-ked-odchadzal-z-domu.webp"
-    },
-    {
-      "title": "Nehoda na D1 smerom na Bratislavu spôsobuje zdržanie",
-      "link": "https://www.bratislavak.sk/clanky/15118/nehoda-na-d1-komplikuje-dopravu-vodici-smerom-na-bratislavu-si-pockaju",
-      "time": "2026-08-26T06:14:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787724883-nehoda-na-d1-komplikuje-dopravu-vodici-smerom-na-bratislavu-si-pockaju.webp"
-    },
-    {
-      "title": "Nehoda na D1 smerom na Bratislavu komplikuje dopravu",
-      "link": "https://www.trnavak.sk/clanky/11945/nehoda-na-d1-nedaleko-trnavy-komplikuje-dopravu-vodici-smerom-na-bratislavu-si-pockaju",
-      "time": "2026-08-26T06:12:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787724809-nehoda-na-d1-nedaleko-trnavy-komplikuje-dopravu-vodici-smerom-na-bratislavu-si-pockaju.webp"
-    },
-    {
-      "title": "Cesta medzi Bačkovom a Dargovom je uzavretá, dôvodom je nehoda",
-      "link": "https://www.kosicak.sk/clanky/13855/medzi-backovom-a-dargovom-uzavrela-cestu-dopravna-nehoda-po-tej-skoncila-v-priekope-dodavka",
-      "time": "2026-08-26T06:11:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Požiar v Košiciach: Evakuácia bytovky a zásah hasičov",
-      "link": "https://www1.pluska.sk/krimi/v-kosiciach-hori-hasici-zasahuju-pri-poziari-bytovky",
-      "time": "2026-08-26T00:00:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/fcb/fcbc6703-a925-40f9-b0e2-de4a0307a141.webp"
     }
   ]
 }

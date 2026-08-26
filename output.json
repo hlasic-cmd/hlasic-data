@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T23:51:25.906447+00:00",
+  "generated_at": "2026-08-26T03:34:10.969349+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "title": "Banskobystrický kraj pomôže obciam v okrese Rimavská Sobota odstraňovať následky po ničivej víchrici",
@@ -11,15 +11,6 @@
       "region": "banskobystricky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2026/08/silna-burka-a-veterna-smrst-v-rimavskej-sobote-a-okoli-688x387.jpg"
-    },
-    {
-      "title": "Banskobystrický samosprávny kraj pomôže obciam s následkami víchrice",
-      "link": "https://www.teraz.sk/regiony/banskobystricky-samospravny-kraj-pomo/987398-clanok.html",
-      "time": "2026-08-25T14:48:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

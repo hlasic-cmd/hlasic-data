@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-08-26T05:17:36.220126+00:00",
+  "generated_at": "2026-08-26T07:58:18.055346+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 13,
   "items": [
+    {
+      "title": "Košickí hasiči bojujú s rozsiahlym požiarom bytu na Lomonosovovej ulici, evakuovali obytný dom",
+      "link": "https://www.aktuality.sk/clanok/gQzy6Ut/kosicki-hasici-bojuju-s-rozsiahlym-poziarom-bytu-na-lomonosovovej-ulici-evakuovali-obytny-dom/",
+      "time": "2026-08-26T07:55:02+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Hasiči zasahujú pri požiari bytu na treťom poschodí v košickej mestskej časti Juh",
+      "link": "https://korzar.sme.sk/kosice/c/hasici-zasahuju-pri-poziari-bytu-na-tretom-poschodi-v-kosickej-mestskej-casti-juh?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-26T07:41:07+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/019c150b-1133-7bb4-8f4d-93215c6052a2.jpg"
+    },
+    {
+      "title": "Zrážka cyklistky s autom v Lučenci skončila vyšetrovaním",
+      "link": "https://www.bystricak.sk/clanky/12834/lucenecka-policia-patra-po-svedkoch-nehody-auto-zrazilo-cyklistku-priamo-na-priechode-pre-chodcov",
+      "time": "2026-08-26T07:41:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787729937-lucenecka-policia-patra-po-svedkoch-nehody-auto-zrazilo-cyklistku-priamo-na-priechode-pre-chodcov.webp"
+    },
+    {
+      "title": "VIDEO: RANNÁ DRÁMA V KOŠICIACH: Hasiči zasahujú pri požiari bytu",
+      "link": "https://www.teraz.sk/regiony/hasici-zasahuju-pri-poziari-bytu-v-ko/987496-clanok.html",
+      "time": "2026-08-26T07:39:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Obyvateľov košického Juhu vystrašili uprostred týždňa plamene",
+      "link": "https://www.kosicak.sk/clanky/13857/na-kosickom-juhu-vypukol-v-jednej-z-bytoviek-poziar-na-mieste-zasahuju-hasici",
+      "time": "2026-08-26T07:29:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787729376-na-kosickom-juhu-vypukol-v-jednej-z-bytoviek-poziar-na-mieste-zasahuju-hasici.webp"
+    },
+    {
+      "title": "Polícia pátra po nezvestnom Rolandovi z okresu Levice, odišiel a viac ho nevideli",
+      "link": "https://www.nitrak.sk/clanky/11666/policia-patra-po-46-rocnom-rolandovi-z-okresu-levice-naposledy-ho-videla-manzelka-ked-odchadzal-z-domu",
+      "time": "2026-08-26T07:10:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1787726851-policia-patra-po-46rocnom-rolandovi-z-okresu-levice-naposledy-ho-videla-manzelka-ked-odchadzal-z-domu.webp"
+    },
+    {
+      "title": "Nočné rýchliky pri Ružomberku výrazne meškali. Jazdu im prerušila nehoda",
+      "link": "https://www.zilinak.sk/clanky/42488/nocne-rychliky-pri-ruzomberku-vyrazne-meskali-jazdu-im-prerusila-nehoda",
+      "time": "2026-08-26T06:30:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787724894-nocne-rychliky-pri-ruzomberku-vyrazne-meskali-jazdu-im-prerusila-nehoda.webp"
+    },
+    {
+      "title": "Nehoda na D1 smerom na Bratislavu spôsobuje zdržanie",
+      "link": "https://www.bratislavak.sk/clanky/15118/nehoda-na-d1-komplikuje-dopravu-vodici-smerom-na-bratislavu-si-pockaju",
+      "time": "2026-08-26T06:14:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787724883-nehoda-na-d1-komplikuje-dopravu-vodici-smerom-na-bratislavu-si-pockaju.webp"
+    },
+    {
+      "title": "Nehoda na D1 smerom na Bratislavu komplikuje dopravu",
+      "link": "https://www.trnavak.sk/clanky/11945/nehoda-na-d1-nedaleko-trnavy-komplikuje-dopravu-vodici-smerom-na-bratislavu-si-pockaju",
+      "time": "2026-08-26T06:12:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1787724809-nehoda-na-d1-nedaleko-trnavy-komplikuje-dopravu-vodici-smerom-na-bratislavu-si-pockaju.webp"
+    },
+    {
+      "title": "Cesta medzi Bačkovom a Dargovom je uzavretá, dôvodom je nehoda",
+      "link": "https://www.kosicak.sk/clanky/13855/medzi-backovom-a-dargovom-uzavrela-cestu-dopravna-nehoda-po-tej-skoncila-v-priekope-dodavka",
+      "time": "2026-08-26T06:11:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Ranná dopravná nehoda pred Bratislavou komplikuje premávku na D1, tvoria sa kolóny",
+      "link": "https://www.aktuality.sk/clanok/kOja9TB/ranna-dopravna-nehoda-pred-bratislavou-komplikuje-premavku-na-d1-tvoria-sa-kolony/",
+      "time": "2026-08-26T06:07:02+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "V Košiciach horí: Hasiči zasahujú pri požiari bytovky",
+      "link": "https://www1.pluska.sk/krimi/v-kosiciach-hori-hasici-zasahuju-pri-poziari-bytovky",
+      "time": "2026-08-26T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/dda/ddabfd63-9b22-4d8d-91dd-65fe537d0e2b.webp"
+    },
     {
       "title": "Banskobystrický kraj pomôže obciam v okrese Rimavská Sobota odstraňovať následky po ničivej víchrici",
       "link": "https://sita.sk/banskobystricky-kraj-pomoze-obciam-v-okrese-rimavska-sobota-odstranovat-nasledky-po-nicivej-vichrici/",

@@ -1,34 +1,61 @@
 {
-  "generated_at": "2026-08-28T01:30:37.067650+00:00",
+  "generated_at": "2026-08-28T21:54:22.189649+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 6,
   "items": [
     {
-      "title": "Pri nehode na Orave zasahujú záchranári. Auto skončilo prevrátené na streche mimo cesty",
-      "link": "https://www.zilinak.sk/clanky/42537/pri-nehode-na-orave-zasahuju-zachranari-auto-skoncilo-prevratene-na-streche-mimo-cesty",
-      "time": "2026-08-27T17:02:00+00:00",
-      "cat": "nehoda",
+      "title": "Požiar automobilu uzavrel jednu rúru tunela Višňové, diaľnica je neprejazdná",
+      "link": "https://www.zilinak.sk/clanky/42563/video-tunel-visnove-v-jednom-smere-uzavreli-kvoli-poziaru-auta-vodici-maju-vystupit-a-opustit-nebezpecny-priestor",
+      "time": "2026-08-28T15:41:00+00:00",
+      "cat": "poziar",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787850178-pri-nehode-na-orave-zasahuju-zachranari-auto-skoncilo-prevratene-na-streche-mimo-cesty.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787934012-video-tunel-visnove-v-jednom-smere-uzavreli-kvoli-poziaru-auta-vodici-maju-vystupit-a-opustit-nebezpecny-priestor.webp"
     },
     {
-      "title": "Únik nebezpečnej látky vo Zvolene: Jedna osoba skončila v opatere záchranárov",
-      "link": "https://www.bystricak.sk/clanky/12875/foto-vo-zvolene-unikala-nebezpecna-latka-hasici-evakuovali-20-zamestnancov-jeden-skoncil-v-opatere-zachranarov",
-      "time": "2026-08-27T16:45:00+00:00",
-      "cat": "zasah",
+      "title": "Suché počasie stále zvyšuje riziko vzniku požiarov v prírode",
+      "link": "https://www.teraz.sk/slovensko/suche-pocasie-stale-zvysuje-riziko-v/988269-clanok.html",
+      "time": "2026-08-28T14:53:00+00:00",
+      "cat": "poziar",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Medveď po zrážke s vlakom ušiel. Zásahové tímy ho hľadajú pri Brezne",
+      "link": "https://www.bystricak.sk/clanky/12888/na-horehroni-zrazil-vlak-medveda-zranene-zviera-po-nehode-uslo-v-terene-ho-hladaju-drony-aj-psy",
+      "time": "2026-08-28T13:50:00+00:00",
+      "cat": "nehoda",
       "region": "banskobystricky",
       "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787848066-foto-vo-zvolene-unikala-nebezpecna-latka-hasici-evakuovali-20-zamestnancov-jeden-skoncil-v-opatere-zachranarov.webp"
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787922934-na-horehroni-zrazil-vlak-medveda-zranene-zviera-po-nehode-uslo-v-terene-ho-hladaju-drony-aj-psy.webp"
     },
     {
-      "title": "Požiar nákladného vozidla v Prešove spôsobil škodu 8-tisíc eur",
-      "link": "https://www.presovak.sk/clanky/15163/foto-v-presove-doslo-k-poziaru-nakladneho-vozidla-vznikla-skoda-v-tisickach-eur",
-      "time": "2026-08-27T14:00:00+00:00",
+      "title": "Polícia pátra po nezvestnom 14-ročnom Markovi z Bratislavy. Môže sa prepravovať hromadnou dopravou",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2031803-policia-patra-po-nezvestnom-14-rocnom-markovi-z-bratislavy-moze-sa-prepravovat-hromadnou-dopravou?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-28T13:12:43+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2022/01/31/4x3-medium/policia-pomahat-a-chranit-policajne-auto.jpg?v=06k"
+    },
+    {
+      "title": "Požiar poľa v Rači: plamene šľahali do výšky najmenej dvoch metrov",
+      "link": "https://www.bratislavak.sk/clanky/15171/video-hasici-zasahovali-pri-poziari-pola-v-raci-plamene-slahali-do-vysky-niekolkych-metrov",
+      "time": "2026-08-28T12:54:00+00:00",
       "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1787837512-foto-v-presove-doslo-k-poziaru-nakladneho-vozidla-vznikla-skoda-v-tisickach-eur.webp"
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787940676-video-hasici-zasahovali-pri-poziari-pola-v-raci-plamene-slahali-do-vysky-niekolkych-metrov.webp"
+    },
+    {
+      "title": "Požiar reštaurácie v Jablonove nad Turňou: štyria ľudia sa nadýchali splodín, škody sú 5-tisíc eur",
+      "link": "https://www.kosicak.sk/clanky/13897/video-poziar-restauracie-pri-roznave-hasici-zachranili-majetok-za-600-tisic-eur-styria-ludia-sa-nadychali-dymu",
+      "time": "2026-08-28T10:13:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787923330-video-poziar-restauracie-pri-roznave-hasici-zachranili-majetok-za-600tisic-eur-styria-ludia-sa-nadychali-dymu.webp"
     }
   ]
 }

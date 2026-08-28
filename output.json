@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T22:12:35.999577+00:00",
+  "generated_at": "2026-08-28T22:18:14.709348+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 5,
   "items": [
     {
       "title": "Požiar automobilu uzavrel jednu rúru tunela Višňové, diaľnica je neprejazdná",
@@ -47,15 +47,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787940676-video-hasici-zasahovali-pri-poziari-pola-v-raci-plamene-slahali-do-vysky-niekolkych-metrov.webp"
-    },
-    {
-      "title": "Požiar reštaurácie v Jablonove nad Turňou: štyria ľudia sa nadýchali splodín, škody sú 5-tisíc eur",
-      "link": "https://www.kosicak.sk/clanky/13897/video-poziar-restauracie-pri-roznave-hasici-zachranili-majetok-za-600-tisic-eur-styria-ludia-sa-nadychali-dymu",
-      "time": "2026-08-28T10:13:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1787923330-video-poziar-restauracie-pri-roznave-hasici-zachranili-majetok-za-600tisic-eur-styria-ludia-sa-nadychali-dymu.webp"
     }
   ]
 }

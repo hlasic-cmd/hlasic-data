@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T02:51:03.472729+00:00",
+  "generated_at": "2026-08-29T02:56:46.230353+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "title": "Požiar automobilu uzavrel jednu rúru tunela Višňové, diaľnica je neprejazdná",
@@ -11,15 +11,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787934012-video-tunel-visnove-v-jednom-smere-uzavreli-kvoli-poziaru-auta-vodici-maju-vystupit-a-opustit-nebezpecny-priestor.webp"
-    },
-    {
-      "title": "Suché počasie stále zvyšuje riziko vzniku požiarov v prírode",
-      "link": "https://www.teraz.sk/slovensko/suche-pocasie-stale-zvysuje-riziko-v/988269-clanok.html",
-      "time": "2026-08-28T14:53:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

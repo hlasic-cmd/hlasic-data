@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T16:14:32.245802+00:00",
+  "generated_at": "2026-08-29T19:24:40.613466+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 5,
   "items": [
     {
       "title": "Berggericht v Banskej Štiavnici obnovia po požiari za 4,8 milióna eur",
@@ -47,15 +47,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787993613-foto-dramaticky-zasah-hasicov-na-hornej-nitre-rozsiahly-poziar-travy-sa-nebezpecne-priblizil-k-lesu.webp"
-    },
-    {
-      "title": "NEPREJAZDNÉ: Medzi Bratislavou a Rusovcami sa stala tragická nehoda",
-      "link": "https://www.teraz.sk/regiony/neprejadzdne-medzi-bratislavou-a-rusov/988348-clanok.html",
-      "time": "2026-08-29T07:46:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

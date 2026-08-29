@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-29T04:26:50.360946+00:00",
+  "generated_at": "2026-08-29T04:32:48.653751+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "title": "Sobota prinesie teploty až do 31 stupňov. Na severe a východe sa môžu objaviť búrky",
+      "link": "https://www.aktuality.sk/clanok/ksdnVCg/sobota-prinesie-teploty-az-do-31-stupnov-na-severe-a-vychode-sa-mozu-objavit-burky/",
+      "time": "2026-08-29T04:30:00+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": null
+    }
+  ]
 }

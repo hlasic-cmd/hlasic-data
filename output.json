@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T01:49:33.559711+00:00",
+  "generated_at": "2026-08-29T01:55:02.125325+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "title": "Požiar automobilu uzavrel jednu rúru tunela Višňové, diaľnica je neprejazdná",
@@ -20,15 +20,6 @@
       "region": null,
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Medveď po zrážke s vlakom ušiel. Zásahové tímy ho hľadajú pri Brezne",
-      "link": "https://www.bystricak.sk/clanky/12888/na-horehroni-zrazil-vlak-medveda-zranene-zviera-po-nehode-uslo-v-terene-ho-hladaju-drony-aj-psy",
-      "time": "2026-08-28T13:50:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787922934-na-horehroni-zrazil-vlak-medveda-zranene-zviera-po-nehode-uslo-v-terene-ho-hladaju-drony-aj-psy.webp"
     }
   ]
 }

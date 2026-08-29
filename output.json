@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T00:54:12.012533+00:00",
+  "generated_at": "2026-08-29T00:59:53.506110+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 4,
   "items": [
     {
       "title": "Požiar automobilu uzavrel jednu rúru tunela Višňové, diaľnica je neprejazdná",
@@ -38,15 +38,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2022/01/31/4x3-medium/policia-pomahat-a-chranit-policajne-auto.jpg?v=06k"
-    },
-    {
-      "title": "Požiar poľa v Rači: plamene šľahali do výšky najmenej dvoch metrov",
-      "link": "https://www.bratislavak.sk/clanky/15171/video-hasici-zasahovali-pri-poziari-pola-v-raci-plamene-slahali-do-vysky-niekolkych-metrov",
-      "time": "2026-08-28T12:54:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787940676-video-hasici-zasahovali-pri-poziari-pola-v-raci-plamene-slahali-do-vysky-niekolkych-metrov.webp"
     }
   ]
 }

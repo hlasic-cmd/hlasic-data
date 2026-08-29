@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T11:55:53.744425+00:00",
+  "generated_at": "2026-08-29T12:01:44.236171+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 4,
   "items": [
     {
       "title": "Rozsiahly požiar pri Prievidzi ohrozoval lesný porast. Hasiči z Liešťan ho zlikvidovali v priebehu hodiny",
@@ -38,15 +38,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787989371-vodici-pozor-pred-rusovcami-doslo-k-tragickej-nehode-troch-aut-cesta-je-neprejazdna.webp"
-    },
-    {
-      "title": "Tragické ráno v Bratislave: Roztrieskané autá a jedna obeť",
-      "link": "https://www1.pluska.sk/krimi/tragicke-rano-v-bratislave-roztrieskane-auta-a-jedna-obet",
-      "time": "2026-08-29T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/90d/90da9507-bb47-40c7-af4b-5a55705b4503.webp"
     }
   ]
 }

@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-29T10:43:30.444763+00:00",
+  "generated_at": "2026-08-29T10:49:04.694275+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 5,
   "items": [
+    {
+      "title": "Rozsiahly požiar pri Prievidzi ohrozoval lesný porast. Hasiči z Liešťan ho zlikvidovali v priebehu hodiny",
+      "link": "https://www.aktuality.sk/clanok/9ASxyXc/rozsiahly-poziar-pri-prievidzi-ohrozoval-lesny-porast-hasici-z-liestan-ho-zlikvidovali-v-priebehu-hodiny/",
+      "time": "2026-08-29T10:44:10+00:00",
+      "cat": "poziar",
+      "region": "trenciansky",
+      "src": "aktuality.sk",
+      "image": null
+    },
     {
       "title": "Požiar trávy na Hornej Nitre ohrozoval les. Hasiči bojovali s plameňmi na veľkej ploche",
       "link": "https://www.trencinak.sk/clanky/13583/foto-dramaticky-zasah-hasicov-na-hornej-nitre-rozsiahly-poziar-travy-sa-nebezpecne-priblizil-k-lesu",

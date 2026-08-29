@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T14:11:51.762571+00:00",
+  "generated_at": "2026-08-29T14:17:29.025881+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 6,
   "items": [
     {
       "title": "Úrad: Po vypnutí ETCS je riziko nehody, ak rušňovodič nedodrží návesti",
@@ -11,6 +11,15 @@
       "region": null,
       "src": "teraz.sk",
       "image": null
+    },
+    {
+      "title": "FOTO: Stačila búrka a rodina z Novej Bane prišla o garáž aj hospodárske budovy",
+      "link": "https://www.bystricak.sk/clanky/12827/foto-rodinu-z-novej-bane-postihla-pocas-burky-tragedia-pri-poziari-prisili-o-garaz-aj-budovy-ludia-sa-ihned-spojili",
+      "time": "2026-08-29T14:00:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787741053-foto-rodinu-z-novej-bane-postihla-pocas-burky-tragedia-pri-poziari-prisili-o-garaz-aj-budovy-ludia-sa-ihned-spojili.webp"
     },
     {
       "title": "Prešovskí policajti hľadajú svedkov nehody cyklistu: 70-ročný muž skončil v nemocnici",

@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-29T10:03:46.333988+00:00",
+  "generated_at": "2026-08-29T10:09:21.336480+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 4,
   "items": [
+    {
+      "title": "Požiar trávy na Hornej Nitre ohrozoval les. Hasiči bojovali s plameňmi na veľkej ploche",
+      "link": "https://www.trencinak.sk/clanky/13583/foto-dramaticky-zasah-hasicov-na-hornej-nitre-rozsiahly-poziar-travy-sa-nebezpecne-priblizil-k-lesu",
+      "time": "2026-08-29T09:40:00+00:00",
+      "cat": "poziar",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1787993613-foto-dramaticky-zasah-hasicov-na-hornej-nitre-rozsiahly-poziar-travy-sa-nebezpecne-priblizil-k-lesu.webp"
+    },
     {
       "title": "NEPREJAZDNÉ: Medzi Bratislavou a Rusovcami sa stala tragická nehoda",
       "link": "https://www.teraz.sk/regiony/neprejadzdne-medzi-bratislavou-a-rusov/988348-clanok.html",

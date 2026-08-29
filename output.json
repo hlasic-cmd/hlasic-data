@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-29T15:12:37.481690+00:00",
+  "generated_at": "2026-08-29T15:18:08.018436+00:00",
   "max_age_hours": 12,
   "count": 6,
   "items": [
+    {
+      "title": "Berggericht v Banskej Štiavnici obnovia po požiari za 4,8 milióna eur",
+      "link": "https://www.bystricak.sk/clanky/12854/historicku-budovu-v-banskej-stiavnici-caka-rekonstrukcia-po-nicivom-poziari-potrva-rok-a-bude-stat-48-miliona-eur",
+      "time": "2026-08-29T15:00:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787755679-historicku-budovu-v-banskej-stiavnici-caka-rekonstrukcia-po-nicivom-poziari-potrva-rok-a-bude-stat-48-miliona-eur.webp"
+    },
     {
       "title": "Úrad: Po vypnutí ETCS je riziko nehody, ak rušňovodič nedodrží návesti",
       "link": "https://www.teraz.sk/slovensko/urad-po-vypnuti-etcs-je-riziko-nehody/988418-clanok.html",
@@ -29,15 +38,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788010706-presovska-policia-hlada-svedkov-nehody-pri-ktorej-sa-zranil-cyklista-70rocny-muz-skoncil-v-nemocnici.webp"
-    },
-    {
-      "title": "Rozsiahly požiar pri Prievidzi ohrozoval lesný porast. Hasiči z Liešťan ho zlikvidovali v priebehu hodiny",
-      "link": "https://www.aktuality.sk/clanok/9ASxyXc/rozsiahly-poziar-pri-prievidzi-ohrozoval-lesny-porast-hasici-z-liestan-ho-zlikvidovali-v-priebehu-hodiny/",
-      "time": "2026-08-29T10:44:10+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "aktuality.sk",
-      "image": null
     },
     {
       "title": "Požiar trávy na Hornej Nitre ohrozoval les. Hasiči bojovali s plameňmi na veľkej ploche",

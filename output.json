@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T01:11:00.023106+00:00",
+  "generated_at": "2026-08-29T01:17:03.883488+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "title": "Požiar automobilu uzavrel jednu rúru tunela Višňové, diaľnica je neprejazdná",
@@ -29,15 +29,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787922934-na-horehroni-zrazil-vlak-medveda-zranene-zviera-po-nehode-uslo-v-terene-ho-hladaju-drony-aj-psy.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnom 14-ročnom Markovi z Bratislavy. Môže sa prepravovať hromadnou dopravou",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2031803-policia-patra-po-nezvestnom-14-rocnom-markovi-z-bratislavy-moze-sa-prepravovat-hromadnou-dopravou?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-28T13:12:43+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2022/01/31/4x3-medium/policia-pomahat-a-chranit-policajne-auto.jpg?v=06k"
     }
   ]
 }

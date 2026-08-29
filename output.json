@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-08-29T07:48:15.449683+00:00",
+  "generated_at": "2026-08-29T07:53:55.997389+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 3,
   "items": [
+    {
+      "title": "NEPREJAZDNÉ: Medzi Bratislavou a Rusovcami sa stala tragická nehoda",
+      "link": "https://www.teraz.sk/regiony/neprejadzdne-medzi-bratislavou-a-rusov/988348-clanok.html",
+      "time": "2026-08-29T07:46:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V Bratislave pred Rusovcami sa zrazili dve autá, úsek je neprejazdný",
+      "link": "https://www.bratislavak.sk/clanky/15175/vodici-pozor-pred-rusovcami-doslo-k-tragickej-nehode-troch-aut-cesta-je-neprejazdna",
+      "time": "2026-08-29T07:20:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787989371-vodici-pozor-pred-rusovcami-doslo-k-tragickej-nehode-troch-aut-cesta-je-neprejazdna.webp"
+    },
     {
       "title": "Sobota prinesie teploty až do 31 stupňov. Na severe a východe sa môžu objaviť búrky",
       "link": "https://www.aktuality.sk/clanok/ksdnVCg/sobota-prinesie-teploty-az-do-31-stupnov-na-severe-a-vychode-sa-mozu-objavit-burky/",

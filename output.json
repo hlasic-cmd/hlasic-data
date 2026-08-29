@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T08:44:46.403792+00:00",
+  "generated_at": "2026-08-29T08:50:30.686742+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "title": "NEPREJAZDNÉ: Medzi Bratislavou a Rusovcami sa stala tragická nehoda",
@@ -20,15 +20,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1787989371-vodici-pozor-pred-rusovcami-doslo-k-tragickej-nehode-troch-aut-cesta-je-neprejazdna.webp"
-    },
-    {
-      "title": "Sobota prinesie teploty až do 31 stupňov. Na severe a východe sa môžu objaviť búrky",
-      "link": "https://www.aktuality.sk/clanok/ksdnVCg/sobota-prinesie-teploty-az-do-31-stupnov-na-severe-a-vychode-sa-mozu-objavit-burky/",
-      "time": "2026-08-29T04:30:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": null
     }
   ]
 }

@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-08-30T01:37:16.181816+00:00",
+  "generated_at": "2026-08-30T07:19:56.100582+00:00",
   "max_age_hours": 12,
-  "count": 4,
-  "items": [
-    {
-      "title": "Berggericht v Banskej Štiavnici obnovia po požiari za 4,8 milióna eur",
-      "link": "https://www.bystricak.sk/clanky/12854/historicku-budovu-v-banskej-stiavnici-caka-rekonstrukcia-po-nicivom-poziari-potrva-rok-a-bude-stat-48-miliona-eur",
-      "time": "2026-08-29T15:00:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787755679-historicku-budovu-v-banskej-stiavnici-caka-rekonstrukcia-po-nicivom-poziari-potrva-rok-a-bude-stat-48-miliona-eur.webp"
-    },
-    {
-      "title": "Úrad: Po vypnutí ETCS je riziko nehody, ak rušňovodič nedodrží návesti",
-      "link": "https://www.teraz.sk/slovensko/urad-po-vypnuti-etcs-je-riziko-nehody/988418-clanok.html",
-      "time": "2026-08-29T14:02:00+00:00",
-      "cat": "nehoda",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "FOTO: Stačila búrka a rodina z Novej Bane prišla o garáž aj hospodárske budovy",
-      "link": "https://www.bystricak.sk/clanky/12827/foto-rodinu-z-novej-bane-postihla-pocas-burky-tragedia-pri-poziari-prisili-o-garaz-aj-budovy-ludia-sa-ihned-spojili",
-      "time": "2026-08-29T14:00:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1787741053-foto-rodinu-z-novej-bane-postihla-pocas-burky-tragedia-pri-poziari-prisili-o-garaz-aj-budovy-ludia-sa-ihned-spojili.webp"
-    },
-    {
-      "title": "Prešovskí policajti hľadajú svedkov nehody cyklistu: 70-ročný muž skončil v nemocnici",
-      "link": "https://www.presovak.sk/clanky/15185/presovska-policia-hlada-svedkov-nehody-pri-ktorej-sa-zranil-cyklista-70-rocny-muz-skoncil-v-nemocnici",
-      "time": "2026-08-29T13:38:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788010706-presovska-policia-hlada-svedkov-nehody-pri-ktorej-sa-zranil-cyklista-70rocny-muz-skoncil-v-nemocnici.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

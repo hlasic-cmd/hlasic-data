@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-08-30T12:58:17.411151+00:00",
+  "generated_at": "2026-08-30T17:08:06.686540+00:00",
   "max_age_hours": 12,
   "count": 7,
   "items": [
+    {
+      "title": "Pri Rožňave havaroval 11-ročný chlapec na kolobežke, letel do Košíc",
+      "link": "https://www.kosicak.sk/clanky/13912/11-rocny-chlapec-skusal-pri-roznave-ist-na-kolobezke-na-zadnom-po-vaznom-zraneni-hlavy-siel-do-nemocnice-vrtulnikom",
+      "time": "2026-08-30T14:44:00+00:00",
+      "cat": "zasah",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788101146-11rocny-chlapec-skusal-pri-roznave-ist-na-kolobezke-na-zadnom-po-vaznom-zraneni-hlavy-siel-do-nemocnice-vrtulnikom.webp"
+    },
+    {
+      "title": "Školák jazdil na zadnom kolese kolobežky a spadol. Poranil si hlavu, upadol do bezvedomia",
+      "link": "https://korzar.sme.sk/spis-gemer/c/skolak-jazdil-na-zadnom-kolese-kolobezky-spadol-a-zranil-si-hlavu-zasahoval-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-30T13:26:50+00:00",
+      "cat": "zasah",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/019b6672-fd49-71f7-af79-84e73b1fd25d.jpg"
+    },
+    {
+      "title": "Nehody v Bratislave tvoria kolóny na D1, Šancovej aj Gagarinovej",
+      "link": "https://www.bratislavak.sk/clanky/15181/nehody-v-bratislave-komplikuju-dopravu-a-tvoria-kolony-na-d1-na-sancovej-aj-gagarinovej-nevyhnete-sa-ani-dalsej-kolone",
+      "time": "2026-08-30T13:11:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788095474-nehody-v-bratislave-komplikuju-dopravu-a-tvoria-kolony-na-d1-na-sancovej-aj-gagarinovej-nevyhnete-sa-ani-dalsej-kolone.webp"
+    },
+    {
+      "title": "Tri nehody hlásia na D1 pri Mengusovciach a tuneli Bôrik, aj v Kapušanoch",
+      "link": "https://www.presovak.sk/clanky/15186/tri-nehody-komplikuju-dopravu-na-d1-a-aj-pod-tatrami-poriadne-sa-tu-zdrzite",
+      "time": "2026-08-30T13:10:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788094970-tri-nehody-komplikuju-dopravu-na-d1-a-aj-pod-tatrami-poriadne-sa-tu-zdrzite.webp"
+    },
+    {
+      "title": "Košický kraj hlási nové nehody, auto sa zrazilo s motorkou",
+      "link": "https://www.kosicak.sk/clanky/13911/v-kosiciach-sa-zrazilo-auto-s-motorkou-v-kraji-komplikuju-dopravu-dalsie-dve-nehody",
+      "time": "2026-08-30T13:10:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788095218-v-kosiciach-sa-zrazilo-auto-s-motorkou-v-kraji-komplikuju-dopravu-dalsie-dve-nehody.webp"
+    },
     {
       "title": "Tragédia v obci Koš: Cyklista neprežil zrážku s cúvajúcim traktorom",
       "link": "https://www.aktuality.sk/clanok/CETf0OV/tragedia-v-obci-kos-cyklista-neprezil-zrazku-s-cuvajucim-traktorom/",
@@ -20,51 +65,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788085615-tragicka-nehoda-pri-prievidzi-traktor-s-vleckou-pri-cuvani-zrazil-cyklistu-soferoval-22rocny-vodic.webp"
-    },
-    {
-      "title": "Na okraji Trnavy zhorel objekt patriaci židovskej obci",
-      "link": "https://www.teraz.sk/regiony/na-okraji-trnavy-zhorel-objekt-patriaci/988504-clanok.html",
-      "time": "2026-08-30T08:55:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Požiar v obci Ludrová: Plamene zničili traktor aj drevo, zranil sa jeden človek",
-      "link": "https://www.aktuality.sk/clanok/hv2gdNd/poziar-v-obci-ludrova-plamene-znicili-traktor-aj-drevo-zranil-sa-jeden-clovek/",
-      "time": "2026-08-30T08:37:04+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Požiar v tuneli Višňové. Auto sa samovznietilo, ľudia sa museli ukryť v únikových východoch",
-      "link": "https://www.zilinak.sk/clanky/42571/pod-poziar-v-tuneli-visnove-sa-podpisalo-samovznietenie-auta-ludia-sa-museli-ukryt-v-unikovych-vychodoch",
-      "time": "2026-08-30T08:33:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788078811-pod-poziar-v-tuneli-visnove-sa-podpisalo-samovznietenie-auta-ludia-sa-museli-ukryt-v-unikovych-vychodoch.webp"
-    },
-    {
-      "title": "Na okraji Trnavy v lokalite Kamenný mlyn zhorel objekt, ktorý patrí židovskej obci",
-      "link": "https://www.aktuality.sk/clanok/yYVcucD/na-okraji-trnavy-v-lokalite-kamenny-mlyn-zhorel-objekt-ktory-patri-zidovskej-obci/",
-      "time": "2026-08-30T08:31:49+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Požiar v Ludrovej: Horel traktor a 40 kubíkov dreva, škoda je 10-tisíc eur",
-      "link": "https://www.zilinak.sk/clanky/42569/poziar-pri-ruzomberku-zasiahol-traktor-aj-desiatky-kubikov-dreva-jedna-osoba-utrpela-popaleniny",
-      "time": "2026-08-30T07:30:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788073855-poziar-pri-ruzomberku-zasiahol-traktor-aj-desiatky-kubikov-dreva-jedna-osoba-utrpela-popaleniny.webp"
     }
   ]
 }

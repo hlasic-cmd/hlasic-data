@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-30T19:47:16.484974+00:00",
+  "generated_at": "2026-08-30T22:06:21.188833+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 6,
   "items": [
+    {
+      "title": "Vážna nehoda na východe Slovenska: Dvaja ľudia neprežili, ďalší je vážne zranený",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2032695-vazna-nehoda-medzi-malcicami-a-kacanovom-dvaja-ludia-neprezili-dalsi-je-vazne-zraneny?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-30T20:49:57+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/12/2517433/4x3-medium/dopravna-nehoda-policia-pavol-krejci.jpg?v=GxU"
+    },
     {
       "title": "Pri Rožňave havaroval 11-ročný chlapec na kolobežke, letel do Košíc",
       "link": "https://www.kosicak.sk/clanky/13912/11-rocny-chlapec-skusal-pri-roznave-ist-na-kolobezke-na-zadnom-po-vaznom-zraneni-hlavy-siel-do-nemocnice-vrtulnikom",
@@ -40,15 +49,6 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788094970-tri-nehody-komplikuju-dopravu-na-d1-a-aj-pod-tatrami-poriadne-sa-tu-zdrzite.webp"
     },
     {
-      "title": "Košický kraj hlási nové nehody, auto sa zrazilo s motorkou",
-      "link": "https://www.kosicak.sk/clanky/13911/v-kosiciach-sa-zrazilo-auto-s-motorkou-v-kraji-komplikuju-dopravu-dalsie-dve-nehody",
-      "time": "2026-08-30T13:10:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788095218-v-kosiciach-sa-zrazilo-auto-s-motorkou-v-kraji-komplikuju-dopravu-dalsie-dve-nehody.webp"
-    },
-    {
       "title": "Tragédia v obci Koš: Cyklista neprežil zrážku s cúvajúcim traktorom",
       "link": "https://www.aktuality.sk/clanok/CETf0OV/tragedia-v-obci-kos-cyklista-neprezil-zrazku-s-cuvajucim-traktorom/",
       "time": "2026-08-30T10:27:54+00:00",
@@ -56,24 +56,6 @@
       "region": "trenciansky",
       "src": "aktuality.sk",
       "image": null
-    },
-    {
-      "title": "Tragická nehoda v Koši: Traktor pri cúvaní zrazil 55-ročného cyklistu",
-      "link": "https://www.trencinak.sk/clanky/13587/tragicka-nehoda-pri-prievidzi-traktor-s-vleckou-pri-cuvani-zrazil-cyklistu-soferoval-22-rocny-vodic",
-      "time": "2026-08-30T10:26:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788085615-tragicka-nehoda-pri-prievidzi-traktor-s-vleckou-pri-cuvani-zrazil-cyklistu-soferoval-22rocny-vodic.webp"
-    },
-    {
-      "title": "Požiar v tuneli Višňové. Auto sa samovznietilo, ľudia sa museli ukryť v únikových východoch",
-      "link": "https://www.zilinak.sk/clanky/42571/pod-poziar-v-tuneli-visnove-sa-podpisalo-samovznietenie-auta-ludia-sa-museli-ukryt-v-unikovych-vychodoch",
-      "time": "2026-08-30T08:33:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788078811-pod-poziar-v-tuneli-visnove-sa-podpisalo-samovznietenie-auta-ludia-sa-museli-ukryt-v-unikovych-vychodoch.webp"
     }
   ]
 }

@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-08-31T00:27:22.080625+00:00",
+  "generated_at": "2026-08-31T05:51:34.843109+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 2,
   "items": [
+    {
+      "title": "Pri čelnej zrážke áut v okrese Michalovce zahynuli dvaja ľudia",
+      "link": "https://www.teraz.sk/regiony/pri-celnej-zrazke-aut-v-okrese-micha/988626-clanok.html",
+      "time": "2026-08-31T05:13:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Vážna nehoda na východe Slovenska: Dvaja ľudia neprežili, ďalší je vážne zranený",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2032695-vazna-nehoda-medzi-malcicami-a-kacanovom-dvaja-ludia-neprezili-dalsi-je-vazne-zraneny?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -11,42 +20,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/08/12/2517433/4x3-medium/dopravna-nehoda-policia-pavol-krejci.jpg?v=GxU"
-    },
-    {
-      "title": "Pri Rožňave havaroval 11-ročný chlapec na kolobežke, letel do Košíc",
-      "link": "https://www.kosicak.sk/clanky/13912/11-rocny-chlapec-skusal-pri-roznave-ist-na-kolobezke-na-zadnom-po-vaznom-zraneni-hlavy-siel-do-nemocnice-vrtulnikom",
-      "time": "2026-08-30T14:44:00+00:00",
-      "cat": "zasah",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788101146-11rocny-chlapec-skusal-pri-roznave-ist-na-kolobezke-na-zadnom-po-vaznom-zraneni-hlavy-siel-do-nemocnice-vrtulnikom.webp"
-    },
-    {
-      "title": "Školák jazdil na zadnom kolese kolobežky a spadol. Poranil si hlavu, upadol do bezvedomia",
-      "link": "https://korzar.sme.sk/spis-gemer/c/skolak-jazdil-na-zadnom-kolese-kolobezky-spadol-a-zranil-si-hlavu-zasahoval-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-30T13:26:50+00:00",
-      "cat": "zasah",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/019b6672-fd49-71f7-af79-84e73b1fd25d.jpg"
-    },
-    {
-      "title": "Nehody v Bratislave tvoria kolóny na D1, Šancovej aj Gagarinovej",
-      "link": "https://www.bratislavak.sk/clanky/15181/nehody-v-bratislave-komplikuju-dopravu-a-tvoria-kolony-na-d1-na-sancovej-aj-gagarinovej-nevyhnete-sa-ani-dalsej-kolone",
-      "time": "2026-08-30T13:11:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788095474-nehody-v-bratislave-komplikuju-dopravu-a-tvoria-kolony-na-d1-na-sancovej-aj-gagarinovej-nevyhnete-sa-ani-dalsej-kolone.webp"
-    },
-    {
-      "title": "Tri nehody hlásia na D1 pri Mengusovciach a tuneli Bôrik, aj v Kapušanoch",
-      "link": "https://www.presovak.sk/clanky/15186/tri-nehody-komplikuju-dopravu-na-d1-a-aj-pod-tatrami-poriadne-sa-tu-zdrzite",
-      "time": "2026-08-30T13:10:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788094970-tri-nehody-komplikuju-dopravu-na-d1-a-aj-pod-tatrami-poriadne-sa-tu-zdrzite.webp"
     }
   ]
 }

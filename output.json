@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T18:12:20.488026+00:00",
+  "generated_at": "2026-08-31T22:48:04.201744+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 8,
   "items": [
     {
       "title": "Tragická nehoda pri Sládkovičove: Zrazili sa kamión a osobné auto",
@@ -67,24 +67,6 @@
       "image": null
     },
     {
-      "title": "Trenčiansky kraj zažije rozlúčku s letom poriadne búrlivo",
-      "link": "https://www.trencinak.sk/clanky/13600/v-posledny-prazdninovy-den-budu-lietat-celym-trencianskym-krajom-hromy-a-blesky-upozornuju-meteorologovia-z-shmu",
-      "time": "2026-08-31T12:15:00+00:00",
-      "cat": "burka",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788177534-v-posledny-prazdninovy-den-budu-lietat-celym-trencianskym-krajom-hromy-a-blesky-upozornuju-meteorologovia-z-shmu.webp"
-    },
-    {
-      "title": "Pri Sládkovičove sa zrazil kamión s osobným autom, vodič zrážku neprežil",
-      "link": "https://www.trnavak.sk/clanky/12006/na-podunajsku-doslo-k-tragickej-dopravnej-nehode-za-sladkovicovom-sa-zrazilo-auto-s-kamionom-vodic-na-mieste-zomrel",
-      "time": "2026-08-31T12:10:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788193393-na-podunajsku-doslo-k-tragickej-dopravnej-nehode-za-sladkovicovom-sa-zrazilo-auto-s-kamionom-vodic-na-mieste-zomrel.webp"
-    },
-    {
       "title": "FOTO: Útulňa, ktorá mala slúžiť turistom, je po požiari zničená",
       "link": "https://www.bystricak.sk/clanky/12900/foto-poziar-znicil-oblubenu-turisticku-utulnu-na-horehroni-ludia-nechapu-ako-mohol-byt-niekto-taky-bezohladny",
       "time": "2026-08-31T12:00:00+00:00",
@@ -92,15 +74,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788173819-foto-poziar-znicil-oblubenu-turisticku-utulnu-na-horehroni-ludia-nechapu-ako-mohol-byt-niekto-taky-bezohladny.webp"
-    },
-    {
-      "title": "VIDEO: Na D1 pri Spišskom Štvrtku došlo k požiaru vozidla, cesta je uzatvorená",
-      "link": "https://www.presovak.sk/clanky/15196/video-na-d1-pri-spisskom-stvrtku-doslo-k-poziaru-vozidla-cesta-je-uzatvorena",
-      "time": "2026-08-31T11:37:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788178591-video-na-d1-pri-spisskom-stvrtku-doslo-k-poziaru-vozidla-cesta-je-uzatvorena.webp"
     }
   ]
 }

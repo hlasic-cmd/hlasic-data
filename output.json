@@ -1,124 +1,106 @@
 {
-  "generated_at": "2026-08-31T11:52:52.097636+00:00",
+  "generated_at": "2026-08-31T18:12:20.488026+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 11,
   "items": [
     {
-      "title": "FOTO: Dávajte si pozor, na D1 pri Spišskom Štvrtku horí auto",
-      "link": "https://www.presovak.sk/clanky/15196/foto-davajte-si-pozor-na-d1-pri-spisskom-stvrtku-hori-auto",
-      "time": "2026-08-31T11:37:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788176215-foto-davajte-si-pozor-na-d1-pri-spisskom-stvrtku-hori-auto.webp"
-    },
-    {
-      "title": "Polícia v Žilinskom kraji odhalila 15 vodičov pod vplyvom alkoholu",
-      "link": "https://www.teraz.sk/regiony/policia-v-zilinskom-kraji-odhalila-15/988743-clanok.html",
-      "time": "2026-08-31T11:08:00+00:00",
+      "title": "Tragická nehoda pri Sládkovičove: Zrazili sa kamión a osobné auto",
+      "link": "https://www.teraz.sk/regiony/policia-pri-sladkovicove-sa-v-pondel/988853-clanok.html",
+      "time": "2026-08-31T16:41:00+00:00",
       "cat": "nehoda",
-      "region": "zilinsky",
+      "region": "trnavsky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "V Košickom kraji počítajte s vysokými teplotami aj búrkami",
-      "link": "https://www.kosicak.sk/clanky/13930/letne-prazdniny-sa-s-vychodniarmi-lucia-vo-velkom-style-shmu-vydal-pre-vsetky-okresy-kosickeho-kraja-viacere-vystrahy",
-      "time": "2026-08-31T11:00:00+00:00",
+      "title": "BÚRKY NA SLOVENSKU: Varujú pred nárazovým vetrom s krúpami",
+      "link": "https://www.teraz.sk/slovensko/shmu-v-pondelok-vecer-plati-na-celom/988844-clanok.html",
+      "time": "2026-08-31T16:07:00+00:00",
       "cat": "burka",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Požiar neďaleko Košíc zasiahol už približne osem hektárov lesa, na mieste zasahuje aj vrtuľník",
+      "link": "https://www.kosicak.sk/clanky/13938/foto-nedaleko-kosic-vypukol-poziar-z-travy-sa-rozsiril-do-lesa-zasiahol-uz-osem-hektarov-na-miesto-vyslali-vrtulnik",
+      "time": "2026-08-31T15:49:00+00:00",
+      "cat": "poziar",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788168018-letne-prazdniny-sa-s-vychodniarmi-lucia-vo-velkom-style-shmu-vydal-pre-vsetky-okresy-kosickeho-kraja-viacere-vystrahy.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788191374-foto-nedaleko-kosic-vypukol-poziar-z-travy-sa-rozsiril-do-lesa-zasiahol-uz-osem-hektarov-na-miesto-vyslali-vrtulnik.webp"
     },
     {
-      "title": "Pri čelnej zrážke áut v okrese Michalovce zahynul človek",
-      "link": "https://www.teraz.sk/regiony/pri-celnej-zrazke-aut-v-okrese-micha/988626-clanok.html",
-      "time": "2026-08-31T10:24:00+00:00",
-      "cat": "nehoda",
+      "title": "Plamene zachvátili osem hektárov lesa na východe Slovenska. Do boja smeruje aj vojenský vrtuľník",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2033271-plamene-zachvatili-osem-hektarov-lesa-na-vychode-slovenska-do-boja-smeruje-aj-vojensky-vrtulnik?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-08-31T15:30:00+00:00",
+      "cat": "poziar",
       "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/31/2525153/4x3-medium/pri-vysnom-medzeve-hori-les-zasahuju-profesionalni-aj-dobrovolni-hasici.jpg?v=T/w"
     },
     {
-      "title": "Pozor, v Kľačne sa stala nehoda dvoch áut",
-      "link": "https://www.trencinak.sk/clanky/13596/vodici-pozor-v-klacne-na-hlavnom-tahu-sa-zrazili-dve-auta-blokovany-je-jeden-pruh",
-      "time": "2026-08-31T10:14:00+00:00",
+      "title": "Polícia upozorňuje vodičov na dopravné obmedzenie pri Považskej Bystrici",
+      "link": "https://www.trencinak.sk/clanky/13602/vazna-dopravna-nehoda-pri-povazskej-bystrici-uzavrela-cestu-policia-ziada-vodicov-aby-na-mieste-respektovali-pokyny",
+      "time": "2026-08-31T14:34:00+00:00",
       "cat": "nehoda",
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Na ceste do Rimavskej Soboty sa stala nehoda",
-      "link": "https://www.bystricak.sk/clanky/12901/na-hlavnom-tahu-do-rimavskej-soboty-doslo-k-nehode-policia-riadi-premavku-vodici-si-pockaju",
-      "time": "2026-08-31T10:06:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788172106-na-hlavnom-tahu-do-rimavskej-soboty-doslo-k-nehode-policia-riadi-premavku-vodici-si-pockaju.webp"
+      "title": "Požiar pri Vyšnom Medzeve zasiahol osem hektárov lesa, zasahuje aj vrtuľník",
+      "link": "https://korzar.sme.sk/kosice/c/poziar-pri-vysnom-medzeve-zasiahol-osem-hektarov-lesa-zasahuje-aj-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-08-31T14:22:29+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a05831-efe8-7961-b073-06eeadb5c0c2.jpg"
     },
     {
-      "title": "Trenčianski policajti cvičili vo výškach aj strieľali z vrtuľníka",
-      "link": "https://www.trencinak.sk/clanky/13593/video-policajti-z-trencina-trenovali-vo-vyskach-nechybala-ani-strelba-z-vrtulnika",
-      "time": "2026-08-31T09:40:00+00:00",
-      "cat": "zasah",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788169055-video-policajti-z-trencina-trenovali-vo-vyskach-nechybala-ani-strelba-z-vrtulnika.webp"
-    },
-    {
-      "title": "Starý vlek v Jasnej definitívne odstránili z Derešského kotla, pomáhal aj Black Hawk",
-      "link": "https://www.zilinak.sk/clanky/42581/chopok-prisiel-o-ticheho-svedka-davnej-lyziarskej-historie-stary-vlek-odstranoval-aj-vrtulnik-black-hawk",
-      "time": "2026-08-31T09:40:00+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788165240-chopok-prisiel-o-ticheho-svedka-davnej-lyziarskej-historie-stary-vlek-odstranoval-aj-vrtulnik-black-hawk.webp"
-    },
-    {
-      "title": "V Banskobystrickom kraji platí výstraha pred horúčavou aj búrkami",
-      "link": "https://www.bystricak.sk/clanky/12899/burky-mozu-zasiahnut-cely-banskobystricky-kraj-shmu-vydal-vystrahy-na-juhu-bude-este-poriadne-horuco",
-      "time": "2026-08-31T09:20:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788166675-burky-mozu-zasiahnut-cely-banskobystricky-kraj-shmu-vydal-vystrahy-na-juhu-bude-este-poriadne-horuco.webp"
-    },
-    {
-      "title": "Nové vrtuľníky Black Hawk sú už na 51. vrtuľníkovom krídle v Prešove",
-      "link": "https://www.teraz.sk/slovensko/nove-vrtulniky-black-hawk-su-uz-na/988681-clanok.html",
-      "time": "2026-08-31T08:42:00+00:00",
-      "cat": "zasah",
-      "region": "presovsky",
+      "title": "Pri Vyšnom Medzeve horí les",
+      "link": "https://www.teraz.sk/regiony/pri-vysnom-medzeve-hori-les/988812-clanok.html",
+      "time": "2026-08-31T14:22:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Nové Black Hawky sú už v Prešove. Slovenská armáda prevzala ďalšie vrtuľníky",
-      "link": "https://korzar.sme.sk/presov/c/nove-black-hawky-su-uz-v-presove-slovenska-armada-prevzala-dalsie-vrtulniky?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-31T08:39:02+00:00",
-      "cat": "zasah",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a056f7-a5bc-7e12-8226-78b999252ccf.jpg"
-    },
-    {
-      "title": "SHMÚ vydal výstrahu pred búrkami pre celý Trenčiansky kraj",
-      "link": "https://www.trencinak.sk/clanky/13590/pozor-v-pondelok-hrozia-v-trencianskom-kraji-burky-vystraha-plati-pre-vsetky-okresy",
-      "time": "2026-08-31T07:50:00+00:00",
+      "title": "Trenčiansky kraj zažije rozlúčku s letom poriadne búrlivo",
+      "link": "https://www.trencinak.sk/clanky/13600/v-posledny-prazdninovy-den-budu-lietat-celym-trencianskym-krajom-hromy-a-blesky-upozornuju-meteorologovia-z-shmu",
+      "time": "2026-08-31T12:15:00+00:00",
       "cat": "burka",
       "region": "trenciansky",
       "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788156890-pozor-v-pondelok-hrozia-v-trencianskom-kraji-burky-vystraha-plati-pre-vsetky-okresy.webp"
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788177534-v-posledny-prazdninovy-den-budu-lietat-celym-trencianskym-krajom-hromy-a-blesky-upozornuju-meteorologovia-z-shmu.webp"
     },
     {
-      "title": "Bratislavu a okolie brzdia nefunkčné semafory, nehoda aj cvičenie",
-      "link": "https://www.bratislavak.sk/clanky/15186/ranne-komplikacie-v-bratislave-a-okoli-nefunguju-semafory-a-dopravu-brzdi-nehoda-kolony-aj-vojenske-cvicenie",
-      "time": "2026-08-31T06:23:00+00:00",
+      "title": "Pri Sládkovičove sa zrazil kamión s osobným autom, vodič zrážku neprežil",
+      "link": "https://www.trnavak.sk/clanky/12006/na-podunajsku-doslo-k-tragickej-dopravnej-nehode-za-sladkovicovom-sa-zrazilo-auto-s-kamionom-vodic-na-mieste-zomrel",
+      "time": "2026-08-31T12:10:00+00:00",
       "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788159808-ranne-komplikacie-v-bratislave-a-okoli-nefunguju-semafory-a-dopravu-brzdi-nehoda-kolony-aj-vojenske-cvicenie.webp"
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788193393-na-podunajsku-doslo-k-tragickej-dopravnej-nehode-za-sladkovicovom-sa-zrazilo-auto-s-kamionom-vodic-na-mieste-zomrel.webp"
+    },
+    {
+      "title": "FOTO: Útulňa, ktorá mala slúžiť turistom, je po požiari zničená",
+      "link": "https://www.bystricak.sk/clanky/12900/foto-poziar-znicil-oblubenu-turisticku-utulnu-na-horehroni-ludia-nechapu-ako-mohol-byt-niekto-taky-bezohladny",
+      "time": "2026-08-31T12:00:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788173819-foto-poziar-znicil-oblubenu-turisticku-utulnu-na-horehroni-ludia-nechapu-ako-mohol-byt-niekto-taky-bezohladny.webp"
+    },
+    {
+      "title": "VIDEO: Na D1 pri Spišskom Štvrtku došlo k požiaru vozidla, cesta je uzatvorená",
+      "link": "https://www.presovak.sk/clanky/15196/video-na-d1-pri-spisskom-stvrtku-doslo-k-poziaru-vozidla-cesta-je-uzatvorena",
+      "time": "2026-08-31T11:37:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788178591-video-na-d1-pri-spisskom-stvrtku-doslo-k-poziaru-vozidla-cesta-je-uzatvorena.webp"
     }
   ]
 }

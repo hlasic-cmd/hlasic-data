@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T22:06:21.188833+00:00",
+  "generated_at": "2026-08-31T00:27:22.080625+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 5,
   "items": [
     {
       "title": "Vážna nehoda na východe Slovenska: Dvaja ľudia neprežili, ďalší je vážne zranený",
@@ -47,15 +47,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788094970-tri-nehody-komplikuju-dopravu-na-d1-a-aj-pod-tatrami-poriadne-sa-tu-zdrzite.webp"
-    },
-    {
-      "title": "Tragédia v obci Koš: Cyklista neprežil zrážku s cúvajúcim traktorom",
-      "link": "https://www.aktuality.sk/clanok/CETf0OV/tragedia-v-obci-kos-cyklista-neprezil-zrazku-s-cuvajucim-traktorom/",
-      "time": "2026-08-30T10:27:54+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "aktuality.sk",
-      "image": null
     }
   ]
 }

@@ -1,70 +1,52 @@
 {
-  "generated_at": "2026-09-01T01:24:45.455435+00:00",
+  "generated_at": "2026-09-01T06:18:22.328021+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 5,
   "items": [
     {
-      "title": "Tragická nehoda pri Sládkovičove: Zrazili sa kamión a osobné auto",
-      "link": "https://www.teraz.sk/regiony/policia-pri-sladkovicove-sa-v-pondel/988853-clanok.html",
-      "time": "2026-08-31T16:41:00+00:00",
+      "title": "Kežmarok: Vodič po náraze do obrubníka nafúkal viac ako 2 promile",
+      "link": "https://www.presovak.sk/clanky/15198/dopravna-nehoda-v-okrese-kezmarok-vodic-narazil-do-betonoveho-obrubnika-v-dychu-mal-viac-ako-2-promile",
+      "time": "2026-09-01T05:40:00+00:00",
       "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "teraz.sk",
-      "image": null
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788179842-dopravna-nehoda-v-okrese-kezmarok-vodic-narazil-do-betonoveho-obrubnika-v-dychu-mal-viac-ako-2-promile.webp"
     },
     {
-      "title": "BÚRKY NA SLOVENSKU: Varujú pred nárazovým vetrom s krúpami",
-      "link": "https://www.teraz.sk/slovensko/shmu-v-pondelok-vecer-plati-na-celom/988844-clanok.html",
-      "time": "2026-08-31T16:07:00+00:00",
-      "cat": "burka",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Požiar neďaleko Košíc zasiahol už približne osem hektárov lesa, na mieste zasahuje aj vrtuľník",
-      "link": "https://www.kosicak.sk/clanky/13938/foto-nedaleko-kosic-vypukol-poziar-z-travy-sa-rozsiril-do-lesa-zasiahol-uz-osem-hektarov-na-miesto-vyslali-vrtulnik",
-      "time": "2026-08-31T15:49:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788191374-foto-nedaleko-kosic-vypukol-poziar-z-travy-sa-rozsiril-do-lesa-zasiahol-uz-osem-hektarov-na-miesto-vyslali-vrtulnik.webp"
-    },
-    {
-      "title": "Plamene zachvátili osem hektárov lesa na východe Slovenska. Do boja smeruje aj vojenský vrtuľník",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2033271-plamene-zachvatili-osem-hektarov-lesa-na-vychode-slovenska-do-boja-smeruje-aj-vojensky-vrtulnik?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-08-31T15:30:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/31/2525153/4x3-medium/pri-vysnom-medzeve-hori-les-zasahuju-profesionalni-aj-dobrovolni-hasici.jpg?v=T/w"
-    },
-    {
-      "title": "Polícia upozorňuje vodičov na dopravné obmedzenie pri Považskej Bystrici",
-      "link": "https://www.trencinak.sk/clanky/13602/vazna-dopravna-nehoda-pri-povazskej-bystrici-uzavrela-cestu-policia-ziada-vodicov-aby-na-mieste-respektovali-pokyny",
-      "time": "2026-08-31T14:34:00+00:00",
+      "title": "Motocyklista po zrážke s osobným autom prišiel o život",
+      "link": "https://korzar.sme.sk/spis-gemer/c/motocyklista-po-zrazke-s-osobnym-autom-prisiel-o-zivot?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-09-01T05:27:15+00:00",
       "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Požiar pri Vyšnom Medzeve zasiahol osem hektárov lesa, zasahuje aj vrtuľník",
-      "link": "https://korzar.sme.sk/kosice/c/poziar-pri-vysnom-medzeve-zasiahol-osem-hektarov-lesa-zasahuje-aj-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-08-31T14:22:29+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
+      "region": "presovsky",
       "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a05831-efe8-7961-b073-06eeadb5c0c2.jpg"
+      "image": "https://image.smedata.sk/image/w660-h440/01a05b54-c880-707f-a18e-3acf7c16f40e.jpg"
     },
     {
-      "title": "Pri Vyšnom Medzeve horí les",
-      "link": "https://www.teraz.sk/regiony/pri-vysnom-medzeve-hori-les/988812-clanok.html",
-      "time": "2026-08-31T14:22:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
+      "title": "Smrteľná nehoda pri akvaparku v Poprade: Motocyklista neprežil zrážku s osobným autom",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2033439-smrtelna-nehoda-pri-akvaparku-v-poprade-motocyklista-neprezil-zrazku-s-osobnym-autom?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-01T05:20:13+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/09/01/2525305/4x3-medium/motocyklista-nehoda-zrazka-umrtie-policia-sr-slovenski-policajti-sanitka.jpg?v=B7g"
+    },
+    {
+      "title": "TRAGICKÉ RÁNO: Pri nehode v Poprade zahynul motocyklista",
+      "link": "https://www.teraz.sk/regiony/tragicke-rano-pri-nehode-v-poprade-za/988897-clanok.html",
+      "time": "2026-09-01T05:16:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
       "src": "teraz.sk",
       "image": null
+    },
+    {
+      "title": "Pri rannej nehode v Poprade zahynul motocyklista: Čo sa stalo?",
+      "link": "https://www1.pluska.sk/krimi/pri-rannej-nehode-v-poprade-zahynul-motocyklista-co-sa-stalo",
+      "time": "2026-09-01T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/07a/07a66f80-b222-4a4d-9d62-d415867be169.webp"
     }
   ]
 }

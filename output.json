@@ -1,16 +1,70 @@
 {
-  "generated_at": "2026-09-01T11:43:29.111843+00:00",
+  "generated_at": "2026-09-01T15:32:47.038037+00:00",
   "max_age_hours": 12,
-  "count": 15,
+  "count": 11,
   "items": [
     {
+      "title": "Dve ženy sú nezvestné, polícia prosí o pomoc. Pátrajú po tínedžerke z Fiľakova aj Zvolenčanke",
+      "link": "https://www.bystricak.sk/clanky/12920/v-bystrickom-kraji-prebiehaju-dalsie-dve-patrania-policia-hlada-15-rocnu-mariu-aj-52-rocnu-eriku",
+      "time": "2026-09-01T15:00:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788272294-v-bystrickom-kraji-prebiehaju-dalsie-dve-patrania-policia-hlada-15rocnu-mariu-aj-52rocnu-eriku.webp"
+    },
+    {
+      "title": "NEVIDELI STE JU? Pátrajú po nezvestnej 15-ročnej Márii z Fiľakova",
+      "link": "https://www.teraz.sk/regiony/nevideli-ste-ju-patraju-po-nezvestnej/989119-clanok.html",
+      "time": "2026-09-01T14:39:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "FOTO: Hasiči zasahovali pri požiari hospodárskej budovy: Jeden človek utrpel popáleniny",
+      "link": "https://www.bystricak.sk/clanky/12917/foto-manipulacia-s-ohnom-mala-pri-velkom-krtisi-vazne-nasledky-jeden-clovek-skoncil-s-popaleninami",
+      "time": "2026-09-01T14:10:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788263888-foto-manipulacia-s-ohnom-mala-pri-velkom-krtisi-vazne-nasledky-jeden-clovek-skoncil-s-popaleninami.webp"
+    },
+    {
+      "title": "NEVIDELI STE HO? Pátrajú po nezvestnom 50-ročnom Ivanovi z Trenčína",
+      "link": "https://www.teraz.sk/regiony/nevideli-ste-ho-patraju-po-nezvestnom/989105-clanok.html",
+      "time": "2026-09-01T14:03:00+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Vodič po nehode v Oščadnici nafúkal 2 promile. Na ceste narazil do kamióna",
+      "link": "https://www.zilinak.sk/clanky/42622/po-nehode-nafukal-viac-ako-dve-promile-vodic-v-oscadnici-presiel-do-protismeru-a-narazil-do-kamiona",
+      "time": "2026-09-01T14:00:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788270619-po-nehode-nafukal-viac-ako-dve-promile-vodic-v-oscadnici-presiel-do-protismeru-a-narazil-do-kamiona.webp"
+    },
+    {
+      "title": "Pátrací tím hľadá 28-ročného Dávida zo Zvolena. Videli ste ho?",
+      "link": "https://www.bystricak.sk/clanky/12916/zvolencan-david-je-nezvestny-policia-prosi-o-pomoc-pri-jeho-patrani-meria-takmer-dva-metre",
+      "time": "2026-09-01T11:45:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788262112-zvolencan-david-je-nezvestny-policia-prosi-o-pomoc-pri-jeho-patrani-meria-takmer-dva-metre.webp"
+    },
+    {
       "title": "Nehoda v Martine: Zrážka áut na križovatke smerom na Podháj",
-      "link": "https://www.zilinak.sk/clanky/42617/v-martine-smerom-na-podhaj-si-dajte-pozor-na-hromadnu-nehodu-na-krizovatke-sa-zrazili-auta",
+      "link": "https://www.zilinak.sk/clanky/42617/nehoda-v-martine-smerom-na-podhaj-na-krizovatke-sa-zrazili-auta",
       "time": "2026-09-01T11:22:00+00:00",
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788262032-v-martine-smerom-na-podhaj-si-dajte-pozor-na-hromadnu-nehodu-na-krizovatke-sa-zrazili-auta.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788263572-nehoda-v-martine-smerom-na-podhaj-na-krizovatke-sa-zrazili-auta.webp"
     },
     {
       "title": "Na D1 pri Levoči začal horieť karavan. Hasiči z neho vytiahli nebezpečnú fľašu",
@@ -22,15 +76,6 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788251776-foto-pri-levoci-horel-na-d1-karavan-hasici-z-neho-museli-vytiahnut-aj-propanbutanovu-flasu.webp"
     },
     {
-      "title": "V prípade únosu študentky Sone odzneli zvyšné záverečné reči",
-      "link": "https://www.teraz.sk/regiony/sudy-v-pripade-unosu-studentky-sone/989031-clanok.html",
-      "time": "2026-09-01T11:07:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Lúčnica nad Žitavou má nový most. Rekonštrukcia stála viac ako 271-tisíc eur",
       "link": "https://www.nitrak.sk/clanky/11735/pri-vrabloch-otvorili-novy-most-povodny-bol-v-havarijnom-stave-kompletna-rekonstrukcia-stala-viac-ako-271-tisic-eur",
       "time": "2026-09-01T10:40:00+00:00",
@@ -38,15 +83,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788249868-pri-vrabloch-otvorili-novy-most-povodny-bol-v-havarijnom-stave-kompletna-rekonstrukcia-stala-viac-ako-271tisic-eur.webp"
-    },
-    {
-      "title": "Hasiči v Brezne cvičili záchranu osoby z 5. podlažia pri požiari garáže",
-      "link": "https://www.bystricak.sk/clanky/12904/poziar-garaze-a-clovek-uvazneny-vo-vyske-hasici-v-brezne-si-vyskusali-narocny-zasah",
-      "time": "2026-09-01T09:34:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788247906-poziar-garaze-a-clovek-uvazneny-vo-vyske-hasici-v-brezne-si-vyskusali-narocny-zasah.webp"
     },
     {
       "title": "Hasiči naďalej zasahujú pri požiari lesa pri Vyšnom Medzeve",
@@ -58,69 +94,6 @@
       "image": "https://image.smedata.sk/image/w660-h440/01a05c43-7941-72a7-abdf-7e3de4eb03f8.jpg"
     },
     {
-      "title": "Požiar rodinného domu vo Veľkej Lomnici má tragický koniec. Jeden človek neprežil",
-      "link": "https://www.presovak.sk/clanky/15207/tragicky-poziar-v-dome-vo-velkej-lomnici-zachranari-nasli-uz-len-telo-mrtveho-muza",
-      "time": "2026-09-01T09:10:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788256309-tragicky-poziar-v-dome-vo-velkej-lomnici-zachranari-nasli-uz-len-telo-mrtveho-muza.webp"
-    },
-    {
-      "title": "Požiar karavanu na diaľnici D1 zamestnal hasičov z Levoče aj Popradu",
-      "link": "https://korzar.sme.sk/spis-gemer/c/poziar-karavanu-na-dialnici-d1-zamestnal-hasicov-z-levoce-aj-popradu?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-09-01T08:12:11+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a05c02-e610-7b94-9610-bd05ea74cf0d.jpg"
-    },
-    {
-      "title": "Smutný začiatok roka na michalovskej škole: Stredoškolák Peter tragicky zahynul pri čelnej nehode",
-      "link": "https://www.kosicak.sk/clanky/13941/stredoskolak-peter-tragicky-zahynul-pri-celnej-zrazke-na-vychode-v-novom-skolskom-roku-ho-cakala-maturita",
-      "time": "2026-09-01T07:20:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788247135-stredoskolak-peter-tragicky-zahynul-pri-celnej-zrazke-na-vychode-v-novom-skolskom-roku-ho-cakala-maturita.webp"
-    },
-    {
-      "title": "Nehody pri Dolnom Bare a Gbeliach v utorok ráno obmedzili premávku",
-      "link": "https://www.trnavak.sk/clanky/12015/nehody-v-utorok-rano-komplikuju-premavku-v-castiach-trnavskeho-kraja-pripravte-sa-na-cakanie-v-kolonach",
-      "time": "2026-09-01T06:25:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788244577-nehody-v-utorok-rano-komplikuju-premavku-v-castiach-trnavskeho-kraja-pripravte-sa-na-cakanie-v-kolonach.webp"
-    },
-    {
-      "title": "Pri benzínke v Handlovej sa zrazili dve autá s chodcami, časť cesty je neprejazdná",
-      "link": "https://www.trencinak.sk/clanky/13604/pri-benzinke-v-handlovej-sa-zrazili-dve-auta-s-chodcami-cast-cesty-je-neprejazdna",
-      "time": "2026-09-01T06:19:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Hromadná nehoda na Einsteinovej v Petržalke zdrží premávku z D1",
-      "link": "https://www.bratislavak.sk/clanky/15202/hromadna-nehoda-na-d1-v-petrzalke-na-einsteinovej-sa-smerom-do-mesta-v-utorok-rano-poriadne-zdrzite",
-      "time": "2026-09-01T06:17:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788243525-hromadna-nehoda-na-d1-v-petrzalke-na-einsteinovej-sa-smerom-do-mesta-v-utorok-rano-poriadne-zdrzite.webp"
-    },
-    {
-      "title": "Motocyklista po zrážke s osobným autom prišiel o život",
-      "link": "https://korzar.sme.sk/spis-gemer/c/motocyklista-po-zrazke-s-osobnym-autom-prisiel-o-zivot?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-09-01T05:27:15+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a05b54-c880-707f-a18e-3acf7c16f40e.jpg"
-    },
-    {
       "title": "Smrteľná nehoda pri akvaparku v Poprade: Motocyklista neprežil zrážku s osobným autom",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2033439-smrtelna-nehoda-pri-akvaparku-v-poprade-motocyklista-neprezil-zrazku-s-osobnym-autom?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-09-01T05:20:13+00:00",
@@ -128,15 +101,6 @@
       "region": "presovsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/01/2525305/4x3-medium/motocyklista-nehoda-zrazka-umrtie-policia-sr-slovenski-policajti-sanitka.jpg?v=B7g"
-    },
-    {
-      "title": "Pri rannej nehode v Poprade zahynul motocyklista: Čo sa stalo?",
-      "link": "https://www1.pluska.sk/krimi/pri-rannej-nehode-v-poprade-zahynul-motocyklista-co-sa-stalo",
-      "time": "2026-09-01T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/07a/07a66f80-b222-4a4d-9d62-d415867be169.webp"
     }
   ]
 }

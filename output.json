@@ -1,15 +1,24 @@
 {
-  "generated_at": "2026-09-01T18:45:20.677607+00:00",
+  "generated_at": "2026-09-01T21:21:06.022826+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 5,
   "items": [
     {
-      "title": "Vážna nehoda pri Karlovej ochromila dopravu, úsek cesty I/65 je úplne uzavretý",
-      "link": "https://www.aktuality.sk/clanok/iD1N7s5/vazna-nehoda-pri-karlovej-ochromila-dopravu-usek-cesty-i65-je-uplne-uzavrety/",
-      "time": "2026-09-01T16:38:59+00:00",
+      "title": "Čelnú zrážku s kamiónom v Turci neprežil 39-ročný vodič",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2034017-celnu-zrazku-s-kamionom-v-turci-neprezil-39-rocny-vodic?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-01T20:02:14+00:00",
       "cat": "nehoda",
       "region": "zilinsky",
-      "src": "aktuality.sk",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/09/01/2525691/4x3-medium/nehoda.jpg?v=Dvw"
+    },
+    {
+      "title": "TRAGICKÁ NEHODA: Vodič prešiel do protismeru a čelnú zrážku neprežil",
+      "link": "https://www.teraz.sk/regiony/tragicka-nehoda-vodic-presiel-do-pro/989180-clanok.html",
+      "time": "2026-09-01T19:50:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "teraz.sk",
       "image": null
     },
     {
@@ -22,15 +31,6 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788285490-tragicka-nehoda-medzi-martinom-a-turcianskymi-teplicami-vodic-nemal-sancu-prezit.webp"
     },
     {
-      "title": "Dve ženy sú nezvestné, polícia prosí o pomoc. Pátrajú po tínedžerke z Fiľakova aj Zvolenčanke",
-      "link": "https://www.bystricak.sk/clanky/12920/v-bystrickom-kraji-prebiehaju-dalsie-dve-patrania-policia-hlada-15-rocnu-mariu-aj-52-rocnu-eriku",
-      "time": "2026-09-01T15:00:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788272294-v-bystrickom-kraji-prebiehaju-dalsie-dve-patrania-policia-hlada-15rocnu-mariu-aj-52rocnu-eriku.webp"
-    },
-    {
       "title": "NEVIDELI STE JU? Pátrajú po nezvestnej 15-ročnej Márii z Fiľakova",
       "link": "https://www.teraz.sk/regiony/nevideli-ste-ju-patraju-po-nezvestnej/989119-clanok.html",
       "time": "2026-09-01T14:39:00+00:00",
@@ -40,24 +40,6 @@
       "image": null
     },
     {
-      "title": "NEVIDELI STE HO? Pátrajú po nezvestnom 50-ročnom Ivanovi z Trenčína",
-      "link": "https://www.teraz.sk/regiony/nevideli-ste-ho-patraju-po-nezvestnom/989105-clanok.html",
-      "time": "2026-09-01T14:03:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Vodič po nehode v Oščadnici nafúkal 2 promile. Na ceste narazil do kamióna",
-      "link": "https://www.zilinak.sk/clanky/42622/po-nehode-nafukal-viac-ako-dve-promile-vodic-v-oscadnici-presiel-do-protismeru-a-narazil-do-kamiona",
-      "time": "2026-09-01T14:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788270619-po-nehode-nafukal-viac-ako-dve-promile-vodic-v-oscadnici-presiel-do-protismeru-a-narazil-do-kamiona.webp"
-    },
-    {
       "title": "Pátrací tím hľadá 28-ročného Dávida zo Zvolena. Videli ste ho?",
       "link": "https://www.bystricak.sk/clanky/12916/zvolencan-david-je-nezvestny-policia-prosi-o-pomoc-pri-jeho-patrani-meria-takmer-dva-metre",
       "time": "2026-09-01T11:45:00+00:00",
@@ -65,15 +47,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788262112-zvolencan-david-je-nezvestny-policia-prosi-o-pomoc-pri-jeho-patrani-meria-takmer-dva-metre.webp"
-    },
-    {
-      "title": "Hasiči naďalej zasahujú pri požiari lesa pri Vyšnom Medzeve",
-      "link": "https://korzar.sme.sk/kosice/c/hasici-nadalej-zasahuju-pri-poziari-lesa-pri-vysnom-medzeve?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-09-01T09:20:27+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a05c43-7941-72a7-abdf-7e3de4eb03f8.jpg"
     }
   ]
 }

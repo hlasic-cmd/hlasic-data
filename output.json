@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T22:48:04.201744+00:00",
+  "generated_at": "2026-09-01T01:24:45.455435+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 7,
   "items": [
     {
       "title": "Tragická nehoda pri Sládkovičove: Zrazili sa kamión a osobné auto",
@@ -65,15 +65,6 @@
       "region": "kosicky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "FOTO: Útulňa, ktorá mala slúžiť turistom, je po požiari zničená",
-      "link": "https://www.bystricak.sk/clanky/12900/foto-poziar-znicil-oblubenu-turisticku-utulnu-na-horehroni-ludia-nechapu-ako-mohol-byt-niekto-taky-bezohladny",
-      "time": "2026-08-31T12:00:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788173819-foto-poziar-znicil-oblubenu-turisticku-utulnu-na-horehroni-ludia-nechapu-ako-mohol-byt-niekto-taky-bezohladny.webp"
     }
   ]
 }

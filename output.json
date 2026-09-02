@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-02T13:53:59.850232+00:00",
+  "generated_at": "2026-09-02T17:26:27.722439+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 10,
   "items": [
+    {
+      "title": "Zranené osoby po čelnej zrážke vozidiel previezli do nemocnice, cesta pri Senci je neprejazdná",
+      "link": "https://sita.sk/zranene-osoby-po-celnej-zrazke-vozidiel-previezli-do-nemocnice-cesta-pri-senci-je-neprejazdna/",
+      "time": "2026-09-02T18:21:27+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/09/nehoda-688x387.jpg"
+    },
+    {
+      "title": "Polícia zasahuje pri dopravnej nehode v obci Hybe",
+      "link": "https://www.zilinak.sk/clanky/42645/aktualizovane-na-hlavnom-tahu-na-liptove-doslo-k-celnej-zrazke-troch-aut-dve-osoby-previezli-do-nemocnice",
+      "time": "2026-09-02T16:30:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "V prípade tragédie v Ružinove čítali vyjadrenie Ivany F. k posudkom",
+      "link": "https://www.teraz.sk/regiony/v-pripade-tragedie-v-ruzinove-cital/989329-clanok.html",
+      "time": "2026-09-02T14:28:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Osoba po dopravnej nehode v okrese Michalovce zomrela v nemocnici",
+      "link": "https://www.teraz.sk/regiony/policia-osoba-po-dopravnej-nehode-v-ok/989408-clanok.html",
+      "time": "2026-09-02T14:24:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V Michalovciach došlo k dopravnej nehode",
+      "link": "https://www.kosicak.sk/clanky/13975/na-kruhovom-objazde-v-michalovciach-blokuje-premavku-vyvrateny-kamion-na-mieste-zasahuju-zachranne-zlozky-aj-policia",
+      "time": "2026-09-02T13:42:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788356524-na-kruhovom-objazde-v-michalovciach-blokuje-premavku-vyvrateny-kamion-na-mieste-zasahuju-zachranne-zlozky-aj-policia.webp"
+    },
     {
       "title": "Požiar lesa pri Vyšnom Medzeve uhasili, zasahoval aj vrtuľník",
       "link": "https://korzar.sme.sk/kosice/c/poziar-lesa-pri-vysnom-medzeve-uhasili-zasahoval-aj-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
@@ -13,24 +58,6 @@
       "image": "https://image.smedata.sk/image/w660-h440/01a05c43-7941-72a7-abdf-7e3de4eb03f8.jpg"
     },
     {
-      "title": "Lesný požiar vo Vyšnom Medzeve sa podarilo zlikvidovať, škodu vyčíslili na 35-tisíc eur",
-      "link": "https://www.aktuality.sk/clanok/DtCoYwu/lesny-poziar-vo-vysnom-medzeve-sa-podarilo-zlikvidovat-skodu-vycislili-na-35-tisic-eur/",
-      "time": "2026-09-02T13:25:26+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Požiar lesa pri Vyšnom Medzeve uhasili, zasahoval aj vrtuľník",
-      "link": "https://www.teraz.sk/regiony/hazz-poziar-lesa-pri-vysnom-medzeve-u/989387-clanok.html",
-      "time": "2026-09-02T13:22:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Šestnásťročný futbalista Daniel prehral svoj boj o život po smrteľnej nehode pri Michalovciach",
       "link": "https://www.kosicak.sk/clanky/13973/boj-o-zivot-po-smrtelnej-nehode-na-zempline-prehral-aj-druhy-chlapec-daniel-16-zomrel-po-troch-dnoch-v-nemocnici",
       "time": "2026-09-02T12:40:00+00:00",
@@ -38,24 +65,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788351364-boj-o-zivot-po-smrtelnej-nehode-na-zempline-prehral-aj-druhy-chlapec-daniel-16-zomrel-po-troch-dnoch-v-nemocnici.webp"
-    },
-    {
-      "title": "Body, ktoré oceníte skôr, než čakáte",
-      "link": "https://www.zilinak.sk/clanky/42639/body-ktore-ocenite-skor-nez-cakate",
-      "time": "2026-09-02T12:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788351451-body-ktore-ocenite-skor-nez-cakate.webp"
-    },
-    {
-      "title": "FOTO: V Ťahanovskom lesoparku vypukol požiar, smrad cítili až v centre mesta",
-      "link": "https://www.kosicak.sk/clanky/13959/foto-v-tahanovskom-lesoparku-v-noci-horelo-stiplavy-zapach-sa-dostal-kosicanom-az-do-bytu-citili-ho-aj-v-centre-mesta",
-      "time": "2026-09-02T11:30:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788347779-foto-v-tahanovskom-lesoparku-v-noci-horelo-stiplavy-zapach-sa-dostal-kosicanom-az-do-bytu-citili-ho-aj-v-centre-mesta.webp"
     },
     {
       "title": "Problémy na železnici v Kútoch: Nákladný vlak prešiel cez návesť „Stoj“",
@@ -74,24 +83,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788356553-foto-pri-presove-doslo-k-poziaru-vyrobnej-haly-evakuovali-20-zamestnancov-prepadla-sa-cast-strechy.webp"
-    },
-    {
-      "title": "Vrtuľník ATE večer krúžil nad Banskou Bystricou. Išlo o výcvik",
-      "link": "https://www.bystricak.sk/clanky/12908/vecerny-let-vrtulnika-nad-banskou-bystricou-vyvolal-otazky-obyvatelia-sa-pytali-preco-opakovane-kruzi-nad-mestom",
-      "time": "2026-09-02T09:40:00+00:00",
-      "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788338861-vecerny-let-vrtulnika-nad-banskou-bystricou-vyvolal-otazky-obyvatelia-sa-pytali-preco-opakovane-kruzi-nad-mestom.webp"
-    },
-    {
-      "title": "Bránik: Emma na D4 nezomrela na skútri, ale na motocykli QJMotor",
-      "link": "https://www.bratislavak.sk/clanky/15214/bezpecnostny-analytik-vysvetluje-co-sa-skutocne-stalo-ked-na-d4-zomrela-17-rocna-ema-nesla-na-ziadnom-skutriku",
-      "time": "2026-09-02T08:10:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788331501-bezpecnostny-analytik-vysvetluje-co-sa-skutocne-stalo-ked-na-d4-zomrela-17rocna-ema-nesla-na-ziadnom-skutriku.webp"
     },
     {
       "title": "Hasiči zasahujú pri požiari skládky v Trnave, verejnosť vyzývajú nevetrať",

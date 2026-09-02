@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T22:02:45.021432+00:00",
+  "generated_at": "2026-09-02T23:57:37.564877+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 8,
   "items": [
     {
       "title": "Veľký požiar pri Trnave. Hasiči hovoria o náročnom zásahu",
@@ -74,15 +74,6 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/01a05c43-7941-72a7-abdf-7e3de4eb03f8.jpg"
-    },
-    {
-      "title": "Pri Prešove horela hala na pekárenské polotovary, prepadla sa strecha",
-      "link": "https://www.presovak.sk/clanky/15229/foto-pri-presove-doslo-k-poziaru-vyrobnej-haly-evakuovali-20-zamestnancov-prepadla-sa-cast-strechy",
-      "time": "2026-09-02T10:04:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788356553-foto-pri-presove-doslo-k-poziaru-vyrobnej-haly-evakuovali-20-zamestnancov-prepadla-sa-cast-strechy.webp"
     }
   ]
 }

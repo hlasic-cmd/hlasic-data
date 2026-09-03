@@ -1,8 +1,107 @@
 {
-  "generated_at": "2026-09-03T12:06:14.640399+00:00",
+  "generated_at": "2026-09-03T16:19:58.982919+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 12,
   "items": [
+    {
+      "title": "Polícia pátra po nezvestnom 17-ročnom Nikolasovi Suchom zo Zvolena",
+      "link": "https://www.bystricak.sk/clanky/12958/policia-patra-po-nezvestnom-17-rocnom-nikolasovi-zo-zvolena-na-sebe-by-mal-mat-tmavomodre-monterky-nevideli-ste-ho",
+      "time": "2026-09-03T16:09:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788451729-policia-patra-po-nezvestnom-17rocnom-nikolasovi-zo-zvolena-na-sebe-by-mal-mat-tmavomodre-monterky-nevideli-ste-ho.webp"
+    },
+    {
+      "title": "Košice prerábajú jedáleň na Želiarskej za eurofondy",
+      "link": "https://korzar.sme.sk/kosice/c/kosice-prerabaju-jedalen-na-zeliarskej-za-eurofondy?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-09-03T15:46:26+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a067f1-a019-7517-a963-33c02c76a3c0.jpg"
+    },
+    {
+      "title": "Na výjazde z obce na Záhorí došlo k dopravnej nehode. Úsek je uzatvorený, takto ho obídete",
+      "link": "https://www.bratislavak.sk/clanky/15255/na-vyjazde-z-obce-na-zahori-doslo-k-dopravnej-nehode-usek-je-uzatvoreny-takto-ho-obidete",
+      "time": "2026-09-03T14:57:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Nehoda pri Hnúšti: Auto skončilo v jarku, ďalšie dve blokujú cestu bez označenia",
+      "link": "https://www.bystricak.sk/clanky/12957/pozor-na-nehodu-po-ceste-z-hnuste-dve-havarovane-auta-blokuju-pruh-jedno-skoncilo-v-priekope",
+      "time": "2026-09-03T14:57:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Na výjazde z obce na Záhorí došlo k dopravnej nehode. Úsek je uzatvorený, takto ho obídete",
+      "link": "https://www.trnavak.sk/clanky/12062/na-vyjazde-z-obce-na-zahori-doslo-k-dopravnej-nehode-usek-je-uzatvoreny-takto-ho-obidete",
+      "time": "2026-09-03T14:53:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Náročná noc aj pre hasičov z Nitry: Pomáhajú hasiť veľký požiar senníka neďaleko Trnavy",
+      "link": "https://www.nitrak.sk/clanky/11763/video-hasici-z-nitry-a-okolia-zasahovali-pri-velkom-poziari-sennika-s-plamenmi-bojuju-uz-od-stredajsieho-vecera",
+      "time": "2026-09-03T14:27:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788445670-video-hasici-z-nitry-a-okolia-zasahovali-pri-velkom-poziari-sennika-s-plamenmi-bojuju-uz-od-stredajsieho-vecera.webp"
+    },
+    {
+      "title": "Rožňavská polícia rozbehla pátraciu akciu po nezvestnom mladom mužovi",
+      "link": "https://www.kosicak.sk/clanky/13994/po-danielovi-z-roznavy-sa-bez-stopy-zlahla-zem-policia-a-dobrovolnici-prosia-siroku-verejnost-o-pomoc-pri-patrani",
+      "time": "2026-09-03T14:15:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788442783-po-danielovi-z-roznavy-sa-bez-stopy-zlahla-zem-policia-a-dobrovolnici-prosia-siroku-verejnost-o-pomoc-pri-patrani.webp"
+    },
+    {
+      "title": "Náročná noc pre hasičov: Po požiari skládky boli povolaní k ďalšiemu ohňu blízko Trnavy",
+      "link": "https://www.trnavak.sk/clanky/12043/video-po-poziari-skladky-prisiel-dalsi-velky-ohen-v-obci-blizko-trnavy-na-miesto-boli-vyslane-desiatky-hasicov",
+      "time": "2026-09-03T13:57:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788443892-video-po-poziari-skladky-prisiel-dalsi-velky-ohen-v-obci-blizko-trnavy-na-miesto-boli-vyslane-desiatky-hasicov.webp"
+    },
+    {
+      "title": "Požiar v Sučanoch: Horel obytný karavan, plamene zasiahli aj krovinatý porast",
+      "link": "https://www.zilinak.sk/clanky/42662/foto-v-sucanoch-horel-obytny-karavan-poziar-sa-zacal-sirit-aj-na-okolity-porast",
+      "time": "2026-09-03T13:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788435402-foto-v-sucanoch-horel-obytny-karavan-poziar-sa-zacal-sirit-aj-na-okolity-porast.webp"
+    },
+    {
+      "title": "Požiar strniska pri Bánovciach nad Beberavou sa začal nebezpečne šíriť",
+      "link": "https://www.trencinak.sk/clanky/13655/foto-hasici-bojovali-s-poziarom-strniska-pri-banovciach-ohen-sa-priblizoval-k-uskladnenemu-drevu-aj-nedalekemu-lesu",
+      "time": "2026-09-03T12:40:00+00:00",
+      "cat": "poziar",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788433870-foto-hasici-bojovali-s-poziarom-strniska-pri-banovciach-ohen-sa-priblizoval-k-uskladnenemu-drevu-aj-nedalekemu-lesu.webp"
+    },
+    {
+      "title": "Vodiči v Nitre, pozor: Dve nehody na kruhových objazdoch, zdržíte sa",
+      "link": "https://www.nitrak.sk/clanky/11773/vodici-v-nitre-pozor-hlasene-su-dopravne-nehody-na-dvoch-kruhovych-objazdoch-zdrzite-sa",
+      "time": "2026-09-03T12:40:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/03_aktualne.webp"
+    },
     {
       "title": "Po nehode na Gemeri prevážal zraneného motorkára do nemocnice záchranársky vrtuľník",
       "link": "https://www.kosicak.sk/clanky/13984/motorkar-dostal-za-dobsinou-smyk-a-spadol-medzi-zvodidla-do-nemocnice-ho-prevazal-zachranarsky-vrtulnik",
@@ -11,96 +110,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788435365-motorkar-dostal-za-dobsinou-smyk-a-spadol-medzi-zvodidla-do-nemocnice-ho-prevazal-zachranarsky-vrtulnik.webp"
-    },
-    {
-      "title": "Rozsiahly požiar skládky v Trnave sa už hasičom podarilo zlikvidovať",
-      "link": "https://www.teraz.sk/regiony/rozsiahly-poziar-skladky-v-trnave-sa-u/989603-clanok.html",
-      "time": "2026-09-03T10:49:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Silný vietor potrápi hory v okolí Banskej Bystrice a Brezna",
-      "link": "https://www.bystricak.sk/clanky/12940/shmu-upozornuje-na-vietor-ktory-moze-na-horach-dosiahnut-silu-vichrice-vystraha-plati-aj-v-bystrickom-kraji",
-      "time": "2026-09-03T09:50:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788423743-shmu-upozornuje-na-vietor-ktory-moze-na-horach-dosiahnut-silu-vichrice-vystraha-plati-aj-v-bystrickom-kraji.webp"
-    },
-    {
-      "title": "VIDEO: Rozsiahly požiar lesa v Slovenskom raji. Plamene zachvátili 1,5 hektára porastu",
-      "link": "https://www.presovak.sk/clanky/15242/video-v-slovenskom-raji-hori-les-uz-druhy-den-do-hasenia-sa-zapojili-aj-black-hawky",
-      "time": "2026-09-03T08:53:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788425365-video-v-slovenskom-raji-hori-les-uz-druhy-den-do-hasenia-sa-zapojili-aj-black-hawky.webp"
-    },
-    {
-      "title": "VIDEO: Rozsiahly požiar lesa v Slovenskom raji. Plamene zachvátili 1,5 hektára porastu",
-      "link": "https://www.kosicak.sk/clanky/13981/video-v-slovenskom-raji-hori-les-uz-druhy-den-do-hasenia-sa-zapojili-aj-black-hawky",
-      "time": "2026-09-03T08:47:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788425365-video-v-slovenskom-raji-hori-les-uz-druhy-den-do-hasenia-sa-zapojili-aj-black-hawky.webp"
-    },
-    {
-      "title": "Náročná noc aj pre hasičov z Nitry: Pomáhajú hasiť veľký požiar senníka neďaleko Trnavy",
-      "link": "https://www.nitrak.sk/clanky/11763/video-hasici-z-nitry-a-okolia-zasahuju-pri-velkom-poziari-sennika-s-plamenmi-bojuju-uz-od-stredajsieho-vecera",
-      "time": "2026-09-03T08:36:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788424621-video-hasici-z-nitry-a-okolia-zasahuju-pri-velkom-poziari-sennika-s-plamenmi-bojuju-uz-od-stredajsieho-vecera.webp"
-    },
-    {
-      "title": "Náročná noc pre hasičov: Po požiari skládky zasahujú pri ďalšom ohni blízko Trnavy",
-      "link": "https://www.trnavak.sk/clanky/12043/video-po-poziari-skladky-prisiel-dalsi-velky-ohen-v-obci-blizko-trnavy-na-mieste-od-vecera-zasahuju-desiatky-hasicov",
-      "time": "2026-09-03T08:22:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788424038-video-po-poziari-skladky-prisiel-dalsi-velky-ohen-v-obci-blizko-trnavy-na-mieste-od-vecera-zasahuju-desiatky-hasicov.webp"
-    },
-    {
-      "title": "Čelná zrážka troch áut na Liptove. Poliak nevidel značku, vošiel do protismeru",
-      "link": "https://www.zilinak.sk/clanky/42645/na-hlavnom-tahu-na-liptove-doslo-k-celnej-zrazke-troch-aut-poliak-nerespektoval-znacenie-a-vosiel-do-protismeru",
-      "time": "2026-09-03T07:48:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788421707-na-hlavnom-tahu-na-liptove-doslo-k-celnej-zrazke-troch-aut-poliak-nerespektoval-znacenie-a-vosiel-do-protismeru.webp"
-    },
-    {
-      "title": "Vážne dopravné obmedzenie pri Čiernom Balogu: Po zrážke dvoch áut uzavreli cestu",
-      "link": "https://www.bystricak.sk/clanky/12937/dve-auta-sa-zrazili-na-ceste-pri-ciernom-balogu-usek-je-momentalne-neprejazdny",
-      "time": "2026-09-03T07:14:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Turbokruháč pri Volve už stihla poznačiť nehoda. Takto sa po ňom jazdí",
-      "link": "https://www.kosicak.sk/clanky/13977/novy-turbokruhac-pri-valalikoch-je-otvoreny-len-par-dni-uz-ho-stihla-poznacit-nehoda-staci-dodrziavat-jedno-pravidlo",
-      "time": "2026-09-03T06:49:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788418163-novy-turbokruhac-pri-valalikoch-je-otvoreny-len-par-dni-uz-ho-stihla-poznacit-nehoda-staci-dodrziavat-jedno-pravidlo.webp"
-    },
-    {
-      "title": "Policajti z Trenčianskeho kraja za uplynulý týždeň odhalili 12 vodičov pod vplyvom alkoholu",
-      "link": "https://www.trencinak.sk/clanky/13632/policajti-za-posledne-dni-odhalili-12-vodicov-pod-vplyvom-alkoholu-sedem-nafukalo-nad-promile-uradoval-aj-pri-nehodach",
-      "time": "2026-09-03T05:40:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788359208-policajti-za-posledne-dni-odhalili-12-vodicov-pod-vplyvom-alkoholu-sedem-nafukalo-nad-promile-uradoval-aj-pri-nehodach.webp"
     }
   ]
 }

@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-03T02:21:28.934255+00:00",
+  "generated_at": "2026-09-03T07:14:56.569560+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 6,
   "items": [
+    {
+      "title": "Náročná noc pre hasičov: Po požiari skládky zasahovali pri ďalšom ohni blízko Trnavy",
+      "link": "https://www.trnavak.sk/clanky/12043/video-hasici-maju-za-sebou-pekelnu-noc-po-poziari-skladky-prisiel-dalsi-velky-ohen-v-obci-blizko-trnavy",
+      "time": "2026-09-03T06:55:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788418348-video-hasici-maju-za-sebou-pekelnu-noc-po-poziari-skladky-prisiel-dalsi-velky-ohen-v-obci-blizko-trnavy.webp"
+    },
+    {
+      "title": "Turbokruháč pri Volve už stihla poznačiť nehoda. Takto sa po ňom jazdí",
+      "link": "https://www.kosicak.sk/clanky/13977/novy-turbokruhac-pri-valalikoch-je-otvoreny-len-par-dni-uz-ho-stihla-poznacit-nehoda-staci-dodrziavat-jedno-pravidlo",
+      "time": "2026-09-03T06:49:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788418163-novy-turbokruhac-pri-valalikoch-je-otvoreny-len-par-dni-uz-ho-stihla-poznacit-nehoda-staci-dodrziavat-jedno-pravidlo.webp"
+    },
+    {
+      "title": "Nehody v Bratislave a okolí: Rovinka hlási viac ako hodinu",
+      "link": "https://www.bratislavak.sk/clanky/15235/vo-stvrtok-rano-dopravu-v-bratislave-komplikuju-viacere-nehody-v-centre-aj-na-d1-z-rovinky-si-pockate-viac-ako-hodinu",
+      "time": "2026-09-03T06:16:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788416250-vo-stvrtok-rano-dopravu-v-bratislave-komplikuju-viacere-nehody-v-centre-aj-na-d1-z-rovinky-si-pockate-viac-ako-hodinu.webp"
+    },
+    {
+      "title": "RANNÁ ŠPIČKA V BRATISLAVE: Kde si vodiči postoja najdlhšie?",
+      "link": "https://www.teraz.sk/regiony/doprava-na-viacerych-miestach-v-bratis/989494-clanok.html",
+      "time": "2026-09-03T06:05:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Policajti z Trenčianskeho kraja za uplynulý týždeň odhalili 12 vodičov pod vplyvom alkoholu",
+      "link": "https://www.trencinak.sk/clanky/13632/policajti-za-posledne-dni-odhalili-12-vodicov-pod-vplyvom-alkoholu-sedem-nafukalo-nad-promile-uradoval-aj-pri-nehodach",
+      "time": "2026-09-03T05:40:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788359208-policajti-za-posledne-dni-odhalili-12-vodicov-pod-vplyvom-alkoholu-sedem-nafukalo-nad-promile-uradoval-aj-pri-nehodach.webp"
+    },
     {
       "title": "Veľký požiar pri Trnave. Hasiči hovoria o náročnom zásahu",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2034767-velky-poziar-pri-trnave-hasici-hovoria-o-narocnom-zasahu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -11,60 +56,6 @@
       "region": "trnavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/02/2526163/4x3-medium/nahac-poziar-druzstva.jpg?v=Rfg"
-    },
-    {
-      "title": "V obci Naháč vypukol požiar v areáli družstva, na mieste zasahujú desiatky hasičov",
-      "link": "https://www.aktuality.sk/clanok/o3iquHa/v-obci-nahac-vypukol-poziar-v-areali-druzstva-na-mieste-zasahuju-desiatky-hasicov/",
-      "time": "2026-09-02T19:40:34+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Motocyklista skončil po zrážke s autom pri senickom Kunove v nemocnici",
-      "link": "https://www.teraz.sk/regiony/motocyklista-skoncil-po-zrazke-s-auto/989466-clanok.html",
-      "time": "2026-09-02T18:58:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Zranené osoby po čelnej zrážke vozidiel previezli do nemocnice, cesta pri Senci je neprejazdná",
-      "link": "https://sita.sk/zranene-osoby-po-celnej-zrazke-vozidiel-previezli-do-nemocnice-cesta-pri-senci-je-neprejazdna/",
-      "time": "2026-09-02T18:21:27+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/09/nehoda-688x387.jpg"
-    },
-    {
-      "title": "Polícia zasahuje pri dopravnej nehode v obci Hybe",
-      "link": "https://www.zilinak.sk/clanky/42645/aktualizovane-na-hlavnom-tahu-na-liptove-doslo-k-celnej-zrazke-troch-aut-dve-osoby-previezli-do-nemocnice",
-      "time": "2026-09-02T16:30:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "V prípade tragédie v Ružinove čítali vyjadrenie Ivany F. k posudkom",
-      "link": "https://www.teraz.sk/regiony/v-pripade-tragedie-v-ruzinove-cital/989329-clanok.html",
-      "time": "2026-09-02T14:28:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Osoba po dopravnej nehode v okrese Michalovce zomrela v nemocnici",
-      "link": "https://www.teraz.sk/regiony/policia-osoba-po-dopravnej-nehode-v-ok/989408-clanok.html",
-      "time": "2026-09-02T14:24:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

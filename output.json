@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T23:57:37.564877+00:00",
+  "generated_at": "2026-09-03T02:21:28.934255+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 7,
   "items": [
     {
       "title": "Veľký požiar pri Trnave. Hasiči hovoria o náročnom zásahu",
@@ -65,15 +65,6 @@
       "region": "kosicky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Požiar lesa pri Vyšnom Medzeve uhasili, zasahoval aj vrtuľník",
-      "link": "https://korzar.sme.sk/kosice/c/poziar-lesa-pri-vysnom-medzeve-uhasili-zasahoval-aj-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-09-02T13:27:34+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a05c43-7941-72a7-abdf-7e3de4eb03f8.jpg"
     }
   ]
 }

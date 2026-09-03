@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T19:19:37.503803+00:00",
+  "generated_at": "2026-09-03T21:44:34.598914+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 5,
   "items": [
     {
       "title": "Polícia pátra po nezvestnom 17-ročnom Nikolasovi Suchom zo Zvolena",
@@ -31,15 +31,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Na výjazde z obce na Záhorí došlo k dopravnej nehode. Úsek je uzatvorený, takto ho obídete",
-      "link": "https://www.trnavak.sk/clanky/12062/na-vyjazde-z-obce-na-zahori-doslo-k-dopravnej-nehode-usek-je-uzatvoreny-takto-ho-obidete",
-      "time": "2026-09-03T14:53:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
-    },
-    {
       "title": "Náročná noc aj pre hasičov z Nitry: Pomáhajú hasiť veľký požiar senníka neďaleko Trnavy",
       "link": "https://www.nitrak.sk/clanky/11763/video-hasici-z-nitry-a-okolia-zasahovali-pri-velkom-poziari-sennika-s-plamenmi-bojuju-uz-od-stredajsieho-vecera",
       "time": "2026-09-03T14:27:00+00:00",
@@ -49,15 +40,6 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788445670-video-hasici-z-nitry-a-okolia-zasahovali-pri-velkom-poziari-sennika-s-plamenmi-bojuju-uz-od-stredajsieho-vecera.webp"
     },
     {
-      "title": "Rožňavská polícia rozbehla pátraciu akciu po nezvestnom mladom mužovi",
-      "link": "https://www.kosicak.sk/clanky/13994/po-danielovi-z-roznavy-sa-bez-stopy-zlahla-zem-policia-a-dobrovolnici-prosia-siroku-verejnost-o-pomoc-pri-patrani",
-      "time": "2026-09-03T14:15:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788442783-po-danielovi-z-roznavy-sa-bez-stopy-zlahla-zem-policia-a-dobrovolnici-prosia-siroku-verejnost-o-pomoc-pri-patrani.webp"
-    },
-    {
       "title": "Náročná noc pre hasičov: Po požiari skládky boli povolaní k ďalšiemu ohňu blízko Trnavy",
       "link": "https://www.trnavak.sk/clanky/12043/video-po-poziari-skladky-prisiel-dalsi-velky-ohen-v-obci-blizko-trnavy-na-miesto-boli-vyslane-desiatky-hasicov",
       "time": "2026-09-03T13:57:00+00:00",
@@ -65,15 +47,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788443892-video-po-poziari-skladky-prisiel-dalsi-velky-ohen-v-obci-blizko-trnavy-na-miesto-boli-vyslane-desiatky-hasicov.webp"
-    },
-    {
-      "title": "Čelná zrážka troch áut na Liptove. Poliak nevidel značku, vošiel do protismeru",
-      "link": "https://www.zilinak.sk/clanky/42645/na-hlavnom-tahu-na-liptove-doslo-k-celnej-zrazke-troch-aut-poliak-nerespektoval-znacenie-a-vosiel-do-protismeru",
-      "time": "2026-09-03T07:48:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788421707-na-hlavnom-tahu-na-liptove-doslo-k-celnej-zrazke-troch-aut-poliak-nerespektoval-znacenie-a-vosiel-do-protismeru.webp"
     }
   ]
 }

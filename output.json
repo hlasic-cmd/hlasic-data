@@ -1,16 +1,88 @@
 {
-  "generated_at": "2026-09-04T09:58:58.852802+00:00",
+  "generated_at": "2026-09-04T13:58:26.568952+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 11,
   "items": [
     {
-      "title": "Hromadná zrážka v tuneli Sitina ochromila vjazd do Bratislavy: Zrazilo sa 13 áut a kamión",
-      "link": "https://www.aktuality.sk/clanok/NK671bM/hromadna-zrazka-v-tuneli-sitina-ochromila-vjazd-do-bratislavy-zrazilo-sa-13-aut-a-kamion/",
-      "time": "2026-09-04T09:52:00+00:00",
+      "title": "Veľká pátracia akcia na Orave má tragický koniec. Antona z Mútneho našli bez známok života",
+      "link": "https://www.zilinak.sk/clanky/42681/foto-velka-patracia-akcia-z-oravy-ma-tragicky-koniec-nezvestneho-antona-z-mutneho-nasli-bez-znamok-zivota",
+      "time": "2026-09-04T13:45:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788528482-foto-velka-patracia-akcia-z-oravy-ma-tragicky-koniec-nezvestneho-antona-z-mutneho-nasli-bez-znamok-zivota.webp"
+    },
+    {
+      "title": "Vrtuľník v akcii: Na R1 pri Žarnovici havaroval motorkár",
+      "link": "https://www.teraz.sk/regiony/vrtulnik-v-akcii-na-r1-pri-zarnovici/989931-clanok.html",
+      "time": "2026-09-04T12:16:00+00:00",
+      "cat": "zasah",
+      "region": "banskobystricky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V tuneli Sitina došlo k hromadnej dopravnej nehode, zrazilo sa 13 áut a jeden kamión – FOTO",
+      "link": "https://sita.sk/v-tuneli-sitina-doslo-k-hromadnej-dopravnej-nehode-zrazilo-sa-13-aut-a-jeden-kamion-foto/",
+      "time": "2026-09-04T12:15:45+00:00",
       "cat": "nehoda",
       "region": "bratislavsky",
-      "src": "aktuality.sk",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/09/nehoda-tunel-sitina2-688x387.jpg"
+    },
+    {
+      "title": "Vojaci budú cvičiť pri Žiline aj v Martine. Nad obcami bude lietať vrtuľník, obyvatelia musia počítať s hlukom",
+      "link": "https://www.zilinak.sk/clanky/42677/vojaci-budu-cvicit-pri-ziline-aj-v-martine-nad-obcami-bude-lietat-vrtulnik-obyvatelia-musia-pocitat-s-hlukom",
+      "time": "2026-09-04T11:55:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788523849-vojaci-budu-cvicit-pri-ziline-aj-v-martine-nad-obcami-bude-lietat-vrtulnik-obyvatelia-musia-pocitat-s-hlukom.webp"
+    },
+    {
+      "title": "Medzinárodné letecké dni v Piešťanoch ponúknu aj zahraničnú techniku",
+      "link": "https://www.teraz.sk/regiony/medzinarodne-letecke-dni-v-piestano/989919-clanok.html",
+      "time": "2026-09-04T11:50:00+00:00",
+      "cat": "zasah",
+      "region": "trnavsky",
+      "src": "teraz.sk",
       "image": null
+    },
+    {
+      "title": "FOTO: Vážna nehoda na R1 pri Žarnovici. Zasahoval aj vrtuľník",
+      "link": "https://www.bystricak.sk/clanky/12971/foto-nehoda-motorkara-na-r1-pri-zarnovici-si-vyziadala-zasah-vrtulnika-cestu-museli-docasne-uzavriet",
+      "time": "2026-09-04T11:39:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788523957-foto-nehoda-motorkara-na-r1-pri-zarnovici-si-vyziadala-zasah-vrtulnika-cestu-museli-docasne-uzavriet.webp"
+    },
+    {
+      "title": "VÁŽNA NEHODA: Pri Štúrove sa zrazili dvaja motorkári s autom",
+      "link": "https://www.teraz.sk/regiony/pri-kamenici-nad-hronom-sa-zrazili-dvaja/989899-clanok.html",
+      "time": "2026-09-04T11:20:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Za Kamenicou nad Hronom sa zrazilo auto s dvomi motorkami, zasahoval aj záchranársky vrtuľník",
+      "link": "https://www.nitrak.sk/clanky/11783/foto-za-kamenicou-nad-hronom-zrazilo-auto-dvoch-zahranicnych-motorkarov-zasahoval-aj-zachranarsky-vrtulnik",
+      "time": "2026-09-04T11:11:00+00:00",
+      "cat": "zasah",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788519987-foto-za-kamenicou-nad-hronom-zrazilo-auto-dvoch-zahranicnych-motorkarov-zasahoval-aj-zachranarsky-vrtulnik.webp"
+    },
+    {
+      "title": "Polícia prosí o pomoc pri pátraní po nezvestnej 31-ročnej žene z Trebišova",
+      "link": "https://www.kosicak.sk/clanky/14003/po-gabriele-z-trebisova-sa-zlahla-zem-policia-aj-dobrovolnici-po-nej-rozbehli-patraciu-akciu-o-pomoc-prosia-aj-vas",
+      "time": "2026-09-04T11:00:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788517381-po-gabriele-z-trebisova-sa-zlahla-zem-policia-aj-dobrovolnici-po-nej-rozbehli-patraciu-akciu-o-pomoc-prosia-aj-vas.webp"
     },
     {
       "title": "VIDEO: Malá Natálka potrebuje pomoc. Brezno chystá benefičný beh, pridať sa môže každý",
@@ -22,15 +94,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788511703-video-pre-natalku-sa-spoji-cele-brezno-piatkovy-beh-na-nabrezi-ma-rodine-pomoct-v-narocnom-boji-po-tragickej-nehode.webp"
     },
     {
-      "title": "Vodiči v Nitre musia rátať so zdržaním: Nehoda pri R1 aj kolóny v okolí Agrokomplexu",
-      "link": "https://www.nitrak.sk/clanky/11782/vodici-v-nitre-ratajte-so-zdrzanim-cesty-v-okoli-agrokomplexu-su-upchate-na-vyjazde-na-r1-zas-doslo-k-nehode",
-      "time": "2026-09-04T08:20:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788510105-vodici-v-nitre-ratajte-so-zdrzanim-cesty-v-okoli-agrokomplexu-su-upchate-na-vyjazde-na-r1-zas-doslo-k-nehode.webp"
-    },
-    {
       "title": "V tuneli Sitina sa zrazilo 14 vozidiel. Nikto sa nezranil",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2035605-viacere-nehody-paralyzovali-dopravu-cez-sitinu-zdrzanie-dosahuje-hodinu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-09-04T07:27:02+00:00",
@@ -38,60 +101,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/04/2526833/4x3-medium/tunel-sitina.jpg?v=xTE"
-    },
-    {
-      "title": "K vážnej nehode v Betliari smerovali záchranné zložky z Rožňavy",
-      "link": "https://www.kosicak.sk/clanky/13997/foto-v-obci-betliar-doslo-k-vaznej-nehode-vodic-nakladneho-auta-ostal-zakliesneny-v-kabine",
-      "time": "2026-09-04T06:44:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788504130-foto-v-obci-betliar-doslo-k-vaznej-nehode-vodic-nakladneho-auta-ostal-zakliesneny-v-kabine.webp"
-    },
-    {
-      "title": "Dopravná nehoda za Strážou smerom na Terchovú: Čelná zrážka na hodinu uzavrela cestu",
-      "link": "https://www.zilinak.sk/clanky/42669/foto-celna-zrazka-za-strazou-smerom-na-terchovu-cestu-na-priblizne-hodinu-uplne-uzavreli",
-      "time": "2026-09-04T06:24:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788502750-foto-celna-zrazka-za-strazou-smerom-na-terchovu-cestu-na-priblizne-hodinu-uplne-uzavreli.webp"
-    },
-    {
-      "title": "Tunel Sitina po hromadnej nehode uzavreli, Bratislava hlási kolóny",
-      "link": "https://www.bratislavak.sk/clanky/15258/v-tuneli-sitina-havarovalo-v-piatok-rano-neuveritelnych-14-aut-nikto-sa-vazne-nezranil",
-      "time": "2026-09-04T06:18:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788515226-v-tuneli-sitina-havarovalo-v-piatok-rano-neuveritelnych-14-aut-nikto-sa-vazne-nezranil.webp"
-    },
-    {
-      "title": "Z Prešovského kraja hlásia vodiči zdržanie z viacerých miest",
-      "link": "https://www.presovak.sk/clanky/15255/vodicov-v-presovskom-kraji-potrapia-obmedzenia-na-viacerych-miestach-dovodom-su-dopravne-nehody",
-      "time": "2026-09-04T06:11:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Vodič SAD Žilina najazdil milión kilometrov bez nehody. Za volantom je už 20 rokov",
-      "link": "https://www.zilinak.sk/clanky/42653/foto-milion-kilometrov-a-ani-jedna-nehoda-vodica-sad-zilina-milosa-ocenili-po-20-rokoch-za-volantom",
-      "time": "2026-09-04T05:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788429009-foto-milion-kilometrov-a-ani-jedna-nehoda-vodica-sad-zilina-milosa-ocenili-po-20-rokoch-za-volantom.webp"
-    },
-    {
-      "title": "Dopravný chaos v Bratislave: Hromadná nehoda uzavrela Sitinu smerom z Českej republiky",
-      "link": "https://www1.pluska.sk/krimi/tunel-sitina-je-uzavrety-malo-tu-dojst-k-hromadnej-nehode",
-      "time": "2026-09-04T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/c7d/c7d30988-2c96-4bd7-9d0c-53c22726f0ae.webp"
     }
   ]
 }

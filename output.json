@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-09-04T13:58:26.568952+00:00",
+  "generated_at": "2026-09-04T17:20:12.157629+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 6,
   "items": [
+    {
+      "title": "Hromadná nehoda pri benzínke v Banskej Bystrici, cesta je neprejazdná",
+      "link": "https://www.bystricak.sk/clanky/12977/pri-benzinke-v-banskej-bystrici-sa-zrazili-tri-auta-hromadna-nehoda-upchala-usek-neprejdete-tadial",
+      "time": "2026-09-04T16:04:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788537887-pri-benzinke-v-banskej-bystrici-sa-zrazili-tri-auta-hromadna-nehoda-upchala-usek-neprejdete-tadial.webp"
+    },
+    {
+      "title": "Z levočskej väznice utiekol trestanec, opekanie kukurice na ohníku sa skončilo veľkým požiarom",
+      "link": "https://korzar.sme.sk/kosice/c/z-levocskej-vaznice-utiekol-trestanec-opekanie-kukurice-na-ohniku-sa-skoncilo-velkym-poziarom?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-09-04T14:50:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/1ef897ed-9af3-63e0-917f-c7c4f903a104.jpg"
+    },
+    {
+      "title": "Zranená žena sa rozhodla verejne poďakovať policajtovi, ktorý preukázal profesionalitu aj mimo služby",
+      "link": "https://www.kosicak.sk/clanky/14002/pri-margecanoch-doslo-k-dopravnej-nehode-vazne-zranenej-zene-pomohol-v-najtazsej-chvili-policajt-v-civile",
+      "time": "2026-09-04T14:40:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788522862-pri-margecanoch-doslo-k-dopravnej-nehode-vazne-zranenej-zene-pomohol-v-najtazsej-chvili-policajt-v-civile.webp"
+    },
     {
       "title": "Veľká pátracia akcia na Orave má tragický koniec. Antona z Mútneho našli bez známok života",
       "link": "https://www.zilinak.sk/clanky/42681/foto-velka-patracia-akcia-z-oravy-ma-tragicky-koniec-nezvestneho-antona-z-mutneho-nasli-bez-znamok-zivota",
@@ -13,24 +40,6 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788528482-foto-velka-patracia-akcia-z-oravy-ma-tragicky-koniec-nezvestneho-antona-z-mutneho-nasli-bez-znamok-zivota.webp"
     },
     {
-      "title": "Vrtuľník v akcii: Na R1 pri Žarnovici havaroval motorkár",
-      "link": "https://www.teraz.sk/regiony/vrtulnik-v-akcii-na-r1-pri-zarnovici/989931-clanok.html",
-      "time": "2026-09-04T12:16:00+00:00",
-      "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V tuneli Sitina došlo k hromadnej dopravnej nehode, zrazilo sa 13 áut a jeden kamión – FOTO",
-      "link": "https://sita.sk/v-tuneli-sitina-doslo-k-hromadnej-dopravnej-nehode-zrazilo-sa-13-aut-a-jeden-kamion-foto/",
-      "time": "2026-09-04T12:15:45+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/09/nehoda-tunel-sitina2-688x387.jpg"
-    },
-    {
       "title": "Vojaci budú cvičiť pri Žiline aj v Martine. Nad obcami bude lietať vrtuľník, obyvatelia musia počítať s hlukom",
       "link": "https://www.zilinak.sk/clanky/42677/vojaci-budu-cvicit-pri-ziline-aj-v-martine-nad-obcami-bude-lietat-vrtulnik-obyvatelia-musia-pocitat-s-hlukom",
       "time": "2026-09-04T11:55:00+00:00",
@@ -38,60 +47,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788523849-vojaci-budu-cvicit-pri-ziline-aj-v-martine-nad-obcami-bude-lietat-vrtulnik-obyvatelia-musia-pocitat-s-hlukom.webp"
-    },
-    {
-      "title": "Medzinárodné letecké dni v Piešťanoch ponúknu aj zahraničnú techniku",
-      "link": "https://www.teraz.sk/regiony/medzinarodne-letecke-dni-v-piestano/989919-clanok.html",
-      "time": "2026-09-04T11:50:00+00:00",
-      "cat": "zasah",
-      "region": "trnavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "FOTO: Vážna nehoda na R1 pri Žarnovici. Zasahoval aj vrtuľník",
-      "link": "https://www.bystricak.sk/clanky/12971/foto-nehoda-motorkara-na-r1-pri-zarnovici-si-vyziadala-zasah-vrtulnika-cestu-museli-docasne-uzavriet",
-      "time": "2026-09-04T11:39:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788523957-foto-nehoda-motorkara-na-r1-pri-zarnovici-si-vyziadala-zasah-vrtulnika-cestu-museli-docasne-uzavriet.webp"
-    },
-    {
-      "title": "VÁŽNA NEHODA: Pri Štúrove sa zrazili dvaja motorkári s autom",
-      "link": "https://www.teraz.sk/regiony/pri-kamenici-nad-hronom-sa-zrazili-dvaja/989899-clanok.html",
-      "time": "2026-09-04T11:20:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Za Kamenicou nad Hronom sa zrazilo auto s dvomi motorkami, zasahoval aj záchranársky vrtuľník",
-      "link": "https://www.nitrak.sk/clanky/11783/foto-za-kamenicou-nad-hronom-zrazilo-auto-dvoch-zahranicnych-motorkarov-zasahoval-aj-zachranarsky-vrtulnik",
-      "time": "2026-09-04T11:11:00+00:00",
-      "cat": "zasah",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788519987-foto-za-kamenicou-nad-hronom-zrazilo-auto-dvoch-zahranicnych-motorkarov-zasahoval-aj-zachranarsky-vrtulnik.webp"
-    },
-    {
-      "title": "Polícia prosí o pomoc pri pátraní po nezvestnej 31-ročnej žene z Trebišova",
-      "link": "https://www.kosicak.sk/clanky/14003/po-gabriele-z-trebisova-sa-zlahla-zem-policia-aj-dobrovolnici-po-nej-rozbehli-patraciu-akciu-o-pomoc-prosia-aj-vas",
-      "time": "2026-09-04T11:00:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788517381-po-gabriele-z-trebisova-sa-zlahla-zem-policia-aj-dobrovolnici-po-nej-rozbehli-patraciu-akciu-o-pomoc-prosia-aj-vas.webp"
-    },
-    {
-      "title": "VIDEO: Malá Natálka potrebuje pomoc. Brezno chystá benefičný beh, pridať sa môže každý",
-      "link": "https://www.bystricak.sk/clanky/12964/video-pre-natalku-sa-spoji-cele-brezno-piatkovy-beh-na-nabrezi-ma-rodine-pomoct-v-narocnom-boji-po-tragickej-nehode",
-      "time": "2026-09-04T09:20:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788511703-video-pre-natalku-sa-spoji-cele-brezno-piatkovy-beh-na-nabrezi-ma-rodine-pomoct-v-narocnom-boji-po-tragickej-nehode.webp"
     },
     {
       "title": "V tuneli Sitina sa zrazilo 14 vozidiel. Nikto sa nezranil",

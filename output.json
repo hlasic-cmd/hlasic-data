@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T17:20:12.157629+00:00",
+  "generated_at": "2026-09-04T19:40:31.558070+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 4,
   "items": [
     {
       "title": "Hromadná nehoda pri benzínke v Banskej Bystrici, cesta je neprejazdná",
@@ -22,15 +22,6 @@
       "image": "https://image.smedata.sk/image/w660-h440/1ef897ed-9af3-63e0-917f-c7c4f903a104.jpg"
     },
     {
-      "title": "Zranená žena sa rozhodla verejne poďakovať policajtovi, ktorý preukázal profesionalitu aj mimo služby",
-      "link": "https://www.kosicak.sk/clanky/14002/pri-margecanoch-doslo-k-dopravnej-nehode-vazne-zranenej-zene-pomohol-v-najtazsej-chvili-policajt-v-civile",
-      "time": "2026-09-04T14:40:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788522862-pri-margecanoch-doslo-k-dopravnej-nehode-vazne-zranenej-zene-pomohol-v-najtazsej-chvili-policajt-v-civile.webp"
-    },
-    {
       "title": "Veľká pátracia akcia na Orave má tragický koniec. Antona z Mútneho našli bez známok života",
       "link": "https://www.zilinak.sk/clanky/42681/foto-velka-patracia-akcia-z-oravy-ma-tragicky-koniec-nezvestneho-antona-z-mutneho-nasli-bez-znamok-zivota",
       "time": "2026-09-04T13:45:00+00:00",
@@ -40,22 +31,13 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788528482-foto-velka-patracia-akcia-z-oravy-ma-tragicky-koniec-nezvestneho-antona-z-mutneho-nasli-bez-znamok-zivota.webp"
     },
     {
-      "title": "Vojaci budú cvičiť pri Žiline aj v Martine. Nad obcami bude lietať vrtuľník, obyvatelia musia počítať s hlukom",
-      "link": "https://www.zilinak.sk/clanky/42677/vojaci-budu-cvicit-pri-ziline-aj-v-martine-nad-obcami-bude-lietat-vrtulnik-obyvatelia-musia-pocitat-s-hlukom",
-      "time": "2026-09-04T11:55:00+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788523849-vojaci-budu-cvicit-pri-ziline-aj-v-martine-nad-obcami-bude-lietat-vrtulnik-obyvatelia-musia-pocitat-s-hlukom.webp"
-    },
-    {
-      "title": "V tuneli Sitina sa zrazilo 14 vozidiel. Nikto sa nezranil",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2035605-viacere-nehody-paralyzovali-dopravu-cez-sitinu-zdrzanie-dosahuje-hodinu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-04T07:27:02+00:00",
+      "title": "FOTO: Vážna nehoda na R1 pri Žarnovici. Zasahoval aj vrtuľník",
+      "link": "https://www.bystricak.sk/clanky/12971/foto-nehoda-motorkara-na-r1-pri-zarnovici-si-vyziadala-zasah-vrtulnika-cestu-museli-docasne-uzavriet",
+      "time": "2026-09-04T11:39:00+00:00",
       "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/09/04/2526833/4x3-medium/tunel-sitina.jpg?v=xTE"
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788523957-foto-nehoda-motorkara-na-r1-pri-zarnovici-si-vyziadala-zasah-vrtulnika-cestu-museli-docasne-uzavriet.webp"
     }
   ]
 }

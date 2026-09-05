@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-09-05T01:05:51.515607+00:00",
+  "generated_at": "2026-09-05T05:36:12.113949+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Hromadná nehoda pri benzínke v Banskej Bystrici, cesta je neprejazdná",
-      "link": "https://www.bystricak.sk/clanky/12977/pri-benzinke-v-banskej-bystrici-sa-zrazili-tri-auta-hromadna-nehoda-upchala-usek-neprejdete-tadial",
-      "time": "2026-09-04T16:04:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788537887-pri-benzinke-v-banskej-bystrici-sa-zrazili-tri-auta-hromadna-nehoda-upchala-usek-neprejdete-tadial.webp"
-    },
-    {
-      "title": "Z levočskej väznice utiekol trestanec, opekanie kukurice na ohníku sa skončilo veľkým požiarom",
-      "link": "https://korzar.sme.sk/kosice/c/z-levocskej-vaznice-utiekol-trestanec-opekanie-kukurice-na-ohniku-sa-skoncilo-velkym-poziarom?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-09-04T14:50:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/1ef897ed-9af3-63e0-917f-c7c4f903a104.jpg"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

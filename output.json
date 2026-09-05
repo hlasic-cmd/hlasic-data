@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-09-05T09:17:21.462718+00:00",
+  "generated_at": "2026-09-05T12:45:21.450165+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 14,
   "items": [
+    {
+      "title": "Turista s 11-ročnou dcérou uviazol v Nízkych Tatrách. V noci ich hľadali záchranári",
+      "link": "https://www.zilinak.sk/clanky/42542/patracia-akcia-v-nizkych-tatrach-nezvestny-bol-otec-s-11-rocnou-dcerou-na-horach-ich-zastihla-tma",
+      "time": "2026-09-05T10:00:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1787900150-patracia-akcia-v-nizkych-tatrach-nezvestny-bol-otec-s-11rocnou-dcerou-na-horach-ich-zastihla-tma.webp"
+    },
+    {
+      "title": "Polícia pátra po nezvestnom 26-ročnom Filipovi z Levoče",
+      "link": "https://www.presovak.sk/clanky/15275/filip-z-levoce-sa-v-piatok-vecer-vyparil-a-doteraz-nedal-o-sebe-vediet-policia-prosi-verejnost-o-pomoc-pri-patrani",
+      "time": "2026-09-05T09:30:00+00:00",
+      "cat": "patranie",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788599822-filip-z-levoce-sa-v-piatok-vecer-vyparil-a-doteraz-nedal-o-sebe-vediet-policia-prosi-verejnost-o-pomoc-pri-patrani.webp"
+    },
+    {
+      "title": "Požiar v obci pri Trnave po troch dňoch definitívne uhasili. Hasiči zvádzali náročný boj s plameňmi aj žeravým senom",
+      "link": "https://www.trnavak.sk/clanky/12080/foto-tri-dni-plne-dymu-horucavy-a-plamenov-velky-poziar-na-druzstve-pri-trnave-je-definitivne-uhaseny",
+      "time": "2026-09-05T09:10:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788597278-foto-tri-dni-plne-dymu-horucavy-a-plamenov-velky-poziar-na-druzstve-pri-trnave-je-definitivne-uhaseny.webp"
+    },
     {
       "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
       "link": "https://www.bratislavak.sk/clanky/15204/ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
@@ -101,15 +128,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1779955006-video-viete-co-robit-pri-nehode-v-tuneli-dialniciari-varuju-ze-rozhodovat-mozu-sekundy-pozrite-si-videonavod.webp"
-    },
-    {
-      "title": "Kamión havaroval na Orave, vodičov čaká zdržanie",
-      "link": "https://www.zilinak.sk/clanky/42687/dopravu-na-orave-skomplikovala-havaria-kamiona-ciastocne-blokuje-cestu",
-      "time": "2026-09-05T06:14:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788589089-dopravu-na-orave-skomplikovala-havaria-kamiona-ciastocne-blokuje-cestu.webp"
     }
   ]
 }

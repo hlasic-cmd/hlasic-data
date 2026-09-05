@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-05T19:19:42.209425+00:00",
+  "generated_at": "2026-09-05T21:19:31.054869+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 3,
   "items": [
+    {
+      "title": "Dve smrteľné nehody na východe. V Košiciach zrazilo auto na chodníku dieťa",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2036389-v-kosiciach-zrazilo-auto-na-chodniku-dieta-utrpelo-zranenia?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-05T20:02:37+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2025/07/23/4x3-medium/policia-kosice.jpg?v=jJk"
+    },
     {
       "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
       "link": "https://www.nitrak.sk/clanky/11771/ak-mate-v-garazi-tento-ford-ci-fiat-pozor-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
@@ -20,42 +29,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788351044-v-ziline-obnovili-tradiciu-hasiciny-stredoskolaci-sa-budu-pripravovat-po-boku-profesionalov.webp"
-    },
-    {
-      "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
-      "link": "https://www.zilinak.sk/clanky/42658/ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
-      "time": "2026-09-05T13:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788517527-ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz.webp"
-    },
-    {
-      "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
-      "link": "https://www.bratislavak.sk/clanky/15204/ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
-      "time": "2026-09-05T09:05:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788510958-ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz.webp"
-    },
-    {
-      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
-      "link": "https://www.nitrak.sk/clanky/11789/zvrat-v-pocasi-je-tu-nitriansky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor",
-      "time": "2026-09-05T08:10:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788593024-zvrat-v-pocasi-je-tu-nitriansky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor.webp"
-    },
-    {
-      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
-      "link": "https://www.bratislavak.sk/clanky/15278/zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-a-udrie-silny-vietor-na-horach-moze-dosiahnut-silu-vichrice",
-      "time": "2026-09-05T08:00:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788592886-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-a-udrie-silny-vietor-na-horach-moze-dosiahnut-silu-vichrice.webp"
     }
   ]
 }

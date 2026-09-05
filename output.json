@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T15:34:18.713178+00:00",
+  "generated_at": "2026-09-05T17:31:57.846564+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 11,
   "items": [
     {
       "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
@@ -95,30 +95,12 @@
     },
     {
       "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
-      "link": "https://www.trencinak.sk/clanky/13677/zvrat-v-pocasi-je-tu-trenciansky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor",
-      "time": "2026-09-05T08:00:00+00:00",
-      "cat": "burka",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788593111-zvrat-v-pocasi-je-tu-trenciansky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor.webp"
-    },
-    {
-      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
       "link": "https://www.bystricak.sk/clanky/12979/zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-v-banskobystrickom-kraji-bude-uradovat-silny-vietor",
       "time": "2026-09-05T08:00:00+00:00",
       "cat": "burka",
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788592582-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-v-banskobystrickom-kraji-bude-uradovat-silny-vietor.webp"
-    },
-    {
-      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
-      "link": "https://www.presovak.sk/clanky/15271/zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-na-vychode-bude-uradovat-silny-vietor-pozor-aj-na-horach",
-      "time": "2026-09-05T08:00:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788592497-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-na-vychode-bude-uradovat-silny-vietor-pozor-aj-na-horach.webp"
     }
   ]
 }

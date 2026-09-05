@@ -1,6 +1,115 @@
 {
-  "generated_at": "2026-09-05T05:36:12.113949+00:00",
+  "generated_at": "2026-09-05T09:17:21.462718+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 12,
+  "items": [
+    {
+      "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
+      "link": "https://www.bratislavak.sk/clanky/15204/ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
+      "time": "2026-09-05T09:05:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788510958-ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz.webp"
+    },
+    {
+      "title": "Polícia pátra po nezvestnom 26-ročnom Filipovi Šulekovi z Trenčína",
+      "link": "https://www.trencinak.sk/clanky/13678/policia-vyhlasila-patranie-po-26-rocnom-filipovi-z-trencina-nevideli-ste-ho",
+      "time": "2026-09-05T08:30:00+00:00",
+      "cat": "patranie",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788594508-policia-vyhlasila-patranie-po-26rocnom-filipovi-z-trencina-nevideli-ste-ho.webp"
+    },
+    {
+      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
+      "link": "https://www.nitrak.sk/clanky/11789/zvrat-v-pocasi-je-tu-nitriansky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor",
+      "time": "2026-09-05T08:10:00+00:00",
+      "cat": "burka",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788593024-zvrat-v-pocasi-je-tu-nitriansky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor.webp"
+    },
+    {
+      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
+      "link": "https://www.bratislavak.sk/clanky/15278/zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-a-udrie-silny-vietor-na-horach-moze-dosiahnut-silu-vichrice",
+      "time": "2026-09-05T08:00:00+00:00",
+      "cat": "burka",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788592886-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-a-udrie-silny-vietor-na-horach-moze-dosiahnut-silu-vichrice.webp"
+    },
+    {
+      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
+      "link": "https://www.trencinak.sk/clanky/13677/zvrat-v-pocasi-je-tu-trenciansky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor",
+      "time": "2026-09-05T08:00:00+00:00",
+      "cat": "burka",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788593111-zvrat-v-pocasi-je-tu-trenciansky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor.webp"
+    },
+    {
+      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
+      "link": "https://www.bystricak.sk/clanky/12979/zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-v-banskobystrickom-kraji-bude-uradovat-silny-vietor",
+      "time": "2026-09-05T08:00:00+00:00",
+      "cat": "burka",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788592582-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-v-banskobystrickom-kraji-bude-uradovat-silny-vietor.webp"
+    },
+    {
+      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
+      "link": "https://www.presovak.sk/clanky/15271/zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-na-vychode-bude-uradovat-silny-vietor-pozor-aj-na-horach",
+      "time": "2026-09-05T08:00:00+00:00",
+      "cat": "burka",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788592497-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-na-vychode-bude-uradovat-silny-vietor-pozor-aj-na-horach.webp"
+    },
+    {
+      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
+      "link": "https://www.kosicak.sk/clanky/14016/zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-na-vychode-udrie-aj-silny-vietor",
+      "time": "2026-09-05T08:00:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788592434-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-na-vychode-udrie-aj-silny-vietor.webp"
+    },
+    {
+      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
+      "link": "https://www.zilinak.sk/clanky/42688/zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-v-zilinskom-kraji-mozno-ocakavat-silnu-vichricu",
+      "time": "2026-09-05T07:30:00+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788592695-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-v-zilinskom-kraji-mozno-ocakavat-silnu-vichricu.webp"
+    },
+    {
+      "title": "Víkend prinesie výraznú zmenu: Príde ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
+      "link": "https://www.trnavak.sk/clanky/12078/zvrat-v-pocasi-je-tu-trnavsky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor",
+      "time": "2026-09-05T07:25:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788592771-zvrat-v-pocasi-je-tu-trnavsky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor.webp"
+    },
+    {
+      "title": "Čo robiť pri nehode v tuneli? Diaľničiari zverejnili návod",
+      "link": "https://www.zilinak.sk/clanky/40907/video-viete-co-robit-pri-nehode-v-tuneli-dialniciari-varuju-ze-rozhodovat-mozu-sekundy-pozrite-si-videonavod",
+      "time": "2026-09-05T06:30:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1779955006-video-viete-co-robit-pri-nehode-v-tuneli-dialniciari-varuju-ze-rozhodovat-mozu-sekundy-pozrite-si-videonavod.webp"
+    },
+    {
+      "title": "Kamión havaroval na Orave, vodičov čaká zdržanie",
+      "link": "https://www.zilinak.sk/clanky/42687/dopravu-na-orave-skomplikovala-havaria-kamiona-ciastocne-blokuje-cestu",
+      "time": "2026-09-05T06:14:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788589089-dopravu-na-orave-skomplikovala-havaria-kamiona-ciastocne-blokuje-cestu.webp"
+    }
+  ]
 }

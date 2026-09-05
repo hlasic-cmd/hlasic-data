@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T23:22:17.699299+00:00",
+  "generated_at": "2026-09-05T01:05:51.515607+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "title": "Hromadná nehoda pri benzínke v Banskej Bystrici, cesta je neprejazdná",
@@ -20,15 +20,6 @@
       "region": "nitriansky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/1ef897ed-9af3-63e0-917f-c7c4f903a104.jpg"
-    },
-    {
-      "title": "FOTO: Vážna nehoda na R1 pri Žarnovici. Zasahoval aj vrtuľník",
-      "link": "https://www.bystricak.sk/clanky/12971/foto-nehoda-motorkara-na-r1-pri-zarnovici-si-vyziadala-zasah-vrtulnika-cestu-museli-docasne-uzavriet",
-      "time": "2026-09-04T11:39:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788523957-foto-nehoda-motorkara-na-r1-pri-zarnovici-si-vyziadala-zasah-vrtulnika-cestu-museli-docasne-uzavriet.webp"
     }
   ]
 }

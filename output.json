@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-09-05T12:45:21.450165+00:00",
+  "generated_at": "2026-09-05T15:34:18.713178+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 13,
   "items": [
+    {
+      "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
+      "link": "https://www.nitrak.sk/clanky/11771/ak-mate-v-garazi-tento-ford-ci-fiat-pozor-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
+      "time": "2026-09-05T14:20:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788524412-ak-mate-v-garazi-tento-ford-ci-fiat-pozor-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz.webp"
+    },
+    {
+      "title": "Žilinská stavebná škola otvorila odbor pre budúcich hasičov",
+      "link": "https://www.zilinak.sk/clanky/42638/v-ziline-obnovili-tradiciu-hasiciny-stredoskolaci-sa-budu-pripravovat-po-boku-profesionalov",
+      "time": "2026-09-05T14:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788351044-v-ziline-obnovili-tradiciu-hasiciny-stredoskolaci-sa-budu-pripravovat-po-boku-profesionalov.webp"
+    },
+    {
+      "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
+      "link": "https://www.zilinak.sk/clanky/42658/ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
+      "time": "2026-09-05T13:00:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788517527-ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz.webp"
+    },
     {
       "title": "Turista s 11-ročnou dcérou uviazol v Nízkych Tatrách. V noci ich hľadali záchranári",
       "link": "https://www.zilinak.sk/clanky/42542/patracia-akcia-v-nizkych-tatrach-nezvestny-bol-otec-s-11-rocnou-dcerou-na-horach-ich-zastihla-tma",
@@ -92,42 +119,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788592497-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-na-vychode-bude-uradovat-silny-vietor-pozor-aj-na-horach.webp"
-    },
-    {
-      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
-      "link": "https://www.kosicak.sk/clanky/14016/zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-na-vychode-udrie-aj-silny-vietor",
-      "time": "2026-09-05T08:00:00+00:00",
-      "cat": "burka",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788592434-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-na-vychode-udrie-aj-silny-vietor.webp"
-    },
-    {
-      "title": "Víkend prinesie výraznú zmenu: Slovensko čaká ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
-      "link": "https://www.zilinak.sk/clanky/42688/zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-v-zilinskom-kraji-mozno-ocakavat-silnu-vichricu",
-      "time": "2026-09-05T07:30:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788592695-zvrat-v-pocasi-je-tu-teploty-cez-vikend-prudko-klesnu-v-zilinskom-kraji-mozno-ocakavat-silnu-vichricu.webp"
-    },
-    {
-      "title": "Víkend prinesie výraznú zmenu: Príde ochladenie, dážď a vietor, na horách môže dosiahnuť silu víchrice",
-      "link": "https://www.trnavak.sk/clanky/12078/zvrat-v-pocasi-je-tu-trnavsky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor",
-      "time": "2026-09-05T07:25:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788592771-zvrat-v-pocasi-je-tu-trnavsky-region-caka-pocas-vikendu-vyrazne-ochladenie-dazd-a-vietor.webp"
-    },
-    {
-      "title": "Čo robiť pri nehode v tuneli? Diaľničiari zverejnili návod",
-      "link": "https://www.zilinak.sk/clanky/40907/video-viete-co-robit-pri-nehode-v-tuneli-dialniciari-varuju-ze-rozhodovat-mozu-sekundy-pozrite-si-videonavod",
-      "time": "2026-09-05T06:30:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1779955006-video-viete-co-robit-pri-nehode-v-tuneli-dialniciari-varuju-ze-rozhodovat-mozu-sekundy-pozrite-si-videonavod.webp"
     }
   ]
 }

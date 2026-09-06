@@ -1,16 +1,43 @@
 {
-  "generated_at": "2026-09-06T04:56:59.160819+00:00",
+  "generated_at": "2026-09-06T09:03:01.748251+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 4,
   "items": [
     {
-      "title": "Dve smrteľné nehody na východe. V Košiciach zrazilo auto na chodníku dieťa",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2036389-v-kosiciach-zrazilo-auto-na-chodniku-dieta-utrpelo-zranenia?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-05T20:02:37+00:00",
+      "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
+      "link": "https://www.bystricak.sk/clanky/12952/bystricania-ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
+      "time": "2026-09-06T07:00:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788433111-bystricania-ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz.webp"
+    },
+    {
+      "title": "Pri Humennom vyhasol život mladého motorkára, spolujazdkyňu transportoval vrtuľník",
+      "link": "https://korzar.sme.sk/zemplin/c/pri-humennom-vyhasol-zivot-mladeho-motorkara-spolujazdkynu-transportoval-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-09-06T06:01:55+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a0754c-d69d-71eb-bce4-5046d304b767.jpg"
+    },
+    {
+      "title": "Tragická zrážka pri Čiernej nad Tisou: Cyklista bol na mieste mŕtvy",
+      "link": "https://www1.pluska.sk/krimi/tragicka-zrazka-pri-ciernej-nad-tisou-cyklista-bol-na-mieste-mrtvy",
+      "time": "2026-09-06T00:00:00+00:00",
       "cat": "nehoda",
       "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2025/07/23/4x3-medium/policia-kosice.jpg?v=jJk"
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/0e8/0e820c52-1a25-4b7c-8d58-814910682df9.webp"
+    },
+    {
+      "title": "ZÁHADA nezvestných: Snopko opísal hon na Bormanna aj známeho novinára. Čo majú spoločné?",
+      "link": "https://www1.pluska.sk/krimi/zahada-nezvestnych-snopko-opisal-hon-na-bormanna-aj-znameho-novinara-co-maju-spolocne",
+      "time": "2026-09-06T00:00:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/35f/35ff35aa-9088-4196-8845-f51fb3ed8c68.webp"
     }
   ]
 }

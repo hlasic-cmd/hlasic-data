@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T17:44:53.985074+00:00",
+  "generated_at": "2026-09-06T19:31:08.224841+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "title": "TRAGÉDIA: Pri dopravnej nehode na Orave zomrel 34-ročný vodič",
@@ -46,7 +46,7 @@
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788708900-nehoda-na-orave-mala-tragicky-koniec-po-naraze-do-stromu-vodic-neprezil-28rocny-spolujazdec-bojuje-o-zivot.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788717892-nehoda-na-orave-mala-tragicky-koniec-po-naraze-do-stromu-vodic-neprezil-28rocny-spolujazdec-bojuje-o-zivot.webp"
     },
     {
       "title": "V Mirkovciach prišlo po požiari o strechu nad hlavou 39 ľudí",
@@ -67,13 +67,13 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788689827-foto-vazna-nehoda-na-dialnici-medzi-bytcou-a-zilinou-zrazili-sa-dve-auta-jedno-z-nich-bol-taxik.webp"
     },
     {
-      "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
-      "link": "https://www.trnavak.sk/clanky/12054/ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
-      "time": "2026-09-06T09:10:00+00:00",
+      "title": "Tragická nehoda pri Humennom: Po zrážke auta s motorkou zomrel 24-ročný motocyklista",
+      "link": "https://www.presovak.sk/clanky/15277/video-tragicka-nehoda-pri-humennom-po-zrazke-auta-s-motorkou-zomrel-24-rocny-muz",
+      "time": "2026-09-06T09:27:00+00:00",
       "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788527598-ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz.webp"
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788686816-video-tragicka-nehoda-pri-humennom-po-zrazke-auta-s-motorkou-zomrel-24rocny-muz.webp"
     },
     {
       "title": "Cyklistka zostala po páde vo Vršatskom Podhradí nehybne ležať, odviezol ju vrtuľník",
@@ -83,15 +83,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788684375-cyklistka-zostala-po-pade-len-nehybne-lezat-z-vrsatskeho-podhradia-ju-odviezol-vrtulnik-ma-vazne-zranenia.webp"
-    },
-    {
-      "title": "Pri Humennom vyhasol život mladého motorkára, spolujazdkyňu transportoval vrtuľník",
-      "link": "https://korzar.sme.sk/zemplin/c/pri-humennom-vyhasol-zivot-mladeho-motorkara-spolujazdkynu-transportoval-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-09-06T06:01:55+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a0754c-d69d-71eb-bce4-5046d304b767.jpg"
     }
   ]
 }

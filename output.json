@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-09-06T12:48:44.112375+00:00",
+  "generated_at": "2026-09-06T15:49:35.542181+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 13,
   "items": [
+    {
+      "title": "Tragická nehoda pri Sečovciach: Chodec po zrážke s autom podľahol zraneniam",
+      "link": "https://www.kosicak.sk/clanky/14023/tragicka-nehoda-pri-secovciach-chodec-po-zrazke-s-autom-zomrel-v-nemocnici",
+      "time": "2026-09-06T15:33:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788708798-tragicka-nehoda-pri-secovciach-chodec-po-zrazke-s-autom-zomrel-v-nemocnici.webp"
+    },
+    {
+      "title": "Polícia po vážnych nehodách v okrese Trebišov apeluje na vodičov",
+      "link": "https://www.teraz.sk/regiony/policia-po-vaznych-nehodach-v-okrese/990264-clanok.html",
+      "time": "2026-09-06T15:25:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Zvýšené riziko vzniku požiarov pretrváva na väčšine územia Slovenska",
+      "link": "https://www.teraz.sk/slovensko/zvysene-riziko-vzniku-poziarov-pretr/990258-clanok.html",
+      "time": "2026-09-06T15:07:00+00:00",
+      "cat": "poziar",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Vážna nehoda na Orave: Cesta medzi Brezou a Krušetnicou je úplne neprejazdná",
+      "link": "https://www.zilinak.sk/clanky/42693/nehoda-na-orave-mala-tragicky-koniec-po-naraze-do-stromu-vodic-neprezil-28-rocny-spolujazdec-bojuje-o-zivot",
+      "time": "2026-09-06T13:19:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788708900-nehoda-na-orave-mala-tragicky-koniec-po-naraze-do-stromu-vodic-neprezil-28rocny-spolujazdec-bojuje-o-zivot.webp"
+    },
     {
       "title": "Hasiči zasahujú pri nehode auta a motocykla neďaleko Malého Šariša",
       "link": "https://www.teraz.sk/regiony/hasici-zasahuju-pri-nehode-auta-a-moto/990219-clanok.html",
@@ -49,15 +85,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788685630-video-hasici-bojovali-s-rozsiahlym-poziarom-v-slovenskom-raji-vrtulnik-zhodil-vodu-35krat.webp"
     },
     {
-      "title": "Tragická nehoda pri Čiernej nad Tisou: Po zrážke s autom zomrel cyklista",
-      "link": "https://www.kosicak.sk/clanky/14022/foto-tragicka-nehoda-pri-ciernej-nad-tisou-po-zrazke-s-autom-zomrel-cyklista",
-      "time": "2026-09-06T09:35:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788687477-foto-tragicka-nehoda-pri-ciernej-nad-tisou-po-zrazke-s-autom-zomrel-cyklista.webp"
-    },
-    {
       "title": "Tragická nehoda pri Humennom: Po zrážke auta s motorkou zomrel 24-ročný motocyklista",
       "link": "https://www.presovak.sk/clanky/15277/video-tragicka-nehoda-pri-humennom-po-zrazke-auta-s-motorkou-zomrel-24-rocny-muz",
       "time": "2026-09-06T09:27:00+00:00",
@@ -83,15 +110,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788684375-cyklistka-zostala-po-pade-len-nehybne-lezat-z-vrsatskeho-podhradia-ju-odviezol-vrtulnik-ma-vazne-zranenia.webp"
-    },
-    {
-      "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
-      "link": "https://www.bystricak.sk/clanky/12952/bystricania-ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
-      "time": "2026-09-06T07:00:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788433111-bystricania-ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz.webp"
     },
     {
       "title": "Pri Humennom vyhasol život mladého motorkára, spolujazdkyňu transportoval vrtuľník",

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T21:34:37.474623+00:00",
+  "generated_at": "2026-09-06T23:04:23.612726+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 6,
   "items": [
     {
       "title": "TRAGÉDIA: Pri dopravnej nehode na Orave zomrel 34-ročný vodič",
@@ -56,15 +56,6 @@
       "region": "presovsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/06/2527715/4x3-medium/poziar-mirkovce.jpg?v=sR0"
-    },
-    {
-      "title": "Vážna nehoda na D1 pri Žiline: Doprava smerom z Bytče prechádza len krajnicou",
-      "link": "https://www.zilinak.sk/clanky/42692/foto-vazna-nehoda-na-dialnici-medzi-bytcou-a-zilinou-zrazili-sa-dve-auta-jedno-z-nich-bol-taxik",
-      "time": "2026-09-06T10:05:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788689827-foto-vazna-nehoda-na-dialnici-medzi-bytcou-a-zilinou-zrazili-sa-dve-auta-jedno-z-nich-bol-taxik.webp"
     }
   ]
 }

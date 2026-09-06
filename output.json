@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T00:29:23.302043+00:00",
+  "generated_at": "2026-09-06T04:56:59.160819+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 1,
   "items": [
     {
       "title": "Dve smrteľné nehody na východe. V Košiciach zrazilo auto na chodníku dieťa",
@@ -11,24 +11,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2025/07/23/4x3-medium/policia-kosice.jpg?v=jJk"
-    },
-    {
-      "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
-      "link": "https://www.nitrak.sk/clanky/11771/ak-mate-v-garazi-tento-ford-ci-fiat-pozor-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
-      "time": "2026-09-05T14:20:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788524412-ak-mate-v-garazi-tento-ford-ci-fiat-pozor-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz.webp"
-    },
-    {
-      "title": "Žilinská stavebná škola otvorila odbor pre budúcich hasičov",
-      "link": "https://www.zilinak.sk/clanky/42638/v-ziline-obnovili-tradiciu-hasiciny-stredoskolaci-sa-budu-pripravovat-po-boku-profesionalov",
-      "time": "2026-09-05T14:00:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788351044-v-ziline-obnovili-tradiciu-hasiciny-stredoskolaci-sa-budu-pripravovat-po-boku-profesionalov.webp"
     }
   ]
 }

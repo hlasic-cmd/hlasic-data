@@ -1,25 +1,97 @@
 {
-  "generated_at": "2026-09-07T10:21:51.102131+00:00",
+  "generated_at": "2026-09-07T15:55:28.842486+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 11,
   "items": [
     {
-      "title": "Bilancia na cestách: Vážnych zranení po nehodách pribúda, polícia avizuje prísnejšie kontroly",
-      "link": "https://www.aktuality.sk/clanok/UF54ePt/bilancia-na-cestach-vaznych-zraneni-po-nehodach-pribuda-policia-avizuje-prisnejsie-kontroly/",
-      "time": "2026-09-07T10:12:16+00:00",
+      "title": "Nehoda v Zlatých Moravciach spôsobila obmedzenia",
+      "link": "https://www.nitrak.sk/clanky/11807/zrazka-skomplikovala-dopravu-v-zlatych-moravciach-policia-upozornila-na-obmedzenia",
+      "time": "2026-09-07T15:35:00+00:00",
       "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "aktuality.sk",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788795330-zrazka-skomplikovala-dopravu-v-zlatych-moravciach-policia-upozornila-na-obmedzenia.webp"
+    },
+    {
+      "title": "Pri dopravnej nehode na považskej časti D1 sa zranili dvaja ľudia",
+      "link": "https://www.teraz.sk/regiony/pri-dopravnej-nehode-na-povazskej-cast/990527-clanok.html",
+      "time": "2026-09-07T15:12:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Trenčiansky kraj čakajú horúčavy nad 33 až 35 °C, potom príde studený front",
-      "link": "https://www.trencinak.sk/clanky/13686/tento-tyzden-bude-v-trencianskom-kraji-zlomovy-horucavy-vystrieda-dazd-a-studeny-front-teploty-vyrazne-klesnu",
-      "time": "2026-09-07T10:08:00+00:00",
-      "cat": "burka",
+      "title": "Lekár nemocnice na východe Richard Šofranko zahynul pri nehode",
+      "link": "https://www.kosicak.sk/clanky/14040/obrovska-rana-pre-nemocnicu-na-vychode-pri-nehode-tragicky-zomrel-mlady-lekar-richard-sofranko",
+      "time": "2026-09-07T14:00:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788788410-obrovska-rana-pre-nemocnicu-na-vychode-pri-nehode-tragicky-zomrel-mlady-lekar-richard-sofranko.webp"
+    },
+    {
+      "title": "Lekár prešovskej nemocnice Richard Šofranko zahynul pri nehode",
+      "link": "https://www.presovak.sk/clanky/15297/obrovska-rana-pre-presovsku-nemocnicu-tragicky-zomrel-mlady-lekar-richard-sofranko",
+      "time": "2026-09-07T13:29:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788787441-obrovska-rana-pre-presovsku-nemocnicu-tragicky-zomrel-mlady-lekar-richard-sofranko.webp"
+    },
+    {
+      "title": "VIDEO: Nehoda počas popoludňajšej špičky pri Rondli v Žiline. Auto narazilo do kamiónu a zablokovalo pruh",
+      "link": "https://www.zilinak.sk/clanky/42716/video-nehoda-pocas-popoludnajsej-spicky-pri-rondli-v-ziline-auto-narazilo-do-kamionu-a-zablokovalo-pruh",
+      "time": "2026-09-07T13:23:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788787630-video-nehoda-pocas-popoludnajsej-spicky-pri-rondli-v-ziline-auto-narazilo-do-kamionu-a-zablokovalo-pruh.webp"
+    },
+    {
+      "title": "Polícia vyhlásila pátranie po 17-ročnej Romane",
+      "link": "https://www.bystricak.sk/clanky/12993/romana-odisla-z-centra-pre-deti-a-rodiny-v-rimavskej-sobote-teraz-je-nezvestna-policia-ziada-ludi-o-pomoc",
+      "time": "2026-09-07T13:20:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788781396-romana-odisla-z-centra-pre-deti-a-rodiny-v-rimavskej-sobote-teraz-je-nezvestna-policia-ziada-ludi-o-pomoc.webp"
+    },
+    {
+      "title": "Nikola Remeňová z Martina je nezvestná: Polícia žiada verejnosť o pomoc pri pátraní",
+      "link": "https://www.zilinak.sk/clanky/42708/policia-patra-po-31-rocnej-zene-z-martina-nikola-remenova-je-nezvestna",
+      "time": "2026-09-07T12:45:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788772932-policia-patra-po-31rocnej-zene-z-martina-nikola-remenova-je-nezvestna.webp"
+    },
+    {
+      "title": "Pavol Demitra z Dubnice zomrel pred 15 rokmi pri leteckej havárii",
+      "link": "https://www.trencinak.sk/clanky/13692/pred-15-rokmi-zomrel-legendarny-hokejista-a-rodak-z-dubnice-pavol-demitra-nezabudol-nanho-jeho-klub-ani-fanusikovia",
+      "time": "2026-09-07T11:50:00+00:00",
+      "cat": "nehoda",
       "region": "trenciansky",
       "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788763830-tento-tyzden-bude-v-trencianskom-kraji-zlomovy-horucavy-vystrieda-dazd-a-studeny-front-teploty-vyrazne-klesnu.webp"
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788780879-pred-15-rokmi-zomrel-legendarny-hokejista-a-rodak-z-dubnice-pavol-demitra-nezabudol-nanho-jeho-klub-ani-fanusikovia.webp"
+    },
+    {
+      "title": "Pezinská Baba: 30-ročný motocyklista je po nehode v ohrození života",
+      "link": "https://www.bratislavak.sk/clanky/15296/dalsi-motorkar-nezvladol-prejazd-pezinskou-babou-a-narazil-do-zvodidiel-po-nehode-je-v-ohrozeni-zivota",
+      "time": "2026-09-07T11:20:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788776834-dalsi-motorkar-nezvladol-prejazd-pezinskou-babou-a-narazil-do-zvodidiel-po-nehode-je-v-ohrozeni-zivota.webp"
+    },
+    {
+      "title": "FOTO: Motocyklista pri Bujakove skončil v nemocnici",
+      "link": "https://www.bystricak.sk/clanky/12992/foto-motocyklista-pri-brezne-skoncil-po-nehode-v-nemocnici-len-par-minut-predtym-ho-zastavili-policajti",
+      "time": "2026-09-07T11:00:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788776307-foto-motocyklista-pri-brezne-skoncil-po-nehode-v-nemocnici-len-par-minut-predtym-ho-zastavili-policajti.webp"
     },
     {
       "title": "V obci Príslop sa prevrátil domiešavač, cesta je neprejazdná",
@@ -29,87 +101,6 @@
       "region": "presovsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/07/2528109/4x3-medium/policia-presov-domiesavac.jpg?v=T/w"
-    },
-    {
-      "title": "Vodič neprežil náraz do stromu, spolujazdca ratovali leteckí záchranári – FOTO",
-      "link": "https://sita.sk/vodic-neprezil-naraz-do-stromu-spolujazdca-ratovali-letecki-zachranari-foto/",
-      "time": "2026-09-07T08:41:02+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/09/tragicka-nehoda-v-okrese-namestovo-688x387.jpg"
-    },
-    {
-      "title": "Polícia pátra po 53-ročnom Jánovi z Detvy. Pomôžte ho nájsť",
-      "link": "https://www.bystricak.sk/clanky/12985/policia-patra-po-53-rocnom-muzovi-z-detvy-nezvestneho-jana-hladaju-od-nedele",
-      "time": "2026-09-07T08:30:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788767392-policia-patra-po-53rocnom-muzovi-z-detvy-nezvestneho-jana-hladaju-od-nedele.webp"
-    },
-    {
-      "title": "Smrteľná nehoda pri Sečovciach: Július sa mal vracať z oslavy, po ceste ho zrazilo auto",
-      "link": "https://www.kosicak.sk/clanky/14025/julius-sa-mal-vracat-z-oslavy-domov-kde-uz-nedorazil-pred-secovcami-ho-zrazilo-auto-vaznym-zraneniam-podlahol",
-      "time": "2026-09-07T08:10:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788766350-julius-sa-mal-vracat-z-oslavy-domov-kde-uz-nedorazil-pred-secovcami-ho-zrazilo-auto-vaznym-zraneniam-podlahol.webp"
-    },
-    {
-      "title": "VIDEO: Pri požiari v Mirkovciach zhorelo šesť príbytkov, o domov prišlo 39 ľudí",
-      "link": "https://www.presovak.sk/clanky/15281/video-poziar-v-osade-nedaleko-presova-pripravil-o-domov-sest-rodin-obec-im-poskytla-provizorne-byvanie",
-      "time": "2026-09-07T06:57:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788764156-video-poziar-v-osade-nedaleko-presova-pripravil-o-domov-sest-rodin-obec-im-poskytla-provizorne-byvanie.webp"
-    },
-    {
-      "title": "Rannú cestu do práce skomplikovala nehoda na diaľnici pred Bratislavou, kolóny hlásite aj na Prístavnom moste",
-      "link": "https://www.bratislavak.sk/clanky/15285/rannu-cestu-do-prace-skomplikovala-nehoda-na-dialnici-pred-bratislavou-kolony-hlasite-aj-na-pristavnom-moste",
-      "time": "2026-09-07T06:31:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/03_aktualne.webp"
-    },
-    {
-      "title": "Pre nehodu na košickej R4 sa vytvorili kolóny, počkáte si v nich aj smerom od Malej Idy do mesta",
-      "link": "https://www.kosicak.sk/clanky/14024/pre-nehodu-na-kosickej-r4-sa-vytvorili-kolony-pockate-si-v-nich-aj-smerom-od-malej-idy-do-mesta",
-      "time": "2026-09-07T06:10:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Fiat a Ford zvolávajú na Slovensku 581 áut pre riziko nehody a požiaru",
-      "link": "https://www.trencinak.sk/clanky/13654/ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz",
-      "time": "2026-09-07T05:45:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788518793-ak-mate-v-garazi-ford-ci-fiat-citajte-pozorne-slovenska-obchodna-inspekcia-ma-pre-vas-dolezity-odkaz.webp"
-    },
-    {
-      "title": "Biele auto malo na Orave vytlačiť motorkárku, po páde sa zranila. Vodič z miesta odišiel",
-      "link": "https://www.zilinak.sk/clanky/42697/hladaju-sa-svedkovia-nehody-na-orave-pri-ktorej-sa-zranila-motorkarka-vodic-ktory-ju-mal-zapricinit-z-miesta-usiel",
-      "time": "2026-09-07T05:30:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788758673-hladaju-sa-svedkovia-nehody-na-orave-pri-ktorej-sa-zranila-motorkarka-vodic-ktory-ju-mal-zapricinit-z-miesta-usiel.webp"
-    },
-    {
-      "title": "V obci Príslop sa prevrátil domiešavač, cesta je neprejazdná",
-      "link": "https://www1.pluska.sk/krimi/v-obci-prislop-sa-prevratil-domiesavac-cesta-je-neprejazdna",
-      "time": "2026-09-07T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/651/651a4c65-fdec-4203-858f-076dd42b2c59.webp"
     }
   ]
 }

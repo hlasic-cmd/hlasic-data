@@ -1,52 +1,16 @@
 {
-  "generated_at": "2026-09-07T00:51:50.928976+00:00",
+  "generated_at": "2026-09-07T05:17:24.075243+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 1,
   "items": [
     {
-      "title": "TRAGÉDIA: Pri dopravnej nehode na Orave zomrel 34-ročný vodič",
-      "link": "https://www.teraz.sk/regiony/brief-pri-tragickej-dopravnej-nehode-na/990268-clanok.html",
-      "time": "2026-09-06T15:55:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Tragická nehoda pri Sečovciach: Chodec po zrážke s autom podľahol zraneniam",
-      "link": "https://www.kosicak.sk/clanky/14023/tragicka-nehoda-pri-secovciach-chodec-po-zrazke-s-autom-zomrel-v-nemocnici",
-      "time": "2026-09-06T15:33:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788708798-tragicka-nehoda-pri-secovciach-chodec-po-zrazke-s-autom-zomrel-v-nemocnici.webp"
-    },
-    {
-      "title": "Polícia po vážnych nehodách v okrese Trebišov apeluje na vodičov",
-      "link": "https://www.teraz.sk/regiony/policia-po-vaznych-nehodach-v-okrese/990264-clanok.html",
-      "time": "2026-09-06T15:25:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Zvýšené riziko vzniku požiarov pretrváva na väčšine územia Slovenska",
-      "link": "https://www.teraz.sk/slovensko/zvysene-riziko-vzniku-poziarov-pretr/990258-clanok.html",
-      "time": "2026-09-06T15:07:00+00:00",
+      "title": "Zo zhoreniska v Braväcove odviezli takmer 100 ton odpadu. Čo bude s poškodenými domami?",
+      "link": "https://www1.pluska.sk/krimi/zo-zhoreniska-v-bravacove-odviezli-takmer-100-ton-odpadu-co-bude-s-poskodenymi-domami",
+      "time": "2026-09-07T00:00:00+00:00",
       "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Vážna nehoda na Orave: Cesta medzi Brezou a Krušetnicou je úplne neprejazdná",
-      "link": "https://www.zilinak.sk/clanky/42693/nehoda-na-orave-mala-tragicky-koniec-po-naraze-do-stromu-vodic-neprezil-28-rocny-spolujazdec-bojuje-o-zivot",
-      "time": "2026-09-06T13:19:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788717892-nehoda-na-orave-mala-tragicky-koniec-po-naraze-do-stromu-vodic-neprezil-28rocny-spolujazdec-bojuje-o-zivot.webp"
+      "region": "banskobystricky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/7b4/7b4e1c0d-9a13-44bd-96c6-502eca9c41a6.webp"
     }
   ]
 }

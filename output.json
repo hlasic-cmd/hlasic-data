@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T23:04:23.612726+00:00",
+  "generated_at": "2026-09-07T00:51:50.928976+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 5,
   "items": [
     {
       "title": "TRAGÉDIA: Pri dopravnej nehode na Orave zomrel 34-ročný vodič",
@@ -47,15 +47,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788717892-nehoda-na-orave-mala-tragicky-koniec-po-naraze-do-stromu-vodic-neprezil-28rocny-spolujazdec-bojuje-o-zivot.webp"
-    },
-    {
-      "title": "V Mirkovciach prišlo po požiari o strechu nad hlavou 39 ľudí",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2036553-v-mirkovciach-prislo-po-poziari-o-strechu-nad-hlavou-39-ludi?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-06T11:05:24+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/09/06/2527715/4x3-medium/poziar-mirkovce.jpg?v=sR0"
     }
   ]
 }

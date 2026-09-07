@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-09-07T15:55:28.842486+00:00",
+  "generated_at": "2026-09-07T19:26:36.731972+00:00",
   "max_age_hours": 12,
   "count": 11,
   "items": [
+    {
+      "title": "Tragický koniec jazdy v Košickom kraji: Motocyklista utrpel po páde vážne zranenia, počas prevozu do nemocnice zomrel",
+      "link": "https://www.kosicak.sk/clanky/14041/tragedia-na-vychode-slovenska-motocyklista-utrpel-po-pade-vazne-zranenia-zachranari-mu-uz-nedokazali-pomoct",
+      "time": "2026-09-07T17:11:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788801064-tragedia-na-vychode-slovenska-motocyklista-utrpel-po-pade-vazne-zranenia-zachranari-mu-uz-nedokazali-pomoct.webp"
+    },
+    {
+      "title": "Polícia pátra po nezvestných Zsaklin a Sandre z Nitrianskeho kraja, od pondelka sú nezvestné",
+      "link": "https://www.nitrak.sk/clanky/11808/policia-patra-po-dvoch-dievcatach-z-nitrianskeho-kraja-13-rocna-zsaklin-a-14-rocna-sandra-su-od-pondelka-nezvestne",
+      "time": "2026-09-07T15:55:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788796351-policia-patra-po-dvoch-dievcatach-z-nitrianskeho-kraja-13rocna-zsaklin-a-14rocna-sandra-su-od-pondelka-nezvestne.webp"
+    },
+    {
+      "title": "Polícia pátra po 17-ročnej Sáre Barkóciovej zo Senice, dievča je nezvestné",
+      "link": "https://www.trnavak.sk/clanky/12102/dalsia-nezvestna-tinedzerka-zo-zahoria-policia-vyhlasila-patranie-po-17-rocnej-sare-zo-senice",
+      "time": "2026-09-07T15:50:00+00:00",
+      "cat": "patranie",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788794923-dalsia-nezvestna-tinedzerka-zo-zahoria-policia-vyhlasila-patranie-po-17rocnej-sare-zo-senice.webp"
+    },
     {
       "title": "Nehoda v Zlatých Moravciach spôsobila obmedzenia",
       "link": "https://www.nitrak.sk/clanky/11807/zrazka-skomplikovala-dopravu-v-zlatych-moravciach-policia-upozornila-na-obmedzenia",
@@ -40,15 +67,6 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788787441-obrovska-rana-pre-presovsku-nemocnicu-tragicky-zomrel-mlady-lekar-richard-sofranko.webp"
     },
     {
-      "title": "VIDEO: Nehoda počas popoludňajšej špičky pri Rondli v Žiline. Auto narazilo do kamiónu a zablokovalo pruh",
-      "link": "https://www.zilinak.sk/clanky/42716/video-nehoda-pocas-popoludnajsej-spicky-pri-rondli-v-ziline-auto-narazilo-do-kamionu-a-zablokovalo-pruh",
-      "time": "2026-09-07T13:23:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788787630-video-nehoda-pocas-popoludnajsej-spicky-pri-rondli-v-ziline-auto-narazilo-do-kamionu-a-zablokovalo-pruh.webp"
-    },
-    {
       "title": "Polícia vyhlásila pátranie po 17-ročnej Romane",
       "link": "https://www.bystricak.sk/clanky/12993/romana-odisla-z-centra-pre-deti-a-rodiny-v-rimavskej-sobote-teraz-je-nezvestna-policia-ziada-ludi-o-pomoc",
       "time": "2026-09-07T13:20:00+00:00",
@@ -56,33 +74,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788781396-romana-odisla-z-centra-pre-deti-a-rodiny-v-rimavskej-sobote-teraz-je-nezvestna-policia-ziada-ludi-o-pomoc.webp"
-    },
-    {
-      "title": "Nikola Remeňová z Martina je nezvestná: Polícia žiada verejnosť o pomoc pri pátraní",
-      "link": "https://www.zilinak.sk/clanky/42708/policia-patra-po-31-rocnej-zene-z-martina-nikola-remenova-je-nezvestna",
-      "time": "2026-09-07T12:45:00+00:00",
-      "cat": "patranie",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788772932-policia-patra-po-31rocnej-zene-z-martina-nikola-remenova-je-nezvestna.webp"
-    },
-    {
-      "title": "Pavol Demitra z Dubnice zomrel pred 15 rokmi pri leteckej havárii",
-      "link": "https://www.trencinak.sk/clanky/13692/pred-15-rokmi-zomrel-legendarny-hokejista-a-rodak-z-dubnice-pavol-demitra-nezabudol-nanho-jeho-klub-ani-fanusikovia",
-      "time": "2026-09-07T11:50:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788780879-pred-15-rokmi-zomrel-legendarny-hokejista-a-rodak-z-dubnice-pavol-demitra-nezabudol-nanho-jeho-klub-ani-fanusikovia.webp"
-    },
-    {
-      "title": "Pezinská Baba: 30-ročný motocyklista je po nehode v ohrození života",
-      "link": "https://www.bratislavak.sk/clanky/15296/dalsi-motorkar-nezvladol-prejazd-pezinskou-babou-a-narazil-do-zvodidiel-po-nehode-je-v-ohrozeni-zivota",
-      "time": "2026-09-07T11:20:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788776834-dalsi-motorkar-nezvladol-prejazd-pezinskou-babou-a-narazil-do-zvodidiel-po-nehode-je-v-ohrozeni-zivota.webp"
     },
     {
       "title": "FOTO: Motocyklista pri Bujakove skončil v nemocnici",
@@ -101,6 +92,15 @@
       "region": "presovsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/07/2528109/4x3-medium/policia-presov-domiesavac.jpg?v=T/w"
+    },
+    {
+      "title": "Polícia pátra po 53-ročnom Jánovi z Detvy. Pomôžte ho nájsť",
+      "link": "https://www.bystricak.sk/clanky/12985/policia-patra-po-53-rocnom-muzovi-z-detvy-nezvestneho-jana-hladaju-od-nedele",
+      "time": "2026-09-07T08:30:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788767392-policia-patra-po-53rocnom-muzovi-z-detvy-nezvestneho-jana-hladaju-od-nedele.webp"
     }
   ]
 }

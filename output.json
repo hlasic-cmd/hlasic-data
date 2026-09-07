@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-07T19:26:36.731972+00:00",
+  "generated_at": "2026-09-07T22:08:25.628338+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 9,
   "items": [
+    {
+      "title": "Požiar: Na jednom z bratislavských sídlisk horí byt",
+      "link": "https://www.aktuality.sk/clanok/YoXzDU0/poziar-na-jednom-z-bratislavskych-sidlisk-hori-byt/",
+      "time": "2026-09-07T19:47:43+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
     {
       "title": "Tragický koniec jazdy v Košickom kraji: Motocyklista utrpel po páde vážne zranenia, počas prevozu do nemocnice zomrel",
       "link": "https://www.kosicak.sk/clanky/14041/tragedia-na-vychode-slovenska-motocyklista-utrpel-po-pade-vazne-zranenia-zachranari-mu-uz-nedokazali-pomoct",
@@ -67,15 +76,6 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788787441-obrovska-rana-pre-presovsku-nemocnicu-tragicky-zomrel-mlady-lekar-richard-sofranko.webp"
     },
     {
-      "title": "Polícia vyhlásila pátranie po 17-ročnej Romane",
-      "link": "https://www.bystricak.sk/clanky/12993/romana-odisla-z-centra-pre-deti-a-rodiny-v-rimavskej-sobote-teraz-je-nezvestna-policia-ziada-ludi-o-pomoc",
-      "time": "2026-09-07T13:20:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788781396-romana-odisla-z-centra-pre-deti-a-rodiny-v-rimavskej-sobote-teraz-je-nezvestna-policia-ziada-ludi-o-pomoc.webp"
-    },
-    {
       "title": "FOTO: Motocyklista pri Bujakove skončil v nemocnici",
       "link": "https://www.bystricak.sk/clanky/12992/foto-motocyklista-pri-brezne-skoncil-po-nehode-v-nemocnici-len-par-minut-predtym-ho-zastavili-policajti",
       "time": "2026-09-07T11:00:00+00:00",
@@ -83,24 +83,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788776307-foto-motocyklista-pri-brezne-skoncil-po-nehode-v-nemocnici-len-par-minut-predtym-ho-zastavili-policajti.webp"
-    },
-    {
-      "title": "V obci Príslop sa prevrátil domiešavač, cesta je neprejazdná",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2036927-v-obci-prislop-sa-prevratil-domiesavac-cesta-je-neprejazdna?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-07T08:45:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/09/07/2528109/4x3-medium/policia-presov-domiesavac.jpg?v=T/w"
-    },
-    {
-      "title": "Polícia pátra po 53-ročnom Jánovi z Detvy. Pomôžte ho nájsť",
-      "link": "https://www.bystricak.sk/clanky/12985/policia-patra-po-53-rocnom-muzovi-z-detvy-nezvestneho-jana-hladaju-od-nedele",
-      "time": "2026-09-07T08:30:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788767392-policia-patra-po-53rocnom-muzovi-z-detvy-nezvestneho-jana-hladaju-od-nedele.webp"
     }
   ]
 }

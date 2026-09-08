@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T00:17:04.494698+00:00",
+  "generated_at": "2026-09-08T04:40:22.121124+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 2,
   "items": [
     {
       "title": "Požiar: Na jednom z bratislavských sídlisk horí byt",
@@ -20,60 +20,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788801064-tragedia-na-vychode-slovenska-motocyklista-utrpel-po-pade-vazne-zranenia-zachranari-mu-uz-nedokazali-pomoct.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestných Zsaklin a Sandre z Nitrianskeho kraja, od pondelka sú nezvestné",
-      "link": "https://www.nitrak.sk/clanky/11808/policia-patra-po-dvoch-dievcatach-z-nitrianskeho-kraja-13-rocna-zsaklin-a-14-rocna-sandra-su-od-pondelka-nezvestne",
-      "time": "2026-09-07T15:55:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788796351-policia-patra-po-dvoch-dievcatach-z-nitrianskeho-kraja-13rocna-zsaklin-a-14rocna-sandra-su-od-pondelka-nezvestne.webp"
-    },
-    {
-      "title": "Polícia pátra po 17-ročnej Sáre Barkóciovej zo Senice, dievča je nezvestné",
-      "link": "https://www.trnavak.sk/clanky/12102/dalsia-nezvestna-tinedzerka-zo-zahoria-policia-vyhlasila-patranie-po-17-rocnej-sare-zo-senice",
-      "time": "2026-09-07T15:50:00+00:00",
-      "cat": "patranie",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788794923-dalsia-nezvestna-tinedzerka-zo-zahoria-policia-vyhlasila-patranie-po-17rocnej-sare-zo-senice.webp"
-    },
-    {
-      "title": "Nehoda v Zlatých Moravciach spôsobila obmedzenia",
-      "link": "https://www.nitrak.sk/clanky/11807/zrazka-skomplikovala-dopravu-v-zlatych-moravciach-policia-upozornila-na-obmedzenia",
-      "time": "2026-09-07T15:35:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788795330-zrazka-skomplikovala-dopravu-v-zlatych-moravciach-policia-upozornila-na-obmedzenia.webp"
-    },
-    {
-      "title": "Pri dopravnej nehode na považskej časti D1 sa zranili dvaja ľudia",
-      "link": "https://www.teraz.sk/regiony/pri-dopravnej-nehode-na-povazskej-cast/990527-clanok.html",
-      "time": "2026-09-07T15:12:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Lekár nemocnice na východe Richard Šofranko zahynul pri nehode",
-      "link": "https://www.kosicak.sk/clanky/14040/obrovska-rana-pre-nemocnicu-na-vychode-pri-nehode-tragicky-zomrel-mlady-lekar-richard-sofranko",
-      "time": "2026-09-07T14:00:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788788410-obrovska-rana-pre-nemocnicu-na-vychode-pri-nehode-tragicky-zomrel-mlady-lekar-richard-sofranko.webp"
-    },
-    {
-      "title": "Lekár prešovskej nemocnice Richard Šofranko zahynul pri nehode",
-      "link": "https://www.presovak.sk/clanky/15297/obrovska-rana-pre-presovsku-nemocnicu-tragicky-zomrel-mlady-lekar-richard-sofranko",
-      "time": "2026-09-07T13:29:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788787441-obrovska-rana-pre-presovsku-nemocnicu-tragicky-zomrel-mlady-lekar-richard-sofranko.webp"
     }
   ]
 }

@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-08T13:29:50.393446+00:00",
+  "generated_at": "2026-09-08T17:20:37.135931+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 11,
   "items": [
+    {
+      "title": "Priestor pred Slovenským národným múzeom čaká obnova, Martin získal dotáciu od Šimkovičovej ministerstva",
+      "link": "https://sita.sk/priestor-pred-slovenskym-narodnym-muzeom-caka-obnova-mesto-ziskalo-dotaciu-od-simkovicovej-ministerstva/",
+      "time": "2026-09-08T18:56:58+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/07/simkovicova2-1-688x387.jpg"
+    },
+    {
+      "title": "Požiar hospodárskych budov: Škodu odhadli na 30.000 eur",
+      "link": "https://www.teraz.sk/regiony/poziar-hospodarskych-budov-skodu-odh/990815-clanok.html",
+      "time": "2026-09-08T16:06:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Na košickom sídlisku horí tráva, zápach a dym evidujú široko-ďaleko",
+      "link": "https://www.kosicak.sk/clanky/14055/foto-tahanovcami-sa-siri-cierny-dym-a-neprijemny-zapach-hasici-zasahuju-pri-poziari-travy",
+      "time": "2026-09-08T14:05:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788876644-foto-tahanovcami-sa-siri-cierny-dym-a-neprijemny-zapach-hasici-zasahuju-pri-poziari-travy.webp"
+    },
+    {
+      "title": "FOTO: Veľký zásah hasičov v Pohorelej. Horeli dve hospodárske budovy, škoda je 30-tisíc eur",
+      "link": "https://www.bystricak.sk/clanky/13012/foto-hasici-bojovali-s-poziarom-v-pohorelej-z-obycajnej-poruchy-vznikol-poziar-za-30-tisic-eur",
+      "time": "2026-09-08T13:40:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788872932-foto-hasici-bojovali-s-poziarom-v-pohorelej-z-obycajnej-poruchy-vznikol-poziar-za-30tisic-eur.webp"
+    },
+    {
+      "title": "Západ Slovenska čaká na prudká zmena: Horúčavy vystrieda dážď a chlad",
+      "link": "https://www.trnavak.sk/clanky/12114/zapad-slovenska-caka-v-stredu-posledny-horuci-den-uz-vo-stvrtok-pride-vyrazne-ochladenie-dazd-aj-burky",
+      "time": "2026-09-08T13:20:00+00:00",
+      "cat": "burka",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788867523-zapad-slovenska-caka-v-stredu-posledny-horuci-den-uz-vo-stvrtok-pride-vyrazne-ochladenie-dazd-aj-burky.webp"
+    },
     {
       "title": "Banskobystrický kraj čakajú najskôr horúčavy, potom búrky a ochladenie",
       "link": "https://www.bystricak.sk/clanky/13010/banskobystricky-kraj-caka-este-jeden-horuci-den-platia-aj-vystrahy-potom-pride-prudky-zlom-pocasia",
@@ -22,15 +67,6 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788778445-foto-oblubena-rozhladna-na-kysuciach-chatra-dosky-su-prehnite-a-nebezpecne-zakaz-vstupu-niektori-ignoruju.webp"
     },
     {
-      "title": "Trestné stíhanie voči Marianovi K. v kauze Búrka a Víchrica pokračuje",
-      "link": "https://www.teraz.sk/slovensko/trestne-stihanie-voci-marianovi-k-v/990743-clanok.html",
-      "time": "2026-09-08T12:34:00+00:00",
-      "cat": "burka",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Nehoda obmedzila premávku na Záhorí",
       "link": "https://www.trnavak.sk/clanky/12115/pozor-na-cestach-na-zahori-sa-stala-dopravna-nehoda-na-mieste-zasahuju-zachranari",
       "time": "2026-09-08T11:59:00+00:00",
@@ -38,24 +74,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Schodisko pred martinským múzeom je v havarijnom stave. Mesto na jeho obnovu získalo 95-tisíc eur",
-      "link": "https://www.zilinak.sk/clanky/42736/schodisko-pred-martinskym-muzeom-je-v-havarijnom-stave-mesto-na-jeho-obnovu-ziskalo-95-tisic-eur",
-      "time": "2026-09-08T11:45:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788862804-schodisko-pred-martinskym-muzeom-je-v-havarijnom-stave-mesto-na-jeho-obnovu-ziskalo-95tisic-eur.webp"
-    },
-    {
-      "title": "V Haniske zrazilo auto cyklistku. Cesta je neprejazdná",
-      "link": "https://www.presovak.sk/clanky/15309/v-haniske-zrazilo-auto-cyklistku-cesta-je-neprejazdna",
-      "time": "2026-09-08T10:23:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788864704-v-haniske-zrazilo-auto-cyklistku-cesta-je-neprejazdna.webp"
     },
     {
       "title": "Stačila manipulácia s otvoreným ohňom. Bytovka v Dúbravke horela, 33 ľudí muselo utekať von",
@@ -67,22 +85,13 @@
       "image": "https://prvd.sk/cdn/2026/04/20/4x3-medium/hasici-hazz-bajc-poziar-triedicka.jpg?v=vQM"
     },
     {
-      "title": "Pri Vyšnom Hrušove zomrel 24-ročný motorkár Jakub, obrovská tragédia zasiahla celý kraj",
-      "link": "https://www.kosicak.sk/clanky/14048/video-dalsia-tragicka-nehoda-na-vychdoe-zomrel-mlady-motorkar-jakub-rodna-obec-mu-venovala-aj-piesen",
-      "time": "2026-09-08T09:40:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788854509-video-dalsia-tragicka-nehoda-na-vychdoe-zomrel-mlady-motorkar-jakub-rodna-obec-mu-venovala-aj-piesen.webp"
-    },
-    {
-      "title": "Pozor na R1 pri Bystrici. Premávku komplikuje nehoda",
-      "link": "https://www.bystricak.sk/clanky/13005/vodici-na-r1-pri-banskej-bystrici-sa-zrazil-kamion-s-autom-blokovany-je-pravy-pruh",
-      "time": "2026-09-08T09:02:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788858104-vodici-na-r1-pri-banskej-bystrici-sa-zrazil-kamion-s-autom-blokovany-je-pravy-pruh.webp"
+      "title": "Školu v Martine evakuovali kvôli bombovej hrozbe. Jej autor prial deťom niečo strašné",
+      "link": "https://www.zilinak.sk/clanky/42733/autor-bombovej-hrozby-pre-martinsku-skolu-napisal-aby-zomreli-deti-volicov-istej-strany-dokonca-tam-dvakrat-zavolal",
+      "time": "2026-09-08T08:51:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788874766-autor-bombovej-hrozby-pre-martinsku-skolu-napisal-aby-zomreli-deti-volicov-istej-strany-dokonca-tam-dvakrat-zavolal.webp"
     },
     {
       "title": "12-ročný chlapec odišiel na ihrisko a zmizol. Celú noc po ňom pátrali, ráno prišiel zlom",
@@ -92,24 +101,6 @@
       "region": "presovsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/08/2528613/4x3-medium/hzs-horska-zachranna-sluzba.jpg?v=T/w"
-    },
-    {
-      "title": "Dopravu na I/61 v Trenčíne komplikuje nehoda, polícia uzavrela cestu",
-      "link": "https://www.trencinak.sk/clanky/13708/vodici-pozor-dopravu-na-i61-pri-auo-v-trencine-komplikuje-nehoda-cesta-bude-najblizsie-hodiny-uzavreta",
-      "time": "2026-09-08T08:18:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788869802-vodici-pozor-dopravu-na-i61-pri-auo-v-trencine-komplikuje-nehoda-cesta-bude-najblizsie-hodiny-uzavreta.webp"
-    },
-    {
-      "title": "Pri Zlatých Moravciach sa zrazil kamión s motocyklom, cesta je obmedzená",
-      "link": "https://www.nitrak.sk/clanky/11811/pri-zlatych-moravciach-sa-zrazil-kamion-s-motocyklom-premavka-je-scasti-obmedzena",
-      "time": "2026-09-08T07:18:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
     }
   ]
 }

@@ -1,25 +1,97 @@
 {
-  "generated_at": "2026-09-08T04:40:22.121124+00:00",
+  "generated_at": "2026-09-08T09:04:24.989628+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 10,
   "items": [
     {
-      "title": "Požiar: Na jednom z bratislavských sídlisk horí byt",
-      "link": "https://www.aktuality.sk/clanok/YoXzDU0/poziar-na-jednom-z-bratislavskych-sidlisk-hori-byt/",
-      "time": "2026-09-07T19:47:43+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "aktuality.sk",
-      "image": null
+      "title": "Výhražný e-mail vyprázdnil školu v Martine. Deti plakali, rodičia po ne utekali z práce",
+      "link": "https://www.zilinak.sk/clanky/42733/zakladnu-skolu-v-martine-evakuovali-vyucovanie-skoncilo-prvou-hodinou-deti-plakali-od-stresu-pisu-rodicia",
+      "time": "2026-09-08T08:51:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788857516-zakladnu-skolu-v-martine-evakuovali-vyucovanie-skoncilo-prvou-hodinou-deti-plakali-od-stresu-pisu-rodicia.webp"
     },
     {
-      "title": "Tragický koniec jazdy v Košickom kraji: Motocyklista utrpel po páde vážne zranenia, počas prevozu do nemocnice zomrel",
-      "link": "https://www.kosicak.sk/clanky/14041/tragedia-na-vychode-slovenska-motocyklista-utrpel-po-pade-vazne-zranenia-zachranari-mu-uz-nedokazali-pomoct",
-      "time": "2026-09-07T17:11:00+00:00",
+      "title": "12-ročný chlapec odišiel na ihrisko a zmizol. Celú noc po ňom pátrali, ráno prišiel zlom",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2037679-12-rocny-chlapec-odisiel-na-ihrisko-a-zmizol-celu-noc-po-nom-patrali-rano-prisiel-zlom?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-08T08:45:00+00:00",
+      "cat": "patranie",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/09/08/2528613/4x3-medium/hzs-horska-zachranna-sluzba.jpg?v=T/w"
+    },
+    {
+      "title": "Dopravu na I/61 v Trenčíne komplikuje nehoda, polícia uzavrela cestu",
+      "link": "https://www.trencinak.sk/clanky/13708/vodici-pozor-dopravu-na-i61-pri-auo-v-trencine-komplikuje-nehoda-cesta-bude-najblizsie-hodiny-uzavreta",
+      "time": "2026-09-08T08:18:00+00:00",
       "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788855510-vodici-pozor-dopravu-na-i61-pri-auo-v-trencine-komplikuje-nehoda-cesta-bude-najblizsie-hodiny-uzavreta.webp"
+    },
+    {
+      "title": "Pri Vyšnom Hrušove zomrel 24-ročný motorkár Jakub, obrovská tragédia zasiahla celý kraj",
+      "link": "https://www.presovak.sk/clanky/15300/video-dalsia-tragicka-nehoda-pri-hrusove-zomrel-mlady-motorkar-jakub-rodna-obec-mu-venovala-aj-piesen",
+      "time": "2026-09-08T07:40:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788852884-video-dalsia-tragicka-nehoda-pri-hrusove-zomrel-mlady-motorkar-jakub-rodna-obec-mu-venovala-aj-piesen.webp"
+    },
+    {
+      "title": "Polícia pátra po nezvestnej 13-ročnej Sáre z okresu Košice okolie",
+      "link": "https://www.kosicak.sk/clanky/14047/v-okoli-kosic-sa-stratila-13-rocna-sara-nezvestna-tinedzerka-mala-na-sebe-tricko-s-medvedikom-a-ruzove-papuce",
+      "time": "2026-09-08T07:40:00+00:00",
+      "cat": "patranie",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788801064-tragedia-na-vychode-slovenska-motocyklista-utrpel-po-pade-vazne-zranenia-zachranari-mu-uz-nedokazali-pomoct.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788852779-v-okoli-kosic-sa-stratila-13rocna-sara-nezvestna-tinedzerka-mala-na-sebe-tricko-s-medvedikom-a-ruzove-papuce.webp"
+    },
+    {
+      "title": "Pri Zlatých Moravciach sa zrazil kamión s motocyklom, cesta je obmedzená",
+      "link": "https://www.nitrak.sk/clanky/11811/pri-zlatych-moravciach-sa-zrazil-kamion-s-motocyklom-premavka-je-scasti-obmedzena",
+      "time": "2026-09-08T07:18:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Auto zhodilo trakčný stĺp pri žilinskej univerzite. Veľký Diel úplne uzavrú",
+      "link": "https://www.zilinak.sk/clanky/42727/stlp-pri-zilinskej-univerzite-spadol-po-nestastnej-nehode-ulicu-docasne-uplne-uzavru",
+      "time": "2026-09-08T07:00:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788850988-stlp-pri-zilinskej-univerzite-spadol-po-nestastnej-nehode-ulicu-docasne-uplne-uzavru.webp"
+    },
+    {
+      "title": "Žena spadla na kolobežke pod Martinskými hoľami, stratila pamäť",
+      "link": "https://www.zilinak.sk/clanky/42725/zena-spadla-na-kolobezke-pod-martinskymi-holami-utrpela-poranenie-hlavy-a-stratila-pamat",
+      "time": "2026-09-08T06:17:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788848246-zena-spadla-na-kolobezke-pod-martinskymi-holami-utrpela-poranenie-hlavy-a-stratila-pamat.webp"
+    },
+    {
+      "title": "Pozor, v Banskej Bystrici sa stala na R1 dopravná nehoda",
+      "link": "https://www.bystricak.sk/clanky/13000/pozor-v-banskej-bystrici-na-r1-pri-vyjazde-podlavice-smerom-na-zvolen-sa-v-pravom-pruhu-zrazili-dve-auta-zdrzite-sa",
+      "time": "2026-09-08T06:15:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Pozor na cestách: Ráno sa v Nitrianskom kraji stali viaceré nehody",
+      "link": "https://www.nitrak.sk/clanky/11809/ranne-nehody-v-nitrianskom-kraji-zrazka-s-cyklistom-a-kolizia-troch-aut-skomplikovali-premavku",
+      "time": "2026-09-08T06:12:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1788848068-ranne-nehody-v-nitrianskom-kraji-zrazka-s-cyklistom-a-kolizia-troch-aut-skomplikovali-premavku.webp"
     }
   ]
 }

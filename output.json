@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-08T19:56:42.380980+00:00",
+  "generated_at": "2026-09-08T22:09:15.466241+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 4,
   "items": [
+    {
+      "title": "Požiar rodinného domu v obci pri Bratislave: Polícia potvrdila úmrtie ženy",
+      "link": "https://www.aktuality.sk/clanok/PendSmc/poziar-rodinneho-domu-v-obci-pri-bratislave-policia-potvrdila-umrtie-zeny/",
+      "time": "2026-09-08T19:56:21+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
     {
       "title": "Priestor pred Slovenským národným múzeom čaká obnova, Martin získal dotáciu od Šimkovičovej ministerstva",
       "link": "https://sita.sk/priestor-pred-slovenskym-narodnym-muzeom-caka-obnova-mesto-ziskalo-dotaciu-od-simkovicovej-ministerstva/",
@@ -29,60 +38,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788876644-foto-tahanovcami-sa-siri-cierny-dym-a-neprijemny-zapach-hasici-zasahuju-pri-poziari-travy.webp"
-    },
-    {
-      "title": "FOTO: Veľký zásah hasičov v Pohorelej. Horeli dve hospodárske budovy, škoda je 30-tisíc eur",
-      "link": "https://www.bystricak.sk/clanky/13012/foto-hasici-bojovali-s-poziarom-v-pohorelej-z-obycajnej-poruchy-vznikol-poziar-za-30-tisic-eur",
-      "time": "2026-09-08T13:40:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788872932-foto-hasici-bojovali-s-poziarom-v-pohorelej-z-obycajnej-poruchy-vznikol-poziar-za-30tisic-eur.webp"
-    },
-    {
-      "title": "Západ Slovenska čaká na prudká zmena: Horúčavy vystrieda dážď a chlad",
-      "link": "https://www.trnavak.sk/clanky/12114/zapad-slovenska-caka-v-stredu-posledny-horuci-den-uz-vo-stvrtok-pride-vyrazne-ochladenie-dazd-aj-burky",
-      "time": "2026-09-08T13:20:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788867523-zapad-slovenska-caka-v-stredu-posledny-horuci-den-uz-vo-stvrtok-pride-vyrazne-ochladenie-dazd-aj-burky.webp"
-    },
-    {
-      "title": "Nehoda obmedzila premávku na Záhorí",
-      "link": "https://www.trnavak.sk/clanky/12115/pozor-na-cestach-na-zahori-sa-stala-dopravna-nehoda-na-mieste-zasahuju-zachranari",
-      "time": "2026-09-08T11:59:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Stačila manipulácia s otvoreným ohňom. Bytovka v Dúbravke horela, 33 ľudí muselo utekať von",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2037731-stacila-manipulacia-s-otvorenym-ohnom-bytovka-v-dubravke-horela-33-ludi-muselo-utekat-von?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-08T10:00:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/04/20/4x3-medium/hasici-hazz-bajc-poziar-triedicka.jpg?v=vQM"
-    },
-    {
-      "title": "Školu v Martine evakuovali kvôli bombovej hrozbe. Jej autor prial deťom niečo strašné",
-      "link": "https://www.zilinak.sk/clanky/42733/autor-bombovej-hrozby-pre-martinsku-skolu-napisal-aby-zomreli-deti-volicov-istej-strany-dokonca-tam-dvakrat-zavolal",
-      "time": "2026-09-08T08:51:00+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788874766-autor-bombovej-hrozby-pre-martinsku-skolu-napisal-aby-zomreli-deti-volicov-istej-strany-dokonca-tam-dvakrat-zavolal.webp"
-    },
-    {
-      "title": "12-ročný chlapec odišiel na ihrisko a zmizol. Celú noc po ňom pátrali, ráno prišiel zlom",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2037679-12-rocny-chlapec-odisiel-na-ihrisko-a-zmizol-celu-noc-po-nom-patrali-rano-prisiel-zlom?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-08T08:45:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/09/08/2528613/4x3-medium/hzs-horska-zachranna-sluzba.jpg?v=T/w"
     }
   ]
 }

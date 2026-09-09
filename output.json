@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-09T17:15:58.746561+00:00",
+  "generated_at": "2026-09-09T19:46:10.941609+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 7,
   "items": [
+    {
+      "title": "Ľudia z Penty, Agelu aj od Sotáka. Zasadala komisia, ktorá má pomôcť vyriešiť Šaškov najväčší škandál",
+      "link": "https://dennikn.sk/5551532/ludia-z-penty-agelu-aj-od-sotaka-zasadala-komisia-ktora-ma-pomoct-vyriesit-saskov-najvacsi-skandal/",
+      "time": "2026-09-09T17:21:26+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "dennikn.sk",
+      "image": "https://img.projektn.sk/wp-static/2023/04/09122020poziarOvrucskaKosice04746416.jpg?w=450&amp;h=300&amp;fit=crop&amp;fm=jpg&amp;q=85"
+    },
     {
       "title": "Hasiči bojujú s požiarom porastu pod Tatrami. Plamene sa šíria v ťažko dostupnom teréne",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2038771-hasici-bojuju-s-poziarom-porastu-pod-tatrami-plamene-sa-siria-v-tazko-dostupnom-terene?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -56,24 +65,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788960250-bratislavsky-kraj-caka-v-stredu-burlivy-vecer-hrozi-krupobitie-lejak-aj-vietor-s-rychlostou-85-kmh.webp"
-    },
-    {
-      "title": "Trenčín mení dopravu pri Základnej škole po niekoľkých nehodách",
-      "link": "https://www.trencinak.sk/clanky/13720/video-pozor-pri-tejto-skole-v-trencine-mesto-reaguje-na-opakujuce-sa-nehody-a-v-okoli-uz-robi-dopravne-zmeny",
-      "time": "2026-09-09T12:00:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788948243-video-pozor-pri-tejto-skole-v-trencine-mesto-reaguje-na-opakujuce-sa-nehody-a-v-okoli-uz-robi-dopravne-zmeny.webp"
-    },
-    {
-      "title": "Polícia pátra v Brezne a Rimavskej Sobote po troch nezvestných",
-      "link": "https://www.bystricak.sk/clanky/13019/foto-policia-patra-po-tinedzerkach-daniele-a-sare-z-brezna-hlada-sa-aj-28-rocny-aladar-z-rimavskej-soboty",
-      "time": "2026-09-09T11:50:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788950923-foto-policia-patra-po-tinedzerkach-daniele-a-sare-z-brezna-hlada-sa-aj-28rocny-aladar-z-rimavskej-soboty.webp"
     }
   ]
 }

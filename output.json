@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-09-09T09:07:22.105042+00:00",
+  "generated_at": "2026-09-09T13:39:40.918113+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 5,
   "items": [
+    {
+      "title": "Trenčín mení dopravu pri Základnej škole po niekoľkých nehodách",
+      "link": "https://www.trencinak.sk/clanky/13720/video-pozor-pri-tejto-skole-v-trencine-mesto-reaguje-na-opakujuce-sa-nehody-a-v-okoli-uz-robi-dopravne-zmeny",
+      "time": "2026-09-09T12:00:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788948243-video-pozor-pri-tejto-skole-v-trencine-mesto-reaguje-na-opakujuce-sa-nehody-a-v-okoli-uz-robi-dopravne-zmeny.webp"
+    },
+    {
+      "title": "Polícia pátra v Brezne a Rimavskej Sobote po troch nezvestných",
+      "link": "https://www.bystricak.sk/clanky/13019/foto-policia-patra-po-tinedzerkach-daniele-a-sare-z-brezna-hlada-sa-aj-28-rocny-aladar-z-rimavskej-soboty",
+      "time": "2026-09-09T11:50:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788950923-foto-policia-patra-po-tinedzerkach-daniele-a-sare-z-brezna-hlada-sa-aj-28rocny-aladar-z-rimavskej-soboty.webp"
+    },
+    {
+      "title": "Ľuboreč: Muž utrpel pri vypaľovaní trávy vážne popáleniny",
+      "link": "https://www.bystricak.sk/clanky/13020/muz-v-obci-nedaleko-lucenca-vypaloval-za-domom-suchu-travu-utrpel-vazne-poranenia-vrtulnik-ho-previezol-do-kosic",
+      "time": "2026-09-09T11:02:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788951726-muz-v-obci-nedaleko-lucenca-vypaloval-za-domom-suchu-travu-utrpel-vazne-poranenia-vrtulnik-ho-previezol-do-kosic.webp"
+    },
+    {
+      "title": "Hlohovec: Kolízia dvoch áut blokuje odbočovací pruh",
+      "link": "https://www.trnavak.sk/clanky/12121/kolizia-dvoch-aut-v-hlohovci-obmedzila-premavku",
+      "time": "2026-09-09T09:38:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
     {
       "title": "Havária vodovodu v Banskej Štiavnici odstavila tri ulice od pitnej vody",
       "link": "https://www.bystricak.sk/clanky/13016/porucha-vodovodu-odstavila-obyvatelov-troch-ulic-v-banskej-stiavnici-od-pitnej-vody-oprava-potrva-niekolko-hodin",
@@ -11,96 +47,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1788942512-porucha-vodovodu-odstavila-obyvatelov-troch-ulic-v-banskej-stiavnici-od-pitnej-vody-oprava-potrva-niekolko-hodin.webp"
-    },
-    {
-      "title": "ZDRŽÍTE SA: Pre nehodu je obmedzená doprava na diaľnici D1 pri Púchove",
-      "link": "https://www.teraz.sk/regiony/zdrzite-sa-pre-nehodu-je-obmedzena-d/990901-clanok.html",
-      "time": "2026-09-09T07:06:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Žilina: Na Košickej sa prevrátil kamión, križovatka je blokovaná",
-      "link": "https://www.zilinak.sk/clanky/42746/foto-kamion-sa-v-ziline-prevratil-priamo-na-ceste-krizovatka-na-kosickej-je-blokovana",
-      "time": "2026-09-09T06:50:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788937302-foto-kamion-sa-v-ziline-prevratil-priamo-na-ceste-krizovatka-na-kosickej-je-blokovana.webp"
-    },
-    {
-      "title": "Buďte opatrní, zvýšené riziko požiarov platí vo viacerých okresoch",
-      "link": "https://www.teraz.sk/slovensko/budte-opatrni-zvysene-riziko-pozi/990885-clanok.html",
-      "time": "2026-09-09T06:23:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Pri Chate pod Chlebom vypukol požiar v lese. Zasahovali hasiči z Martina aj dobrovoľníci",
-      "link": "https://www.zilinak.sk/clanky/42744/foto-pri-chate-pod-chlebom-horelo-k-poziaru-v-lesnom-prostredi-vyrazili-profesionalni-aj-dobrovolni-hasici",
-      "time": "2026-09-09T06:21:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788934807-foto-pri-chate-pod-chlebom-horelo-k-poziaru-v-lesnom-prostredi-vyrazili-profesionalni-aj-dobrovolni-hasici.webp"
-    },
-    {
-      "title": "Bratislavu komplikuje nehoda na križovatke Kuklovskej a Sekulskej",
-      "link": "https://www.bratislavak.sk/clanky/15322/dopravu-v-bratislave-a-okoli-komplikuju-nehody-viacere-useky-su-prejazdne-do-15-minut",
-      "time": "2026-09-09T06:13:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788934496-dopravu-v-bratislave-a-okoli-komplikuju-nehody-viacere-useky-su-prejazdne-do-15-minut.webp"
-    },
-    {
-      "title": "Pozor, na D1 za Považskou Bystricou smerom na Trenčín sa stala nehoda, uzavreli diaľnicou",
-      "link": "https://www.trencinak.sk/clanky/13714/pozor-na-d1-za-povazskou-bystricou-smerom-na-trencin-sa-zrazili-dve-auta-dialnicu-v-tomto-sme-uzavreli-pouzite-objazd",
-      "time": "2026-09-09T06:12:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1788934330-pozor-na-d1-za-povazskou-bystricou-smerom-na-trencin-sa-zrazili-dve-auta-dialnicu-v-tomto-sme-uzavreli-pouzite-objazd.webp"
-    },
-    {
-      "title": "Pri Zlatých Moravciach auto zrazilo lesnú zver",
-      "link": "https://www.nitrak.sk/clanky/11825/ranna-nehoda-pri-zlatych-moravciach-osobnemu-autu-skrizila-cestu-lesna-zver",
-      "time": "2026-09-09T06:11:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Požiar v Slovenskom Grobe si vyžiadal život ženy, príčina nie je známa",
-      "link": "https://www.bratislavak.sk/clanky/15321/video-tragedia-v-obci-pri-bratislave-pri-poziari-zomrela-zena",
-      "time": "2026-09-09T05:51:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788933664-video-tragedia-v-obci-pri-bratislave-pri-poziari-zomrela-zena.webp"
-    },
-    {
-      "title": "Bratislavský kraj čaká 33 °C, večer búrky a vo štvrtok pokles o 15 °C",
-      "link": "https://www.bratislavak.sk/clanky/15320/bratislavsky-kraj-caka-posledny-zavan-leta-teploty-sa-vysplhaju-na-33c-a-nasledne-pride-krute-ochladenie",
-      "time": "2026-09-09T05:40:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788890479-bratislavsky-kraj-caka-posledny-zavan-leta-teploty-sa-vysplhaju-na-33c-a-nasledne-pride-krute-ochladenie.webp"
-    },
-    {
-      "title": "Tragédia v Slovenskom Grobe: Pri požiari domu zomrela žena",
-      "link": "https://www1.pluska.sk/krimi/tragedia-v-slovenskom-grobe-pri-poziari-domu-zomrela-zena",
-      "time": "2026-09-09T00:00:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/a19/a1902d9d-86e6-4dc6-9b11-dea3376f77e9.webp"
     }
   ]
 }

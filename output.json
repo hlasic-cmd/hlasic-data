@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T19:46:10.941609+00:00",
+  "generated_at": "2026-09-09T21:57:35.328107+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 4,
   "items": [
     {
       "title": "Ľudia z Penty, Agelu aj od Sotáka. Zasadala komisia, ktorá má pomôcť vyriešiť Šaškov najväčší škandál",
@@ -13,7 +13,7 @@
       "image": "https://img.projektn.sk/wp-static/2023/04/09122020poziarOvrucskaKosice04746416.jpg?w=450&amp;h=300&amp;fit=crop&amp;fm=jpg&amp;q=85"
     },
     {
-      "title": "Hasiči bojujú s požiarom porastu pod Tatrami. Plamene sa šíria v ťažko dostupnom teréne",
+      "title": "Požiar v katastri obce Stráne pod Tatrami hasiči dostali pod kontrolu",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2038771-hasici-bojuju-s-poziarom-porastu-pod-tatrami-plamene-sa-siria-v-tazko-dostupnom-terene?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-09-09T14:36:15+00:00",
       "cat": "poziar",
@@ -38,33 +38,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788959809-na-zapade-slovenska-sa-v-stredu-vecer-mozu-vyskytnut-burky-a-prudky-dazd-meteorologovia-vydali-vystrahy.webp"
-    },
-    {
-      "title": "VIDEO: Pilot, ktorý lietal pod mostom pri Žiline, ukázal nové zábery z filmu Matchbox",
-      "link": "https://www.zilinak.sk/clanky/42753/video-pilot-ktory-lietal-pod-mostom-pri-ziline-sokoval-novymi-zabermi-z-filmu-matchbox",
-      "time": "2026-09-09T14:00:00+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1788941180-video-pilot-ktory-lietal-pod-mostom-pri-ziline-sokoval-novymi-zabermi-z-filmu-matchbox.webp"
-    },
-    {
-      "title": "Pred mostom VSS sa zrazilo auto s autobusom",
-      "link": "https://www.kosicak.sk/clanky/14069/pred-mostom-vss-sa-zrazilo-auto-s-autobusom-nehoda-vam-moze-neplanovane-predlzit-cestu-domov",
-      "time": "2026-09-09T13:56:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Bratislavu čakajú búrky. Hrozia krúpy, lejak aj silný vietor",
-      "link": "https://www.bratislavak.sk/clanky/15338/bratislavsky-kraj-caka-v-stredu-burlivy-vecer-hrozi-krupobitie-lejak-aj-vietor-s-rychlostou-85-kmh",
-      "time": "2026-09-09T13:50:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1788960250-bratislavsky-kraj-caka-v-stredu-burlivy-vecer-hrozi-krupobitie-lejak-aj-vietor-s-rychlostou-85-kmh.webp"
     }
   ]
 }

@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-09T00:09:01.291338+00:00",
+  "generated_at": "2026-09-09T04:33:39.951470+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 3,
   "items": [
+    {
+      "title": "Tragédia v Slovenskom Grobe: Pri požiari domu zomrela žena",
+      "link": "https://www1.pluska.sk/krimi/tragedia-v-slovenskom-grobe-pri-poziari-domu-zomrela-zena",
+      "time": "2026-09-09T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/a19/a1902d9d-86e6-4dc6-9b11-dea3376f77e9.webp"
+    },
     {
       "title": "Požiar rodinného domu v obci pri Bratislave: Polícia potvrdila úmrtie ženy",
       "link": "https://www.aktuality.sk/clanok/PendSmc/poziar-rodinneho-domu-v-obci-pri-bratislave-policia-potvrdila-umrtie-zeny/",
@@ -20,24 +29,6 @@
       "region": "zilinsky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2026/07/simkovicova2-1-688x387.jpg"
-    },
-    {
-      "title": "Požiar hospodárskych budov: Škodu odhadli na 30.000 eur",
-      "link": "https://www.teraz.sk/regiony/poziar-hospodarskych-budov-skodu-odh/990815-clanok.html",
-      "time": "2026-09-08T16:06:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Na košickom sídlisku horí tráva, zápach a dym evidujú široko-ďaleko",
-      "link": "https://www.kosicak.sk/clanky/14055/foto-tahanovcami-sa-siri-cierny-dym-a-neprijemny-zapach-hasici-zasahuju-pri-poziari-travy",
-      "time": "2026-09-08T14:05:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1788876644-foto-tahanovcami-sa-siri-cierny-dym-a-neprijemny-zapach-hasici-zasahuju-pri-poziari-travy.webp"
     }
   ]
 }

@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-09-10T06:15:36.612524+00:00",
+  "generated_at": "2026-09-10T11:20:22.618370+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 9,
+  "items": [
+    {
+      "title": "Košickej základnej škole sa vyhrážali bombovým útokom. Polícia ju evakuovala a prehľadala",
+      "link": "https://korzar.sme.sk/kosice/c/kosickej-zakladnej-skole-sa-vyhrazali-bombovym-utokom-policia-ju-evakuovala-a-prehladala?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-09-10T10:38:25+00:00",
+      "cat": "zasah",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/1f0caf62-bd2a-6b3e-9187-8112dec85d3a.jpg"
+    },
+    {
+      "title": "VIDEO: V Slovenskom raji znova horí les, pomáha aj vrtuľník",
+      "link": "https://www.presovak.sk/clanky/15349/video-v-slovenskom-raji-znova-bojuju-s-poziarom-lesa-s-hasenim-pomaha-aj-black-hawk",
+      "time": "2026-09-10T10:18:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789035374-video-v-slovenskom-raji-znova-bojuju-s-poziarom-lesa-s-hasenim-pomaha-aj-black-hawk.webp"
+    },
+    {
+      "title": "VIDEO: Na okraji Slovenského raja sa opäť ROZHORELO",
+      "link": "https://www.teraz.sk/regiony/v-sedle-pukanec-na-okraji-slovenskeho-r/991262-clanok.html",
+      "time": "2026-09-10T10:17:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "VIDEO: V Slovenskom raji znova horí les, pomáha aj vrtuľník",
+      "link": "https://www.kosicak.sk/clanky/14082/video-v-slovenskom-raji-znova-bojuju-s-poziarom-lesa-na-rovnakom-mieste-s-hasenim-pomaha-aj-black-hawk",
+      "time": "2026-09-10T10:16:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789035862-video-v-slovenskom-raji-znova-bojuju-s-poziarom-lesa-na-rovnakom-mieste-s-hasenim-pomaha-aj-black-hawk.webp"
+    },
+    {
+      "title": "Chrenová: Dve nehody maloletých na bicykli a kolobežke za deň",
+      "link": "https://www.nitrak.sk/clanky/11838/dve-nehody-za-jediny-den-na-chrenovej-sa-rodicia-boja-o-deti-cyklisti-a-kolobezkari-tu-jazdia-prilis-rychlo",
+      "time": "2026-09-10T08:50:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789026444-dve-nehody-za-jediny-den-na-chrenovej-sa-rodicia-boja-o-deti-cyklisti-a-kolobezkari-tu-jazdia-prilis-rychlo.webp"
+    },
+    {
+      "title": "Polícia žiada verejnosť o pomoc pri pátraní po Ľubomírovi z Prievidze",
+      "link": "https://www.trencinak.sk/clanky/13728/nevideli-ste-ho-pohotovostny-patraci-tim-ziada-verejnost-o-pomoc-pri-patrani-po-lubomirovi-z-prievidze",
+      "time": "2026-09-10T08:00:00+00:00",
+      "cat": "patranie",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1789021478-nevideli-ste-ho-pohotovostny-patraci-tim-ziada-verejnost-o-pomoc-pri-patrani-po-lubomirovi-z-prievidze.webp"
+    },
+    {
+      "title": "Nehoda na D1 brzdí premávku",
+      "link": "https://www.trnavak.sk/clanky/12132/nehoda-na-d1-brzdi-premavku-vodici-iduci-z-trnavy-smerom-na-bratislavu-si-pockaju",
+      "time": "2026-09-10T07:50:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Ranná nehoda aj zrážka so zverou. Vodiči z Banskobystrického kraja nezačali deň najlepšie",
+      "link": "https://www.bystricak.sk/clanky/13024/ranna-nehoda-aj-zrazka-so-zverou-vodici-z-banskobystrickeho-kraja-nezacali-den-najlepsie",
+      "time": "2026-09-10T06:16:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "V Bratislave a okolí počítajte s dopravnými nehodami",
+      "link": "https://www.bratislavak.sk/clanky/15341/vodici-ratajte-v-bratislave-a-okoli-s-dopravnymi-nehodami-pre-ktore-sa-na-viacerych-miestach-zdrzite",
+      "time": "2026-09-10T06:12:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
+    }
+  ]
 }

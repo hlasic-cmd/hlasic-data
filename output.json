@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-09-10T01:28:01.363522+00:00",
+  "generated_at": "2026-09-10T06:15:36.612524+00:00",
   "max_age_hours": 12,
-  "count": 4,
-  "items": [
-    {
-      "title": "Ľudia z Penty, Agelu aj od Sotáka. Zasadala komisia, ktorá má pomôcť vyriešiť Šaškov najväčší škandál",
-      "link": "https://dennikn.sk/5551532/ludia-z-penty-agelu-aj-od-sotaka-zasadala-komisia-ktora-ma-pomoct-vyriesit-saskov-najvacsi-skandal/",
-      "time": "2026-09-09T17:21:26+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "dennikn.sk",
-      "image": "https://img.projektn.sk/wp-static/2023/04/09122020poziarOvrucskaKosice04746416.jpg?w=450&amp;h=300&amp;fit=crop&amp;fm=jpg&amp;q=85"
-    },
-    {
-      "title": "Požiar v katastri obce Stráne pod Tatrami hasiči dostali pod kontrolu",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2038771-hasici-bojuju-s-poziarom-porastu-pod-tatrami-plamene-sa-siria-v-tazko-dostupnom-terene?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-09T14:36:15+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/09/09/2529523/4x3-medium/poziar-tatry.jpg?v=akY"
-    },
-    {
-      "title": "Stráne pod Tatrami: Hasiči zasahujú pri požiari porastu",
-      "link": "https://www.presovak.sk/clanky/15330/video-rozsiahly-poziar-pod-tatrami-hasici-zasahuju-v-tazko-dostupnom-terene",
-      "time": "2026-09-09T14:33:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1788964643-video-rozsiahly-poziar-pod-tatrami-hasici-zasahuju-v-tazko-dostupnom-terene.webp"
-    },
-    {
-      "title": "Západ Slovenska čakajú v stredu večer búrky, nebezpečným môže byť hlavne prudký vietor",
-      "link": "https://www.trnavak.sk/clanky/12126/na-zapade-slovenska-sa-v-stredu-vecer-mozu-vyskytnut-burky-a-prudky-dazd-meteorologovia-vydali-vystrahy",
-      "time": "2026-09-09T14:10:00+00:00",
-      "cat": "burka",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1788959809-na-zapade-slovenska-sa-v-stredu-vecer-mozu-vyskytnut-burky-a-prudky-dazd-meteorologovia-vydali-vystrahy.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

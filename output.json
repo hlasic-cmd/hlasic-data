@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T20:49:30.422691+00:00",
+  "generated_at": "2026-09-10T22:48:22.445422+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 8,
   "items": [
     {
       "title": "FOTO: Hasiči vo Veľkých Trakanoch uchránili majetok za 500-tisíc eur",
@@ -74,24 +74,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789038593-zakladnu-skolu-v-kosickom-starom-meste-museli-evakuovat-obdrzali-vyhrazny-mail-s-bombovou-hrozbou.webp"
-    },
-    {
-      "title": "Košickej základnej škole sa vyhrážali bombovým útokom. Polícia ju evakuovala a prehľadala",
-      "link": "https://korzar.sme.sk/kosice/c/kosickej-zakladnej-skole-sa-vyhrazali-bombovym-utokom-policia-ju-evakuovala-a-prehladala?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-09-10T10:38:25+00:00",
-      "cat": "zasah",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/1f0caf62-bd2a-6b3e-9187-8112dec85d3a.jpg"
-    },
-    {
-      "title": "Chrenová: Dve nehody maloletých na bicykli a kolobežke za deň",
-      "link": "https://www.nitrak.sk/clanky/11838/dve-nehody-za-jediny-den-na-chrenovej-sa-rodicia-boja-o-deti-cyklisti-a-kolobezkari-tu-jazdia-prilis-rychlo",
-      "time": "2026-09-10T08:50:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789026444-dve-nehody-za-jediny-den-na-chrenovej-sa-rodicia-boja-o-deti-cyklisti-a-kolobezkari-tu-jazdia-prilis-rychlo.webp"
     }
   ]
 }

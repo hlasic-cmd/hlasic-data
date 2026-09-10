@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-09-10T15:01:35.748439+00:00",
+  "generated_at": "2026-09-10T18:12:41.697472+00:00",
   "max_age_hours": 12,
   "count": 9,
   "items": [
+    {
+      "title": "FOTO: Hasiči vo Veľkých Trakanoch uchránili majetok za 500-tisíc eur",
+      "link": "https://www.kosicak.sk/clanky/14092/foto-poziar-v-okrese-trebisov-nabral-na-sile-plamene-z-garaze-a-auta-sa-rozsirili-na-rodinny-dom",
+      "time": "2026-09-10T18:00:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789056600-foto-poziar-v-okrese-trebisov-nabral-na-sile-plamene-z-garaze-a-auta-sa-rozsirili-na-rodinny-dom.webp"
+    },
+    {
+      "title": "V Slovak Press Photo 2026 zvíťazila aj fotoreportérka TASR Mihaliková",
+      "link": "https://www.teraz.sk/slovensko/v-slovak-press-photo-2026-zvitazila-aj/991433-clanok.html",
+      "time": "2026-09-10T17:56:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Fakultná nemocnica Trenčín prijme opatrení po prasknutí potrubia",
+      "link": "https://www.teraz.sk/regiony/fakultna-nemocnica-trencin-prijme-opa/991421-clanok.html",
+      "time": "2026-09-10T16:50:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Motorkár vyletel z cesty do priekopy, zasahujú záchranné zložky",
+      "link": "https://www.kosicak.sk/clanky/14093/motorkar-havaroval-pri-kosiciach-z-cesty-vyletel-do-priekopy-na-miesto-smeruju-hasici",
+      "time": "2026-09-10T16:49:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789059126-motorkar-havaroval-pri-kosiciach-z-cesty-vyletel-do-priekopy-na-miesto-smeruju-hasici.webp"
+    },
+    {
+      "title": "Ďalšie pátranie v Banskobystrickom kraji. Nezvestný je 41-ročný muž z Rimavskej Soboty",
+      "link": "https://www.bystricak.sk/clanky/13037/pomozte-policii-s-patranim-po-nezvestnom-muzovi-v-rimavskej-sobote-zmizol-41-rocny-elemir",
+      "time": "2026-09-10T16:40:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789057767-pomozte-policii-s-patranim-po-nezvestnom-muzovi-v-rimavskej-sobote-zmizol-41rocny-elemir.webp"
+    },
+    {
+      "title": "Nehoda na D1 pri Bernolákove smerom na Trnavu. Zrazili sa dve autá",
+      "link": "https://www.bratislavak.sk/clanky/15358/nehoda-na-dialnici-d1-pri-bernolakove-dve-auta-zostali-v-strednom-pruhu-vodici-sa-zdrzia-zrazka-pribudla-aj-pri-ikei",
+      "time": "2026-09-10T15:12:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
+    },
     {
       "title": "Požiar v Lábe sa rozšíril na ďalšie budovy. Nikto sa nezranil",
       "link": "https://www.bratislavak.sk/clanky/15356/foto-plamene-zachvatili-pristavbu-domu-nedaleko-malacike-a-rozsirili-sa-na-dalsie-budovy-hasici-nasadili-pat-prudov",
@@ -11,15 +65,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789044639-foto-plamene-zachvatili-pristavbu-domu-nedaleko-malacike-a-rozsirili-sa-na-dalsie-budovy-hasici-nasadili-pat-prudov.webp"
-    },
-    {
-      "title": "FOTO: Nezvestná Anna má iba 14 rokov. Polícia prosí o pomoc",
-      "link": "https://www.bratislavak.sk/clanky/15352/foto-po-14-rocnej-anicke-sa-zlahla-zem-z-pezinka-odisla-nevedno-kam-muzi-zakona-prosia-verejnost-o-pomoc",
-      "time": "2026-09-10T11:40:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789040109-foto-po-14rocnej-anicke-sa-zlahla-zem-z-pezinka-odisla-nevedno-kam-muzi-zakona-prosia-verejnost-o-pomoc.webp"
     },
     {
       "title": "Pri Bánovciach nad Bebravou horela tráva a strnisko. Požiar ohrozoval aj les",
@@ -31,15 +76,6 @@
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1789037313-foto-pri-banovciach-nad-bebravou-vypukol-velky-poziar-plamene-sa-nebezpecne-priblizovali-k-lesu.webp"
     },
     {
-      "title": "Košická škola obdržala výhražný mail len krátko po začatí nového školského roka",
-      "link": "https://www.kosicak.sk/clanky/14086/zakladnu-skolu-v-kosickom-starom-meste-museli-evakuovat-obdrzali-vyhrazny-mail-s-bombovou-hrozbou",
-      "time": "2026-09-10T11:12:00+00:00",
-      "cat": "zasah",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789038593-zakladnu-skolu-v-kosickom-starom-meste-museli-evakuovat-obdrzali-vyhrazny-mail-s-bombovou-hrozbou.webp"
-    },
-    {
       "title": "Košickej základnej škole sa vyhrážali bombovým útokom. Polícia ju evakuovala a prehľadala",
       "link": "https://korzar.sme.sk/kosice/c/kosickej-zakladnej-skole-sa-vyhrazali-bombovym-utokom-policia-ju-evakuovala-a-prehladala?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
       "time": "2026-09-10T10:38:25+00:00",
@@ -47,42 +83,6 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/1f0caf62-bd2a-6b3e-9187-8112dec85d3a.jpg"
-    },
-    {
-      "title": "VIDEO: V Slovenskom raji znova horí les, pomáha aj vrtuľník",
-      "link": "https://www.presovak.sk/clanky/15349/video-v-slovenskom-raji-znova-bojuju-s-poziarom-lesa-s-hasenim-pomaha-aj-black-hawk",
-      "time": "2026-09-10T10:18:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789035374-video-v-slovenskom-raji-znova-bojuju-s-poziarom-lesa-s-hasenim-pomaha-aj-black-hawk.webp"
-    },
-    {
-      "title": "VIDEO: V Slovenskom raji znova horí les, pomáha aj vrtuľník",
-      "link": "https://www.kosicak.sk/clanky/14082/video-v-slovenskom-raji-znova-bojuju-s-poziarom-lesa-na-rovnakom-mieste-s-hasenim-pomaha-aj-black-hawk",
-      "time": "2026-09-10T10:16:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789035862-video-v-slovenskom-raji-znova-bojuju-s-poziarom-lesa-na-rovnakom-mieste-s-hasenim-pomaha-aj-black-hawk.webp"
-    },
-    {
-      "title": "Chrenová: Dve nehody maloletých na bicykli a kolobežke za deň",
-      "link": "https://www.nitrak.sk/clanky/11838/dve-nehody-za-jediny-den-na-chrenovej-sa-rodicia-boja-o-deti-cyklisti-a-kolobezkari-tu-jazdia-prilis-rychlo",
-      "time": "2026-09-10T08:50:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789026444-dve-nehody-za-jediny-den-na-chrenovej-sa-rodicia-boja-o-deti-cyklisti-a-kolobezkari-tu-jazdia-prilis-rychlo.webp"
-    },
-    {
-      "title": "Nehoda na D1 brzdí premávku",
-      "link": "https://www.trnavak.sk/clanky/12132/nehoda-na-d1-brzdi-premavku-vodici-iduci-z-trnavy-smerom-na-bratislavu-si-pockaju",
-      "time": "2026-09-10T07:50:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     }
   ]
 }

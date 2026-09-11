@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T00:35:59.561847+00:00",
+  "generated_at": "2026-09-11T05:08:18.110001+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 2,
   "items": [
     {
       "title": "FOTO: Hasiči vo Veľkých Trakanoch uchránili majetok za 500-tisíc eur",
@@ -20,42 +20,6 @@
       "region": "zilinsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Fakultná nemocnica Trenčín prijme opatrení po prasknutí potrubia",
-      "link": "https://www.teraz.sk/regiony/fakultna-nemocnica-trencin-prijme-opa/991421-clanok.html",
-      "time": "2026-09-10T16:50:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Motorkár vyletel z cesty do priekopy, zasahujú záchranné zložky",
-      "link": "https://www.kosicak.sk/clanky/14093/motorkar-havaroval-pri-kosiciach-z-cesty-vyletel-do-priekopy-na-miesto-smeruju-hasici",
-      "time": "2026-09-10T16:49:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789059126-motorkar-havaroval-pri-kosiciach-z-cesty-vyletel-do-priekopy-na-miesto-smeruju-hasici.webp"
-    },
-    {
-      "title": "Ďalšie pátranie v Banskobystrickom kraji. Nezvestný je 41-ročný muž z Rimavskej Soboty",
-      "link": "https://www.bystricak.sk/clanky/13037/pomozte-policii-s-patranim-po-nezvestnom-muzovi-v-rimavskej-sobote-zmizol-41-rocny-elemir",
-      "time": "2026-09-10T16:40:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789057767-pomozte-policii-s-patranim-po-nezvestnom-muzovi-v-rimavskej-sobote-zmizol-41rocny-elemir.webp"
-    },
-    {
-      "title": "Nehoda na D1 pri Bernolákove smerom na Trnavu. Zrazili sa dve autá",
-      "link": "https://www.bratislavak.sk/clanky/15358/nehoda-na-dialnici-d1-pri-bernolakove-dve-auta-zostali-v-strednom-pruhu-vodici-sa-zdrzia-zrazka-pribudla-aj-pri-ikei",
-      "time": "2026-09-10T15:12:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T22:48:22.445422+00:00",
+  "generated_at": "2026-09-11T00:35:59.561847+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 6,
   "items": [
     {
       "title": "FOTO: Hasiči vo Veľkých Trakanoch uchránili majetok za 500-tisíc eur",
@@ -56,24 +56,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "FOTO: Nezvestná Anna má iba 14 rokov. Polícia prosí o pomoc",
-      "link": "https://www.bratislavak.sk/clanky/15352/foto-po-14-rocnej-anicke-sa-zlahla-zem-z-pezinka-odisla-nevedno-kam-muzi-zakona-prosia-verejnost-o-pomoc",
-      "time": "2026-09-10T11:40:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789040109-foto-po-14rocnej-anicke-sa-zlahla-zem-z-pezinka-odisla-nevedno-kam-muzi-zakona-prosia-verejnost-o-pomoc.webp"
-    },
-    {
-      "title": "Košická škola obdržala výhražný mail len krátko po začatí nového školského roka",
-      "link": "https://www.kosicak.sk/clanky/14086/zakladnu-skolu-v-kosickom-starom-meste-museli-evakuovat-obdrzali-vyhrazny-mail-s-bombovou-hrozbou",
-      "time": "2026-09-10T11:12:00+00:00",
-      "cat": "zasah",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789038593-zakladnu-skolu-v-kosickom-starom-meste-museli-evakuovat-obdrzali-vyhrazny-mail-s-bombovou-hrozbou.webp"
     }
   ]
 }

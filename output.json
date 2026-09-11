@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-11T13:45:59.121167+00:00",
+  "generated_at": "2026-09-11T17:16:08.136320+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 12,
   "items": [
+    {
+      "title": "Dopravná nehoda v okrese Košice-okolie uzavrela cestu, zasahuje aj vrtuľník",
+      "link": "https://www.aktuality.sk/clanok/JkXiwzU/dopravna-nehoda-v-okrese-kosice-okolie-uzavrela-cestu-zasahuje-aj-vrtulnik/",
+      "time": "2026-09-11T16:37:54+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Pri penzióne Dubky pri Košiciach sa zrazili dve autá. Pre zranených letí vrtuľník",
+      "link": "https://korzar.sme.sk/kosice/c/pri-penzione-dubky-pri-kosiciach-sa-zrazili-dve-auta-pre-zranenych-leti-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-09-11T16:33:23+00:00",
+      "cat": "zasah",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a0914e-653c-7632-8ad0-ea6047ea2666.jpg"
+    },
+    {
+      "title": "Čelná zrážka dvoch áut zablokovala cestu neďaleko Košíc, na mieste zasahoval aj vrtuľník",
+      "link": "https://www.kosicak.sk/clanky/14109/pri-kosiciach-sa-celne-zrazili-dve-auta-cestu-uzavreli-na-miesto-bol-vyslany-aj-zachranarsky-vrtulnik",
+      "time": "2026-09-11T16:07:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789143725-pri-kosiciach-sa-celne-zrazili-dve-auta-cestu-uzavreli-na-miesto-bol-vyslany-aj-zachranarsky-vrtulnik.webp"
+    },
+    {
+      "title": "Nehoda za Košicami uzavrela cestu na Čečejovce",
+      "link": "https://www.kosicak.sk/clanky/14108/nehoda-za-kosicami-zablokovala-cestu-vodici-musia-vyuzit-obchadzku",
+      "time": "2026-09-11T15:51:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Nehoda uzavrela cestu na Myjave",
+      "link": "https://www.trencinak.sk/clanky/13761/cestu-v-myjavskom-regione-po-nehode-uzavreli-soferi-musia-vyuzit-obchadzku",
+      "time": "2026-09-11T15:47:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "V Trnave sa zrazila kolobežka so sanitkou na majákoch, mladú ženu previezli do nemocnice",
+      "link": "https://www.trnavak.sk/clanky/12167/v-trnave-doslo-k-zrazke-kolobezky-a-sanitky-so-zapnutymi-majakmi-27-rocnu-kolobezkarku-previezli-do-nemocnice",
+      "time": "2026-09-11T15:40:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789142514-v-trnave-doslo-k-zrazke-kolobezky-a-sanitky-so-zapnutymi-majakmi-27rocnu-kolobezkarku-previezli-do-nemocnice.webp"
+    },
+    {
+      "title": "Nehoda uzavrela cestu pri Beckove",
+      "link": "https://www.trencinak.sk/clanky/13760/pozor-pri-beckove-cesta-je-po-nehode-neprejazdna-policia-odporuca-obchadzku",
+      "time": "2026-09-11T14:47:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/01_aktualne.webp"
+    },
     {
       "title": "Popoludňajšia špička priniesla päť nehôd. Kolóny vznikli v Žiline, problémy hlásia aj z Kysúc a Liptova",
       "link": "https://www.zilinak.sk/clanky/42809/pat-nehod-za-jedinu-hodinu-dazdive-popoludnie-skomplikovalo-dopravu-napriec-zilinskym-krajom",
@@ -32,57 +95,12 @@
     },
     {
       "title": "Hromadná nehoda neďaleko Košíc: Zranených je šesť pasažierov, ktorých previezli do nemocnice",
-      "link": "https://www.kosicak.sk/clanky/14106/hromadna-nehoda-nedaleko-kosic-zranilo-sa-sest-osob-prevazaju-ich-do-nemocnice",
+      "link": "https://www.kosicak.sk/clanky/14106/hromadna-nehoda-nedaleko-kosic-zranilo-sa-sest-osob-previezli-ich-do-nemocnice",
       "time": "2026-09-11T12:40:00+00:00",
       "cat": "nehoda",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789131224-hromadna-nehoda-nedaleko-kosic-zranilo-sa-sest-osob-prevazaju-ich-do-nemocnice.webp"
-    },
-    {
-      "title": "Vodič dodávky poškodil protiidúce auto pri predbiehacom manévri, teraz ho hľadá polícia",
-      "link": "https://www.kosicak.sk/clanky/14099/policia-hlada-vodica-dodavky-ktory-mal-pri-predbiehani-za-moldavou-nad-bodvou-poskodit-cudzie-auto-nepoznate-ho",
-      "time": "2026-09-11T12:00:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789122989-policia-hlada-vodica-dodavky-ktory-mal-pri-predbiehani-za-moldavou-nad-bodvou-poskodit-cudzie-auto-nepoznate-ho.webp"
-    },
-    {
-      "title": "Pozor na cestách v kraji: R2 pri Zvolene a cesta pri Muráni sú po nehodách neprejazdné",
-      "link": "https://www.bystricak.sk/clanky/13044/na-r2-pri-zvolene-havaroval-kamion-a-prevratil-sa-usek-je-neprejazdny-doprava-stoji-aj-pri-murani",
-      "time": "2026-09-11T10:28:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789128975-na-r2-pri-zvolene-havaroval-kamion-a-prevratil-sa-usek-je-neprejazdny-doprava-stoji-aj-pri-murani.webp"
-    },
-    {
-      "title": "Na D1 pri Trnave sa zrazili dve autá",
-      "link": "https://www.trnavak.sk/clanky/12156/dopravu-na-d1-pri-trnave-komplikuje-dalsia-nehoda-vodici-si-postoja",
-      "time": "2026-09-11T10:06:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789121194-dopravu-na-d1-pri-trnave-komplikuje-dalsia-nehoda-vodici-si-postoja.webp"
-    },
-    {
-      "title": "Ivo P. dostal v prípade únosu študentky 17,5-ročný trest väzenia",
-      "link": "https://www.teraz.sk/slovensko/ivo-p-dostal-v-pripade-unosu-student/991491-clanok.html",
-      "time": "2026-09-11T09:12:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Pozor na nehody: V okrese Svidník skončilo auto prevrátené na boku, V Prešove sa zrazilo osobné a nákladné auto",
-      "link": "https://www.presovak.sk/clanky/15357/pozor-na-nehody-v-okrese-svidnik-skoncilo-auto-prevratene-na-boku-v-presove-sa-zrazilo-osobne-a-nakladne-auto",
-      "time": "2026-09-11T08:50:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789120608-pozor-na-nehody-v-okrese-svidnik-skoncilo-auto-prevratene-na-boku-v-presove-sa-zrazilo-osobne-a-nakladne-auto.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789135346-hromadna-nehoda-nedaleko-kosic-zranilo-sa-sest-osob-previezli-ich-do-nemocnice.webp"
     },
     {
       "title": "Ranný chaos na slovenských cestách: Hromadná nehoda na D1, problémy hlásia aj ďalšie úseky",

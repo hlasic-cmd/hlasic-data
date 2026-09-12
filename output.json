@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T01:29:43.974552+00:00",
+  "generated_at": "2026-09-12T06:10:59.310887+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 2,
   "items": [
     {
       "title": "Čelná zrážka pri Šaci: Zranili sa dve osoby, jednu previezol vrtuľník",
@@ -20,60 +20,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/11/2530975/4x3-medium/nehoda-auto-kosice-saca.jpg?v=HYM"
-    },
-    {
-      "title": "Košická župa počas leta masívne investovala do škôl viac ako 23 miliónov",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2040239-kosicka-zupa-investovala-masivne-investoval-do-skol?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-11T17:00:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/02/24/4x3-medium/zastupitelstvo-kosickeho-samospravneho-kraja-1.jpg?v=T/w"
-    },
-    {
-      "title": "Dopravná nehoda v okrese Košice-okolie uzavrela cestu, zasahuje aj vrtuľník",
-      "link": "https://www.aktuality.sk/clanok/JkXiwzU/dopravna-nehoda-v-okrese-kosice-okolie-uzavrela-cestu-zasahuje-aj-vrtulnik/",
-      "time": "2026-09-11T16:37:54+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "Pri penzióne Dubky pri Košiciach sa zrazili dve autá. Pre zranených letel vrtuľník",
-      "link": "https://korzar.sme.sk/kosice/c/pri-penzione-dubky-pri-kosiciach-sa-zrazili-dve-auta-pre-zranenych-leti-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-09-11T16:33:23+00:00",
-      "cat": "zasah",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a0914e-653c-7632-8ad0-ea6047ea2666.jpg"
-    },
-    {
-      "title": "Čelná zrážka dvoch áut zablokovala cestu neďaleko Košíc, na mieste zasahoval aj vrtuľník",
-      "link": "https://www.kosicak.sk/clanky/14109/pri-kosiciach-sa-celne-zrazili-dve-auta-cestu-uzavreli-na-miesto-bol-vyslany-aj-zachranarsky-vrtulnik",
-      "time": "2026-09-11T16:07:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789143725-pri-kosiciach-sa-celne-zrazili-dve-auta-cestu-uzavreli-na-miesto-bol-vyslany-aj-zachranarsky-vrtulnik.webp"
-    },
-    {
-      "title": "Na ceste pri Beckove vyhasol život mladého vodiča, narazil do stromu",
-      "link": "https://www.trencinak.sk/clanky/13761/tragicka-nehoda-pri-beckove-mlady-vodic-zisiel-z-cesty-a-narazil-do-stromu-zraneniam-na-mieste-podlahol",
-      "time": "2026-09-11T15:47:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1789149286-tragicka-nehoda-pri-beckove-mlady-vodic-zisiel-z-cesty-a-narazil-do-stromu-zraneniam-na-mieste-podlahol.webp"
-    },
-    {
-      "title": "V Trnave sa zrazila kolobežka so sanitkou na majákoch, mladú ženu previezli do nemocnice",
-      "link": "https://www.trnavak.sk/clanky/12167/v-trnave-doslo-k-zrazke-kolobezky-a-sanitky-so-zapnutymi-majakmi-27-rocnu-kolobezkarku-previezli-do-nemocnice",
-      "time": "2026-09-11T15:40:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789142514-v-trnave-doslo-k-zrazke-kolobezky-a-sanitky-so-zapnutymi-majakmi-27rocnu-kolobezkarku-previezli-do-nemocnice.webp"
     }
   ]
 }

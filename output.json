@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-09-12T13:44:00.913734+00:00",
+  "generated_at": "2026-09-12T16:29:33.405480+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 8,
   "items": [
+    {
+      "title": "Košice D1 a R4 výjazdy a dopravné obmedzenia",
+      "link": "https://www.kosicak.sk/clanky/14113/dialnice-pri-kosiciach-d1-r4-vyjazdy-uzavery-a-aktualna-dopravna-situacia",
+      "time": "2026-09-12T14:55:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789227432-dialnice-pri-kosiciach-d1-r4-vyjazdy-uzavery-a-aktualna-dopravna-situacia.webp"
+    },
+    {
+      "title": "Požiar rodinného domu v Kráľovičových Kračanoch si vyžiadal jedného zraneného a spôsobil škodu za 300-tisíc eur",
+      "link": "https://www.aktuality.sk/clanok/BdTf3x9/poziar-rodinneho-domu-v-kralovicovych-kracanoch-si-vyziadal-jedneho-zraneneho-a-sposobil-skodu-za-300-tisic-eur/",
+      "time": "2026-09-12T14:19:36+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "POŽIAR: V Kráľovičových Kračanoch sa zranila jedna osoba",
+      "link": "https://www.teraz.sk/regiony/poziar-v-kralovicovych-kracanoch/991788-clanok.html",
+      "time": "2026-09-12T14:16:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Bytča aktuálne: Najnovšie správy z mesta",
+      "link": "https://www.zilinak.sk/clanky/42816/bytca-dnes-dolezite-spravy-nehody-uzavierky-a-podujatia-na-jednom-mieste",
+      "time": "2026-09-12T13:30:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1789220690-bytca-dnes-dolezite-spravy-nehody-uzavierky-a-podujatia-na-jednom-mieste.webp"
+    },
     {
       "title": "Požiar domu v Kráľovičových Kračanoch zranil osobu",
       "link": "https://www.trnavak.sk/clanky/12171/foto-obrovsky-poziar-domu-pri-dunajskej-strede-zranila-sa-jedna-osoba",
@@ -14,12 +50,12 @@
     },
     {
       "title": "Dopravu pod Pustým hradom brzdí nehoda",
-      "link": "https://www.bystricak.sk/clanky/13057/pozor-pod-pustym-hradom-po-nehode-sa-tvori-dlha-kolona-vodici-mozu-usek-obist-cez-mesto",
+      "link": "https://www.bystricak.sk/clanky/13057/po-nehode-pod-pustym-hradom-sa-tvori-dlha-kolona-vodici-mozu-usek-obist-cez-mesto-kolizia-je-aj-pri-hronskej-breznici",
       "time": "2026-09-12T12:22:00+00:00",
       "cat": "nehoda",
       "region": "banskobystricky",
       "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789215730-pozor-pod-pustym-hradom-po-nehode-sa-tvori-dlha-kolona-vodici-mozu-usek-obist-cez-mesto.webp"
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789221736-po-nehode-pod-pustym-hradom-sa-tvori-dlha-kolona-vodici-mozu-usek-obist-cez-mesto-kolizia-je-aj-pri-hronskej-breznici.webp"
     },
     {
       "title": "Zrubovú chatu v Martine zachvátili plamene. Škoda dosahuje 150-tisíc eur – FOTO",
@@ -38,15 +74,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789209732-vazne-obmedzenie-pri-banskej-stiavnici-cesta-je-neprejazdna-vodici-musia-ist-obchadzkou.webp"
-    },
-    {
-      "title": "K nehode na ceste I/72 za Rimavskou Sobotou pribudla aj kolízia neďaleko Bystrice",
-      "link": "https://www.bystricak.sk/clanky/13053/vodici-dve-auta-sa-zrazili-na-ceste-i66-pri-slovenskej-lupci-pozor-si-dajte-aj-pri-rimavskej-sobote",
-      "time": "2026-09-12T07:08:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/03_aktualne.webp"
     }
   ]
 }

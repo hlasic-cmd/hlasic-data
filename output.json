@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-09-12T10:40:55.489716+00:00",
+  "generated_at": "2026-09-12T13:44:00.913734+00:00",
   "max_age_hours": 12,
   "count": 5,
   "items": [
+    {
+      "title": "Požiar domu v Kráľovičových Kračanoch zranil osobu",
+      "link": "https://www.trnavak.sk/clanky/12171/foto-obrovsky-poziar-domu-pri-dunajskej-strede-zranila-sa-jedna-osoba",
+      "time": "2026-09-12T13:10:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789218582-foto-obrovsky-poziar-domu-pri-dunajskej-strede-zranila-sa-jedna-osoba.webp"
+    },
+    {
+      "title": "Dopravu pod Pustým hradom brzdí nehoda",
+      "link": "https://www.bystricak.sk/clanky/13057/pozor-pod-pustym-hradom-po-nehode-sa-tvori-dlha-kolona-vodici-mozu-usek-obist-cez-mesto",
+      "time": "2026-09-12T12:22:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789215730-pozor-pod-pustym-hradom-po-nehode-sa-tvori-dlha-kolona-vodici-mozu-usek-obist-cez-mesto.webp"
+    },
     {
       "title": "Zrubovú chatu v Martine zachvátili plamene. Škoda dosahuje 150-tisíc eur – FOTO",
       "link": "https://sita.sk/zrubovu-chatu-v-martine-zachvatili-plamene-skoda-dosahuje-150-tisic-eur-foto/",
@@ -19,16 +37,7 @@
       "cat": "nehoda",
       "region": "banskobystricky",
       "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789205438-vazne-obmedzenie-pri-banskej-stiavnici-cesta-je-neprejazdna-vodici-musia-ist-obchadzkou.webp"
-    },
-    {
-      "title": "Požiar strechy zrubovej chaty v Martine spôsobil škodu za 150-tisíc eur",
-      "link": "https://www.aktuality.sk/clanok/6JGAiPI/poziar-strechy-zrubovej-chaty-v-martine-sposobil-skodu-za-150-tisic-eur/",
-      "time": "2026-09-12T07:20:09+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": null
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789209732-vazne-obmedzenie-pri-banskej-stiavnici-cesta-je-neprejazdna-vodici-musia-ist-obchadzkou.webp"
     },
     {
       "title": "K nehode na ceste I/72 za Rimavskou Sobotou pribudla aj kolízia neďaleko Bystrice",
@@ -38,15 +47,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/03_aktualne.webp"
-    },
-    {
-      "title": "Rodina z Kysúc roky pomáhala núdznym. Muž im podpálil strechu nad hlavou, vznikla zbierka",
-      "link": "https://www.zilinak.sk/clanky/42803/roky-otvarali-dvere-tym-ktori-nemali-kam-ist-podpalili-im-statok-na-kysuciach-teraz-pomoc-potrebuju-oni",
-      "time": "2026-09-12T07:00:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1789141213-roky-otvarali-dvere-tym-ktori-nemali-kam-ist-podpalili-im-statok-na-kysuciach-teraz-pomoc-potrebuju-oni.webp"
     }
   ]
 }

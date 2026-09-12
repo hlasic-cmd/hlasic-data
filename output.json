@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T23:36:55.156827+00:00",
+  "generated_at": "2026-09-12T01:29:43.974552+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 8,
   "items": [
     {
       "title": "Čelná zrážka pri Šaci: Zranili sa dve osoby, jednu previezol vrtuľník",
@@ -74,15 +74,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789142514-v-trnave-doslo-k-zrazke-kolobezky-a-sanitky-so-zapnutymi-majakmi-27rocnu-kolobezkarku-previezli-do-nemocnice.webp"
-    },
-    {
-      "title": "Hromadná nehoda neďaleko Košíc: Zranených je šesť pasažierov, ktorých previezli do nemocnice",
-      "link": "https://www.kosicak.sk/clanky/14106/hromadna-nehoda-nedaleko-kosic-zranilo-sa-sest-osob-previezli-ich-do-nemocnice",
-      "time": "2026-09-11T12:40:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789135346-hromadna-nehoda-nedaleko-kosic-zranilo-sa-sest-osob-previezli-ich-do-nemocnice.webp"
     }
   ]
 }

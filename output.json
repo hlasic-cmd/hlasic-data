@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T00:15:32.962604+00:00",
+  "generated_at": "2026-09-13T04:48:43.031641+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 1,
   "items": [
     {
       "title": "Bratislava dnes hlási nehody, kolóny a uzávierky",
@@ -11,42 +11,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789226086-dopravny-servis-bratislava-dnes-nehody-kolony-a-uzavierky.webp"
-    },
-    {
-      "title": "Košice D1 a R4 výjazdy a dopravné obmedzenia",
-      "link": "https://www.kosicak.sk/clanky/14113/dialnice-pri-kosiciach-d1-r4-vyjazdy-uzavery-a-aktualna-dopravna-situacia",
-      "time": "2026-09-12T14:55:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789227432-dialnice-pri-kosiciach-d1-r4-vyjazdy-uzavery-a-aktualna-dopravna-situacia.webp"
-    },
-    {
-      "title": "Požiar rodinného domu v Kráľovičových Kračanoch si vyžiadal jedného zraneného a spôsobil škodu za 300-tisíc eur",
-      "link": "https://www.aktuality.sk/clanok/BdTf3x9/poziar-rodinneho-domu-v-kralovicovych-kracanoch-si-vyziadal-jedneho-zraneneho-a-sposobil-skodu-za-300-tisic-eur/",
-      "time": "2026-09-12T14:19:36+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
-      "title": "POŽIAR: V Kráľovičových Kračanoch sa zranila jedna osoba",
-      "link": "https://www.teraz.sk/regiony/poziar-v-kralovicovych-kracanoch/991788-clanok.html",
-      "time": "2026-09-12T14:16:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Zrubovú chatu v Martine zachvátili plamene. Škoda dosahuje 150-tisíc eur – FOTO",
-      "link": "https://sita.sk/zrubovu-chatu-v-martine-zachvatili-plamene-skoda-dosahuje-150-tisic-eur-foto/",
-      "time": "2026-09-12T12:17:53+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/09/805853942_122235863702285342_6303639841793432328_n-688x387.jpg"
     }
   ]
 }

@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-09-13T13:54:19.714376+00:00",
+  "generated_at": "2026-09-13T17:05:13.834225+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 7,
   "items": [
+    {
+      "title": "Tragická nehoda pri Bardejove, po zrážke s autom zomrel 75-ročný cyklista – FOTO",
+      "link": "https://sita.sk/tragicka-nehoda-pri-bardejove-po-zrazke-s-autom-zomrel-75-rocny-cyklista-foto/",
+      "time": "2026-09-13T16:36:32+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/09/nehoda-1-e1789303521789-688x387.jpg"
+    },
+    {
+      "title": "Nehoda uzavrela cestu medzi Dobrou Nivou a Babinou",
+      "link": "https://www.bystricak.sk/clanky/13059/vodici-useku-medzi-dobrou-nivou-a-babinou-sa-vyhnite-doslo-tam-k-nehode-vyuzite-preto-obchadzkovu-trasu",
+      "time": "2026-09-13T14:08:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
     {
       "title": "V Žiline úmyselne zapálili osobné auto, na mieste zasahovali hasiči",
       "link": "https://www.zilinak.sk/clanky/42820/foto-plamene-pohltili-osobne-auto-v-ziline-islo-o-umyselne-zapalenie",
@@ -47,15 +65,6 @@
       "region": "presovsky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/01a09a93-c830-79ed-95e2-b487ff1306aa.jpg"
-    },
-    {
-      "title": "Pri Bardejove tragicky zahynul 75-ročný cyklista, cesta je uzavretá",
-      "link": "https://www.presovak.sk/clanky/15384/tragicka-nehoda-pri-bardejove-o-zivot-prisiel-75-rocny-cyklista-ratajte-s-dopravnymi-obmedzeniami",
-      "time": "2026-09-13T10:53:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789296818-tragicka-nehoda-pri-bardejove-o-zivot-prisiel-75rocny-cyklista-ratajte-s-dopravnymi-obmedzeniami.webp"
     }
   ]
 }

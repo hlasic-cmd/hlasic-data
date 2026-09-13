@@ -1,16 +1,61 @@
 {
-  "generated_at": "2026-09-13T09:46:26.744424+00:00",
+  "generated_at": "2026-09-13T13:54:19.714376+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 6,
   "items": [
     {
-      "title": "Výbuch propán-butánovej fľaše v Lomničke pripravil o domov 10 ľudí",
-      "link": "https://www.presovak.sk/clanky/15376/po-vybuchu-v-lomnicke-prislo-o-domov-10-ludi-propan-butanova-flasa-sa-muzovi-rozhorela-v-rukach",
-      "time": "2026-09-13T08:31:00+00:00",
+      "title": "V Žiline úmyselne zapálili osobné auto, na mieste zasahovali hasiči",
+      "link": "https://www.zilinak.sk/clanky/42820/foto-plamene-pohltili-osobne-auto-v-ziline-islo-o-umyselne-zapalenie",
+      "time": "2026-09-13T12:30:00+00:00",
       "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1789302505-foto-plamene-pohltili-osobne-auto-v-ziline-islo-o-umyselne-zapalenie.webp"
+    },
+    {
+      "title": "Polícia pátra po Daniele Gracikovej z Galanty",
+      "link": "https://www.trnavak.sk/clanky/12176/tinedzerka-daniela-z-galanty-je-nezvestna-uz-par-dni-so-sebou-mala-velku-fialovu-tasku-policia-vyhlasila-patranie",
+      "time": "2026-09-13T12:20:00+00:00",
+      "cat": "patranie",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789299725-tinedzerka-daniela-z-galanty-je-nezvestna-uz-par-dni-so-sebou-mala-velku-fialovu-tasku-policia-vyhlasila-patranie.webp"
+    },
+    {
+      "title": "Polícia pátra po 17-ročnej Šanel Stojkovej z Komárna",
+      "link": "https://www.nitrak.sk/clanky/11866/policia-patra-po-nezvestnej-17-rocnej-sanel-z-komarna-so-sebou-mala-ciernu-sportovu-tasku-na-doklady-nevideli-ste-ju",
+      "time": "2026-09-13T12:20:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789300293-policia-patra-po-nezvestnej-17rocnej-sanel-z-komarna-so-sebou-mala-ciernu-sportovu-tasku-na-doklady-nevideli-ste-ju.webp"
+    },
+    {
+      "title": "Tragická nehoda v okrese Bardejov: Zrážku s autom neprežil 75-ročný cyklista",
+      "link": "https://www.aktuality.sk/clanok/vhmSFcv/tragicka-nehoda-v-okrese-bardejov-zrazku-s-autom-neprezil-75-rocny-cyklista/",
+      "time": "2026-09-13T11:46:19+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Po zrážke s autom v okrese Bardejov zomrel cyklista, cesta je neprejazdná",
+      "link": "https://korzar.sme.sk/presov/c/po-zrazke-s-autom-v-okrese-bardejov-zomrel-cyklista-cesta-je-neprejazdna?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-09-13T11:44:04+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a09a93-c830-79ed-95e2-b487ff1306aa.jpg"
+    },
+    {
+      "title": "Pri Bardejove tragicky zahynul 75-ročný cyklista, cesta je uzavretá",
+      "link": "https://www.presovak.sk/clanky/15384/tragicka-nehoda-pri-bardejove-o-zivot-prisiel-75-rocny-cyklista-ratajte-s-dopravnymi-obmedzeniami",
+      "time": "2026-09-13T10:53:00+00:00",
+      "cat": "nehoda",
       "region": "presovsky",
       "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789288303-po-vybuchu-v-lomnicke-prislo-o-domov-10-ludi-propanbutanova-flasa-sa-muzovi-rozhorela-v-rukach.webp"
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789296818-tragicka-nehoda-pri-bardejove-o-zivot-prisiel-75rocny-cyklista-ratajte-s-dopravnymi-obmedzeniami.webp"
     }
   ]
 }

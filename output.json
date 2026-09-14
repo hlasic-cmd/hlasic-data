@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T23:17:33.252885+00:00",
+  "generated_at": "2026-09-14T01:08:50.634275+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 2,
   "items": [
     {
       "title": "Tragická nehoda pri Bardejove, po zrážke s autom zomrel 75-ročný cyklista – FOTO",
@@ -20,24 +20,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Polícia pátra po 17-ročnej Šanel Stojkovej z Komárna",
-      "link": "https://www.nitrak.sk/clanky/11866/policia-patra-po-nezvestnej-17-rocnej-sanel-z-komarna-so-sebou-mala-ciernu-sportovu-tasku-na-doklady-nevideli-ste-ju",
-      "time": "2026-09-13T12:20:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789300293-policia-patra-po-nezvestnej-17rocnej-sanel-z-komarna-so-sebou-mala-ciernu-sportovu-tasku-na-doklady-nevideli-ste-ju.webp"
-    },
-    {
-      "title": "Po zrážke s autom v okrese Bardejov zomrel cyklista, cesta je neprejazdná",
-      "link": "https://korzar.sme.sk/presov/c/po-zrazke-s-autom-v-okrese-bardejov-zomrel-cyklista-cesta-je-neprejazdna?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-09-13T11:44:04+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a09a93-c830-79ed-95e2-b487ff1306aa.jpg"
     }
   ]
 }

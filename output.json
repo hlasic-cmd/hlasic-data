@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-09-15T08:56:14.345807+00:00",
+  "generated_at": "2026-09-15T13:56:14.982313+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 5,
   "items": [
+    {
+      "title": "Policajti PMJ v Trnave uhasili požiar auta pred hasičmi",
+      "link": "https://www.trnavak.sk/clanky/12203/video-trnavski-policajti-bojovali-s-poziarom-auta-pri-zeleznicnej-stanici-ohen-uhasili-do-prichodu-hasicov",
+      "time": "2026-09-15T12:29:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789475272-video-trnavski-policajti-bojovali-s-poziarom-auta-pri-zeleznicnej-stanici-ohen-uhasili-do-prichodu-hasicov.webp"
+    },
+    {
+      "title": "Pri Galovanoch na Liptove učil žiačku šoférovať, no sám nafúkal. Inštruktor mal 0,81 promile",
+      "link": "https://www.zilinak.sk/clanky/42861/foto-bizarny-pripad-na-liptove-ucil-ziacku-soferovat-no-sam-nafukal-instruktor-autoskoly-mal-081-promile",
+      "time": "2026-09-15T11:36:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1789472157-foto-bizarny-pripad-na-liptove-ucil-ziacku-soferovat-no-sam-nafukal-instruktor-autoskoly-mal-081-promile.webp"
+    },
     {
       "title": "Polícia pátra po troch nezvestných v Košickom kraji",
       "link": "https://www.kosicak.sk/clanky/14140/policajti-v-kosickom-kraji-patraju-po-troch-nezvestnych-osobach-nevideli-ste-davida-matusa-alebo-dezidera",

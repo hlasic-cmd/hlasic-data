@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-09-15T00:00:08.520652+00:00",
+  "generated_at": "2026-09-15T03:34:20.980785+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Vodiči, pozor pri Zvolene. Od dnes sa začína meniť nehodová križovatka",
-      "link": "https://www.bystricak.sk/clanky/13076/pri-zvolene-sa-zacina-velka-uprava-nebezpecnej-krizovatky-vodicov-cakaju-obmedzenia-az-do-novembra",
-      "time": "2026-09-14T15:00:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789394586-pri-zvolene-sa-zacina-velka-uprava-nebezpecnej-krizovatky-vodicov-cakaju-obmedzenia-az-do-novembra.webp"
-    },
-    {
-      "title": "Nedanie prednosti skončilo tragédiou. Mladá vodička po nehode pri Dunajskej Strede zomrela",
-      "link": "https://www.trnavak.sk/clanky/12195/foto-ranna-nehoda-pri-dunajskej-strede-si-vyziadala-zivot-mlada-vodicka-po-zrazke-zomrela-v-nemocnici",
-      "time": "2026-09-14T12:23:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789387841-foto-ranna-nehoda-pri-dunajskej-strede-si-vyziadala-zivot-mlada-vodicka-po-zrazke-zomrela-v-nemocnici.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

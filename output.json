@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-09-15T13:56:14.982313+00:00",
+  "generated_at": "2026-09-15T17:48:52.333269+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 3,
   "items": [
+    {
+      "title": "Tragédia v lese pri Rožňave. Padajúci strom zavalil pilčíka, muž na mieste zomrel",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2041787-tragedia-v-lese-pri-roznave-padajuci-strom-zavalil-pilcika-muz-na-mieste-zomrel?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-15T14:57:58+00:00",
+      "cat": "zasah",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2023/11/21/4x3-medium/vrtulnik.jpg?v=T/w"
+    },
+    {
+      "title": "Pilčík po zásahu stromom na Pačanskom kopci zomrel",
+      "link": "https://www.kosicak.sk/clanky/14147/video-na-pacanskom-kopci-spadol-na-pilcika-strom-smeroval-k-nemu-zachranarsky-vrtulnik-pomoct-mu-nedokazali",
+      "time": "2026-09-15T14:52:00+00:00",
+      "cat": "zasah",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789483886-video-na-pacanskom-kopci-spadol-na-pilcika-strom-smeroval-k-nemu-zachranarsky-vrtulnik-pomoct-mu-nedokazali.webp"
+    },
     {
       "title": "Policajti PMJ v Trnave uhasili požiar auta pred hasičmi",
       "link": "https://www.trnavak.sk/clanky/12203/video-trnavski-policajti-bojovali-s-poziarom-auta-pri-zeleznicnej-stanici-ohen-uhasili-do-prichodu-hasicov",
@@ -11,42 +29,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789475272-video-trnavski-policajti-bojovali-s-poziarom-auta-pri-zeleznicnej-stanici-ohen-uhasili-do-prichodu-hasicov.webp"
-    },
-    {
-      "title": "Pri Galovanoch na Liptove učil žiačku šoférovať, no sám nafúkal. Inštruktor mal 0,81 promile",
-      "link": "https://www.zilinak.sk/clanky/42861/foto-bizarny-pripad-na-liptove-ucil-ziacku-soferovat-no-sam-nafukal-instruktor-autoskoly-mal-081-promile",
-      "time": "2026-09-15T11:36:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1789472157-foto-bizarny-pripad-na-liptove-ucil-ziacku-soferovat-no-sam-nafukal-instruktor-autoskoly-mal-081-promile.webp"
-    },
-    {
-      "title": "Polícia pátra po troch nezvestných v Košickom kraji",
-      "link": "https://www.kosicak.sk/clanky/14140/policajti-v-kosickom-kraji-patraju-po-troch-nezvestnych-osobach-nevideli-ste-davida-matusa-alebo-dezidera",
-      "time": "2026-09-15T08:38:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789461463-policajti-v-kosickom-kraji-patraju-po-troch-nezvestnych-osobach-nevideli-ste-davida-matusa-alebo-dezidera.webp"
-    },
-    {
-      "title": "Benedikta Molnárová zomrela po nehode v Dunajskej Strede",
-      "link": "https://www.bratislavak.sk/clanky/15403/pri-tragickej-zrazke-zomrela-znama-lekarka-34-z-ruzinovskej-kliniky-kolegovia-sa-s-nou-lucia-dojemnymi-slovami",
-      "time": "2026-09-15T08:30:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789460640-pri-tragickej-zrazke-zomrela-znama-lekarka-34-z-ruzinovskej-kliniky-kolegovia-sa-s-nou-lucia-dojemnymi-slovami.webp"
-    },
-    {
-      "title": "Požiar v Lomničke zničil dom, dva obrazy ostali nepoškodené",
-      "link": "https://www.presovak.sk/clanky/15413/foto-vikendovy-poziar-v-lomnicke-znicil-rodinny-dom-neposkodene-zostali-len-dve-veci-majitel-hovori-o-zazraku",
-      "time": "2026-09-15T08:00:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789459072-foto-vikendovy-poziar-v-lomnicke-znicil-rodinny-dom-neposkodene-zostali-len-dve-veci-majitel-hovori-o-zazraku.webp"
     }
   ]
 }

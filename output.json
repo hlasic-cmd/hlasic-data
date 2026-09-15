@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T20:28:52.994809+00:00",
+  "generated_at": "2026-09-15T23:01:37.232844+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 1,
   "items": [
     {
       "title": "Tragédia v lese pri Rožňave. Padajúci strom zavalil pilčíka, muž na mieste zomrel",
@@ -11,33 +11,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2023/11/21/4x3-medium/vrtulnik.jpg?v=T/w"
-    },
-    {
-      "title": "Pilčík po zásahu stromom na Pačanskom kopci zomrel",
-      "link": "https://www.kosicak.sk/clanky/14147/video-na-pacanskom-kopci-spadol-na-pilcika-strom-smeroval-k-nemu-zachranarsky-vrtulnik-pomoct-mu-nedokazali",
-      "time": "2026-09-15T14:52:00+00:00",
-      "cat": "zasah",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789483886-video-na-pacanskom-kopci-spadol-na-pilcika-strom-smeroval-k-nemu-zachranarsky-vrtulnik-pomoct-mu-nedokazali.webp"
-    },
-    {
-      "title": "Policajti PMJ v Trnave uhasili požiar auta pred hasičmi",
-      "link": "https://www.trnavak.sk/clanky/12203/video-trnavski-policajti-bojovali-s-poziarom-auta-pri-zeleznicnej-stanici-ohen-uhasili-do-prichodu-hasicov",
-      "time": "2026-09-15T12:29:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789475272-video-trnavski-policajti-bojovali-s-poziarom-auta-pri-zeleznicnej-stanici-ohen-uhasili-do-prichodu-hasicov.webp"
-    },
-    {
-      "title": "Benedikta Molnárová zomrela po nehode v Dunajskej Strede",
-      "link": "https://www.bratislavak.sk/clanky/15403/pri-tragickej-zrazke-zomrela-znama-lekarka-34-z-ruzinovskej-kliniky-kolegovia-sa-s-nou-lucia-dojemnymi-slovami",
-      "time": "2026-09-15T08:30:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789480409-pri-tragickej-zrazke-zomrela-znama-lekarka-34-z-ruzinovskej-kliniky-kolegovia-sa-s-nou-lucia-dojemnymi-slovami.webp"
     }
   ]
 }

@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-15T03:34:20.980785+00:00",
+  "generated_at": "2026-09-15T08:56:14.345807+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 3,
+  "items": [
+    {
+      "title": "Polícia pátra po troch nezvestných v Košickom kraji",
+      "link": "https://www.kosicak.sk/clanky/14140/policajti-v-kosickom-kraji-patraju-po-troch-nezvestnych-osobach-nevideli-ste-davida-matusa-alebo-dezidera",
+      "time": "2026-09-15T08:38:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789461463-policajti-v-kosickom-kraji-patraju-po-troch-nezvestnych-osobach-nevideli-ste-davida-matusa-alebo-dezidera.webp"
+    },
+    {
+      "title": "Benedikta Molnárová zomrela po nehode v Dunajskej Strede",
+      "link": "https://www.bratislavak.sk/clanky/15403/pri-tragickej-zrazke-zomrela-znama-lekarka-34-z-ruzinovskej-kliniky-kolegovia-sa-s-nou-lucia-dojemnymi-slovami",
+      "time": "2026-09-15T08:30:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789460640-pri-tragickej-zrazke-zomrela-znama-lekarka-34-z-ruzinovskej-kliniky-kolegovia-sa-s-nou-lucia-dojemnymi-slovami.webp"
+    },
+    {
+      "title": "Požiar v Lomničke zničil dom, dva obrazy ostali nepoškodené",
+      "link": "https://www.presovak.sk/clanky/15413/foto-vikendovy-poziar-v-lomnicke-znicil-rodinny-dom-neposkodene-zostali-len-dve-veci-majitel-hovori-o-zazraku",
+      "time": "2026-09-15T08:00:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789459072-foto-vikendovy-poziar-v-lomnicke-znicil-rodinny-dom-neposkodene-zostali-len-dve-veci-majitel-hovori-o-zazraku.webp"
+    }
+  ]
 }

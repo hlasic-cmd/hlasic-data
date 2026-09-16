@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T21:45:54.289897+00:00",
+  "generated_at": "2026-09-16T23:52:23.214734+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 9,
   "items": [
     {
       "title": "Električka zrazila chodca v Bratislave",
@@ -83,24 +83,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789567806-foto-velky-poziar-na-vychode-vznikol-na-streche-pocas-rekonstrukcie-zamestnanci-boli-evakuovani.webp"
-    },
-    {
-      "title": "Požiar strechy haly ZVS Holding v Snine počas rekonštrukcie",
-      "link": "https://www.presovak.sk/clanky/15428/foto-velky-poziar-v-areali-sninskeho-holdingu-vznikol-na-streche-pocas-rekonstrukcie-zamestnanci-boli-evakuovani",
-      "time": "2026-09-16T10:27:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789562761-foto-velky-poziar-v-areali-sninskeho-holdingu-vznikol-na-streche-pocas-rekonstrukcie-zamestnanci-boli-evakuovani.webp"
-    },
-    {
-      "title": "V obci pri Košiciach sa zrazil motorkár s autom, skončil v nemocnici",
-      "link": "https://www.kosicak.sk/clanky/14162/v-obci-len-par-kilometrov-od-kosic-havaroval-motorkar-s-otrasom-mozgu-ho-previezli-do-nemocnice-cesta-je-neprejazdna",
-      "time": "2026-09-16T09:56:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
     }
   ]
 }

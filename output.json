@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T18:52:02.078717+00:00",
+  "generated_at": "2026-09-16T21:45:54.289897+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "title": "Električka zrazila chodca v Bratislave",
@@ -29,15 +29,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Železničná doprava pri Košiciach stojí. Požiar pri trati prerušil spojenie medzi obcami",
-      "link": "https://www.kosicak.sk/clanky/14169/mimoriadna-udalost-pri-kosiciach-poziar-pri-trati-zastavil-zeleznicnu-dopravu-medzi-obcami",
-      "time": "2026-09-16T15:29:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789572664-mimoriadna-udalost-pri-kosiciach-poziar-pri-trati-zastavil-zeleznicnu-dopravu-medzi-obcami.webp"
     },
     {
       "title": "Motorkár havaroval na Považí, vodiči úsekom prechádzajú vo voľnom jazdnom pruhu",

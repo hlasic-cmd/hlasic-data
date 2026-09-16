@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-09-16T15:09:50.787689+00:00",
+  "generated_at": "2026-09-16T18:52:02.078717+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 12,
   "items": [
+    {
+      "title": "Električka zrazila chodca v Bratislave",
+      "link": "https://www.bratislavak.sk/clanky/15436/nehoda-v-bratislave-elektricka-zrazila-chodca-v-useku-treba-ratat-so-zdrzanim",
+      "time": "2026-09-16T17:19:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Mladistvá Vanesa zo Spiša je nezvestná. Polícia po nej vyhlásila pátranie",
+      "link": "https://www.kosicak.sk/clanky/14170/policia-patra-po-17-rocnej-vanese-zo-spisa-nevideli-ste-ju",
+      "time": "2026-09-16T17:00:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789575413-policia-patra-po-17rocnej-vanese-zo-spisa-nevideli-ste-ju.webp"
+    },
+    {
+      "title": "Dve nehody komplikujú dopravu v Bratislave. Kde si dať pozor?",
+      "link": "https://www.bratislavak.sk/clanky/15434/nehody-skomplikovali-dopravu-v-bratislave-vodici-hlasia-zdrzanie",
+      "time": "2026-09-16T16:23:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Železničná doprava pri Košiciach stojí. Požiar pri trati prerušil spojenie medzi obcami",
+      "link": "https://www.kosicak.sk/clanky/14169/mimoriadna-udalost-pri-kosiciach-poziar-pri-trati-zastavil-zeleznicnu-dopravu-medzi-obcami",
+      "time": "2026-09-16T15:29:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789572664-mimoriadna-udalost-pri-kosiciach-poziar-pri-trati-zastavil-zeleznicnu-dopravu-medzi-obcami.webp"
+    },
+    {
+      "title": "Motorkár havaroval na Považí, vodiči úsekom prechádzajú vo voľnom jazdnom pruhu",
+      "link": "https://www.trencinak.sk/clanky/13813/pozor-na-cestach-na-povazi-havaroval-motorkar",
+      "time": "2026-09-16T15:02:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/01_aktualne.webp"
+    },
     {
       "title": "Polícia pátra po 15-ročnom Martinovi z Ilavy",
       "link": "https://www.trencinak.sk/clanky/13811/nezvestny-15-rocny-martin-z-ilavy-moze-byt-kdekolvek-policia-prosi-ludi-o-pomoc-mozno-ste-ho-videli",
@@ -32,24 +77,6 @@
     },
     {
       "title": "Po tragédii žiadajú ľudia kruháč či semafory na križovatke",
-      "link": "https://www.trnavak.sk/clanky/12218/po-smrti-znamej-lekarky-v-dunajskej-strede-pozaduju-obyvatelia-zasah-na-krizovatke-kolko-ludi-tam-este-musi-zomriet",
-      "time": "2026-09-16T12:20:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789558327-po-smrti-znamej-lekarky-v-dunajskej-strede-pozaduju-obyvatelia-zasah-na-krizovatke-kolko-ludi-tam-este-musi-zomriet.webp"
-    },
-    {
-      "title": "V Jelšave v obnovenej bytovke došlo pred odovzdaním k havárii",
-      "link": "https://www.teraz.sk/regiony/v-jelsave-v-obnovenej-bytovke-doslo-pr/992664-clanok.html",
-      "time": "2026-09-16T12:04:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Po tragédii žiadajú ľudia kruháč či semafory na križovatke",
       "link": "https://www.bratislavak.sk/clanky/15425/po-smrti-znamej-lekarky-z-bratislavy-pozaduju-obyvatelia-zasah-na-krizovatke-kolko-ludi-tam-este-musi-zomriet",
       "time": "2026-09-16T12:00:00+00:00",
       "cat": "nehoda",
@@ -67,24 +94,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789567806-foto-velky-poziar-na-vychode-vznikol-na-streche-pocas-rekonstrukcie-zamestnanci-boli-evakuovani.webp"
     },
     {
-      "title": "Zrážka auta s nákladným vozidlom v Brezne",
-      "link": "https://www.bystricak.sk/clanky/13091/v-brezne-doslo-k-nehode-osobneho-a-nakladneho-auta-doprava-je-obmedzena",
-      "time": "2026-09-16T11:04:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789556309-v-brezne-doslo-k-nehode-osobneho-a-nakladneho-auta-doprava-je-obmedzena.webp"
-    },
-    {
-      "title": "Pri Púchove sa zrazili cyklisti, muž nafúkal 1,19 promile",
-      "link": "https://www.trencinak.sk/clanky/13805/zrazka-cyklistov-pri-puchove-muz-nafukal-po-nehode-119-promile-zena-skoncila-v-nemocnici",
-      "time": "2026-09-16T10:50:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1789549740-zrazka-cyklistov-pri-puchove-muz-nafukal-po-nehode-119-promile-zena-skoncila-v-nemocnici.webp"
-    },
-    {
       "title": "Požiar strechy haly ZVS Holding v Snine počas rekonštrukcie",
       "link": "https://www.presovak.sk/clanky/15428/foto-velky-poziar-v-areali-sninskeho-holdingu-vznikol-na-streche-pocas-rekonstrukcie-zamestnanci-boli-evakuovani",
       "time": "2026-09-16T10:27:00+00:00",
@@ -94,13 +103,13 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789562761-foto-velky-poziar-v-areali-sninskeho-holdingu-vznikol-na-streche-pocas-rekonstrukcie-zamestnanci-boli-evakuovani.webp"
     },
     {
-      "title": "Blízko Dunajskej Stredy sa zrazili tri autá,  vodiči sa zdržia",
-      "link": "https://www.trnavak.sk/clanky/12216/pozor-na-hromadnu-nehodu-pri-dunajskej-strede-vodici-sa-mierne-zdrzia",
-      "time": "2026-09-16T10:08:00+00:00",
+      "title": "V obci pri Košiciach sa zrazil motorkár s autom, skončil v nemocnici",
+      "link": "https://www.kosicak.sk/clanky/14162/v-obci-len-par-kilometrov-od-kosic-havaroval-motorkar-s-otrasom-mozgu-ho-previezli-do-nemocnice-cesta-je-neprejazdna",
+      "time": "2026-09-16T09:56:00+00:00",
       "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789553342-pozor-na-hromadnu-nehodu-pri-dunajskej-strede-vodici-sa-mierne-zdrzia.webp"
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
     }
   ]
 }

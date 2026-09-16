@@ -1,16 +1,142 @@
 {
-  "generated_at": "2026-09-16T05:58:44.425053+00:00",
+  "generated_at": "2026-09-16T10:45:14.977583+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 15,
   "items": [
     {
-      "title": "Spomienky Dana Junasa na desivú nehodu: Bol som dva týždne v kóme",
-      "link": "https://www1.pluska.sk/soubiznis/spomienky-dana-junasa-na-desivu-nehodu-bol-som-dva-tyzdne-v-kome",
+      "title": "FOTO: Veľký požiar v Snine. Horieť má v areáli bývalého podniku",
+      "link": "https://www.presovak.sk/clanky/15428/foto-velky-poziar-v-snine-horiet-ma-v-areali-byvaleho-podniku",
+      "time": "2026-09-16T10:27:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789554457-foto-velky-poziar-v-snine-horiet-ma-v-areali-byvaleho-podniku.webp"
+    },
+    {
+      "title": "Blízko Dunajskej Stredy sa zrazili tri autá,  vodiči sa zdržia",
+      "link": "https://www.trnavak.sk/clanky/12216/pozor-na-hromadnu-nehodu-pri-dunajskej-strede-vodici-sa-mierne-zdrzia",
+      "time": "2026-09-16T10:08:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789553342-pozor-na-hromadnu-nehodu-pri-dunajskej-strede-vodici-sa-mierne-zdrzia.webp"
+    },
+    {
+      "title": "V obci len pár kilometrov od Košíc havaroval motorkár, cesta je neprejazdná",
+      "link": "https://www.kosicak.sk/clanky/14162/v-obci-len-par-kilometrov-od-kosic-havaroval-motorkar-cesta-je-neprejazdna",
+      "time": "2026-09-16T09:56:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Martinčan sa žene vyhrážal čiernou truhlou, potom jej zobral auto. Spôsobil nehodu, aký dostal trest?",
+      "link": "https://www.zilinak.sk/clanky/42874/martincan-sa-vyhrazal-expartnerke-ze-ju-vyvezu-v-truhle-ukradol-jej-auto-a-havaroval-dostal-domace-vazenie",
+      "time": "2026-09-16T09:00:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1789546948-martincan-sa-vyhrazal-expartnerke-ze-ju-vyvezu-v-truhle-ukradol-jej-auto-a-havaroval-dostal-domace-vazenie.webp"
+    },
+    {
+      "title": "Pri Tarnove zahynul cyklista Marián, s láskou na neho spomínajú",
+      "link": "https://www.presovak.sk/clanky/15423/pri-tarnove-prisiel-o-zivot-byvaly-ucitel-marian-ludia-nanho-s-laskou-spominaju-na-bicykli-ho-stretavali-denne",
+      "time": "2026-09-16T09:00:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789549112-pri-tarnove-prisiel-o-zivot-byvaly-ucitel-marian-ludia-nanho-s-laskou-spominaju-na-bicykli-ho-stretavali-denne.webp"
+    },
+    {
+      "title": "Dopravná nehoda pri Tescu v Banskej Bystrici: Úseku sa radšej vyhnite",
+      "link": "https://www.bystricak.sk/clanky/13087/vodici-v-banskej-bystrici-hlasia-nehodu-motorky-a-auta-policajti-tadial-aktualne-nepustaju",
+      "time": "2026-09-16T08:54:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "V Baloňi pri Dunajskej Strede začalo horieť drevo pri kotle",
+      "link": "https://www.trnavak.sk/clanky/12212/pri-dunajskej-strede-museli-zasahovat-hasici-toto-nikdy-nedavajte-ku-kotlu-jedna-chyba-moze-skoncit-poziarom",
+      "time": "2026-09-16T08:31:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789547007-pri-dunajskej-strede-museli-zasahovat-hasici-toto-nikdy-nedavajte-ku-kotlu-jedna-chyba-moze-skoncit-poziarom.webp"
+    },
+    {
+      "title": "Nehoda na D1 pri Drietome blokuje rýchly pruh",
+      "link": "https://www.trencinak.sk/clanky/13803/pozor-na-d1-pri-odbocke-na-drietomu-smer-trencin-sa-zdrzite-auto-tam-narazilo-do-zvodidiel-a-blokuje-rychly-pruh",
+      "time": "2026-09-16T07:44:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Požiar auta v Kysuckom Novom Meste spôsobil škodu 65-tisíc eur",
+      "link": "https://www.zilinak.sk/clanky/42869/foto-vybavoval-si-niekto-ucty-nocny-poziar-auta-na-kysuciach-pripravil-majitela-o-desattisice-eur",
+      "time": "2026-09-16T06:54:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1789541601-foto-vybavoval-si-niekto-ucty-nocny-poziar-auta-na-kysuciach-pripravil-majitela-o-desattisice-eur.webp"
+    },
+    {
+      "title": "Autobus, kde bolo 16 malých detí, sa zrazil s autom",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2042021-autobus-kde-bolo-16-malych-deti-sa-zrazil-s-autom?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-16T06:38:21+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/09/16/2532195/4x3-medium/nehoda-autobus-s-autom-drahnov.jpg?v=vw8"
+    },
+    {
+      "title": "Zrážka auta s cyklistom obmedzila premávku v Skalici",
+      "link": "https://www.trnavak.sk/clanky/12206/v-meste-na-zahori-sa-zrazilo-auto-s-cyklistom-premavka-je-obmedzena",
+      "time": "2026-09-16T06:35:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789540571-v-meste-na-zahori-sa-zrazilo-auto-s-cyklistom-premavka-je-obmedzena.webp"
+    },
+    {
+      "title": "V Prešove sa zrazili tri autá v odbočovacom pruhu, blokujú premávku",
+      "link": "https://www.presovak.sk/clanky/15417/v-presove-sa-zrazili-tri-auta-v-odbocovacom-pruhu-blokuju-premavku",
+      "time": "2026-09-16T06:20:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Pozor, na R7 sa stala hromadná nehoda, počítajte so zdržaním",
+      "link": "https://www.bratislavak.sk/clanky/15408/vodici-v-bratislave-davajte-si-pozor-na-rychlostnej-ceste-r7-stala-sa-tam-nehoda-viacerych-aut-pocitajte-so-zdrzanim",
+      "time": "2026-09-16T06:14:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789539204-vodici-v-bratislave-davajte-si-pozor-na-rychlostnej-ceste-r7-stala-sa-tam-nehoda-viacerych-aut-pocitajte-so-zdrzanim.webp"
+    },
+    {
+      "title": "Pre hromadnú nehodu v okolí Košíc uzavreli cestu, pri Michalovciach sa zas zrazilo auto s autobusom plným detí",
+      "link": "https://www.kosicak.sk/clanky/14152/pre-hromadnu-nehodu-v-okoli-kosic-uzavreli-cestu-pri-michalovciach-sa-zas-zrazilo-auto-s-autobusom-plnym-deti",
+      "time": "2026-09-16T06:13:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789539224-pre-hromadnu-nehodu-v-okoli-kosic-uzavreli-cestu-pri-michalovciach-sa-zas-zrazilo-auto-s-autobusom-plnym-deti.webp"
+    },
+    {
+      "title": "Kolaps na cestách: Havaroval autobus plný detí, hodinové kolóny",
+      "link": "https://www1.pluska.sk/krimi/kolaps-na-cestach-havaroval-autobus-plny-deti-hlasia-hodinove-kolony",
       "time": "2026-09-16T00:00:00+00:00",
       "cat": "nehoda",
-      "region": "nitriansky",
+      "region": "kosicky",
       "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/ee5/ee5be038-e0f7-44b8-a364-5162f5044277.webp"
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/327/327b4aed-1f04-4b2d-8891-9641c8c78ee3.webp"
     }
   ]
 }

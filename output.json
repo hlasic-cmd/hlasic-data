@@ -1,52 +1,43 @@
 {
-  "generated_at": "2026-09-17T01:48:17.429711+00:00",
+  "generated_at": "2026-09-17T06:42:33.115198+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 4,
   "items": [
     {
-      "title": "Električka zrazila chodca v Bratislave",
-      "link": "https://www.bratislavak.sk/clanky/15436/nehoda-v-bratislave-elektricka-zrazila-chodca-v-useku-treba-ratat-so-zdrzanim",
-      "time": "2026-09-16T17:19:00+00:00",
+      "title": "Tragická ranná nehoda pri Jasenove: Po zrážke osobného auta s nákladiakom uzatvorili cestu II/519",
+      "link": "https://www.aktuality.sk/clanok/Gdr44wg/tragicka-ranna-nehoda-pri-jasenove-po-zrazke-osobneho-auta-s-nakladiakom-uzatvorili-cestu-ii519/",
+      "time": "2026-09-17T06:38:40+00:00",
       "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+      "region": "trenciansky",
+      "src": "aktuality.sk",
+      "image": null
     },
     {
-      "title": "Mladistvá Vanesa zo Spiša je nezvestná. Polícia po nej vyhlásila pátranie",
-      "link": "https://www.kosicak.sk/clanky/14170/policia-patra-po-17-rocnej-vanese-zo-spisa-nevideli-ste-ju",
-      "time": "2026-09-16T17:00:00+00:00",
-      "cat": "patranie",
+      "title": "Nehoda za Žiarom nad Hronom komplikuje dopravu",
+      "link": "https://www.bystricak.sk/clanky/13098/pozor-na-cestach-ranna-nehoda-komplikuje-dopravu-za-ziarom-nad-hronom",
+      "time": "2026-09-17T06:30:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "V Košiciach pri Rybe sa zrazil kamión s osobným autom, blokujú križovatku",
+      "link": "https://www.kosicak.sk/clanky/14172/v-kosiciach-pri-rybe-sa-zrazil-kamion-s-osobnym-autom-blokuju-krizovatku",
+      "time": "2026-09-17T06:10:00+00:00",
+      "cat": "nehoda",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789575413-policia-patra-po-17rocnej-vanese-zo-spisa-nevideli-ste-ju.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Dve nehody komplikujú dopravu v Bratislave. Kde si dať pozor?",
-      "link": "https://www.bratislavak.sk/clanky/15434/nehody-skomplikovali-dopravu-v-bratislave-vodici-hlasia-zdrzanie",
-      "time": "2026-09-16T16:23:00+00:00",
+      "title": "Dôležitá cesta cez Turiec je neprejazdná kvôli tragickej nehode. Autobusy meškajú hodiny",
+      "link": "https://www.zilinak.sk/clanky/42893/foto-tragicka-nehoda-auta-s-kamionom-uplne-zastavila-dopravu-v-turci-autobusy-budu-meskat-dve-hodiny",
+      "time": "2026-09-17T05:47:00+00:00",
       "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Motorkár havaroval na Považí, vodiči úsekom prechádzajú vo voľnom jazdnom pruhu",
-      "link": "https://www.trencinak.sk/clanky/13813/pozor-na-cestach-na-povazi-havaroval-motorkar",
-      "time": "2026-09-16T15:02:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Polícia pátra po 15-ročnom Martinovi z Ilavy",
-      "link": "https://www.trencinak.sk/clanky/13811/nezvestny-15-rocny-martin-z-ilavy-moze-byt-kdekolvek-policia-prosi-ludi-o-pomoc-mozno-ste-ho-videli",
-      "time": "2026-09-16T14:20:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1789565746-nezvestny-15rocny-martin-z-ilavy-moze-byt-kdekolvek-policia-prosi-ludi-o-pomoc-mozno-ste-ho-videli.webp"
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1789626885-foto-tragicka-nehoda-auta-s-kamionom-uplne-zastavila-dopravu-v-turci-autobusy-budu-meskat-dve-hodiny.webp"
     }
   ]
 }

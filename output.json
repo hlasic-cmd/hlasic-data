@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T23:52:23.214734+00:00",
+  "generated_at": "2026-09-17T01:48:17.429711+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 5,
   "items": [
     {
       "title": "Električka zrazila chodca v Bratislave",
@@ -47,42 +47,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/1789565746-nezvestny-15rocny-martin-z-ilavy-moze-byt-kdekolvek-policia-prosi-ludi-o-pomoc-mozno-ste-ho-videli.webp"
-    },
-    {
-      "title": "Nehody v Nitre skomplikovali premávku",
-      "link": "https://www.nitrak.sk/clanky/11898/v-nitre-doslo-k-dalsej-dopravnej-nehode-zrazil-sa-tam-autobus-s-osobnym-autom-upozornuje-policia",
-      "time": "2026-09-16T12:50:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "R. Kaliňák: Požiar v Snine zrejme vznikol pri rekonštrukcii",
-      "link": "https://www.teraz.sk/slovensko/r-kalinak-poziar-v-snine-zrejme-vzn/992680-clanok.html",
-      "time": "2026-09-16T12:33:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Po tragédii žiadajú ľudia kruháč či semafory na križovatke",
-      "link": "https://www.bratislavak.sk/clanky/15425/po-smrti-znamej-lekarky-z-bratislavy-pozaduju-obyvatelia-zasah-na-krizovatke-kolko-ludi-tam-este-musi-zomriet",
-      "time": "2026-09-16T12:00:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789558152-po-smrti-znamej-lekarky-z-bratislavy-pozaduju-obyvatelia-zasah-na-krizovatke-kolko-ludi-tam-este-musi-zomriet.webp"
-    },
-    {
-      "title": "FOTO: Veľký požiar na východe vznikol na streche počas rekonštrukcie. Zamestnanci boli evakuovaní",
-      "link": "https://www.kosicak.sk/clanky/14166/foto-velky-poziar-na-vychode-vznikol-na-streche-pocas-rekonstrukcie-zamestnanci-boli-evakuovani",
-      "time": "2026-09-16T12:00:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789567806-foto-velky-poziar-na-vychode-vznikol-na-streche-pocas-rekonstrukcie-zamestnanci-boli-evakuovani.webp"
     }
   ]
 }

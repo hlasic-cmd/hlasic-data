@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-09-18T13:46:53.656868+00:00",
+  "generated_at": "2026-09-18T17:14:57.332397+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 18,
   "items": [
+    {
+      "title": "Nehoda na diaľnici D1 pri Trnave si vyžiadala prevoz muža do nemocnice",
+      "link": "https://www.teraz.sk/regiony/nehoda-na-dialnici-d1-pri-trnave-si-vy/993343-clanok.html",
+      "time": "2026-09-18T16:20:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Požiar na Martinskom vrchu v Nitre si zatiaľ nevyžiadal evakuáciu",
+      "link": "https://www.teraz.sk/regiony/poziar-na-martinskom-vrchu-v-nitre-si-z/993336-clanok.html",
+      "time": "2026-09-18T15:58:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Pád z osemmetrovej výšky pri D1: Dieťa prevážal vrtuľník do Bratislavy",
+      "link": "https://www.aktuality.sk/clanok/y6b8DlK/pad-z-osemmetrovej-vysky-pri-d1-dieta-prevazal-vrtulnik-do-bratislavy/",
+      "time": "2026-09-18T15:36:42+00:00",
+      "cat": "zasah",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Veľká havária odstavila teplo v Martine a Vrútkach. Pôvodný termín opravy už neplatí",
+      "link": "https://www.zilinak.sk/clanky/42934/martinu-a-vrutkam-predlzili-odstavku-tepla-velka-havaria-posunula-termin-obnovenia",
+      "time": "2026-09-18T15:30:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/1789739751-martinu-a-vrutkam-predlzili-odstavku-tepla-velka-havaria-posunula-termin-obnovenia.webp"
+    },
+    {
+      "title": "V Podunajských Biskupiciach havarovalo auto, skončilo prevrátené na streche",
+      "link": "https://www.bratislavak.sk/clanky/15475/cestu-v-podunajskych-biskupiciach-blokuje-auto-prevratene-na-streche-usek-je-neprejazdny",
+      "time": "2026-09-18T15:25:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789745144-cestu-v-podunajskych-biskupiciach-blokuje-auto-prevratene-na-streche-usek-je-neprejazdny.webp"
+    },
+    {
+      "title": "Pád z ôsmich metrov pri diaľnici D1. Maloletú s viacerými zraneniami prevážal vrtuľník do Bratislavy",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2043923-pad-z-osmich-metrov-pri-dialnici-d1-maloletu-s-viacerymi-zraneniami-prevazal-vrtulnik-do-bratislavy?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-18T15:20:00+00:00",
+      "cat": "zasah",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/09/18/2533697/4x3-medium/ate-vrtulnik-zachranny.jpg?v=T/w"
+    },
+    {
+      "title": "Rodina zosnulej mladej lekárky sa vrátila na križovatku pri Dunajskej Strede. Chce, aby sa už nič podobné neopakovalo",
+      "link": "https://www.bratislavak.sk/clanky/15463/rodina-mladej-lekarky-prehovorila-po-tragickej-nehode-v-dunajskej-strede-veria-v-zasluzeny-trest-pre-vinnika",
+      "time": "2026-09-18T14:40:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789718429-rodina-mladej-lekarky-prehovorila-po-tragickej-nehode-v-dunajskej-strede-veria-v-zasluzeny-trest-pre-vinnika.webp"
+    },
+    {
+      "title": "Na Martinskom vrchu v Nitre VYPUKOL POŽIAR",
+      "link": "https://www.teraz.sk/regiony/na-martinskom-vrchu-v-nitre-vypukol-poz/993312-clanok.html",
+      "time": "2026-09-18T14:12:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Hustý dym nad Nitrou: V bývalých kasárňach vypukol požiar, polícia poslala obyvateľom dôležité varovanie",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2043885-v-nitre-vypukol-poziar-horia-stare-drevene-budovy?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-18T14:08:40+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/09/18/2533675/4x3-medium/poziar.jpg?v=L+0"
+    },
+    {
+      "title": "V Nitre horí v areáli bývalých kasární: Na Martinskom vrchu zasahujú desiatky hasičov",
+      "link": "https://www.aktuality.sk/clanok/JDnxDzW/v-nitre-hori-v-areali-byvalych-kasarni-na-martinskom-vrchu-zasahuju-desiatky-hasicov/",
+      "time": "2026-09-18T14:02:22+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "VIDEO: V Nitre hlásia požiar, zachvátil jednu z budov v areáli Zoborských kasární",
+      "link": "https://www.nitrak.sk/clanky/11931/videofoto-nitrou-sa-siri-husty-dym-poziar-vypukol-v-areali-zoborskych-kasarni",
+      "time": "2026-09-18T13:39:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789739393-videofoto-nitrou-sa-siri-husty-dym-poziar-vypukol-v-areali-zoborskych-kasarni.webp"
+    },
+    {
+      "title": "Premávku po nehode vlaku a autobusu v Bratislave obnovili",
+      "link": "https://www.teraz.sk/regiony/premavku-po-nehode-vlaku-a-autobusu-v-b/993299-clanok.html",
+      "time": "2026-09-18T13:36:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Diaľnica D1 pri Trnave v smere z Bratislavy je pre nehodu neprejazdná",
       "link": "https://www.teraz.sk/regiony/dialnica-d1-pri-trnave-v-smere-z-bratis/993288-clanok.html",
@@ -23,12 +131,12 @@
     },
     {
       "title": "Hromadná nehoda pri Trnave uzavrela D1 smerom na Trenčín",
-      "link": "https://www.trnavak.sk/clanky/12257/hromadna-nehoda-pri-trnave-ochromila-dialnicu-policajti-odklanaju-dopravu",
+      "link": "https://www.trnavak.sk/clanky/12257/hromadna-nehoda-pri-trnave-odstavila-dialnicu-mlady-vodic-dodavky-je-v-ohrozeni-zivota-vrtulnik-ho-viezol-do-nemocnice",
       "time": "2026-09-18T12:23:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789745743-hromadna-nehoda-pri-trnave-odstavila-dialnicu-mlady-vodic-dodavky-je-v-ohrozeni-zivota-vrtulnik-ho-viezol-do-nemocnice.webp"
     },
     {
       "title": "FOTO: Pri Polomke sa zrazilo auto s dodávkou. Záchranári ošetrili troch ľudí",
@@ -50,30 +158,12 @@
     },
     {
       "title": "Zrážka vlaku s autobusom na problematickom priecestí v Bratislave si vyžiadala zranenú osobu",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2043737-v-bratislave-sa-zrazil-vlak-s-autobusom-mhd?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "link": "https://www.pravda.sk/auto/doprava/clanok/2043737-v-bratislave-sa-zrazil-vlak-s-autobusom-mhd?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-09-18T10:46:35+00:00",
       "cat": "nehoda",
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/18/2533573/4x3-medium/nehoda-vlaku.jpg?v=Q80"
-    },
-    {
-      "title": "Rodina zosnulej mladej lekárky sa vrátila na križovatku pri Dunajskej Strede. Chce, aby sa už nič podobné neopakovalo",
-      "link": "https://www.trnavak.sk/clanky/12245/rodina-mladej-lekarky-prehovorila-po-tragickej-nehode-v-dunajskej-strede-veria-v-zasluzeny-trest-pre-vinnika",
-      "time": "2026-09-18T08:30:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789718429-rodina-mladej-lekarky-prehovorila-po-tragickej-nehode-v-dunajskej-strede-veria-v-zasluzeny-trest-pre-vinnika.webp"
-    },
-    {
-      "title": "Dopravná nehoda pri železničnom priecestí v Nitre zdrží vodičov, upozorňuje polícia",
-      "link": "https://www.nitrak.sk/clanky/11921/pri-zeleznicnom-priecesti-v-nitre-doslo-k-dopravnej-nehode-policia-upozornuje-vodicov-na-zdrzanie",
-      "time": "2026-09-18T08:25:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789719809-pri-zeleznicnom-priecesti-v-nitre-doslo-k-dopravnej-nehode-policia-upozornuje-vodicov-na-zdrzanie.webp"
     }
   ]
 }

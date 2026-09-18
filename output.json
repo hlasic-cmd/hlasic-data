@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-09-18T17:14:57.332397+00:00",
+  "generated_at": "2026-09-18T19:35:44.449753+00:00",
   "max_age_hours": 12,
-  "count": 18,
+  "count": 15,
   "items": [
+    {
+      "title": "Pri čističke v Trebišove horí skládka",
+      "link": "https://www.kosicak.sk/clanky/14206/video-pri-cisticke-v-trebisove-hori-skladka-stupa-z-nej-cierny-dym",
+      "time": "2026-09-18T17:16:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789751795-video-pri-cisticke-v-trebisove-hori-skladka-stupa-z-nej-cierny-dym.webp"
+    },
+    {
+      "title": "Požiar na Martinskom vrchu v Nitre si zatiaľ nevyžiadal evakuáciu",
+      "link": "https://www.teraz.sk/regiony/poziar-na-martinskom-vrchu-v-nitre-si-z/993336-clanok.html",
+      "time": "2026-09-18T17:13:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Nehoda na diaľnici D1 pri Trnave si vyžiadala prevoz muža do nemocnice",
       "link": "https://www.teraz.sk/regiony/nehoda-na-dialnici-d1-pri-trnave-si-vy/993343-clanok.html",
       "time": "2026-09-18T16:20:00+00:00",
       "cat": "nehoda",
       "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Požiar na Martinskom vrchu v Nitre si zatiaľ nevyžiadal evakuáciu",
-      "link": "https://www.teraz.sk/regiony/poziar-na-martinskom-vrchu-v-nitre-si-z/993336-clanok.html",
-      "time": "2026-09-18T15:58:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
       "src": "teraz.sk",
       "image": null
     },
@@ -85,45 +94,18 @@
       "image": "https://prvd.sk/cdn/2026/09/18/2533675/4x3-medium/poziar.jpg?v=L+0"
     },
     {
-      "title": "V Nitre horí v areáli bývalých kasární: Na Martinskom vrchu zasahujú desiatky hasičov",
-      "link": "https://www.aktuality.sk/clanok/JDnxDzW/v-nitre-hori-v-areali-byvalych-kasarni-na-martinskom-vrchu-zasahuju-desiatky-hasicov/",
-      "time": "2026-09-18T14:02:22+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "aktuality.sk",
-      "image": null
-    },
-    {
       "title": "VIDEO: V Nitre hlásia požiar, zachvátil jednu z budov v areáli Zoborských kasární",
-      "link": "https://www.nitrak.sk/clanky/11931/videofoto-nitrou-sa-siri-husty-dym-poziar-vypukol-v-areali-zoborskych-kasarni",
+      "link": "https://www.nitrak.sk/clanky/11931/videofoto-nitrou-sa-siril-husty-dym-poziar-vypukol-v-exekucnom-sklade-v-areali-zoborskych-kasarni",
       "time": "2026-09-18T13:39:00+00:00",
       "cat": "poziar",
       "region": "nitriansky",
       "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789739393-videofoto-nitrou-sa-siri-husty-dym-poziar-vypukol-v-areali-zoborskych-kasarni.webp"
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789751077-videofoto-nitrou-sa-siril-husty-dym-poziar-vypukol-v-exekucnom-sklade-v-areali-zoborskych-kasarni.webp"
     },
     {
       "title": "Premávku po nehode vlaku a autobusu v Bratislave obnovili",
       "link": "https://www.teraz.sk/regiony/premavku-po-nehode-vlaku-a-autobusu-v-b/993299-clanok.html",
       "time": "2026-09-18T13:36:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Diaľnica D1 pri Trnave v smere z Bratislavy je pre nehodu neprejazdná",
-      "link": "https://www.teraz.sk/regiony/dialnica-d1-pri-trnave-v-smere-z-bratis/993288-clanok.html",
-      "time": "2026-09-18T13:02:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "NEHODA NA ŽELEZNIČNOM PRIECESTÍ: Osobný vlak sa zrazil s autobusom MHD",
-      "link": "https://www.teraz.sk/regiony/nehoda-na-zeleznicnom-priecesti-osob/993269-clanok.html",
-      "time": "2026-09-18T12:48:00+00:00",
       "cat": "nehoda",
       "region": "bratislavsky",
       "src": "teraz.sk",
@@ -146,15 +128,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789732756-foto-pri-polomke-doslo-k-celnej-zrazke-auta-s-dodavkou-vsetci-traja-ucastnici-utrpeli-zranenia.webp"
-    },
-    {
-      "title": "V Tovarníkoch dajú posledné zbohom obľúbenej lekárke Benedikte Molnárovej (†34). Zomrela po vážnej nehode",
-      "link": "https://www.nitrak.sk/clanky/11922/v-tovarnikoch-sa-naposledy-rozlucia-so-znamou-dermatologickou-benediktou-34-ktora-zomrela-pri-hrozivej-nehode",
-      "time": "2026-09-18T11:13:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789726290-v-tovarnikoch-sa-naposledy-rozlucia-so-znamou-dermatologickou-benediktou-34-ktora-zomrela-pri-hrozivej-nehode.webp"
     },
     {
       "title": "Zrážka vlaku s autobusom na problematickom priecestí v Bratislave si vyžiadala zranenú osobu",

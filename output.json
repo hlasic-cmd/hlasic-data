@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-09-18T05:05:32.829897+00:00",
+  "generated_at": "2026-09-18T09:36:57.216427+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 9,
+  "items": [
+    {
+      "title": "Rodina zosnulej mladej lekárky sa vrátila na križovatku pri Dunajskej Strede. Chce, aby sa už nič podobné neopakovalo",
+      "link": "https://www.trnavak.sk/clanky/12245/rodina-mladej-lekarky-prehovorila-po-tragickej-nehode-v-dunajskej-strede-veria-v-zasluzeny-trest-pre-vinnika",
+      "time": "2026-09-18T08:30:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789718429-rodina-mladej-lekarky-prehovorila-po-tragickej-nehode-v-dunajskej-strede-veria-v-zasluzeny-trest-pre-vinnika.webp"
+    },
+    {
+      "title": "Dopravná nehoda pri železničnom priecestí v Nitre zdrží vodičov, upozorňuje polícia",
+      "link": "https://www.nitrak.sk/clanky/11921/pri-zeleznicnom-priecesti-v-nitre-doslo-k-dopravnej-nehode-policia-upozornuje-vodicov-na-zdrzanie",
+      "time": "2026-09-18T08:25:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789719809-pri-zeleznicnom-priecesti-v-nitre-doslo-k-dopravnej-nehode-policia-upozornuje-vodicov-na-zdrzanie.webp"
+    },
+    {
+      "title": "AUTO V PLAMEŇOCH: Vozidlo v Handlovej zhorelo do tla, príčiny zisťujú",
+      "link": "https://www.teraz.sk/regiony/auto-v-plamenoch-vozidlo-v-handlovej-z/993170-clanok.html",
+      "time": "2026-09-18T07:37:00+00:00",
+      "cat": "poziar",
+      "region": "trenciansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Kamión v Kvetoslavove zrazil seniorku na priechode",
+      "link": "https://www.trnavak.sk/clanky/12248/tragicka-nehoda-v-kvetoslavove-kamion-zrazil-seniorku-priamo-na-priechode-pre-chodcov-zraneniam-podlahla",
+      "time": "2026-09-18T07:30:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789721319-tragicka-nehoda-v-kvetoslavove-kamion-zrazil-seniorku-priamo-na-priechode-pre-chodcov-zraneniam-podlahla.webp"
+    },
+    {
+      "title": "Polícia upozorňuje na ďalšie nehody v Trnavskom kraji, doprava je na miestach obmedzená",
+      "link": "https://www.trnavak.sk/clanky/12247/dalsie-nehody-na-cestach-na-zahori-sa-zrazili-tri-vozidla-blizko-samorina-auto-zrazilo-chodca",
+      "time": "2026-09-18T07:09:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789715458-dalsie-nehody-na-cestach-na-zahori-sa-zrazili-tri-vozidla-blizko-samorina-auto-zrazilo-chodca.webp"
+    },
+    {
+      "title": "V Trnavskom kraji sa v piatok ráno stali dve dopravné nehody",
+      "link": "https://www.trnavak.sk/clanky/12244/piatkove-rano-prinieslo-v-trnavskom-kraji-dve-nehody",
+      "time": "2026-09-18T06:18:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Medzi Hlohovcom a Nitrou sa ráno zrazili štyri autá, rátajte s obmedzeniami",
+      "link": "https://www.nitrak.sk/clanky/11917/medzi-hlohovcom-a-nitrou-sa-rano-zrazili-styri-auta-pri-odbocke-na-aleksince-ratajte-s-obmedzeniami",
+      "time": "2026-09-18T06:16:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/03_aktualne.webp"
+    },
+    {
+      "title": "Nehoda dvoch áut pri Malackách komplikuje dopravu",
+      "link": "https://www.bratislavak.sk/clanky/15457/zaver-pracovneho-tyzdna-v-bratislavskom-kraji-zacal-nehodou-a-nefungujucimi-semaformi-v-hlavnom-meste",
+      "time": "2026-09-18T06:09:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789713569-zaver-pracovneho-tyzdna-v-bratislavskom-kraji-zacal-nehodou-a-nefungujucimi-semaformi-v-hlavnom-meste.webp"
+    },
+    {
+      "title": "Cestu do Košíc komplikuje dopravná nehoda priamo v kruhovom objazde",
+      "link": "https://www.kosicak.sk/clanky/14192/piatkove-rano-overuje-nervy-vodicov-pri-kosiciach-na-kruhovom-objazde-sa-zrazili-dve-vozidla-ratajte-so-zdrzanim",
+      "time": "2026-09-18T06:04:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/1789711484-piatkove-rano-overuje-nervy-vodicov-pri-kosiciach-na-kruhovom-objazde-sa-zrazili-dve-vozidla-ratajte-so-zdrzanim.webp"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T19:35:44.449753+00:00",
+  "generated_at": "2026-09-18T21:48:39.839984+00:00",
   "max_age_hours": 12,
-  "count": 15,
+  "count": 12,
   "items": [
     {
       "title": "Pri čističke v Trebišove horí skládka",
@@ -67,15 +67,6 @@
       "image": "https://prvd.sk/cdn/2026/09/18/2533697/4x3-medium/ate-vrtulnik-zachranny.jpg?v=T/w"
     },
     {
-      "title": "Rodina zosnulej mladej lekárky sa vrátila na križovatku pri Dunajskej Strede. Chce, aby sa už nič podobné neopakovalo",
-      "link": "https://www.bratislavak.sk/clanky/15463/rodina-mladej-lekarky-prehovorila-po-tragickej-nehode-v-dunajskej-strede-veria-v-zasluzeny-trest-pre-vinnika",
-      "time": "2026-09-18T14:40:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/1789718429-rodina-mladej-lekarky-prehovorila-po-tragickej-nehode-v-dunajskej-strede-veria-v-zasluzeny-trest-pre-vinnika.webp"
-    },
-    {
       "title": "Na Martinskom vrchu v Nitre VYPUKOL POŽIAR",
       "link": "https://www.teraz.sk/regiony/na-martinskom-vrchu-v-nitre-vypukol-poz/993312-clanok.html",
       "time": "2026-09-18T14:12:00+00:00",
@@ -110,24 +101,6 @@
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Hromadná nehoda pri Trnave uzavrela D1 smerom na Trenčín",
-      "link": "https://www.trnavak.sk/clanky/12257/hromadna-nehoda-pri-trnave-odstavila-dialnicu-mlady-vodic-dodavky-je-v-ohrozeni-zivota-vrtulnik-ho-viezol-do-nemocnice",
-      "time": "2026-09-18T12:23:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789745743-hromadna-nehoda-pri-trnave-odstavila-dialnicu-mlady-vodic-dodavky-je-v-ohrozeni-zivota-vrtulnik-ho-viezol-do-nemocnice.webp"
-    },
-    {
-      "title": "FOTO: Pri Polomke sa zrazilo auto s dodávkou. Záchranári ošetrili troch ľudí",
-      "link": "https://www.bystricak.sk/clanky/13124/foto-pri-polomke-doslo-k-celnej-zrazke-auta-s-dodavkou-vsetci-traja-ucastnici-utrpeli-zranenia",
-      "time": "2026-09-18T12:21:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/1789732756-foto-pri-polomke-doslo-k-celnej-zrazke-auta-s-dodavkou-vsetci-traja-ucastnici-utrpeli-zranenia.webp"
     },
     {
       "title": "Zrážka vlaku s autobusom na problematickom priecestí v Bratislave si vyžiadala zranenú osobu",

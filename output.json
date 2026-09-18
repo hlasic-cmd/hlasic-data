@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T21:48:39.839984+00:00",
+  "generated_at": "2026-09-18T23:36:59.488208+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 11,
   "items": [
     {
       "title": "Pri čističke v Trebišove horí skládka",
@@ -101,15 +101,6 @@
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Zrážka vlaku s autobusom na problematickom priecestí v Bratislave si vyžiadala zranenú osobu",
-      "link": "https://www.pravda.sk/auto/doprava/clanok/2043737-v-bratislave-sa-zrazil-vlak-s-autobusom-mhd?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-18T10:46:35+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/09/18/2533573/4x3-medium/nehoda-vlaku.jpg?v=Q80"
     }
   ]
 }

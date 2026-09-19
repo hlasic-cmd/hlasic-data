@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-19T17:19:54.386581+00:00",
+  "generated_at": "2026-09-19T19:21:53.846674+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 5,
   "items": [
+    {
+      "title": "Pri nehode rogala medzi Vrbovým a Prašníkom zahynul muž",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2044343-pri-nehode-rogala-medzi-vrbovym-a-prasnikom-zahynul-muz?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-19T18:12:41+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2021/08/17/4x3-medium/policia-policajna-paska.jpg?v=T/w"
+    },
     {
       "title": "Nový evanjelický kostol v Kežmarku stavali 22 rokov. Pre nedostatok peňazí sa práce zastavili",
       "link": "https://www.presovak.sk/clanky/15445/pribeh-jednej-z-najvyraznejsich-dominant-kezmarku-dodnes-fascinuje-22-rokov-vystavby-11-rokov-prestavky-a-potom-poziar",
@@ -29,6 +38,15 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789818783-policia-patra-po-nezvestnom-robertovi-z-novych-zamkov-a-tinedzerke-lucii-z-nitry-ak-ste-ich-videli-oznamte-to-policii.webp"
+    },
+    {
+      "title": "Tragický pád vo Vysokých Tatrách, o život prišiel 24-ročný turista",
+      "link": "https://www.presovak.sk/clanky/15468/tragedia-vo-vysokych-tatrach-po-niekolkometrovom-pade-prisiel-o-zivot-24-rocny-turista",
+      "time": "2026-09-19T07:31:00+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789803089-tragedia-vo-vysokych-tatrach-po-niekolkometrovom-pade-prisiel-o-zivot-24rocny-turista.webp"
     }
   ]
 }

@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-19T06:24:01.788865+00:00",
+  "generated_at": "2026-09-19T11:12:55.964671+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "title": "Požiar v areáli bývalých kasární v Nitre si vyžiadal celonočný zásah hasičov",
+      "link": "https://www.aktuality.sk/clanok/MHWbzhw/poziar-v-areali-byvalych-kasarni-v-nitre-si-vyziadal-celonocny-zasah-hasicov/",
+      "time": "2026-09-19T08:36:12+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Tragický pád vo Vysokých Tatrách, o život prišiel 24-ročný turista",
+      "link": "https://www.presovak.sk/clanky/15468/tragedia-vo-vysokych-tatrach-po-niekolkometrovom-pade-prisiel-o-zivot-24-rocny-turista",
+      "time": "2026-09-19T07:31:00+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789803089-tragedia-vo-vysokych-tatrach-po-niekolkometrovom-pade-prisiel-o-zivot-24rocny-turista.webp"
+    }
+  ]
 }

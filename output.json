@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T19:21:53.846674+00:00",
+  "generated_at": "2026-09-19T21:29:54.120244+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 3,
   "items": [
     {
       "title": "Pri nehode rogala medzi Vrbovým a Prašníkom zahynul muž",
@@ -29,24 +29,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1789822854-pri-nocnej-nehode-v-obci-pri-leviciach-sa-zranili-dve-osoby-previezli-ich-do-nemocnice-cesta-bola-isty-cas-nep.webp"
-    },
-    {
-      "title": "Róbert Rusňák a Lucia Fiziková sú nezvestní",
-      "link": "https://www.nitrak.sk/clanky/11934/policia-patra-po-nezvestnom-robertovi-z-novych-zamkov-a-tinedzerke-lucii-z-nitry-ak-ste-ich-videli-oznamte-to-policii",
-      "time": "2026-09-19T12:20:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/1789818783-policia-patra-po-nezvestnom-robertovi-z-novych-zamkov-a-tinedzerke-lucii-z-nitry-ak-ste-ich-videli-oznamte-to-policii.webp"
-    },
-    {
-      "title": "Tragický pád vo Vysokých Tatrách, o život prišiel 24-ročný turista",
-      "link": "https://www.presovak.sk/clanky/15468/tragedia-vo-vysokych-tatrach-po-niekolkometrovom-pade-prisiel-o-zivot-24-rocny-turista",
-      "time": "2026-09-19T07:31:00+00:00",
-      "cat": "zasah",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789803089-tragedia-vo-vysokych-tatrach-po-niekolkometrovom-pade-prisiel-o-zivot-24rocny-turista.webp"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T21:29:54.120244+00:00",
+  "generated_at": "2026-09-19T23:20:24.942585+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "title": "Pri nehode rogala medzi Vrbovým a Prašníkom zahynul muž",
@@ -20,15 +20,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789648978-pribeh-jednej-z-najvyraznejsich-dominant-kezmarku-dodnes-fascinuje-22-rokov-vystavby-11-rokov-prestavky-a-potom-poziar.webp"
-    },
-    {
-      "title": "Pri čelnej zrážke dvoch áut neďaleko Levíc sa zranila jedna osoba",
-      "link": "https://www.nitrak.sk/clanky/11935/pri-nocnej-nehode-v-obci-pri-leviciach-sa-zranili-dve-osoby-previezli-ich-do-nemocnice-cesta-bola-isty-cas-neprejazdna",
-      "time": "2026-09-19T13:20:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1789822854-pri-nocnej-nehode-v-obci-pri-leviciach-sa-zranili-dve-osoby-previezli-ich-do-nemocnice-cesta-bola-isty-cas-nep.webp"
     }
   ]
 }

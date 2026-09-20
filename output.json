@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T19:43:06.701355+00:00",
+  "generated_at": "2026-09-20T21:52:05.616653+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 2,
   "items": [
     {
       "title": "Sadla za volant bez vodičáku, potom prišiel náraz. Pri Lučenci skončila 20-ročná žena v nemocnici",
@@ -13,15 +13,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1789916164-sadla-za-volant-bez-vodicaku-potom-prisiel-naraz-pri-lucenci-skoncila-20rocna-zena-v-nemocnici.webp"
     },
     {
-      "title": "Na Kysuciach sa stala nehoda. Cestu úplne uzavreli, na mieste sú záchranári",
-      "link": "https://www.zilinak.sk/clanky/42946/na-kysuciach-sa-stala-nehoda-cestu-uplne-uzavreli-na-mieste-su-zachranari",
-      "time": "2026-09-20T13:14:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1789910091-na-kysuciach-sa-stala-nehoda-cestu-uplne-uzavreli-na-mieste-su-zachranari.webp"
-    },
-    {
       "title": "Na cestách Žilinského kraja zomrelo v tomto roku päť chodcov",
       "link": "https://www.teraz.sk/regiony/na-cestach-zilinskeho-kraja-zomrelo-v/993605-clanok.html",
       "time": "2026-09-20T11:30:00+00:00",
@@ -29,15 +20,6 @@
       "region": "zilinsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Požiar v Braväcove pripravil päť rodín o domov, starosta ďakuje hasičom",
-      "link": "https://www.bystricak.sk/clanky/13131/pat-rodin-prislo-o-domov-hasici-bojovali-s-plamenmi-celu-noc-starosta-bravacova-im-poslal-silne-podakovanie",
-      "time": "2026-09-20T08:17:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1789892275-pat-rodin-prislo-o-domov-hasici-bojovali-s-plamenmi-celu-noc-starosta-bravacova-im-poslal-silne-podakovanie.webp"
     }
   ]
 }

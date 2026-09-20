@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-09-20T01:16:55.419950+00:00",
+  "generated_at": "2026-09-20T06:19:38.457832+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Pri nehode rogala medzi Vrbovým a Prašníkom zahynul muž",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2044343-pri-nehode-rogala-medzi-vrbovym-a-prasnikom-zahynul-muz?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-19T18:12:41+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2021/08/17/4x3-medium/policia-policajna-paska.jpg?v=T/w"
-    },
-    {
-      "title": "Nový evanjelický kostol v Kežmarku stavali 22 rokov. Pre nedostatok peňazí sa práce zastavili",
-      "link": "https://www.presovak.sk/clanky/15445/pribeh-jednej-z-najvyraznejsich-dominant-kezmarku-dodnes-fascinuje-22-rokov-vystavby-11-rokov-prestavky-a-potom-poziar",
-      "time": "2026-09-19T15:00:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/1789648978-pribeh-jednej-z-najvyraznejsich-dominant-kezmarku-dodnes-fascinuje-22-rokov-vystavby-11-rokov-prestavky-a-potom-poziar.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

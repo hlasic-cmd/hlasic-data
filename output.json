@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-09-20T11:33:12.433265+00:00",
+  "generated_at": "2026-09-20T14:48:30.344028+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 6,
   "items": [
     {
-      "title": "Požiar v Braväcove pripravil päť rodín o domov, starosta ďakuje hasičom",
-      "link": "https://www.zilinak.sk/clanky/42943/pat-rodin-prislo-o-domov-hasici-z-liptova-bojovali-s-plamenmi-celu-noc-starosta-im-poslal-silne-podakovanie",
-      "time": "2026-09-20T09:30:00+00:00",
-      "cat": "poziar",
+      "title": "Na Kysuciach sa stala nehoda. Cestu úplne uzavreli, na mieste sú záchranári",
+      "link": "https://www.zilinak.sk/clanky/42946/na-kysuciach-sa-stala-nehoda-cestu-uplne-uzavreli-na-mieste-su-zachranari",
+      "time": "2026-09-20T13:14:00+00:00",
+      "cat": "nehoda",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1789892012-pat-rodin-prislo-o-domov-hasici-z-liptova-bojovali-s-plamenmi-celu-noc-starosta-im-poslal-silne-podakovanie.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1789910091-na-kysuciach-sa-stala-nehoda-cestu-uplne-uzavreli-na-mieste-su-zachranari.webp"
+    },
+    {
+      "title": "Na cestách Žilinského kraja zomrelo v tomto roku päť chodcov",
+      "link": "https://www.teraz.sk/regiony/na-cestach-zilinskeho-kraja-zomrelo-v/993605-clanok.html",
+      "time": "2026-09-20T11:30:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
     },
     {
       "title": "Požiar v Braväcove pripravil päť rodín o domov, starosta ďakuje hasičom",

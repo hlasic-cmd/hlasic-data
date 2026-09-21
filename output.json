@@ -1,61 +1,79 @@
 {
-  "generated_at": "2026-09-21T13:26:52.873869+00:00",
+  "generated_at": "2026-09-21T18:50:19.061244+00:00",
   "max_age_hours": 12,
-  "count": 14,
+  "count": 11,
   "items": [
     {
-      "title": "Hasiči aktuálne zasahujú pri požiari papiera v zbernom dvore v Galante",
-      "link": "https://www.teraz.sk/regiony/hasici-aktualne-zasahuju-pri-poziari/993848-clanok.html",
-      "time": "2026-09-21T12:10:00+00:00",
+      "title": "Požiar v bývalých kasárňach v Nitre mohol byť založený úmyselne",
+      "link": "https://www.teraz.sk/regiony/poziar-v-byvalych-kasarnach-v-nitre/993917-clanok.html",
+      "time": "2026-09-21T16:09:00+00:00",
       "cat": "poziar",
-      "region": "trnavsky",
+      "region": "nitriansky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Požiar v zbernom dvore v Galante zasiahol 150 m²",
-      "link": "https://www.trnavak.sk/clanky/12285/foto-hasici-zasahuju-pri-poziari-na-zbernom-dvore-v-galante-zamestnanci-su-mimo-ohrozenia",
-      "time": "2026-09-21T12:03:00+00:00",
+      "title": "FOTO: Požiar v Zoborských kasárňach v Nitre zrejme niekto založil úmyselne. Polícia začala trestné stíhanie",
+      "link": "https://www.nitrak.sk/clanky/11952/foto-co-bolo-pricinou-poziaru-v-zoborskych-kasarnach-policia-priniesla-nove-informacie-a-zacala-trestne-stihanie",
+      "time": "2026-09-21T16:00:00+00:00",
       "cat": "poziar",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1790005689-foto-co-bolo-pricinou-poziaru-v-zoborskych-kasarnach-policia-priniesla-nove-informacie-a-zacala-trestne-stihan.webp"
+    },
+    {
+      "title": "VIDEO: Z obľúbeného miesta pri Banskej Bystrici zostali chátrajúce chaty",
+      "link": "https://www.bystricak.sk/clanky/13140/video-opustene-chaty-pri-banskej-bystrici-dnes-ukryvaju-zvlastne-pozostatky-po-nicivom-poziari-tu-zastal-cas",
+      "time": "2026-09-21T15:20:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1789996609-video-opustene-chaty-pri-banskej-bystrici-dnes-ukryvaju-zvlastne-pozostatky-po-nicivom-poziari-tu-zastal-cas.webp"
+    },
+    {
+      "title": "Kamión na D1 narazil do návesu, vodič mal dostať mikrospánok",
+      "link": "https://www.trencinak.sk/clanky/13871/nocna-jazda-sa-mohla-skoncit-tragediou-kamion-na-d1-narazil-do-vozidla-pred-nim-vodic-mal-dostat-mikrospanok",
+      "time": "2026-09-21T14:19:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-09/1789999636-nocna-jazda-sa-mohla-skoncit-tragediou-kamion-na-d1-narazil-do-vozidla-pred-nim-vodic-mal-dostat-mikrospanok.webp"
+    },
+    {
+      "title": "VIDEO: Obce v okolí Košíc pokryl ľadovec",
+      "link": "https://www.kosicak.sk/clanky/14233/video-obce-v-okoli-kosic-pokryl-ladovec-cesty-aj-dvory-su-posypane-niekolkocentimetrovymi-krupami",
+      "time": "2026-09-21T14:14:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790000016-video-obce-v-okoli-kosic-pokryl-ladovec-cesty-aj-dvory-su-posypane-niekolkocentimetrovymi-krupami.webp"
+    },
+    {
+      "title": "Trnavskí policajti zachránili život motorkárovi",
+      "link": "https://www.trnavak.sk/clanky/12288/video-trnavski-policajti-zachranili-zivot-zranenemu-motorkarovi-v-trnave-po-nehode-silno-krvacal",
+      "time": "2026-09-21T13:30:00+00:00",
+      "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1789992234-foto-hasici-zasahuju-pri-poziari-na-zbernom-dvore-v-galante-zamestnanci-su-mimo-ohrozenia.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1789997059-video-trnavski-policajti-zachranili-zivot-zranenemu-motorkarovi-v-trnave-po-nehode-silno-krvacal.webp"
     },
     {
-      "title": "Týždenná štatistika: Hasiči v Žilinskom kraji zasahovali 65-krát",
-      "link": "https://www.teraz.sk/regiony/tyzdenna-statistika-hasici-v-zili/993819-clanok.html",
-      "time": "2026-09-21T11:41:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
+      "title": "Stovky ton nebezpečného azbestu po búrke konečne odvezú z obcí na Zemplíne",
+      "link": "https://www.kosicak.sk/clanky/14229/z-obci-na-zempline-ktore-postihla-niciva-burka-odvezu-stovky-ton-azbestu-stat-na-to-vyclenil-24-miliona-eur",
+      "time": "2026-09-21T13:30:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1789994807-z-obci-na-zempline-ktore-postihla-niciva-burka-odvezu-stovky-ton-azbestu-stat-na-to-vyclenil-24-miliona-eur.webp"
     },
     {
-      "title": "Už tretí deň sa nevrátila domov. Romana (34) odišla na aute, naposledy ju videli v okrese Levice",
-      "link": "https://www.nitrak.sk/clanky/11946/niekolko-dni-patraju-po-nezvestnej-romane-34-zo-ziliny-odisla-autom-v-okrese-levice-ju-videli-naposledy",
+      "title": "Romanu naposledy videli pri Leviciach. Pátranie sa končí, našli ju prineskoro",
+      "link": "https://www.nitrak.sk/clanky/11946/niekolko-dni-patrali-po-nezvestnej-romane-34-naposledy-ju-videli-pri-leviciach-pripad-ma-smutny-koniec",
       "time": "2026-09-21T11:30:00+00:00",
       "cat": "patranie",
       "region": "nitriansky",
       "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1789989104-niekolko-dni-patraju-po-nezvestnej-romane-34-zo-ziliny-odisla-autom-v-okrese-levice-ju-videli-naposledy.webp"
-    },
-    {
-      "title": "Požiar domu v Michale na Ostrove spôsobil škodu 230-tisíc eur",
-      "link": "https://www.trnavak.sk/clanky/12278/foto-dom-v-obci-pri-dunajskej-strede-zachvatil-poziar-vznikla-takmer-stvrtmilionova-skoda",
-      "time": "2026-09-21T11:10:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1789983491-foto-dom-v-obci-pri-dunajskej-strede-zachvatil-poziar-vznikla-takmer-stvrtmilionova-skoda.webp"
-    },
-    {
-      "title": "Vodič po nehode pri Úľanoch nafúkal 3,44 promile",
-      "link": "https://www.nitrak.sk/clanky/11941/foto-v-nitrianskom-kraji-odhalili-dalsich-nezodpovednych-vodicov-jeden-nafukal-344-promile-dalsi-mal-zakaz-soferovat",
-      "time": "2026-09-21T09:30:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1789981463-foto-v-nitrianskom-kraji-odhalili-dalsich-nezodpovednych-vodicov-jeden-nafukal-344-promile-dalsi-mal-zakaz-sof.webp"
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1790007240-niekolko-dni-patrali-po-nezvestnej-romane-34-naposledy-ju-videli-pri-leviciach-pripad-ma-smutny-koniec.webp"
     },
     {
       "title": "Požiar strechy školy v Prešove: Budovu na Volgogradskej ulici evakuovali, zasahovali záchranné zložky",
@@ -83,51 +101,6 @@
       "region": "presovsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/21/2534465/4x3-medium/poziar-skola-presov.jpg?v=T/w"
-    },
-    {
-      "title": "Nebezpečenstvo odhalili včas. Pri ihrisku v Lučenci začalo horieť",
-      "link": "https://www.bystricak.sk/clanky/13135/hliadka-v-lucenci-zbadala-dym-ktory-sa-siril-od-ihriska-na-miesto-okamzite-privolali-hasicov",
-      "time": "2026-09-21T08:40:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1789977732-hliadka-v-lucenci-zbadala-dym-ktory-sa-siril-od-ihriska-na-miesto-okamzite-privolali-hasicov.webp"
-    },
-    {
-      "title": "Polícia pátra po 23-ročnej Alžbete z okresu Humenné. Má dlhé hnedé vlasy a zelenohnedé oči",
-      "link": "https://www.presovak.sk/clanky/15477/policia-patra-po-23-rocnej-alzbete-z-okresu-humenne-mala-tigrovanu-bundu-a-cierne-oblecenie",
-      "time": "2026-09-21T08:10:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1789977358-policia-patra-po-23rocnej-alzbete-z-okresu-humenne-mala-tigrovanu-bundu-a-cierne-oblecenie.webp"
-    },
-    {
-      "title": "Týždenná štatistika: Hasiči zasahovali  spolu 698-krát",
-      "link": "https://www.teraz.sk/slovensko/tyzdenna-statistika-hasici-zasahov/993721-clanok.html",
-      "time": "2026-09-21T08:04:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Pri Svrčinovci sa prevrátilo nákladné auto, jeho vodič nehodu neprežil",
-      "link": "https://www.zilinak.sk/clanky/42955/foto-nehoda-ktora-zastavila-dopravu-cez-kysuce-skoncila-tragicky-vodica-nakladiaku-uz-nezachranili",
-      "time": "2026-09-21T07:32:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1789985802-foto-nehoda-ktora-zastavila-dopravu-cez-kysuce-skoncila-tragicky-vodica-nakladiaku-uz-nezachranili.webp"
-    },
-    {
-      "title": "Košičan Karol sa nevrátil domov, pátrali po ňom v okolí Myslavy. Našli ho až psovodi",
-      "link": "https://www.kosicak.sk/clanky/14215/v-kosickych-lesoch-patrali-cez-vikend-po-nezvestnom-seniorovi-ktory-sa-nevratil-domov-ked-ho-nasli-bolo-uz-neskoro",
-      "time": "2026-09-21T07:30:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1789975127-v-kosickych-lesoch-patrali-cez-vikend-po-nezvestnom-seniorovi-ktory-sa-nevratil-domov-ked-ho-nasli-bolo-uz-nes.webp"
     }
   ]
 }

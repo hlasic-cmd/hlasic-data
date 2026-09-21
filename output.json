@@ -1,70 +1,133 @@
 {
-  "generated_at": "2026-09-21T06:56:13.351277+00:00",
+  "generated_at": "2026-09-21T13:26:52.873869+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 14,
   "items": [
     {
-      "title": "Pri lyžiarskom stredisku Veľká Rača horí chata. Zásah hasičov komplikuje dopravu",
-      "link": "https://www.zilinak.sk/clanky/42954/na-kysuciach-hori-chata-pri-znamom-lyziarskom-stredisku-zasah-hasicov-obmedzil-premavku",
-      "time": "2026-09-21T06:32:00+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/01_aktualne.webp"
+      "title": "Hasiči aktuálne zasahujú pri požiari papiera v zbernom dvore v Galante",
+      "link": "https://www.teraz.sk/regiony/hasici-aktualne-zasahuju-pri-poziari/993848-clanok.html",
+      "time": "2026-09-21T12:10:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "teraz.sk",
+      "image": null
     },
     {
-      "title": "R7 pri Šamoríne blokuje pruh, doprava do Bratislavy mešká",
-      "link": "https://www.bratislavak.sk/clanky/15485/na-r7-pri-bratislave-si-pre-nehodu-pockate-aj-25-minut-v-kolonach-sa-zdrzite-aj-v-centre",
-      "time": "2026-09-21T06:28:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1789972145-na-r7-pri-bratislave-si-pre-nehodu-pockate-aj-25-minut-v-kolonach-sa-zdrzite-aj-v-centre.webp"
-    },
-    {
-      "title": "Dráma na železnici. Ranný expres do Košíc zrušili, súprava sa vykoľajila",
-      "link": "https://www.kosicak.sk/clanky/14218/vlak-smerujuci-do-kosic-sa-skoro-rano-vykolajil-do-svojho-ciela-nedorazil-supravu-zastavila-nehoda-pri-posune",
-      "time": "2026-09-21T06:15:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1789971387-vlak-smerujuci-do-kosic-sa-skoro-rano-vykolajil-do-svojho-ciela-nedorazil-supravu-zastavila-nehoda-pri-posune.webp"
-    },
-    {
-      "title": "Pozor, na výjazde z obce Koš smerom na Opatovce nad Nitrou sa stala nehoda",
-      "link": "https://www.trencinak.sk/clanky/13856/vodici-pozor-stala-sa-nehoda-v-okrese-prievidza-smerom-na-opatovce-nad-nitrou-havarovalo-auto-ciastocne-blokuje-cestu",
-      "time": "2026-09-21T06:10:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Dráma na železnici v Žiline. Ranný expres do Košíc zrušili, súprava sa vykoľajila",
-      "link": "https://www.zilinak.sk/clanky/42950/v-ziline-sa-skoro-rano-vykolajil-vlak-do-svojho-ciela-nedorazil-supravu-zastavila-nehoda-pri-posune",
-      "time": "2026-09-21T05:45:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1789969205-v-ziline-sa-skoro-rano-vykolajil-vlak-do-svojho-ciela-nedorazil-supravu-zastavila-nehoda-pri-posune.webp"
-    },
-    {
-      "title": "V Tovarníkoch dajú posledné zbohom obľúbenej lekárke Benedikte Molnárovej (†34). Zomrela po vážnej nehode",
-      "link": "https://www.trnavak.sk/clanky/12253/v-pondelok-sa-naposledy-rozlucia-so-znamou-dermatologickou-benediktou-34-ktora-zomrela-pri-nehode-v-dunajskej-strede",
-      "time": "2026-09-21T05:40:00+00:00",
-      "cat": "nehoda",
+      "title": "Požiar v zbernom dvore v Galante zasiahol 150 m²",
+      "link": "https://www.trnavak.sk/clanky/12285/foto-hasici-zasahuju-pri-poziari-na-zbernom-dvore-v-galante-zamestnanci-su-mimo-ohrozenia",
+      "time": "2026-09-21T12:03:00+00:00",
+      "cat": "poziar",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789726120-v-pondelok-sa-naposledy-rozlucia-so-znamou-dermatologickou-benediktou-34-ktora-zomrela-pri-nehode-v-dunajskej-strede.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1789992234-foto-hasici-zasahuju-pri-poziari-na-zbernom-dvore-v-galante-zamestnanci-su-mimo-ohrozenia.webp"
     },
     {
-      "title": "Už tretí deň sa nevrátila domov. Romana zo Žiliny odišla na aute, kde ju videli naposledy?",
-      "link": "https://www.zilinak.sk/clanky/42949/hlada-sa-nezvestna-pani-romana-zo-ziliny-pred-tromi-dnami-niekam-odisla-autom-kde-ju-videli-naposledy",
-      "time": "2026-09-21T05:23:00+00:00",
+      "title": "Týždenná štatistika: Hasiči v Žilinskom kraji zasahovali 65-krát",
+      "link": "https://www.teraz.sk/regiony/tyzdenna-statistika-hasici-v-zili/993819-clanok.html",
+      "time": "2026-09-21T11:41:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Už tretí deň sa nevrátila domov. Romana (34) odišla na aute, naposledy ju videli v okrese Levice",
+      "link": "https://www.nitrak.sk/clanky/11946/niekolko-dni-patraju-po-nezvestnej-romane-34-zo-ziliny-odisla-autom-v-okrese-levice-ju-videli-naposledy",
+      "time": "2026-09-21T11:30:00+00:00",
       "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1789989104-niekolko-dni-patraju-po-nezvestnej-romane-34-zo-ziliny-odisla-autom-v-okrese-levice-ju-videli-naposledy.webp"
+    },
+    {
+      "title": "Požiar domu v Michale na Ostrove spôsobil škodu 230-tisíc eur",
+      "link": "https://www.trnavak.sk/clanky/12278/foto-dom-v-obci-pri-dunajskej-strede-zachvatil-poziar-vznikla-takmer-stvrtmilionova-skoda",
+      "time": "2026-09-21T11:10:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1789983491-foto-dom-v-obci-pri-dunajskej-strede-zachvatil-poziar-vznikla-takmer-stvrtmilionova-skoda.webp"
+    },
+    {
+      "title": "Vodič po nehode pri Úľanoch nafúkal 3,44 promile",
+      "link": "https://www.nitrak.sk/clanky/11941/foto-v-nitrianskom-kraji-odhalili-dalsich-nezodpovednych-vodicov-jeden-nafukal-344-promile-dalsi-mal-zakaz-soferovat",
+      "time": "2026-09-21T09:30:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1789981463-foto-v-nitrianskom-kraji-odhalili-dalsich-nezodpovednych-vodicov-jeden-nafukal-344-promile-dalsi-mal-zakaz-sof.webp"
+    },
+    {
+      "title": "Požiar strechy školy v Prešove: Budovu na Volgogradskej ulici evakuovali, zasahovali záchranné zložky",
+      "link": "https://www.presovak.sk/clanky/15479/foto-v-presove-horela-strecha-miestnej-skoly-budovu-musel-pre-bezpecnost-evakuovat",
+      "time": "2026-09-21T09:02:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1789981966-foto-v-presove-horela-strecha-miestnej-skoly-budovu-musel-pre-bezpecnost-evakuovat.webp"
+    },
+    {
+      "title": "Pre požiar strechy museli evakuovať strednú dopravnú školu v Prešove",
+      "link": "https://korzar.sme.sk/presov/c/pre-poziar-strechy-museli-evakuovat-strednu-dopravnu-skolu-v-presove?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-09-21T08:57:21+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a0c32e-4f84-7dc8-94e5-b4213c364ac8.jpg"
+    },
+    {
+      "title": "Požiar na škole v Prešove: Evakuovali žiakov aj pedagógov, hasiči zasahovali na streche",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2044945-poziar-na-skole-v-presove-evakuovali-ziakov-aj-pedagogov-hasici-zasahovali-na-streche?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-21T08:55:01+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/09/21/2534465/4x3-medium/poziar-skola-presov.jpg?v=T/w"
+    },
+    {
+      "title": "Nebezpečenstvo odhalili včas. Pri ihrisku v Lučenci začalo horieť",
+      "link": "https://www.bystricak.sk/clanky/13135/hliadka-v-lucenci-zbadala-dym-ktory-sa-siril-od-ihriska-na-miesto-okamzite-privolali-hasicov",
+      "time": "2026-09-21T08:40:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1789977732-hliadka-v-lucenci-zbadala-dym-ktory-sa-siril-od-ihriska-na-miesto-okamzite-privolali-hasicov.webp"
+    },
+    {
+      "title": "Polícia pátra po 23-ročnej Alžbete z okresu Humenné. Má dlhé hnedé vlasy a zelenohnedé oči",
+      "link": "https://www.presovak.sk/clanky/15477/policia-patra-po-23-rocnej-alzbete-z-okresu-humenne-mala-tigrovanu-bundu-a-cierne-oblecenie",
+      "time": "2026-09-21T08:10:00+00:00",
+      "cat": "patranie",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1789977358-policia-patra-po-23rocnej-alzbete-z-okresu-humenne-mala-tigrovanu-bundu-a-cierne-oblecenie.webp"
+    },
+    {
+      "title": "Týždenná štatistika: Hasiči zasahovali  spolu 698-krát",
+      "link": "https://www.teraz.sk/slovensko/tyzdenna-statistika-hasici-zasahov/993721-clanok.html",
+      "time": "2026-09-21T08:04:00+00:00",
+      "cat": "poziar",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Pri Svrčinovci sa prevrátilo nákladné auto, jeho vodič nehodu neprežil",
+      "link": "https://www.zilinak.sk/clanky/42955/foto-nehoda-ktora-zastavila-dopravu-cez-kysuce-skoncila-tragicky-vodica-nakladiaku-uz-nezachranili",
+      "time": "2026-09-21T07:32:00+00:00",
+      "cat": "nehoda",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1789967965-hlada-sa-nezvestna-pani-romana-zo-ziliny-pred-tromi-dnami-niekam-odisla-autom-kde-ju-videli-naposledy.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1789985802-foto-nehoda-ktora-zastavila-dopravu-cez-kysuce-skoncila-tragicky-vodica-nakladiaku-uz-nezachranili.webp"
+    },
+    {
+      "title": "Košičan Karol sa nevrátil domov, pátrali po ňom v okolí Myslavy. Našli ho až psovodi",
+      "link": "https://www.kosicak.sk/clanky/14215/v-kosickych-lesoch-patrali-cez-vikend-po-nezvestnom-seniorovi-ktory-sa-nevratil-domov-ked-ho-nasli-bolo-uz-neskoro",
+      "time": "2026-09-21T07:30:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1789975127-v-kosickych-lesoch-patrali-cez-vikend-po-nezvestnom-seniorovi-ktory-sa-nevratil-domov-ked-ho-nasli-bolo-uz-nes.webp"
     }
   ]
 }

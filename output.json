@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T18:50:19.061244+00:00",
+  "generated_at": "2026-09-21T22:18:46.018301+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 7,
   "items": [
     {
       "title": "Požiar v bývalých kasárňach v Nitre mohol byť založený úmyselne",
@@ -58,15 +58,6 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1789997059-video-trnavski-policajti-zachranili-zivot-zranenemu-motorkarovi-v-trnave-po-nehode-silno-krvacal.webp"
     },
     {
-      "title": "Stovky ton nebezpečného azbestu po búrke konečne odvezú z obcí na Zemplíne",
-      "link": "https://www.kosicak.sk/clanky/14229/z-obci-na-zempline-ktore-postihla-niciva-burka-odvezu-stovky-ton-azbestu-stat-na-to-vyclenil-24-miliona-eur",
-      "time": "2026-09-21T13:30:00+00:00",
-      "cat": "burka",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1789994807-z-obci-na-zempline-ktore-postihla-niciva-burka-odvezu-stovky-ton-azbestu-stat-na-to-vyclenil-24-miliona-eur.webp"
-    },
-    {
       "title": "Romanu naposledy videli pri Leviciach. Pátranie sa končí, našli ju prineskoro",
       "link": "https://www.nitrak.sk/clanky/11946/niekolko-dni-patrali-po-nezvestnej-romane-34-naposledy-ju-videli-pri-leviciach-pripad-ma-smutny-koniec",
       "time": "2026-09-21T11:30:00+00:00",
@@ -74,33 +65,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1790007240-niekolko-dni-patrali-po-nezvestnej-romane-34-naposledy-ju-videli-pri-leviciach-pripad-ma-smutny-koniec.webp"
-    },
-    {
-      "title": "Požiar strechy školy v Prešove: Budovu na Volgogradskej ulici evakuovali, zasahovali záchranné zložky",
-      "link": "https://www.presovak.sk/clanky/15479/foto-v-presove-horela-strecha-miestnej-skoly-budovu-musel-pre-bezpecnost-evakuovat",
-      "time": "2026-09-21T09:02:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1789981966-foto-v-presove-horela-strecha-miestnej-skoly-budovu-musel-pre-bezpecnost-evakuovat.webp"
-    },
-    {
-      "title": "Pre požiar strechy museli evakuovať strednú dopravnú školu v Prešove",
-      "link": "https://korzar.sme.sk/presov/c/pre-poziar-strechy-museli-evakuovat-strednu-dopravnu-skolu-v-presove?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-09-21T08:57:21+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a0c32e-4f84-7dc8-94e5-b4213c364ac8.jpg"
-    },
-    {
-      "title": "Požiar na škole v Prešove: Evakuovali žiakov aj pedagógov, hasiči zasahovali na streche",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2044945-poziar-na-skole-v-presove-evakuovali-ziakov-aj-pedagogov-hasici-zasahovali-na-streche?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-21T08:55:01+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/09/21/2534465/4x3-medium/poziar-skola-presov.jpg?v=T/w"
     }
   ]
 }

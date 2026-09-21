@@ -1,16 +1,70 @@
 {
-  "generated_at": "2026-09-21T01:32:33.379955+00:00",
+  "generated_at": "2026-09-21T06:56:13.351277+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 7,
   "items": [
     {
-      "title": "Sadla za volant bez vodičáku, potom prišiel náraz. Pri Lučenci skončila 20-ročná žena v nemocnici",
-      "link": "https://www.bystricak.sk/clanky/13133/sadla-za-volant-bez-vodicaku-potom-prisiel-naraz-pri-lucenci-skoncila-20-rocna-zena-v-nemocnici",
-      "time": "2026-09-20T14:53:00+00:00",
+      "title": "Pri lyžiarskom stredisku Veľká Rača horí chata. Zásah hasičov komplikuje dopravu",
+      "link": "https://www.zilinak.sk/clanky/42954/na-kysuciach-hori-chata-pri-znamom-lyziarskom-stredisku-zasah-hasicov-obmedzil-premavku",
+      "time": "2026-09-21T06:32:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "R7 pri Šamoríne blokuje pruh, doprava do Bratislavy mešká",
+      "link": "https://www.bratislavak.sk/clanky/15485/na-r7-pri-bratislave-si-pre-nehodu-pockate-aj-25-minut-v-kolonach-sa-zdrzite-aj-v-centre",
+      "time": "2026-09-21T06:28:00+00:00",
       "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1789916164-sadla-za-volant-bez-vodicaku-potom-prisiel-naraz-pri-lucenci-skoncila-20rocna-zena-v-nemocnici.webp"
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1789972145-na-r7-pri-bratislave-si-pre-nehodu-pockate-aj-25-minut-v-kolonach-sa-zdrzite-aj-v-centre.webp"
+    },
+    {
+      "title": "Dráma na železnici. Ranný expres do Košíc zrušili, súprava sa vykoľajila",
+      "link": "https://www.kosicak.sk/clanky/14218/vlak-smerujuci-do-kosic-sa-skoro-rano-vykolajil-do-svojho-ciela-nedorazil-supravu-zastavila-nehoda-pri-posune",
+      "time": "2026-09-21T06:15:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1789971387-vlak-smerujuci-do-kosic-sa-skoro-rano-vykolajil-do-svojho-ciela-nedorazil-supravu-zastavila-nehoda-pri-posune.webp"
+    },
+    {
+      "title": "Pozor, na výjazde z obce Koš smerom na Opatovce nad Nitrou sa stala nehoda",
+      "link": "https://www.trencinak.sk/clanky/13856/vodici-pozor-stala-sa-nehoda-v-okrese-prievidza-smerom-na-opatovce-nad-nitrou-havarovalo-auto-ciastocne-blokuje-cestu",
+      "time": "2026-09-21T06:10:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Dráma na železnici v Žiline. Ranný expres do Košíc zrušili, súprava sa vykoľajila",
+      "link": "https://www.zilinak.sk/clanky/42950/v-ziline-sa-skoro-rano-vykolajil-vlak-do-svojho-ciela-nedorazil-supravu-zastavila-nehoda-pri-posune",
+      "time": "2026-09-21T05:45:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1789969205-v-ziline-sa-skoro-rano-vykolajil-vlak-do-svojho-ciela-nedorazil-supravu-zastavila-nehoda-pri-posune.webp"
+    },
+    {
+      "title": "V Tovarníkoch dajú posledné zbohom obľúbenej lekárke Benedikte Molnárovej (†34). Zomrela po vážnej nehode",
+      "link": "https://www.trnavak.sk/clanky/12253/v-pondelok-sa-naposledy-rozlucia-so-znamou-dermatologickou-benediktou-34-ktora-zomrela-pri-nehode-v-dunajskej-strede",
+      "time": "2026-09-21T05:40:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/1789726120-v-pondelok-sa-naposledy-rozlucia-so-znamou-dermatologickou-benediktou-34-ktora-zomrela-pri-nehode-v-dunajskej-strede.webp"
+    },
+    {
+      "title": "Už tretí deň sa nevrátila domov. Romana zo Žiliny odišla na aute, kde ju videli naposledy?",
+      "link": "https://www.zilinak.sk/clanky/42949/hlada-sa-nezvestna-pani-romana-zo-ziliny-pred-tromi-dnami-niekam-odisla-autom-kde-ju-videli-naposledy",
+      "time": "2026-09-21T05:23:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1789967965-hlada-sa-nezvestna-pani-romana-zo-ziliny-pred-tromi-dnami-niekam-odisla-autom-kde-ju-videli-naposledy.webp"
     }
   ]
 }

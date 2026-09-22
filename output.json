@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T21:26:45.045995+00:00",
+  "generated_at": "2026-09-22T23:40:36.257998+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "title": "NEHODA NA ŽELEZNICI: V Galante sa vykoľajil nákladný vlak",
@@ -20,15 +20,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "VIDEO: Horolezec Juraj Koreň po vážnom páde prešiel prvých 100 metrov",
-      "link": "https://www.bystricak.sk/clanky/13156/video-znamy-horolezec-zijuci-v-kremnici-sa-po-vaznom-pade-nevzdava-po-mesiacoch-presiel-prvych-sto-metrov",
-      "time": "2026-09-22T14:10:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790079939-video-znamy-horolezec-zijuci-v-kremnici-sa-po-vaznom-pade-nevzdava-po-mesiacoch-presiel-prvych-sto-metrov.webp"
     }
   ]
 }

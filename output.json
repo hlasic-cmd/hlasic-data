@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-09-22T05:29:49.448000+00:00",
+  "generated_at": "2026-09-22T10:12:06.113299+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 10,
+  "items": [
+    {
+      "title": "Jelšava mala odovzdať nové nájomné byty, všetko zmenila havária",
+      "link": "https://www.bystricak.sk/clanky/13149/velke-sklamanie-pre-buducich-najomnikov-v-jelsave-par-dni-pred-stahovanim-voda-poskodila-15-bytov",
+      "time": "2026-09-22T09:40:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790067378-velke-sklamanie-pre-buducich-najomnikov-v-jelsave-par-dni-pred-stahovanim-voda-poskodila-15-bytov.webp"
+    },
+    {
+      "title": "Z krúpov si v okolí Košíc stavali snehuliakov, objaviť sa môžu aj dnes",
+      "link": "https://www.kosicak.sk/clanky/14240/video-pri-kosiciach-stavali-obyvatelia-snehuliakov-z-ladovca-burka-a-krupy-sa-mozu-vychodom-prehnat-aj-v-utorok",
+      "time": "2026-09-22T08:00:00+00:00",
+      "cat": "burka",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790062985-video-pri-kosiciach-stavali-obyvatelia-snehuliakov-z-ladovca-burka-a-krupy-sa-mozu-vychodom-prehnat-aj-v-utoro.webp"
+    },
+    {
+      "title": "FOTO: Mládenci havarovali v obci pri Zvolene a ušli. Zničili osvetlenie priechodu",
+      "link": "https://www.bystricak.sk/clanky/13147/foto-neznami-mladenci-havarovali-pri-zastavkach-v-obci-pri-zvolene-poskodili-osvetlenie-a-z-miesta-usli",
+      "time": "2026-09-22T07:54:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790062225-foto-neznami-mladenci-havarovali-pri-zastavkach-v-obci-pri-zvolene-poskodili-osvetlenie-a-z-miesta-usli.webp"
+    },
+    {
+      "title": "Nehoda v Novom Meste nad Váhom zdrží vodičov 15 minút",
+      "link": "https://www.trencinak.sk/clanky/13881/vodici-pozor-v-novom-meste-nad-vahom-sa-na-ulici-bzinska-stala-na-vjazde-do-mesta-nehoda-zdrzite-sa",
+      "time": "2026-09-22T07:36:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "V Ružinove horeli dve autá, požiar sprevádzali výbuchy",
+      "link": "https://www.bratislavak.sk/clanky/15507/v-ruzinove-v-pondelok-vecer-horeli-auta-z-miesta-sa-ozyvali-vybuchy",
+      "time": "2026-09-22T06:40:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1790059297-v-ruzinove-v-pondelok-vecer-horeli-auta-z-miesta-sa-ozyvali-vybuchy.webp"
+    },
+    {
+      "title": "Medzi Veľkými Kapušanmi a Kráľovským Chlmcom blokuje cestu dopravná nehoda",
+      "link": "https://www.kosicak.sk/clanky/14238/medzi-velkymi-kapusanmi-a-kralovskym-chlmcom-blokuje-cestu-dopravna-nehoda",
+      "time": "2026-09-22T06:16:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790057771-medzi-velkymi-kapusanmi-a-kralovskym-chlmcom-blokuje-cestu-dopravna-nehoda.webp"
+    },
+    {
+      "title": "Bratislava: Kolóny na D1, D2, D4 a R7, hlásia dve nehody",
+      "link": "https://www.bratislavak.sk/clanky/15505/ranna-spicka-udrela-v-bratislave-sa-na-r7-a-d1-tvoria-kolony-hlasia-aj-dve-nehody",
+      "time": "2026-09-22T06:11:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1790057750-ranna-spicka-udrela-v-bratislave-sa-na-r7-a-d1-tvoria-kolony-hlasia-aj-dve-nehody.webp"
+    },
+    {
+      "title": "V strede frekventovanej križovatky v Prešove sa zrazili dve autá, blokujú premávku",
+      "link": "https://www.presovak.sk/clanky/15491/v-strede-frekventovanej-krizovatky-v-presove-sa-zrazili-dve-auta-blokuju-premavku",
+      "time": "2026-09-22T06:10:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Pred Bánovcami nad Bebravou smerom z Trenčína sa stala nehoda",
+      "link": "https://www.trencinak.sk/clanky/13877/pozor-na-ceste-i9-pred-banovcami-nad-bebravou-smerom-z-trencina-sa-stala-nehoda-ratajte-so-zdrzanim",
+      "time": "2026-09-22T06:09:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Pri nehode na Záhorí zasahujú záchranné zložky, na R1 smerom na Trnavu čakajú vodiči desiatky minút",
+      "link": "https://www.trnavak.sk/clanky/12297/ranne-komplikacie-na-cestach-odstaveny-kamion-pri-hlohovci-nehoda-na-zahori-a-kolona-na-r1",
+      "time": "2026-09-22T06:08:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790062462-ranne-komplikacie-na-cestach-odstaveny-kamion-pri-hlohovci-nehoda-na-zahori-a-kolona-na-r1.webp"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T22:18:46.018301+00:00",
+  "generated_at": "2026-09-22T00:52:58.679486+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 6,
   "items": [
     {
       "title": "Požiar v bývalých kasárňach v Nitre mohol byť založený úmyselne",
@@ -56,15 +56,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1789997059-video-trnavski-policajti-zachranili-zivot-zranenemu-motorkarovi-v-trnave-po-nehode-silno-krvacal.webp"
-    },
-    {
-      "title": "Romanu naposledy videli pri Leviciach. Pátranie sa končí, našli ju prineskoro",
-      "link": "https://www.nitrak.sk/clanky/11946/niekolko-dni-patrali-po-nezvestnej-romane-34-naposledy-ju-videli-pri-leviciach-pripad-ma-smutny-koniec",
-      "time": "2026-09-21T11:30:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1790007240-niekolko-dni-patrali-po-nezvestnej-romane-34-naposledy-ju-videli-pri-leviciach-pripad-ma-smutny-koniec.webp"
     }
   ]
 }

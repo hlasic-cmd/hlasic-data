@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T18:20:54.625881+00:00",
+  "generated_at": "2026-09-22T21:26:45.045995+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 3,
   "items": [
     {
       "title": "NEHODA NA ŽELEZNICI: V Galante sa vykoľajil nákladný vlak",
@@ -29,33 +29,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790079939-video-znamy-horolezec-zijuci-v-kremnici-sa-po-vaznom-pade-nevzdava-po-mesiacoch-presiel-prvych-sto-metrov.webp"
-    },
-    {
-      "title": "Na Záhorí auto narazilo do stromu, na mieste zasahujú záchranné zložky",
-      "link": "https://www.trnavak.sk/clanky/12308/nehoda-na-zahori-auto-narazilo-do-stromu-na-mieste-zasahuju-zachranari",
-      "time": "2026-09-22T12:57:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790081873-nehoda-na-zahori-auto-narazilo-do-stromu-na-mieste-zasahuju-zachranari.webp"
-    },
-    {
-      "title": "Zochova má novú podobu aj pamätník. Otázky vyvoláva bezbariérovosť",
-      "link": "https://www.bratislavak.sk/clanky/15354/video-zochova-sa-zmenila-na-nepoznanie-pribudol-pamatnik-otaznik-visi-nad-bezbarierovostou",
-      "time": "2026-09-22T12:40:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1789999577-video-zochova-sa-zmenila-na-nepoznanie-pribudol-pamatnik-otaznik-visi-nad-bezbarierovostou.webp"
-    },
-    {
-      "title": "V Ružinove horeli dve autá, požiar sprevádzali výbuchy",
-      "link": "https://www.bratislavak.sk/clanky/15507/v-ruzinove-v-pondelok-vecer-horeli-auta-z-miesta-sa-ozyvali-vybuchy",
-      "time": "2026-09-22T06:40:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1790075722-v-ruzinove-v-pondelok-vecer-horeli-auta-z-miesta-sa-ozyvali-vybuchy.webp"
     }
   ]
 }

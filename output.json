@@ -1,52 +1,61 @@
 {
-  "generated_at": "2026-09-23T12:08:11.122866+00:00",
+  "generated_at": "2026-09-23T16:49:54.834048+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 8,
   "items": [
     {
+      "title": "Kde sa zrodil Paríž? Pod hotelom našli múr, ktorý môže vyriešiť dlhoročnú archeologickú záhadu",
+      "link": "https://sita.sk/kde-sa-zrodil-pariz-pod-hotelom-nasli-mur-ktory-moze-vyriesit-dlhorocnu-archeologicku-zahadu/",
+      "time": "2026-09-23T14:32:32+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/09/gettyimages-2237821808-688x387.jpg"
+    },
+    {
+      "title": "Polícia v Dolnom Kubíne pátra po Veronike Madzíkovej",
+      "link": "https://www.zilinak.sk/clanky/43000/na-orave-patraju-po-26-rocnej-veronike-nezvestna-zena-ma-vyrazne-tetovania-moze-byt-v-ciernom",
+      "time": "2026-09-23T14:30:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790173089-na-orave-patraju-po-26rocnej-veronike-nezvestna-zena-ma-vyrazne-tetovania-moze-byt-v-ciernom.webp"
+    },
+    {
+      "title": "V Prešove hlásia zrážku osobného auta s motocyklistom. Cesta je blokovaná",
+      "link": "https://www.presovak.sk/clanky/15526/v-presove-hlasia-zrazku-osobneho-auta-s-motocyklistom-cesta-je-blokovana",
+      "time": "2026-09-23T14:29:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Neďaleko Košíc zrazilo auto dieťa, zasahujú záchranné zložky",
+      "link": "https://www.kosicak.sk/clanky/14261/strasna-nehoda-nedaleko-kosic-auto-zrazilo-na-ceste-dieta-na-miesto-smeroval-zachranarsky-vrtulnik",
+      "time": "2026-09-23T13:26:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790170144-strasna-nehoda-nedaleko-kosic-auto-zrazilo-na-ceste-dieta-na-miesto-smeroval-zachranarsky-vrtulnik.webp"
+    },
+    {
+      "title": "FOTO: Rýchly zjazd môže skončiť zle. Polícia upozorňuje na cyklotrasu na Kráľovu hoľu",
+      "link": "https://www.bystricak.sk/clanky/13169/foto-policia-varuje-ze-cyklotrasa-na-kralovej-holi-nie-je-pretekarska-draha-odohrali-sa-tu-dve-vazne-nehody",
+      "time": "2026-09-23T12:40:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790163437-foto-policia-varuje-ze-cyklotrasa-na-kralovej-holi-nie-je-pretekarska-draha-odohrali-sa-tu-dve-vazne-nehody.webp"
+    },
+    {
       "title": "Nákladné auto zrazilo kolobežkára neďaleko Galanty",
-      "link": "https://www.trnavak.sk/clanky/12324/vazna-nehoda-v-okrese-galanta-nakladne-auto-zrazilo-kolobezkara-na-mieste-zasahuju-zachranari",
+      "link": "https://www.trnavak.sk/clanky/12324/vazna-nehoda-v-okrese-galanta-nakladne-auto-zrazilo-kolobezkara-na-mieste-zasahovali-zachranari",
       "time": "2026-09-23T11:30:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790163027-vazna-nehoda-v-okrese-galanta-nakladne-auto-zrazilo-kolobezkara-na-mieste-zasahuju-zachranari.webp"
-    },
-    {
-      "title": "Zvýšené riziko vzniku požiarov platí vo viacerých okresoch Slovenska",
-      "link": "https://www.teraz.sk/slovensko/zvysene-riziko-vzniku-poziarov-plat/994377-clanok.html",
-      "time": "2026-09-23T11:02:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V Hrubej Borši horela skládka, požiar zasiahol unimobunku",
-      "link": "https://www.bratislavak.sk/clanky/15527/video-pri-senci-horela-skladka-odpadu-poziar-sa-rozsiril-aj-na-unimobunku",
-      "time": "2026-09-23T10:40:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1790156557-video-pri-senci-horela-skladka-odpadu-poziar-sa-rozsiril-aj-na-unimobunku.webp"
-    },
-    {
-      "title": "Teplá voda mala tiecť už cez víkend, problémy pokračujú. Obyvatelia Martina a Vrútok sa sťažujú na ďalšie výpadky",
-      "link": "https://www.zilinak.sk/clanky/42991/tepla-voda-mala-tiect-uz-cez-vikend-niektori-martincania-ju-stale-nemaju-a-zohrievaju-vodu-v-hrncoch",
-      "time": "2026-09-23T09:05:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790154392-tepla-voda-mala-tiect-uz-cez-vikend-niektori-martincania-ju-stale-nemaju-a-zohrievaju-vodu-v-hrncoch.webp"
-    },
-    {
-      "title": "Požiar výrobcu munície v Snine spôsobil škodu 1,5 milióna eur",
-      "link": "https://www.presovak.sk/clanky/15510/poziar-firmy-v-snine-na-vyrobu-delostreleckej-municie-sposobil-milionovu-skodu-vyroba-bola-docasne-prerusena",
-      "time": "2026-09-23T08:40:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790149075-poziar-firmy-v-snine-na-vyrobu-delostreleckej-municie-sposobil-milionovu-skodu-vyroba-bola-docasne-prerusena.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790173738-vazna-nehoda-v-okrese-galanta-nakladne-auto-zrazilo-kolobezkara-na-mieste-zasahovali-zachranari.webp"
     },
     {
       "title": "Polícia vyhlásila pátranie po 25-ročnej Eszter z okresu Trebišov",
@@ -58,15 +67,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790146758-mlada-eszter-z-okolia-trebisova-je-uz-niekolko-hodin-nezvestna-neviete-kde-by-mohla-byt.webp"
     },
     {
-      "title": "Nehody komplikujú dopravu v Bratislave a okolí",
-      "link": "https://www.bratislavak.sk/clanky/15522/nehody-komplikuju-dopravu-v-bratislave-a-okoli-kolony-sa-tvoria-na-viacerych-usekoch-vratane-d2-a-d4",
-      "time": "2026-09-23T06:29:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1790144981-nehody-komplikuju-dopravu-v-bratislave-a-okoli-kolony-sa-tvoria-na-viacerych-usekoch-vratane-d2-a-d4.webp"
-    },
-    {
       "title": "Kočner takmer unikol justičnej Búrke. Jankovskú chce vidieť prokurátor na súde",
       "link": "https://dennikn.sk/5559949/kocner-takmer-unikol-justicnej-burke-jankovsku-chce-vidiet-prokurator-na-sude/",
       "time": "2026-09-23T06:28:47+00:00",
@@ -74,24 +74,6 @@
       "region": "bratislavsky",
       "src": "dennikn.sk",
       "image": "https://img.projektn.sk/wp-static/2019/09/VS1_0877aa.jpg?w=450&amp;h=300&amp;fit=crop&amp;fm=jpg&amp;q=85"
-    },
-    {
-      "title": "Poškodený kamión blokuje ľavý pruh na D1 pri Nemšovej",
-      "link": "https://www.trencinak.sk/clanky/13893/vodici-pozor-na-d1-pri-nemsovej-mal-nehodu-kamion-v-useku-je-navyse-husta-hmla",
-      "time": "2026-09-23T06:10:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-09/1790143912-vodici-pozor-na-d1-pri-nemsovej-mal-nehodu-kamion-v-useku-je-navyse-husta-hmla.webp"
-    },
-    {
-      "title": "Ranné dopravné nehody v Trnavskom kraji obmedzili dopravu, polícia upozorňuje na zdržanie",
-      "link": "https://www.trnavak.sk/clanky/12312/rannu-dopravu-v-trnavskom-kraji-poznacili-viacere-nehody-vodici-si-pockaju",
-      "time": "2026-09-23T06:00:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790143779-rannu-dopravu-v-trnavskom-kraji-poznacili-viacere-nehody-vodici-si-pockaju.webp"
     }
   ]
 }

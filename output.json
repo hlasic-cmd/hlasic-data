@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-09-23T06:42:09.403121+00:00",
+  "generated_at": "2026-09-23T12:08:11.122866+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 10,
   "items": [
+    {
+      "title": "Nákladné auto zrazilo kolobežkára neďaleko Galanty",
+      "link": "https://www.trnavak.sk/clanky/12324/vazna-nehoda-v-okrese-galanta-nakladne-auto-zrazilo-kolobezkara-na-mieste-zasahuju-zachranari",
+      "time": "2026-09-23T11:30:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790163027-vazna-nehoda-v-okrese-galanta-nakladne-auto-zrazilo-kolobezkara-na-mieste-zasahuju-zachranari.webp"
+    },
+    {
+      "title": "Zvýšené riziko vzniku požiarov platí vo viacerých okresoch Slovenska",
+      "link": "https://www.teraz.sk/slovensko/zvysene-riziko-vzniku-poziarov-plat/994377-clanok.html",
+      "time": "2026-09-23T11:02:00+00:00",
+      "cat": "poziar",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V Hrubej Borši horela skládka, požiar zasiahol unimobunku",
+      "link": "https://www.bratislavak.sk/clanky/15527/video-pri-senci-horela-skladka-odpadu-poziar-sa-rozsiril-aj-na-unimobunku",
+      "time": "2026-09-23T10:40:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1790156557-video-pri-senci-horela-skladka-odpadu-poziar-sa-rozsiril-aj-na-unimobunku.webp"
+    },
+    {
+      "title": "Teplá voda mala tiecť už cez víkend, problémy pokračujú. Obyvatelia Martina a Vrútok sa sťažujú na ďalšie výpadky",
+      "link": "https://www.zilinak.sk/clanky/42991/tepla-voda-mala-tiect-uz-cez-vikend-niektori-martincania-ju-stale-nemaju-a-zohrievaju-vodu-v-hrncoch",
+      "time": "2026-09-23T09:05:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790154392-tepla-voda-mala-tiect-uz-cez-vikend-niektori-martincania-ju-stale-nemaju-a-zohrievaju-vodu-v-hrncoch.webp"
+    },
+    {
+      "title": "Požiar výrobcu munície v Snine spôsobil škodu 1,5 milióna eur",
+      "link": "https://www.presovak.sk/clanky/15510/poziar-firmy-v-snine-na-vyrobu-delostreleckej-municie-sposobil-milionovu-skodu-vyroba-bola-docasne-prerusena",
+      "time": "2026-09-23T08:40:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790149075-poziar-firmy-v-snine-na-vyrobu-delostreleckej-municie-sposobil-milionovu-skodu-vyroba-bola-docasne-prerusena.webp"
+    },
+    {
+      "title": "Polícia vyhlásila pátranie po 25-ročnej Eszter z okresu Trebišov",
+      "link": "https://www.kosicak.sk/clanky/14252/mlada-eszter-z-okolia-trebisova-je-uz-niekolko-hodin-nezvestna-neviete-kde-by-mohla-byt",
+      "time": "2026-09-23T07:30:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790146758-mlada-eszter-z-okolia-trebisova-je-uz-niekolko-hodin-nezvestna-neviete-kde-by-mohla-byt.webp"
+    },
     {
       "title": "Nehody komplikujú dopravu v Bratislave a okolí",
       "link": "https://www.bratislavak.sk/clanky/15522/nehody-komplikuju-dopravu-v-bratislave-a-okoli-kolony-sa-tvoria-na-viacerych-usekoch-vratane-d2-a-d4",
@@ -19,16 +73,7 @@
       "cat": "burka",
       "region": "bratislavsky",
       "src": "dennikn.sk",
-      "image": "https://img.projektn.sk/wp-static/2019/09/2019-09-02-PavilonOpic.jpg?w=450&amp;h=300&amp;fit=crop&amp;fm=jpg&amp;q=85"
-    },
-    {
-      "title": "Pri vjazde do Martina horí auto. Na mieste zasahujú záchranári",
-      "link": "https://www.zilinak.sk/clanky/42986/video-pri-vjazde-do-martina-hori-auto-na-mieste-zasahuju-zachranari",
-      "time": "2026-09-23T06:13:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790144017-video-pri-vjazde-do-martina-hori-auto-na-mieste-zasahuju-zachranari.webp"
+      "image": "https://img.projektn.sk/wp-static/2019/09/VS1_0877aa.jpg?w=450&amp;h=300&amp;fit=crop&amp;fm=jpg&amp;q=85"
     },
     {
       "title": "Poškodený kamión blokuje ľavý pruh na D1 pri Nemšovej",

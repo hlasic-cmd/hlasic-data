@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-24T15:02:04.400942+00:00",
+  "generated_at": "2026-09-24T18:54:38.078727+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 6,
   "items": [
+    {
+      "title": "Pred Kolárovom sa zrazili dve autá, jeden pruh je blokovaný",
+      "link": "https://www.nitrak.sk/clanky/11996/nehoda-pred-kolarovom-jedno-z-aut-skoncilo-mimo-cesty-vodici-musia-ratat-s-obmedzenim",
+      "time": "2026-09-24T15:25:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    },
     {
       "title": "Polícia pátra po nezvestnom Štefanovi z Drietomy",
       "link": "https://www.trencinak.sk/clanky/13919/stefan-z-drietomy-je-nezvestny-uz-takmer-tyzden-naposledy-mal-byt-v-trencine-policia-prosi-o-pomoc",
@@ -31,33 +40,6 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790252603-foto-byt-v-hlohovci-zachvatil-poziar-zasah-hasicov-zabranil-katastrofe-uz-je-znama-aj-pricina.webp"
     },
     {
-      "title": "Zrážka auta s cyklistom na Malinom Brde. Na miesto privolali záchranárov aj políciu",
-      "link": "https://www.zilinak.sk/clanky/43015/zrazka-auta-s-cyklistom-na-malinom-brde-zasiahnut-museli-aj-zachranari",
-      "time": "2026-09-24T12:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790240211-zrazka-auta-s-cyklistom-na-malinom-brde-zasiahnut-museli-aj-zachranari.webp"
-    },
-    {
-      "title": "Polícia pátra po Danielovi Juríškovi a Šimonovi Kosírovi",
-      "link": "https://www.trencinak.sk/clanky/13915/policia-v-kraji-patra-po-nezvestnom-15-rocnom-danielovi-a-17-rocnom-simonovi-hladali-sa-aj-v-minulosti",
-      "time": "2026-09-24T11:40:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-09/1790247959-policia-v-kraji-patra-po-nezvestnom-15rocnom-danielovi-a-17rocnom-simonovi-hladali-sa-aj-v-minulosti.webp"
-    },
-    {
-      "title": "Na výjazde z Nitry smerom na Zlaté Moravce sa zrazilo auto so sanitkou, zvýšte opatrnosť!",
-      "link": "https://www.nitrak.sk/clanky/11994/dazd-uz-sposobuje-problemy-na-vyjazde-z-nitry-smerom-na-moravce-sa-zrazilo-auto-so-sanitkou",
-      "time": "2026-09-24T10:55:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1790247360-dazd-uz-sposobuje-problemy-na-vyjazde-z-nitry-smerom-na-moravce-sa-zrazilo-auto-so-sanitkou.webp"
-    },
-    {
       "title": "Bombová hrozba na základnej škole v Prešove: Polícia evakuovala žiakov aj zamestnancov",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2047037-bombova-hrozba-na-zakladnej-skole-v-presove-policia-evakuovala-ziakov-aj-zamestnancov?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-09-24T08:55:00+00:00",
@@ -65,6 +47,15 @@
       "region": "presovsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2025/09/13/4x3-medium/policia-sr-zasah-policajti-komando.jpg?v=Bwo"
+    },
+    {
+      "title": "Prešovská škola čelila hrozbe bomby, žiakov a zamestnancov evakuovali",
+      "link": "https://www.presovak.sk/clanky/15536/zasah-na-skole-v-presove-prislo-oznamenie-o-bombe-ziakov-a-zamestnancov-evakuovali",
+      "time": "2026-09-24T08:26:00+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790252889-zasah-na-skole-v-presove-prislo-oznamenie-o-bombe-ziakov-a-zamestnancov-evakuovali.webp"
     }
   ]
 }

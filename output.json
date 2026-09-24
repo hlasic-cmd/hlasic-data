@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-09-24T05:22:21.133368+00:00",
+  "generated_at": "2026-09-24T10:12:04.548551+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 9,
+  "items": [
+    {
+      "title": "Rodina po nehode pri Sládkovičove ďakuje policajtom",
+      "link": "https://www.trnavak.sk/clanky/12318/rodina-po-nehode-pri-sladkovicove-dakuje-policajtom-ich-pristup-nam-v-tazkej-chvili-velmi-pomohol",
+      "time": "2026-09-24T09:25:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790153447-rodina-po-nehode-pri-sladkovicove-dakuje-policajtom-ich-pristup-nam-v-tazkej-chvili-velmi-pomohol.webp"
+    },
+    {
+      "title": "Bombová hrozba na základnej škole v Prešove: Polícia evakuovala žiakov aj zamestnancov",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2047037-bombova-hrozba-na-zakladnej-skole-v-presove-policia-evakuovala-ziakov-aj-zamestnancov?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-24T08:55:00+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2025/09/13/4x3-medium/policia-sr-zasah-policajti-komando.jpg?v=Bwo"
+    },
+    {
+      "title": "Na prešovskú základnú školu prišlo oznámenie o bombe. Žiakov aj zamestnancov evakuovali",
+      "link": "https://korzar.sme.sk/presov/c/na-presovsku-zakladnu-skolu-prislo-oznamenie-o-bombe-ziakov-evakuovali?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-09-24T08:27:17+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a0d284-09f5-7178-b55a-ac4a8a21210d.jpg"
+    },
+    {
+      "title": "Prešovská škola čelí hrozbe bomby, evakuovali ju",
+      "link": "https://www.presovak.sk/clanky/15536/zasah-na-skole-v-presove-prislo-oznamenie-o-bombe",
+      "time": "2026-09-24T08:26:00+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790238774-zasah-na-skole-v-presove-prislo-oznamenie-o-bombe.webp"
+    },
+    {
+      "title": "Pozor na nehodu kamióna a auta v Matejovciach. Úsek je ťažko prejazdný",
+      "link": "https://www.presovak.sk/clanky/15535/pozor-na-nehodu-kamiona-a-auta-v-matejovciach-usek-je-tazko-prejazdny",
+      "time": "2026-09-24T07:47:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790235975-pozor-na-nehodu-kamiona-a-auta-v-matejovciach-usek-je-tazko-prejazdny.webp"
+    },
+    {
+      "title": "V Michalovciach sa zrazil nákladiak s autom, nadjazd uzavreli",
+      "link": "https://www.kosicak.sk/clanky/14262/pri-nadjazde-v-michalovciach-sa-zrazili-tri-vozidla-kolony-sa-tiahli-az-po-nedaleku-obec",
+      "time": "2026-09-24T06:11:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790241576-pri-nadjazde-v-michalovciach-sa-zrazili-tri-vozidla-kolony-sa-tiahli-az-po-nedaleku-obec.webp"
+    },
+    {
+      "title": "Pozor, ranná nehoda na Štúrovej v Nitre, rátajte so zdržaním",
+      "link": "https://www.nitrak.sk/clanky/11981/vodici-pozor-ranna-nehoda-na-kruhovom-objazde-na-sturovej-v-nitre-ratajte-so-zdrzanim",
+      "time": "2026-09-24T06:06:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Ďalšia škola s bombovou hrozbou: Evakuovali žiakov v Prešove",
+      "link": "https://www1.pluska.sk/krimi/oznamenie-o-bombe-na-skole-v-presove-deti-museli-evakuovat",
+      "time": "2026-09-24T00:00:00+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/bd0/bd06fab9-d0e3-4444-86da-b578ee548177.webp"
+    },
+    {
+      "title": "Smútok v levickej pôrodnici: Zomrela ich nezvestná kolegyňa Romanka († 34)",
+      "link": "https://www1.pluska.sk/krimi/smutok-v-levickej-porodnici-zomrela-ich-kolegyna-romanka-34",
+      "time": "2026-09-24T00:00:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/d17/d17ce603-fdee-483f-b0ca-ba186917b2be.webp"
+    }
+  ]
 }

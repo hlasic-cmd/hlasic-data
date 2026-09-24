@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-09-24T00:41:14.288025+00:00",
+  "generated_at": "2026-09-24T05:22:21.133368+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Kde sa zrodil Paríž? Pod hotelom našli múr, ktorý môže vyriešiť dlhoročnú archeologickú záhadu",
-      "link": "https://sita.sk/kde-sa-zrodil-pariz-pod-hotelom-nasli-mur-ktory-moze-vyriesit-dlhorocnu-archeologicku-zahadu/",
-      "time": "2026-09-23T14:32:32+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/09/gettyimages-2237821808-688x387.jpg"
-    },
-    {
-      "title": "Neďaleko Košíc zrazilo auto dieťa, zasahujú záchranné zložky",
-      "link": "https://www.kosicak.sk/clanky/14261/strasna-nehoda-nedaleko-kosic-auto-zrazilo-na-ceste-dieta-na-mieste-zasahovala-zachranarsky-vrtulnik",
-      "time": "2026-09-23T13:26:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790183993-strasna-nehoda-nedaleko-kosic-auto-zrazilo-na-ceste-dieta-na-mieste-zasahovala-zachranarsky-vrtulnik.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

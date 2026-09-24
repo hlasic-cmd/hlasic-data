@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T22:28:55.348867+00:00",
+  "generated_at": "2026-09-24T00:41:14.288025+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "title": "Kde sa zrodil Paríž? Pod hotelom našli múr, ktorý môže vyriešiť dlhoročnú archeologickú záhadu",
@@ -20,15 +20,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790183993-strasna-nehoda-nedaleko-kosic-auto-zrazilo-na-ceste-dieta-na-mieste-zasahovala-zachranarsky-vrtulnik.webp"
-    },
-    {
-      "title": "Nákladné auto zrazilo kolobežkára neďaleko Galanty",
-      "link": "https://www.trnavak.sk/clanky/12324/vazna-nehoda-v-okrese-galanta-nakladne-auto-zrazilo-kolobezkara-na-mieste-zasahovali-zachranari",
-      "time": "2026-09-23T11:30:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790173738-vazna-nehoda-v-okrese-galanta-nakladne-auto-zrazilo-kolobezkara-na-mieste-zasahovali-zachranari.webp"
     }
   ]
 }

@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-09-25T00:04:45.101857+00:00",
+  "generated_at": "2026-09-25T04:44:41.852153+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Pred Kolárovom sa zrazili dve autá, jeden pruh je blokovaný",
-      "link": "https://www.nitrak.sk/clanky/11996/nehoda-pred-kolarovom-jedno-z-aut-skoncilo-mimo-cesty-vodici-musia-ratat-s-obmedzenim",
-      "time": "2026-09-24T15:25:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Požiar v Hlohovci mohol skončiť oveľa horšie. Hasiči uchránili majetok za zhruba 150-tisíc eur",
-      "link": "https://www.trnavak.sk/clanky/12349/foto-byt-v-hlohovci-zachvatil-poziar-zasah-hasicov-zabranil-katastrofe-uz-je-znama-aj-pricina",
-      "time": "2026-09-24T12:25:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790252603-foto-byt-v-hlohovci-zachvatil-poziar-zasah-hasicov-zabranil-katastrofe-uz-je-znama-aj-pricina.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

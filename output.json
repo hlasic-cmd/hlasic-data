@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-09-26T09:34:18.526280+00:00",
+  "generated_at": "2026-09-26T13:50:23.400983+00:00",
   "max_age_hours": 12,
   "count": 3,
   "items": [
     {
-      "title": "Historická parná lokomotíva z Vrútok po 30 rokoch opäť vyrazí na trať",
-      "link": "https://www.zilinak.sk/clanky/42976/foto-vo-vrutkach-tajne-opravili-historicku-parnu-masinu-po-30-rokoch-sa-opat-vyda-na-trat",
-      "time": "2026-09-26T08:00:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790079817-foto-vo-vrutkach-tajne-opravili-historicku-parnu-masinu-po-30-rokoch-sa-opat-vyda-na-trat.webp"
-    },
-    {
-      "title": "Polícia pátra po 17-ročnom Kristiánovi, naposledy bol videný v Medzilaborciach",
-      "link": "https://www.presovak.sk/clanky/15562/mladistvy-kristian-je-nezvestny-naposledy-bol-videny-v-medzilaborciach-pomozte-sa-mu-vratit-do-bezpecia",
-      "time": "2026-09-26T07:23:00+00:00",
-      "cat": "patranie",
+      "title": "Nehoda v Tatranskej Kotline smerom na Ždiar spôsobuje kolóny, jazdite opatrne",
+      "link": "https://www.presovak.sk/clanky/15567/vodici-pozor-na-nehodu-v-tatranskej-kotline-smerom-na-zdiar-zdrzite-sa-v-kolone",
+      "time": "2026-09-26T12:59:00+00:00",
+      "cat": "nehoda",
       "region": "presovsky",
       "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790407425-mladistvy-kristian-je-nezvestny-naposledy-bol-videny-v-medzilaborciach-pomozte-sa-mu-vratit-do-bezpecia.webp"
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790427551-vodici-pozor-na-nehodu-v-tatranskej-kotline-smerom-na-zdiar-zdrzite-sa-v-kolone.webp"
     },
     {
-      "title": "Falošné bomby desia školy: Komu môže takéto niečo napadnúť?",
-      "link": "https://www1.pluska.sk/krimi/falosne-bomby-desia-skoly-komu-moze-taketo-nieco-napadnut",
-      "time": "2026-09-26T00:00:00+00:00",
-      "cat": "zasah",
-      "region": "nitriansky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/c36/c365a98b-191a-43e1-97b9-dba86e9714af.webp"
+      "title": "Divoká jazda v protismere na D1 takmer spôsobila čelnú zrážku, vodičku zastavili až v Prešovskom kraji",
+      "link": "https://www.presovak.sk/clanky/15566/divoka-jazda-v-protismere-na-d1-sa-takmer-skoncila-tragediou-vodicku-zastavili-az-v-presovskom-kraji",
+      "time": "2026-09-26T09:28:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790414909-divoka-jazda-v-protismere-na-d1-sa-takmer-skoncila-tragediou-vodicku-zastavili-az-v-presovskom-kraji.webp"
+    },
+    {
+      "title": "Divoká jazda v protismere na D1 smerom na Košice takmer spôsobila čelnú zrážku, vodička prišla o vodičský preukaz",
+      "link": "https://www.kosicak.sk/clanky/14294/od-celnej-zrazky-ich-delili-sekundy-policia-objasnuje-divoku-jazdu-v-protismere-na-d1-smerom-na-kosice",
+      "time": "2026-09-26T09:26:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790414801-od-celnej-zrazky-ich-delili-sekundy-policia-objasnuje-divoku-jazdu-v-protismere-na-d1-smerom-na-kosice.webp"
     }
   ]
 }

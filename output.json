@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T19:58:32.186013+00:00",
+  "generated_at": "2026-09-26T22:19:07.974112+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 1,
   "items": [
     {
       "title": "Autobus do Košíc nedorazil, zhorel do tla. Preverovali aj atentát",
@@ -11,24 +11,6 @@
       "region": "nitriansky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/1f081979-f8a1-6e70-aeaf-5b4541a3dd65.jpg"
-    },
-    {
-      "title": "Divoká jazda v protismere na D1 takmer spôsobila čelnú zrážku, vodičku zastavili až v Prešovskom kraji",
-      "link": "https://www.presovak.sk/clanky/15566/divoka-jazda-v-protismere-na-d1-sa-takmer-skoncila-tragediou-vodicku-zastavili-az-v-presovskom-kraji",
-      "time": "2026-09-26T09:28:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790414909-divoka-jazda-v-protismere-na-d1-sa-takmer-skoncila-tragediou-vodicku-zastavili-az-v-presovskom-kraji.webp"
-    },
-    {
-      "title": "Divoká jazda v protismere na D1 smerom na Košice takmer spôsobila čelnú zrážku, vodička prišla o vodičský preukaz",
-      "link": "https://www.kosicak.sk/clanky/14294/od-celnej-zrazky-ich-delili-sekundy-policia-objasnuje-divoku-jazdu-v-protismere-na-d1-smerom-na-kosice",
-      "time": "2026-09-26T09:26:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790414801-od-celnej-zrazky-ich-delili-sekundy-policia-objasnuje-divoku-jazdu-v-protismere-na-d1-smerom-na-kosice.webp"
     }
   ]
 }

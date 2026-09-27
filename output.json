@@ -1,6 +1,79 @@
 {
-  "generated_at": "2026-09-27T05:42:47.044225+00:00",
+  "generated_at": "2026-09-27T10:44:18.189796+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 8,
+  "items": [
+    {
+      "title": "Zariadenie pre seniorov v Prievidzi zvýši bezpečnosť klientov",
+      "link": "https://www.teraz.sk/regiony/zariadenie-pre-seniorov-v-prievidzi-zvy/995335-clanok.html",
+      "time": "2026-09-27T10:23:00+00:00",
+      "cat": "poziar",
+      "region": "trenciansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Pri Bátke 21-ročný vodič zrazil chodca, zomrel",
+      "link": "https://www.bystricak.sk/clanky/13218/tragicka-dopravna-nehoda-v-okrese-rimavska-sobota-mlady-vodic-zrazil-29-rocneho-chodca-zraneniam-podlahol",
+      "time": "2026-09-27T10:15:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790502583-tragicka-dopravna-nehoda-v-okrese-rimavska-sobota-mlady-vodic-zrazil-29rocneho-chodca-zraneniam-podlahol.webp"
+    },
+    {
+      "title": "Tragická noc pri Rimavskej Sobote: mladý vodič zrazil 29-ročného chodca, nehodu neprežil",
+      "link": "https://www.aktuality.sk/clanok/2u2iJ0s/tragicka-noc-pri-rimavskej-sobote-mlady-vodic-zrazil-29-rocneho-chodca-nehodu-neprezil/",
+      "time": "2026-09-27T09:58:27+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "ZAHYNUL LEN 29- ROČNÝ CHODEC: K nehode došlo pri Rimavskej Sobote",
+      "link": "https://www.teraz.sk/regiony/zahynul-len-29-rocny-chodec-k-nehode/995330-clanok.html",
+      "time": "2026-09-27T09:58:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Pri Zlatých Moravciach sa zrazili auto a dodávka, 4 zranení",
+      "link": "https://www.nitrak.sk/clanky/12018/vazna-nehoda-pri-zlatych-moravciach-auto-sa-celne-zrazilo-s-dodavkou-zranili-sa-styria-ludia",
+      "time": "2026-09-27T09:45:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1790498423-vazna-nehoda-pri-zlatych-moravciach-auto-sa-celne-zrazilo-s-dodavkou-zranili-sa-styria-ludia.webp"
+    },
+    {
+      "title": "Polícia pátra po 16-ročnej Viktórii Háčikovej zo Zvolena",
+      "link": "https://www.bystricak.sk/clanky/13217/tinedzerka-viktoria-zo-zvolena-je-nezvestna-policia-spustila-patranie-nemeria-ani-160-centimetrov",
+      "time": "2026-09-27T09:45:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790501169-tinedzerka-viktoria-zo-zvolena-je-nezvestna-policia-spustila-patranie-nemeria-ani-160-centimetrov.webp"
+    },
+    {
+      "title": "Vlak pri Tatranskej Lomnici narazil do auta, dvaja zranení",
+      "link": "https://www.presovak.sk/clanky/15568/vlak-na-trati-tatranska-lomnica-studeny-potok-narazil-na-priecesti-do-auta-vodic-a-spolujazdkyna-utrpeli-zranenia",
+      "time": "2026-09-27T09:00:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790499404-vlak-na-trati-tatranska-lomnica-studeny-potok-narazil-na-priecesti-do-auta-vodic-a-spolujazdkyna-utrpeli-zrane.webp"
+    },
+    {
+      "title": "Tragédia pri Rimavskej Sobote: O život prišiel len 29-ročný mladík",
+      "link": "https://www1.pluska.sk/krimi/tragedia-pri-rimavskej-sobote-o-zivot-prisiel-len-29-rocny-mladik",
+      "time": "2026-09-27T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/111/111970e6-5447-4b61-9ac2-ae1b3659cd3e.webp"
+    }
+  ]
 }

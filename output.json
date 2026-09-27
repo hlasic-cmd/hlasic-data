@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-09-27T10:44:18.189796+00:00",
+  "generated_at": "2026-09-27T15:18:45.822200+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 9,
   "items": [
+    {
+      "title": "Nehoda pri Bátke skončila tragicky. Mladý chodec zraneniam na mieste podľahol – FOTO",
+      "link": "https://sita.sk/nehoda-pri-batke-skoncila-tragicky-mlady-chodec-zraneniam-na-mieste-podlahol-foto/",
+      "time": "2026-09-27T16:55:14+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/09/825279666_1096859629371515_864762254204334601_n.jpeg"
+    },
+    {
+      "title": "Známy piešťanský hotel evakuovali. Zadymil sa batériový zdroj, 140 ľudí muselo opustiť miesto",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2048755-znamy-piestansky-hotel-evakuovali-zadymil-sa-bateriovy-zdroj-140-ludi-muselo-opustit-miesto?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-27T14:55:00+00:00",
+      "cat": "zasah",
+      "region": "trnavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2009/12/15/4x3-medium/25507-piestany-thermia-palace-kupele-silvester.jpg?v=T/w"
+    },
+    {
+      "title": "Tomáš Úkrop z Tepličky nad Váhom je nezvestný",
+      "link": "https://www.zilinak.sk/clanky/43064/tomas-z-obce-pri-ziline-je-nezvestny-uz-par-dni-po-udajnej-ceste-do-povazskej-teplej-sa-po-nom-zlahla-zem",
+      "time": "2026-09-27T11:00:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790506841-tomas-z-obce-pri-ziline-je-nezvestny-uz-par-dni-po-udajnej-ceste-do-povazskej-teplej-sa-po-nom-zlahla-zem.webp"
+    },
     {
       "title": "Zariadenie pre seniorov v Prievidzi zvýši bezpečnosť klientov",
       "link": "https://www.teraz.sk/regiony/zariadenie-pre-seniorov-v-prievidzi-zvy/995335-clanok.html",
@@ -20,15 +47,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790502583-tragicka-dopravna-nehoda-v-okrese-rimavska-sobota-mlady-vodic-zrazil-29rocneho-chodca-zraneniam-podlahol.webp"
-    },
-    {
-      "title": "Tragická noc pri Rimavskej Sobote: mladý vodič zrazil 29-ročného chodca, nehodu neprežil",
-      "link": "https://www.aktuality.sk/clanok/2u2iJ0s/tragicka-noc-pri-rimavskej-sobote-mlady-vodic-zrazil-29-rocneho-chodca-nehodu-neprezil/",
-      "time": "2026-09-27T09:58:27+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "aktuality.sk",
-      "image": null
     },
     {
       "title": "ZAHYNUL LEN 29- ROČNÝ CHODEC: K nehode došlo pri Rimavskej Sobote",
@@ -65,15 +83,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790499404-vlak-na-trati-tatranska-lomnica-studeny-potok-narazil-na-priecesti-do-auta-vodic-a-spolujazdkyna-utrpeli-zrane.webp"
-    },
-    {
-      "title": "Tragédia pri Rimavskej Sobote: O život prišiel len 29-ročný mladík",
-      "link": "https://www1.pluska.sk/krimi/tragedia-pri-rimavskej-sobote-o-zivot-prisiel-len-29-rocny-mladik",
-      "time": "2026-09-27T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/111/111970e6-5447-4b61-9ac2-ae1b3659cd3e.webp"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T19:00:13.593655+00:00",
+  "generated_at": "2026-09-27T21:51:16.416398+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 4,
   "items": [
     {
       "title": "Nehoda pri Bátke skončila tragicky. Mladý chodec zraneniam na mieste podľahol – FOTO",
@@ -14,7 +14,7 @@
     },
     {
       "title": "Zadymenie v hoteli Thermia Palace evakuovalo 140 ľudí",
-      "link": "https://www.trnavak.sk/clanky/12367/zadymenie-v-hoteli-thermia-palace-si-vyziadalo-evakuaciu-priblizne-140-ludi",
+      "link": "https://www.trnavak.sk/clanky/12367/vo-vyhlasenom-piestanskom-hoteli-thermia-palace-museli-evakuovat-viac-ako-stovku-ludi",
       "time": "2026-09-27T15:15:00+00:00",
       "cat": "poziar",
       "region": "trnavsky",
@@ -38,33 +38,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790506841-tomas-z-obce-pri-ziline-je-nezvestny-uz-par-dni-po-udajnej-ceste-do-povazskej-teplej-sa-po-nom-zlahla-zem.webp"
-    },
-    {
-      "title": "Pri Zlatých Moravciach sa zrazili auto a dodávka, 4 zranení",
-      "link": "https://www.nitrak.sk/clanky/12018/vazna-nehoda-pri-zlatych-moravciach-auto-sa-celne-zrazilo-s-dodavkou-zranili-sa-styria-ludia",
-      "time": "2026-09-27T09:45:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1790498423-vazna-nehoda-pri-zlatych-moravciach-auto-sa-celne-zrazilo-s-dodavkou-zranili-sa-styria-ludia.webp"
-    },
-    {
-      "title": "Polícia pátra po 16-ročnej Viktórii Háčikovej zo Zvolena",
-      "link": "https://www.bystricak.sk/clanky/13217/tinedzerka-viktoria-zo-zvolena-je-nezvestna-policia-spustila-patranie-nemeria-ani-160-centimetrov",
-      "time": "2026-09-27T09:45:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790501169-tinedzerka-viktoria-zo-zvolena-je-nezvestna-policia-spustila-patranie-nemeria-ani-160-centimetrov.webp"
-    },
-    {
-      "title": "Vlak pri Tatranskej Lomnici narazil do auta, dvaja zranení",
-      "link": "https://www.presovak.sk/clanky/15568/vlak-na-trati-tatranska-lomnica-studeny-potok-narazil-na-priecesti-do-auta-vodic-a-spolujazdkyna-utrpeli-zranenia",
-      "time": "2026-09-27T09:00:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790499404-vlak-na-trati-tatranska-lomnica-studeny-potok-narazil-na-priecesti-do-auta-vodic-a-spolujazdkyna-utrpeli-zrane.webp"
     }
   ]
 }

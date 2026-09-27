@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T15:18:45.822200+00:00",
+  "generated_at": "2026-09-27T19:00:13.593655+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 7,
   "items": [
     {
       "title": "Nehoda pri Bátke skončila tragicky. Mladý chodec zraneniam na mieste podľahol – FOTO",
@@ -11,6 +11,15 @@
       "region": "banskobystricky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2026/09/825279666_1096859629371515_864762254204334601_n.jpeg"
+    },
+    {
+      "title": "Zadymenie v hoteli Thermia Palace evakuovalo 140 ľudí",
+      "link": "https://www.trnavak.sk/clanky/12367/zadymenie-v-hoteli-thermia-palace-si-vyziadalo-evakuaciu-priblizne-140-ludi",
+      "time": "2026-09-27T15:15:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     },
     {
       "title": "Známy piešťanský hotel evakuovali. Zadymil sa batériový zdroj, 140 ľudí muselo opustiť miesto",
@@ -29,33 +38,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790506841-tomas-z-obce-pri-ziline-je-nezvestny-uz-par-dni-po-udajnej-ceste-do-povazskej-teplej-sa-po-nom-zlahla-zem.webp"
-    },
-    {
-      "title": "Zariadenie pre seniorov v Prievidzi zvýši bezpečnosť klientov",
-      "link": "https://www.teraz.sk/regiony/zariadenie-pre-seniorov-v-prievidzi-zvy/995335-clanok.html",
-      "time": "2026-09-27T10:23:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Pri Bátke 21-ročný vodič zrazil chodca, zomrel",
-      "link": "https://www.bystricak.sk/clanky/13218/tragicka-dopravna-nehoda-v-okrese-rimavska-sobota-mlady-vodic-zrazil-29-rocneho-chodca-zraneniam-podlahol",
-      "time": "2026-09-27T10:15:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790502583-tragicka-dopravna-nehoda-v-okrese-rimavska-sobota-mlady-vodic-zrazil-29rocneho-chodca-zraneniam-podlahol.webp"
-    },
-    {
-      "title": "ZAHYNUL LEN 29- ROČNÝ CHODEC: K nehode došlo pri Rimavskej Sobote",
-      "link": "https://www.teraz.sk/regiony/zahynul-len-29-rocny-chodec-k-nehode/995330-clanok.html",
-      "time": "2026-09-27T09:58:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
     },
     {
       "title": "Pri Zlatých Moravciach sa zrazili auto a dodávka, 4 zranení",

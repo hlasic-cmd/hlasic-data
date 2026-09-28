@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T00:01:08.484883+00:00",
+  "generated_at": "2026-09-28T04:19:21.397595+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 1,
   "items": [
     {
       "title": "Nehoda pri Bátke skončila tragicky. Mladý chodec zraneniam na mieste podľahol – FOTO",
@@ -11,24 +11,6 @@
       "region": "banskobystricky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2026/09/825279666_1096859629371515_864762254204334601_n.jpeg"
-    },
-    {
-      "title": "Zadymenie v hoteli Thermia Palace evakuovalo 140 ľudí",
-      "link": "https://www.trnavak.sk/clanky/12367/vo-vyhlasenom-piestanskom-hoteli-thermia-palace-museli-evakuovat-viac-ako-stovku-ludi",
-      "time": "2026-09-27T15:15:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Známy piešťanský hotel evakuovali. Zadymil sa batériový zdroj, 140 ľudí muselo opustiť miesto",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2048755-znamy-piestansky-hotel-evakuovali-zadymil-sa-bateriovy-zdroj-140-ludi-muselo-opustit-miesto?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-27T14:55:00+00:00",
-      "cat": "zasah",
-      "region": "trnavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2009/12/15/4x3-medium/25507-piestany-thermia-palace-kupele-silvester.jpg?v=T/w"
     }
   ]
 }

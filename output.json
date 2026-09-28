@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T18:27:11.486189+00:00",
+  "generated_at": "2026-09-28T23:24:49.729839+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 2,
   "items": [
     {
       "title": "Pri Nových Zámkoch sa poobede zrazili tri vozidlá, rátajte so zdržaním",
@@ -20,42 +20,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/28/2538023/4x3-medium/policia-bratislava.jpg?v=T/w"
-    },
-    {
-      "title": "Nehoda skomplikovala dopravu pri Považskej Bystrici. Polícia upozornila vodičov na obmedzenie v smere na Bratislavu",
-      "link": "https://www.trencinak.sk/clanky/13948/nehoda-skomplikovala-dopravu-pri-povazskej-bystrici-policia-upozornila-vodicov-na-obmedzenie-v-smere-na-bratislavu",
-      "time": "2026-09-28T12:21:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-09/1790599374-nehoda-skomplikovala-dopravu-pri-povazskej-bystrici-policia-upozornila-vodicov-na-obmedzenie-v-smere-na-bratis.webp"
-    },
-    {
-      "title": "Pasulkáš po nehode pri Nitra-Juh žiada urýchlenie výstavby",
-      "link": "https://www.nitrak.sk/clanky/12024/nehoda-pri-nitre-juh-opat-otvorila-otazku-kruhoveho-objazdu-kandidat-na-poslanca-ziada-urychlenie-vystavby",
-      "time": "2026-09-28T12:20:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1790589392-nehoda-pri-nitrejuh-opat-otvorila-otazku-kruhoveho-objazdu-kandidat-na-poslanca-ziada-urychlenie-vystavby.webp"
-    },
-    {
-      "title": "V Michalovciach došlo k vážnej nehode na priechode pre chodcov: dve ženy odviezla do nemocnice záchranka",
-      "link": "https://www.kosicak.sk/clanky/14303/v-michalovciach-doslo-k-vaznej-nehode-na-priechode-pre-chodcov-dve-zeny-odviezla-do-nemocnice-zachranka",
-      "time": "2026-09-28T09:23:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790588970-v-michalovciach-doslo-k-vaznej-nehode-na-priechode-pre-chodcov-dve-zeny-odviezla-do-nemocnice-zachranka.webp"
-    },
-    {
-      "title": "Električky z Rače nepremávali, hlásili kolíziu so žiakom",
-      "link": "https://www.bratislavak.sk/clanky/15601/elektricky-z-race-rano-zastavil-incident-cestujuci-hlasil-koliziu-so-ziakom-premavku-uz-obnovili",
-      "time": "2026-09-28T07:30:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1790580389-elektricky-z-race-rano-zastavil-incident-cestujuci-hlasil-koliziu-so-ziakom-premavku-uz-obnovili.webp"
     }
   ]
 }

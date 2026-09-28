@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T21:51:16.416398+00:00",
+  "generated_at": "2026-09-28T00:01:08.484883+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "title": "Nehoda pri Bátke skončila tragicky. Mladý chodec zraneniam na mieste podľahol – FOTO",
@@ -29,15 +29,6 @@
       "region": "trnavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2009/12/15/4x3-medium/25507-piestany-thermia-palace-kupele-silvester.jpg?v=T/w"
-    },
-    {
-      "title": "Tomáš Úkrop z Tepličky nad Váhom je nezvestný",
-      "link": "https://www.zilinak.sk/clanky/43064/tomas-z-obce-pri-ziline-je-nezvestny-uz-par-dni-po-udajnej-ceste-do-povazskej-teplej-sa-po-nom-zlahla-zem",
-      "time": "2026-09-27T11:00:00+00:00",
-      "cat": "patranie",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790506841-tomas-z-obce-pri-ziline-je-nezvestny-uz-par-dni-po-udajnej-ceste-do-povazskej-teplej-sa-po-nom-zlahla-zem.webp"
     }
   ]
 }

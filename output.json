@@ -1,16 +1,97 @@
 {
-  "generated_at": "2026-09-28T04:19:21.397595+00:00",
+  "generated_at": "2026-09-28T10:59:43.335528+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 10,
   "items": [
     {
-      "title": "Nehoda pri Bátke skončila tragicky. Mladý chodec zraneniam na mieste podľahol – FOTO",
-      "link": "https://sita.sk/nehoda-pri-batke-skoncila-tragicky-mlady-chodec-zraneniam-na-mieste-podlahol-foto/",
-      "time": "2026-09-27T16:55:14+00:00",
+      "title": "Hasiči v Čadci zasahujú pri požiari supermarketu",
+      "link": "https://www.teraz.sk/regiony/hasici-v-cadci-zasahuju-pri-poziari/995514-clanok.html",
+      "time": "2026-09-28T09:31:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Pri požiari supermarketu v Čadci zasahujú hasiči",
+      "link": "https://www.aktuality.sk/clanok/ZdaXhW5/pri-poziari-supermarketu-v-cadci-zasahuju-hasici/",
+      "time": "2026-09-28T09:29:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "V Michalovciach došlo k vážnej nehode na priechode pre chodcov: dve ženy odviezla do nemocnice záchranka",
+      "link": "https://www.kosicak.sk/clanky/14303/v-michalovciach-doslo-k-vaznej-nehode-na-priechode-pre-chodcov-dve-zeny-odviezla-do-nemocnice-zachranka",
+      "time": "2026-09-28T09:23:00+00:00",
       "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/09/825279666_1096859629371515_864762254204334601_n.jpeg"
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790588970-v-michalovciach-doslo-k-vaznej-nehode-na-priechode-pre-chodcov-dve-zeny-odviezla-do-nemocnice-zachranka.webp"
+    },
+    {
+      "title": "Vlaky medzi Dunajskou Stredou a Dolným Štálom nepremávajú. Na priecestí malo dôjsť k zrážke",
+      "link": "https://www.trnavak.sk/clanky/12372/doprava-na-trati-pri-dunajskej-strede-bola-prerusena-na-priecesti-sa-mal-vlak-zrazit-s-autom",
+      "time": "2026-09-28T09:14:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790586811-doprava-na-trati-pri-dunajskej-strede-bola-prerusena-na-priecesti-sa-mal-vlak-zrazit-s-autom.webp"
+    },
+    {
+      "title": "FOTO: V Čadci horí strecha supermarketu v centre mesta, zasahujú hasiči",
+      "link": "https://www.zilinak.sk/clanky/43070/foto-v-cadci-hori-strecha-supermarketu-v-centre-mesta-zasahuju-hasici",
+      "time": "2026-09-28T08:41:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-09/1790586391-foto-v-cadci-hori-strecha-supermarketu-v-centre-mesta-zasahuju-hasici.webp"
+    },
+    {
+      "title": "Po zrážke áut je cesta v Dlhom nad Cirochou v okrese Snina neprejazdná",
+      "link": "https://www.aktuality.sk/clanok/J8EVUtx/po-zrazke-aut-je-cesta-v-dlhom-nad-cirochou-v-okrese-snina-neprejazdna/",
+      "time": "2026-09-28T08:36:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "aktuality.sk",
+      "image": null
+    },
+    {
+      "title": "Pátranie po Pavlovi z Hranovnice bolo odvolané",
+      "link": "https://www.presovak.sk/clanky/15574/patranie-po-pavlovi-z-hranovnice-bolo-odvolane",
+      "time": "2026-09-28T08:00:00+00:00",
+      "cat": "patranie",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790587024-patranie-po-pavlovi-z-hranovnice-bolo-odvolane.webp"
+    },
+    {
+      "title": "Hromadná nehoda v Dlhom nad Cirochou. Úsek je neprejazdný",
+      "link": "https://www.presovak.sk/clanky/15572/hromadna-nehoda-v-dlhom-nad-cirochou-usek-je-neprejazdny",
+      "time": "2026-09-28T07:31:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790588129-hromadna-nehoda-v-dlhom-nad-cirochou-usek-je-neprejazdny.webp"
+    },
+    {
+      "title": "Električky z Rače nepremávali, hlásili kolíziu so žiakom",
+      "link": "https://www.bratislavak.sk/clanky/15601/elektricky-z-race-rano-zastavil-incident-cestujuci-hlasil-koliziu-so-ziakom-premavku-uz-obnovili",
+      "time": "2026-09-28T07:30:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1790580389-elektricky-z-race-rano-zastavil-incident-cestujuci-hlasil-koliziu-so-ziakom-premavku-uz-obnovili.webp"
+    },
+    {
+      "title": "Zásah hasičov v Čadci: V plameňoch skončil supermarket",
+      "link": "https://www1.pluska.sk/krimi/zasah-hasicov-v-cadci-v-plamenoch-skoncil-supermarket",
+      "time": "2026-09-28T00:00:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/104/104ca51a-3d1c-4875-84d8-b32b2c14cc4b.webp"
     }
   ]
 }

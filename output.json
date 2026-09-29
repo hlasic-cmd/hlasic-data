@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-09-28T23:24:49.729839+00:00",
+  "generated_at": "2026-09-29T02:36:48.839581+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Pri Nových Zámkoch sa poobede zrazili tri vozidlá, rátajte so zdržaním",
-      "link": "https://www.nitrak.sk/clanky/12030/nedaleko-novych-zamkov-doslo-poobede-k-hromadnej-dopravnej-nehode-jeden-pruh-je-obmedzeny",
-      "time": "2026-09-28T14:00:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Ukradol Land Cruiser priamo z pumpy. Útek cez Bratislavu ukončila zrážka s autom",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2049245-ukradol-land-cruiser-priamo-z-pumpy-utek-cez-bratislavu-ukoncila-zrazka-s-autom?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-09-28T12:30:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/09/28/2538023/4x3-medium/policia-bratislava.jpg?v=T/w"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

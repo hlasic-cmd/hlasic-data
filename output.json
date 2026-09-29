@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-09-29T15:19:51.468618+00:00",
+  "generated_at": "2026-09-29T20:01:35.625780+00:00",
   "max_age_hours": 12,
   "count": 4,
   "items": [
     {
       "title": "Havária potrubia odstavila vodu na sídlisku v Prešove",
-      "link": "https://www.presovak.sk/clanky/15600/presovcanov-prekvapila-na-sidlisku-odstavka-vody-dovodom-je-havaria-potrubia-presny-cas-odstranenia-nie-je-znamy",
+      "link": "https://www.presovak.sk/clanky/15600/presovcanov-prekvapila-na-sidlisku-odstavka-vody",
       "time": "2026-09-29T14:44:00+00:00",
       "cat": "nehoda",
       "region": "presovsky",
       "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Pozor na nehodu v Poprade, dopravu riadia policajti",
-      "link": "https://www.presovak.sk/clanky/15599/pozor-na-nehodu-v-poprade-dopravu-riadia-policajti",
-      "time": "2026-09-29T13:47:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790689566-pozor-na-nehodu-v-poprade-dopravu-riadia-policajti.webp"
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790697002-presovcanov-prekvapila-na-sidlisku-odstavka-vody.webp"
     },
     {
       "title": "V Šali prerušili železničnú dopravu. Vlak zrazil osobu v koľajisku",
@@ -38,6 +29,15 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/09/01/2525393/4x3-medium/hlavna-stanica-bratislava-vlak-zeleznica.jpg?v=Yeg"
+    },
+    {
+      "title": "Tragédia malej Sofinky ožila na súde. Sestra zostala po nehode na vozíku, rodine teraz pomáhajú aj cudzinci",
+      "link": "https://www.bystricak.sk/clanky/13236/vodic-na-sude-prehovoril-o-detailoch-tragedie-pri-lupci-pri-ktorej-rodicia-prisli-o-sofinku-a-natalka-ostala-na-vozicku",
+      "time": "2026-09-29T08:40:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790670837-vodic-na-sude-prehovoril-o-detailoch-tragedie-pri-lupci-pri-ktorej-rodicia-prisli-o-sofinku-a-natalka-ostala-n.webp"
     }
   ]
 }

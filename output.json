@@ -1,88 +1,43 @@
 {
-  "generated_at": "2026-09-29T08:59:06.549617+00:00",
+  "generated_at": "2026-09-29T15:19:51.468618+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 4,
   "items": [
     {
-      "title": "Pred mostom VSS sa zrazilo auto s kamiónom, vodiči stvrdnú v kolónach vo viacerých smeroch",
-      "link": "https://www.kosicak.sk/clanky/14323/pred-mostom-vss-sa-zrazilo-auto-s-kamionom-vodici-stvrdnu-v-kolonach-vo-viacerych-smeroch",
-      "time": "2026-09-29T08:42:00+00:00",
+      "title": "Havária potrubia odstavila vodu na sídlisku v Prešove",
+      "link": "https://www.presovak.sk/clanky/15600/presovcanov-prekvapila-na-sidlisku-odstavka-vody-dovodom-je-havaria-potrubia-presny-cas-odstranenia-nie-je-znamy",
+      "time": "2026-09-29T14:44:00+00:00",
       "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/01_aktualne.webp"
     },
     {
-      "title": "Tragédia malej Sofinky ožila na súde. Sestra zostala po nehode na vozíku, rodine teraz pomáhajú aj cudzinci",
-      "link": "https://www.bystricak.sk/clanky/13236/vodic-na-sude-prehovoril-o-detailoch-tragedie-pri-lupci-pri-ktorej-rodicia-prisli-o-sofinku-a-natalka-ostala-na-vozicku",
-      "time": "2026-09-29T08:40:00+00:00",
+      "title": "Pozor na nehodu v Poprade, dopravu riadia policajti",
+      "link": "https://www.presovak.sk/clanky/15599/pozor-na-nehodu-v-poprade-dopravu-riadia-policajti",
+      "time": "2026-09-29T13:47:00+00:00",
       "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-09/1790670837-vodic-na-sude-prehovoril-o-detailoch-tragedie-pri-lupci-pri-ktorej-rodicia-prisli-o-sofinku-a-natalka-ostala-n.webp"
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790689566-pozor-na-nehodu-v-poprade-dopravu-riadia-policajti.webp"
     },
     {
-      "title": "Na R1 pri Trnave sa zrazili dva kamióny, pozor na zdržanie",
-      "link": "https://www.trnavak.sk/clanky/12382/na-r1-pri-trnave-sa-zrazili-dva-kamiony-vodicov-caka-zdrzanie",
-      "time": "2026-09-29T07:52:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Električky v Rači majú problém, cestujúci vystupovali pri depe",
-      "link": "https://www.bratislavak.sk/clanky/15617/dalsi-problemy-s-elektrickami-v-raci-ludia-vystupovali-pri-depe-cestujuci-hlasili-nehodu",
-      "time": "2026-09-29T07:25:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1790666808-dalsi-problemy-s-elektrickami-v-raci-ludia-vystupovali-pri-depe-cestujuci-hlasili-nehodu.webp"
-    },
-    {
-      "title": "Požiar strechy supermarketu v Čadci spôsobil škodu 15.000 eur",
-      "link": "https://www.teraz.sk/regiony/poziar-strechy-supermarketu-v-cadci-sp/995729-clanok.html",
-      "time": "2026-09-29T06:18:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Rannú špičku v Trnavskom kraji neobišli nehody",
-      "link": "https://www.trnavak.sk/clanky/12379/prevrateny-kamion-aj-zrazka-aut-utorkove-rano-zacalo-na-cestach-trnavskeho-kraja-nehodami",
-      "time": "2026-09-29T06:13:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-09/1790662406-prevrateny-kamion-aj-zrazka-aut-utorkove-rano-zacalo-na-cestach-trnavskeho-kraja-nehodami.webp"
-    },
-    {
-      "title": "Medzi Jatovom a Trnovcom nad Váhom došlo ráno k zrážke, zvýšte opatrnosť",
-      "link": "https://www.nitrak.sk/clanky/12032/medzi-jatovom-a-trnovcom-nad-vahom-pozor-na-rannu-nehodu-po-zrazke-ostal-zablokovany-jeden-pruh",
-      "time": "2026-09-29T06:05:00+00:00",
+      "title": "V Šali prerušili železničnú dopravu. Vlak zrazil osobu v koľajisku",
+      "link": "https://www.nitrak.sk/clanky/12040/dopravu-na-zeleznicnej-stanici-v-sali-prerusila-nehoda-vlak-zrazil-osobu-v-kolajisku",
+      "time": "2026-09-29T12:50:00+00:00",
       "cat": "nehoda",
       "region": "nitriansky",
       "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-09/1790661896-medzi-jatovom-a-trnovcom-nad-vahom-pozor-na-rannu-nehodu-po-zrazke-ostal-zablokovany-jeden-pruh.webp"
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
     },
     {
-      "title": "Muž v Bratislave odviezol cudzí Land Cruiser a havaroval",
-      "link": "https://www.bratislavak.sk/clanky/15608/sadol-do-cudzieho-land-cruiseru-a-usiel-prenasledovali-ho-zamestnanci-pumpy-jeho-utek-zastavili-nehodou",
-      "time": "2026-09-29T05:40:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-09/1790599948-sadol-do-cudzieho-land-cruiseru-a-usiel-prenasledovali-ho-zamestnanci-pumpy-jeho-utek-zastavili-nehodou.webp"
-    },
-    {
-      "title": "Hrozivý útok žiaka v Staškove: Jedna učiteľka je mŕtva, ďalšia so spolužiačkou zranené",
-      "link": "https://www1.pluska.sk/krimi/hroza-v-zakladnej-skole-v-staskove-na-mieste-su-zachranari",
-      "time": "2026-09-29T00:00:00+00:00",
+      "title": "Vlaky medzi Bratislavou a Trnavou asi hodinu nejazdili, zasahoval vrtuľník",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2049757-zeleznicna-doprava-medzi-bratislavou-a-trnavou-je-prerusena-zasahuje-vrtulnik?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-09-29T09:23:22+00:00",
       "cat": "zasah",
-      "region": "zilinsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/56a/56a8f312-9a91-4342-aaa4-e989b1f81dd8.webp"
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/09/01/2525393/4x3-medium/hlavna-stanica-bratislava-vlak-zeleznica.jpg?v=Yeg"
     }
   ]
 }

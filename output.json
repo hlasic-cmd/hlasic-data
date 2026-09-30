@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T23:32:54.375855+00:00",
+  "generated_at": "2026-09-30T02:18:42.510711+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "title": "Havária potrubia odstavila vodu na sídlisku v Prešove",
@@ -11,15 +11,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790697002-presovcanov-prekvapila-na-sidlisku-odstavka-vody.webp"
-    },
-    {
-      "title": "V Šali prerušili železničnú dopravu. Vlak zrazil osobu v koľajisku",
-      "link": "https://www.nitrak.sk/clanky/12040/dopravu-na-zeleznicnej-stanici-v-sali-prerusila-nehoda-vlak-zrazil-osobu-v-kolajisku",
-      "time": "2026-09-29T12:50:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
     }
   ]
 }

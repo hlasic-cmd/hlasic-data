@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T20:01:39.104839+00:00",
+  "generated_at": "2026-09-30T23:34:23.423484+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "title": "Železničný uzol v Žiline ochromil požiar: Vlaky meškajú, niektoré nahradili autobusy",
@@ -83,15 +83,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-09/1790776684-policajtka-mimo-sluzby-nevahala-zranenej-cyklistke-pri-presove-po-nehode-okamzite-pomohla.webp"
-    },
-    {
-      "title": "Na východe je nezvestných šesť tínedžerov, zmizli v priebehu troch dní",
-      "link": "https://www.kosicak.sk/clanky/14345/behom-troch-dni-zmizlo-sest-tinedzerov-z-kosic-a-dalsich-miest-mozu-byt-kdekolvek-ak-ich-zbadate-volajte-policiu",
-      "time": "2026-09-30T10:00:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-09/1790757187-behom-troch-dni-zmizlo-sest-tinedzerov-z-kosic-a-dalsich-miest-mozu-byt-kdekolvek-ak-ich-zbadate-volajte-polic.webp"
     }
   ]
 }

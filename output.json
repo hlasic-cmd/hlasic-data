@@ -1,70 +1,34 @@
 {
-  "generated_at": "2026-10-01T09:03:43.466300+00:00",
+  "generated_at": "2026-10-01T21:03:06.235179+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 3,
   "items": [
     {
-      "title": "Nehoda medzi Handlovou a Prievidzou blokuje jeden pruh",
-      "link": "https://www.trencinak.sk/clanky/13982/vodici-pozor-na-hlavnom-tahu-medzi-handlovou-a-prievidzou-je-nehoda-blokuje-jeden-pruh-v-zakrute",
-      "time": "2026-10-01T08:48:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1790843777-vodici-pozor-na-hlavnom-tahu-medzi-handlovou-a-prievidzou-je-nehoda-blokuje-jeden-pruh-v-zakrute.webp"
-    },
-    {
-      "title": "Požiar starej sýpky v Nových Zámkoch spôsobila nedbalosť dospelých",
-      "link": "https://www.teraz.sk/regiony/poziar-starej-sypky-v-novych-zamkoch/996417-clanok.html",
-      "time": "2026-10-01T08:35:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Polícia pátra po dvoch mužoch z východného Slovenska. Nevideli ste Mareka a Petra?",
-      "link": "https://www.kosicak.sk/clanky/14358/marek-z-michaloviec-a-peter-z-okolia-kosic-su-nezvestni-od-konca-septembra-patra-po-nich-policia-aj-dobrovolnici",
-      "time": "2026-10-01T08:33:00+00:00",
+      "title": "Polícia pátra po troch ženách z Rimavskej Soboty",
+      "link": "https://www.bystricak.sk/clanky/13279/v-banskobystrickom-kraji-patraju-po-troch-nezvestnych-zenach-vsetky-su-z-rimavskej-soboty",
+      "time": "2026-10-01T14:20:00+00:00",
       "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1790859839-v-banskobystrickom-kraji-patraju-po-troch-nezvestnych-zenach-vsetky-su-z-rimavskej-soboty.webp"
+    },
+    {
+      "title": "Časť rožňavskej historickej radnice je v havarijnom stave, odpadla časť omietky",
+      "link": "https://korzar.sme.sk/spis-gemer/c/cast-roznavskej-historickej-radnice-je-v-havarijnom-stave-odpadla-cast-omietky?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-10-01T11:25:52+00:00",
+      "cat": "nehoda",
       "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1790843583-marek-z-michaloviec-a-peter-z-okolia-kosic-su-nezvestni-od-konca-septembra-patra-po-nich-policia-aj-dobrovolni.webp"
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a0f734-147e-7687-96ae-459fd8b1cac7.jpg"
     },
     {
-      "title": "Požiar v Žiline stále komplikuje vlaky. Niektoré spoje nahrádzajú autobusy, nákladné vlaky stoja",
-      "link": "https://www.zilinak.sk/clanky/43116/vlaky-cez-zilinu-stale-jazdia-v-mimoriadnom-rezime-niektore-spoje-nahradzaju-autobusy-meskania-dosahuju-90-minut",
-      "time": "2026-10-01T06:26:00+00:00",
+      "title": "V Prešove horelo opustené podkrovie rodinného domu",
+      "link": "https://www.presovak.sk/clanky/15640/pri-cyklistickom-velodrome-v-presove-doslo-k-poziaru-opusteneho-rodinneho-domu",
+      "time": "2026-10-01T11:00:00+00:00",
       "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1790835916-vlaky-cez-zilinu-stale-jazdia-v-mimoriadnom-rezime-niektore-spoje-nahradzaju-autobusy-meskania-dosahuju-90-min.webp"
-    },
-    {
-      "title": "V Koniarovciach došlo k dopravnej nehode",
-      "link": "https://www.nitrak.sk/clanky/12058/v-okrese-topolcany-doslo-rano-k-nehode-obmedzenia-su-v-koniarovciach-na-hlavnom-tahu-pozor-aj-v-nitre",
-      "time": "2026-10-01T06:20:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "V Sabinove sa uskutoční taktické cvičenie, zaznejú aj sirény",
-      "link": "https://www.teraz.sk/regiony/v-sabinove-sa-uskutocni-takticke-cvi/996357-clanok.html",
-      "time": "2026-10-01T05:21:00+00:00",
-      "cat": "nehoda",
       "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Železničná doprava cez uzol Žilina je po požiari v mimoriadnom režime",
-      "link": "https://www.teraz.sk/regiony/zeleznicna-doprava-cez-uzol-zilina-j/996356-clanok.html",
-      "time": "2026-10-01T05:21:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1790851615-pri-cyklistickom-velodrome-v-presove-doslo-k-poziaru-opusteneho-rodinneho-domu.webp"
     }
   ]
 }

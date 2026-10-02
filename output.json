@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-10-02T06:08:03.063304+00:00",
+  "generated_at": "2026-10-02T12:24:12.581080+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 7,
+  "items": [
+    {
+      "title": "V Žiline sa zrazil kamión s dodávkou, na ceste sa tvoria kolóny",
+      "link": "https://www.zilinak.sk/clanky/43161/v-ziline-sa-zrazil-kamion-s-dodavkou-na-ceste-sa-tvoria-kolony",
+      "time": "2026-10-02T10:07:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1790935997-v-ziline-sa-zrazil-kamion-s-dodavkou-na-ceste-sa-tvoria-kolony.webp"
+    },
+    {
+      "title": "Hasiči zasahujú pri požiari domu v Trnave. Plamene poškodili aj ďalšie domy",
+      "link": "https://www.trnavak.sk/clanky/12429/foto-rodinny-dom-v-trnave-zachvatili-plamene-poskodene-su-aj-susedne-domy-na-mieste-zasahuju-hasici",
+      "time": "2026-10-02T09:05:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1790931990-foto-rodinny-dom-v-trnave-zachvatili-plamene-poskodene-su-aj-susedne-domy-na-mieste-zasahuju-hasici.webp"
+    },
+    {
+      "title": "Vlaky v Žiline premávajú stále v mimoriadnom režime. Obmedzenia pokračujú",
+      "link": "https://www.zilinak.sk/clanky/43154/zeleznica-v-ziline-funguje-stale-v-mimoriadnom-rezime-poziar-vyradil-z-prevadzky-dolezite-zariadenia",
+      "time": "2026-10-02T08:52:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1790940686-zeleznica-v-ziline-funguje-stale-v-mimoriadnom-rezime-poziar-vyradil-z-prevadzky-dolezite-zariadenia.webp"
+    },
+    {
+      "title": "Nehoda pri Demjate smerom na Prešov: Vodič mal ujsť, hľadajú poškodené autá, ploty aj brány",
+      "link": "https://www.presovak.sk/clanky/15646/nehoda-pri-demjate-smerom-na-presov-vodic-mal-odist-z-miesta-majitel-autopozicovne-hlada-poskodene-auta-ci-ploty",
+      "time": "2026-10-02T07:30:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1790864312-nehoda-pri-demjate-smerom-na-presov-vodic-mal-odist-z-miesta-majitel-autopozicovne-hlada-poskodene-auta-ci-plo.webp"
+    },
+    {
+      "title": "Cesta medzi dvoma obcami je neprejazdná pre nehodu, vodiči to musia obchádzať dlhé kilometre cez Košice",
+      "link": "https://www.kosicak.sk/clanky/14375/cesta-medzi-dvoma-obcami-je-neprejazdna-pre-nehodu-vodici-to-musia-obchadzat-dlhe-kilometre-cez-kosice",
+      "time": "2026-10-02T06:43:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Polícia posilní kontroly po Slovensku, pripomína si nehodu na Zochovej",
+      "link": "https://www.teraz.sk/slovensko/policia-posilni-kontroly-po-slovensku/996672-clanok.html",
+      "time": "2026-10-02T06:41:00+00:00",
+      "cat": "nehoda",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Na frekventovanom úseku v Prešove prebiehajú cestné práce, vodiči uviazli v kolónach. Pozor aj na nehodu vo Vranove",
+      "link": "https://www.presovak.sk/clanky/15647/na-frekventovanom-useku-v-presove-prebiehaju-cestne-prace-vodici-uviazli-v-kolonach-pozor-aj-na-nehodu-vo-vranove",
+      "time": "2026-10-02T06:09:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1790922125-na-frekventovanom-useku-v-presove-prebiehaju-cestne-prace-vodici-uviazli-v-kolonach-pozor-aj-na-nehodu-vo-vran.webp"
+    }
+  ]
 }

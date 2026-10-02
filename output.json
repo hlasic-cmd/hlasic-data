@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T17:55:17.070406+00:00",
+  "generated_at": "2026-10-02T21:27:43.060323+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 1,
   "items": [
     {
       "title": "V Košiciach auto zrazilo ženu na priechode pre chodcov, utrpela ťažké zranenia",
@@ -11,42 +11,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1790958751-video-vazna-nehoda-v-kosiciach-auto-zrazilo-na-priechode-pre-chodcov-zenu-so-zraneniami-ju-previezli-do-nemocn.webp"
-    },
-    {
-      "title": "Nehoda na ceste I/18 pri Rojkove zastavila dopravu. V úseku len nedávno pribudol trojpruh",
-      "link": "https://www.zilinak.sk/clanky/43171/nehoda-na-ceste-i18-pri-rojkove-zastavila-dopravu-v-useku-len-nedavno-pribudol-trojpruh",
-      "time": "2026-10-02T15:29:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1790954989-nehoda-na-ceste-i18-pri-rojkove-zastavila-dopravu-v-useku-len-nedavno-pribudol-trojpruh.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnom 12-ročnom Sebastiánovi z okresu Ilava a nezvestnej 40-ročnej Soni z okresu Nové Mesto nad Váhom",
-      "link": "https://www.trencinak.sk/clanky/13999/malolety-sebastian-z-okresu-ilava-je-nezvestny-od-decembra-je-nezvestna-aj-simona-z-okresu-nove-mesto-nad-vahom",
-      "time": "2026-10-02T13:20:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1790947094-malolety-sebastian-z-okresu-ilava-je-nezvestny-od-decembra-je-nezvestna-aj-simona-z-okresu-nove-mesto-nad-vaho.webp"
-    },
-    {
-      "title": "Nehoda na Sídlisku III v Prešove. Jazdný pruh bol blokovaný",
-      "link": "https://www.presovak.sk/clanky/15657/nehoda-na-sidlisku-iii-v-presove-jazdny-pruh-bol-blokovany",
-      "time": "2026-10-02T12:55:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1790951647-nehoda-na-sidlisku-iii-v-presove-jazdny-pruh-bol-blokovany.webp"
-    },
-    {
-      "title": "Nehoda pri Demjate smerom na Prešov: Vodič mal ujsť, hľadajú poškodené autá, ploty aj brány",
-      "link": "https://www.presovak.sk/clanky/15646/nehoda-pri-demjate-smerom-na-presov-vodic-mal-odist-z-miesta-majitel-autopozicovne-hlada-poskodene-auta-ci-ploty",
-      "time": "2026-10-02T07:30:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1790864312-nehoda-pri-demjate-smerom-na-presov-vodic-mal-odist-z-miesta-majitel-autopozicovne-hlada-poskodene-auta-ci-plo.webp"
     }
   ]
 }

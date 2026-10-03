@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-10-03T14:50:09.501550+00:00",
+  "generated_at": "2026-10-03T18:18:41.541331+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 6,
   "items": [
+    {
+      "title": "V Košickom kraji sa počas niekoľkých hodín stali dve tragické nehody",
+      "link": "https://www.teraz.sk/regiony/v-kosickom-kraji-sa-pocas-niekolkych/997060-clanok.html",
+      "time": "2026-10-03T17:48:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Vo Svite pri Lidli havarovali tri autá, premávku riadi polícia",
+      "link": "https://www.presovak.sk/clanky/15666/hromadna-nehoda-vo-svite-pri-lidli-premavku-riadi-policia",
+      "time": "2026-10-03T14:47:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
     {
       "title": "Vo Veľkom Mederi pri Kauflande havarovali dve vozidlá",
       "link": "https://www.trnavak.sk/clanky/12445/pri-kauflande-vo-velkom-mederi-doslo-k-nehode-na-miesto-smeruju-vsetky-zachranne-zlozky",
@@ -13,13 +31,13 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "V obci Staré Hory sa prevrátilo auto, z miesta hlásia zdržanie",
-      "link": "https://www.bystricak.sk/clanky/13297/pri-banskej-bystrici-doslo-k-nehode-vodici-hlasia-zdrzanie-danemu-useku-sa-radsej-vyhnite",
+      "title": "V obci Staré Hory sa prevrátilo auto, vodiči sa zdržali v kolóne",
+      "link": "https://www.bystricak.sk/clanky/13297/pri-banskej-bystrici-doslo-k-nehode-vodici-sa-zdrzali-v-kolone",
       "time": "2026-10-03T13:30:00+00:00",
       "cat": "nehoda",
       "region": "banskobystricky",
       "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791034274-pri-banskej-bystrici-doslo-k-nehode-vodici-hlasia-zdrzanie-danemu-useku-sa-radsej-vyhnite.webp"
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791038881-pri-banskej-bystrici-doslo-k-nehode-vodici-sa-zdrzali-v-kolone.webp"
     },
     {
       "title": "V Hôrke pri Poprade sa zrazil motocykel s autom, zasahovali tam všetky záchranné zložky",
@@ -31,24 +49,6 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791027863-pri-poprade-doslo-k-vaznej-nehode-motocykla-a-osobneho-auta-zasahovali-pri-nej-vsetky-zachranne-zlozky.webp"
     },
     {
-      "title": "V železničnom úseku Tatranská Polianka - Starý Smokovec došlo k nehode vlaku s autom",
-      "link": "https://www.presovak.sk/clanky/15663/v-zeleznicnom-useku-tatranska-polianka-stary-smokovec-sa-zrazil-vlak-s-autom-doprava-sa-na-isty-cas-prerusila",
-      "time": "2026-10-03T08:40:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791016223-v-zeleznicnom-useku-tatranska-polianka-stary-smokovec-sa-zrazil-vlak-s-autom-doprava-sa-na-isty-cas-prerusila.webp"
-    },
-    {
-      "title": "Pri Gelnici došlo k tragickej nehode, maloletý spolujazdec zraneniam na mieste podľahol",
-      "link": "https://www.kosicak.sk/clanky/14401/tragicka-nehoda-v-okrese-gelnica-malolety-spolujazdec-utrpel-zranenia-nezlucitelne-so-zivotom",
-      "time": "2026-10-03T08:00:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791013274-tragicka-nehoda-v-okrese-gelnica-malolety-spolujazdec-utrpel-zranenia-nezlucitelne-so-zivotom.webp"
-    },
-    {
       "title": "Tragédia pri Štítniku: Pod vozidlom našli človeka bez známok života",
       "link": "https://www.pravda.sk/auto/doprava/clanok/2052117-tragedia-pri-stitniku-pod-vozidlom-nasli-cloveka-bez-znamok-zivota?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-10-03T07:47:53+00:00",
@@ -56,15 +56,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/07/21/2508209/4x3-medium/nehoda-auto-v-priekope.jpg?v=Kic"
-    },
-    {
-      "title": "V okrese Rožňava došlo k tragickej nehode, vodič zraneniam na mieste podľahol",
-      "link": "https://www.kosicak.sk/clanky/14400/tragicka-nehoda-v-okrese-roznava-auto-sa-prevratilo-do-priekopy-vodic-zraneniam-na-mieste-podlahol",
-      "time": "2026-10-03T07:30:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791012431-tragicka-nehoda-v-okrese-roznava-auto-sa-prevratilo-do-priekopy-vodic-zraneniam-na-mieste-podlahol.webp"
     }
   ]
 }

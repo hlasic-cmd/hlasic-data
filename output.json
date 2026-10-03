@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T18:18:41.541331+00:00",
+  "generated_at": "2026-10-03T21:22:34.521482+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 4,
   "items": [
     {
       "title": "V Košickom kraji sa počas niekoľkých hodín stali dve tragické nehody",
@@ -31,15 +31,6 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "V obci Staré Hory sa prevrátilo auto, vodiči sa zdržali v kolóne",
-      "link": "https://www.bystricak.sk/clanky/13297/pri-banskej-bystrici-doslo-k-nehode-vodici-sa-zdrzali-v-kolone",
-      "time": "2026-10-03T13:30:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791038881-pri-banskej-bystrici-doslo-k-nehode-vodici-sa-zdrzali-v-kolone.webp"
-    },
-    {
       "title": "V Hôrke pri Poprade sa zrazil motocykel s autom, zasahovali tam všetky záchranné zložky",
       "link": "https://www.presovak.sk/clanky/15664/pri-poprade-doslo-k-vaznej-nehode-motocykla-a-osobneho-auta-zasahovali-pri-nej-vsetky-zachranne-zlozky",
       "time": "2026-10-03T11:44:00+00:00",
@@ -47,15 +38,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791027863-pri-poprade-doslo-k-vaznej-nehode-motocykla-a-osobneho-auta-zasahovali-pri-nej-vsetky-zachranne-zlozky.webp"
-    },
-    {
-      "title": "Tragédia pri Štítniku: Pod vozidlom našli človeka bez známok života",
-      "link": "https://www.pravda.sk/auto/doprava/clanok/2052117-tragedia-pri-stitniku-pod-vozidlom-nasli-cloveka-bez-znamok-zivota?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-03T07:47:53+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/07/21/2508209/4x3-medium/nehoda-auto-v-priekope.jpg?v=Kic"
     }
   ]
 }

@@ -1,6 +1,79 @@
 {
-  "generated_at": "2026-10-03T05:40:35.680079+00:00",
+  "generated_at": "2026-10-03T10:35:53.558437+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 8,
+  "items": [
+    {
+      "title": "V železničnom úseku Tatranská Polianka - Starý Smokovec došlo k nehode vlaku s autom",
+      "link": "https://www.presovak.sk/clanky/15663/v-zeleznicnom-useku-tatranska-polianka-stary-smokovec-sa-zrazil-vlak-s-autom-doprava-sa-na-isty-cas-prerusila",
+      "time": "2026-10-03T08:40:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791016223-v-zeleznicnom-useku-tatranska-polianka-stary-smokovec-sa-zrazil-vlak-s-autom-doprava-sa-na-isty-cas-prerusila.webp"
+    },
+    {
+      "title": "Pri Gelnici došlo k tragickej nehode, maloletý spolujazdec zraneniam na mieste podľahol",
+      "link": "https://www.kosicak.sk/clanky/14401/tragicka-nehoda-v-okrese-gelnica-malolety-spolujazdec-utrpel-zranenia-nezlucitelne-so-zivotom",
+      "time": "2026-10-03T08:00:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791013274-tragicka-nehoda-v-okrese-gelnica-malolety-spolujazdec-utrpel-zranenia-nezlucitelne-so-zivotom.webp"
+    },
+    {
+      "title": "Tragédia pri Štítniku: Pod vozidlom našli človeka bez známok života",
+      "link": "https://www.pravda.sk/auto/doprava/clanok/2052117-tragedia-pri-stitniku-pod-vozidlom-nasli-cloveka-bez-znamok-zivota?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-03T07:47:53+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/07/21/2508209/4x3-medium/nehoda-auto-v-priekope.jpg?v=Kic"
+    },
+    {
+      "title": "Pri dopravnej nehode v okrese Gelnica zomrel maloletý spolujazdec",
+      "link": "https://www.teraz.sk/regiony/pri-dopravnej-nehode-v-okrese-gelnica-zo/996958-clanok.html",
+      "time": "2026-10-03T07:33:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V Spišskej Belej auto zrazilo cyklistu pri cintoríne",
+      "link": "https://www.presovak.sk/clanky/15662/v-spisskej-belej-auto-zrazilo-cyklistu-pri-cintorine-pri-prejazde-zvyste-pozornost",
+      "time": "2026-10-03T07:32:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "V okrese Rožňava došlo k tragickej nehode, vodič zraneniam na mieste podľahol",
+      "link": "https://www.kosicak.sk/clanky/14400/tragicka-nehoda-v-okrese-roznava-auto-sa-prevratilo-do-priekopy-vodic-zraneniam-na-mieste-podlahol",
+      "time": "2026-10-03T07:30:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791012431-tragicka-nehoda-v-okrese-roznava-auto-sa-prevratilo-do-priekopy-vodic-zraneniam-na-mieste-podlahol.webp"
+    },
+    {
+      "title": "Nehoda na Račianskom mýte odklonila električky",
+      "link": "https://www.bratislavak.sk/clanky/15698/na-racianskom-myte-doslo-k-dopravnej-nehode-elektricky-chodia-odklonenou-trasou",
+      "time": "2026-10-03T07:16:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791011830-na-racianskom-myte-doslo-k-dopravnej-nehode-elektricky-chodia-odklonenou-trasou.webp"
+    },
+    {
+      "title": "Tragické ráno na východe: Dve nehody, dve obete vrátane dieťaťa",
+      "link": "https://www1.pluska.sk/krimi/tragicke-rano-na-vychode-dve-nehody-dve-obete-vratane-dietata",
+      "time": "2026-10-03T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/7f9/7f9e435b-fa85-4242-b152-70679de09544.webp"
+    }
+  ]
 }

@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-10-03T10:35:53.558437+00:00",
+  "generated_at": "2026-10-03T14:50:09.501550+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 7,
   "items": [
+    {
+      "title": "Vo Veľkom Mederi pri Kauflande havarovali dve vozidlá",
+      "link": "https://www.trnavak.sk/clanky/12445/pri-kauflande-vo-velkom-mederi-doslo-k-nehode-na-miesto-smeruju-vsetky-zachranne-zlozky",
+      "time": "2026-10-03T13:34:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "V obci Staré Hory sa prevrátilo auto, z miesta hlásia zdržanie",
+      "link": "https://www.bystricak.sk/clanky/13297/pri-banskej-bystrici-doslo-k-nehode-vodici-hlasia-zdrzanie-danemu-useku-sa-radsej-vyhnite",
+      "time": "2026-10-03T13:30:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791034274-pri-banskej-bystrici-doslo-k-nehode-vodici-hlasia-zdrzanie-danemu-useku-sa-radsej-vyhnite.webp"
+    },
+    {
+      "title": "V Hôrke pri Poprade sa zrazil motocykel s autom, zasahovali tam všetky záchranné zložky",
+      "link": "https://www.presovak.sk/clanky/15664/pri-poprade-doslo-k-vaznej-nehode-motocykla-a-osobneho-auta-zasahovali-pri-nej-vsetky-zachranne-zlozky",
+      "time": "2026-10-03T11:44:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791027863-pri-poprade-doslo-k-vaznej-nehode-motocykla-a-osobneho-auta-zasahovali-pri-nej-vsetky-zachranne-zlozky.webp"
+    },
     {
       "title": "V železničnom úseku Tatranská Polianka - Starý Smokovec došlo k nehode vlaku s autom",
       "link": "https://www.presovak.sk/clanky/15663/v-zeleznicnom-useku-tatranska-polianka-stary-smokovec-sa-zrazil-vlak-s-autom-doprava-sa-na-isty-cas-prerusila",
@@ -31,24 +58,6 @@
       "image": "https://prvd.sk/cdn/2026/07/21/2508209/4x3-medium/nehoda-auto-v-priekope.jpg?v=Kic"
     },
     {
-      "title": "Pri dopravnej nehode v okrese Gelnica zomrel maloletý spolujazdec",
-      "link": "https://www.teraz.sk/regiony/pri-dopravnej-nehode-v-okrese-gelnica-zo/996958-clanok.html",
-      "time": "2026-10-03T07:33:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V Spišskej Belej auto zrazilo cyklistu pri cintoríne",
-      "link": "https://www.presovak.sk/clanky/15662/v-spisskej-belej-auto-zrazilo-cyklistu-pri-cintorine-pri-prejazde-zvyste-pozornost",
-      "time": "2026-10-03T07:32:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
       "title": "V okrese Rožňava došlo k tragickej nehode, vodič zraneniam na mieste podľahol",
       "link": "https://www.kosicak.sk/clanky/14400/tragicka-nehoda-v-okrese-roznava-auto-sa-prevratilo-do-priekopy-vodic-zraneniam-na-mieste-podlahol",
       "time": "2026-10-03T07:30:00+00:00",
@@ -56,24 +65,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791012431-tragicka-nehoda-v-okrese-roznava-auto-sa-prevratilo-do-priekopy-vodic-zraneniam-na-mieste-podlahol.webp"
-    },
-    {
-      "title": "Nehoda na Račianskom mýte odklonila električky",
-      "link": "https://www.bratislavak.sk/clanky/15698/na-racianskom-myte-doslo-k-dopravnej-nehode-elektricky-chodia-odklonenou-trasou",
-      "time": "2026-10-03T07:16:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791011830-na-racianskom-myte-doslo-k-dopravnej-nehode-elektricky-chodia-odklonenou-trasou.webp"
-    },
-    {
-      "title": "Tragické ráno na východe: Dve nehody, dve obete vrátane dieťaťa",
-      "link": "https://www1.pluska.sk/krimi/tragicke-rano-na-vychode-dve-nehody-dve-obete-vratane-dietata",
-      "time": "2026-10-03T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/7f9/7f9e435b-fa85-4242-b152-70679de09544.webp"
     }
   ]
 }

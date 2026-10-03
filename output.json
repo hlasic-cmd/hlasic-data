@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T21:22:34.521482+00:00",
+  "generated_at": "2026-10-03T23:54:40.198346+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 1,
   "items": [
     {
       "title": "V Košickom kraji sa počas niekoľkých hodín stali dve tragické nehody",
@@ -11,33 +11,6 @@
       "region": "kosicky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Vo Svite pri Lidli havarovali tri autá, premávku riadi polícia",
-      "link": "https://www.presovak.sk/clanky/15666/hromadna-nehoda-vo-svite-pri-lidli-premavku-riadi-policia",
-      "time": "2026-10-03T14:47:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Vo Veľkom Mederi pri Kauflande havarovali dve vozidlá",
-      "link": "https://www.trnavak.sk/clanky/12445/pri-kauflande-vo-velkom-mederi-doslo-k-nehode-na-miesto-smeruju-vsetky-zachranne-zlozky",
-      "time": "2026-10-03T13:34:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "V Hôrke pri Poprade sa zrazil motocykel s autom, zasahovali tam všetky záchranné zložky",
-      "link": "https://www.presovak.sk/clanky/15664/pri-poprade-doslo-k-vaznej-nehode-motocykla-a-osobneho-auta-zasahovali-pri-nej-vsetky-zachranne-zlozky",
-      "time": "2026-10-03T11:44:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791027863-pri-poprade-doslo-k-vaznej-nehode-motocykla-a-osobneho-auta-zasahovali-pri-nej-vsetky-zachranne-zlozky.webp"
     }
   ]
 }

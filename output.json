@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-04T08:52:01.777079+00:00",
+  "generated_at": "2026-10-04T14:26:20.797370+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 12,
   "items": [
+    {
+      "title": "21-ročný cyklista sa na pumptracku v Beckove vážne zranil, odviezol ho vrtuľník",
+      "link": "https://www.trencinak.sk/clanky/14006/na-pumptracku-v-beckove-sa-vazne-zranil-21-rocny-cyklista-po-pade-ho-odviezol-vrtulnik",
+      "time": "2026-10-04T14:03:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791122631-na-pumptracku-v-beckove-sa-vazne-zranil-21rocny-cyklista-po-pade-ho-odviezol-vrtulnik.webp"
+    },
+    {
+      "title": "Nehoda na priecestí pri Trstenej zastavila dopravu, úsek je neprejazdný",
+      "link": "https://www.zilinak.sk/clanky/43185/na-orave-sa-zrazil-vlak-s-autom-doprava-je-prerusena-a-zeleznicne-priecestie-neprejazdne",
+      "time": "2026-10-04T13:37:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791121072-na-orave-sa-zrazil-vlak-s-autom-doprava-je-prerusena-a-zeleznicne-priecestie-neprejazdne.webp"
+    },
+    {
+      "title": "Urpín z Banskej Bystrice nejde pre poruchu rušňa, mešká hodinu",
+      "link": "https://www.bystricak.sk/clanky/13302/porucha-rusna-aj-obmedzenia-po-poziari-cestujuci-z-bystrice-celia-v-nedelu-na-zeleznici-komplikaciam",
+      "time": "2026-10-04T13:26:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791120398-porucha-rusna-aj-obmedzenia-po-poziari-cestujuci-z-bystrice-celia-v-nedelu-na-zeleznici-komplikaciam.webp"
+    },
+    {
+      "title": "Polícia pátra po Jakubovi a Filipovi zo Senice a Galanty",
+      "link": "https://www.trnavak.sk/clanky/12450/policia-v-trnavskom-kraji-patra-po-dvoch-nezvestnych-mladikoch-nevideli-ste-15-rocneho-jakuba-a-14-rocneho-filipa",
+      "time": "2026-10-04T13:10:00+00:00",
+      "cat": "patranie",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791119269-policia-v-trnavskom-kraji-patra-po-dvoch-nezvestnych-mladikoch-nevideli-ste-15rocneho-jakuba-a-14rocneho-filip.webp"
+    },
+    {
+      "title": "V okrese Veľký Krtíš pátrajú po nezvestnom Andrejovi Rumplim",
+      "link": "https://www.bystricak.sk/clanky/13301/na-zoznam-nezvestnych-pribudol-andrej-rumpli-z-okresu-velky-krtis-patraju-po-nom",
+      "time": "2026-10-04T12:25:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791116733-na-zoznam-nezvestnych-pribudol-andrej-rumpli-z-okresu-velky-krtis-patraju-po-nom.webp"
+    },
+    {
+      "title": "V Michale na Ostrove zhorel traktor, škoda 130-tisíc eur",
+      "link": "https://www.trnavak.sk/clanky/12449/foto-na-poli-v-okrese-dunajska-streda-vypukol-poziar-traktor-vyhorel-do-tla",
+      "time": "2026-10-04T12:15:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791114991-foto-na-poli-v-okrese-dunajska-streda-vypukol-poziar-traktor-vyhorel-do-tla.webp"
+    },
+    {
+      "title": "Ktoré vlaky v Žiline po požiari nejdú a dokedy to potrvá?",
+      "link": "https://www.zilinak.sk/clanky/43184/zeleznicny-uzol-v-ziline-je-po-poziari-stale-nefunkcny-obmedzene-su-tieto-vlaky-termin-opravy-zatial-nespresnili",
+      "time": "2026-10-04T11:30:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791111473-zeleznicny-uzol-v-ziline-je-po-poziari-stale-nefunkcny-obmedzene-su-tieto-vlaky-termin-opravy-zatial-nespresni.webp"
+    },
+    {
+      "title": "Fačkovské sedlo zachvátil požiar chaty, hasiči hľadali skryté ohniská",
+      "link": "https://www.zilinak.sk/clanky/43182/foto-chata-na-fackovskom-sedle-skoncila-v-plamenoch-hasici-ju-museli-rozobrat-hladali-skryte-ohniska",
+      "time": "2026-10-04T10:30:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791102148-foto-chata-na-fackovskom-sedle-skoncila-v-plamenoch-hasici-ju-museli-rozobrat-hladali-skryte-ohniska.webp"
+    },
     {
       "title": "V okrese Gelnica horel les, hasiť ho pomáhal aj vojenský vrtuľník Black Hawk",
       "link": "https://korzar.sme.sk/spis-gemer/c/v-okrese-gelnica-horel-les-hasit-ho-pomahal-aj-vojensky-vrtulnik-black-hawk?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",

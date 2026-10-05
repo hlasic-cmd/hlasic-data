@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T21:22:47.170760+00:00",
+  "generated_at": "2026-10-05T00:00:11.213272+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "title": "Vlak REX 1813 zrazil osobu medzi Leopoldovom a Hlohovcom",
@@ -29,15 +29,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791120398-porucha-rusna-aj-obmedzenia-po-poziari-cestujuci-z-bystrice-celia-v-nedelu-na-zeleznici-komplikaciam.webp"
-    },
-    {
-      "title": "Ktoré vlaky v Žiline po požiari nejdú a dokedy to potrvá?",
-      "link": "https://www.zilinak.sk/clanky/43184/zeleznicny-uzol-v-ziline-je-po-poziari-stale-nefunkcny-obmedzene-su-tieto-vlaky-termin-opravy-zatial-nespresnili",
-      "time": "2026-10-04T11:30:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791111473-zeleznicny-uzol-v-ziline-je-po-poziari-stale-nefunkcny-obmedzene-su-tieto-vlaky-termin-opravy-zatial-nespresni.webp"
     }
   ]
 }

@@ -1,124 +1,79 @@
 {
-  "generated_at": "2026-10-05T11:35:52.459349+00:00",
+  "generated_at": "2026-10-06T00:57:04.601434+00:00",
   "max_age_hours": 12,
-  "count": 13,
+  "count": 8,
   "items": [
     {
-      "title": "Polícia pátra po 23-ročnom Seánovi Petrovi, od piatka je nezvestný",
-      "link": "https://www.trnavak.sk/clanky/12459/z-okresu-senica-zmizol-23-rocny-sean-peter-zvykne-nosit-volne-oblecenie-policia-prosi-o-pomoc-pri-patrani",
-      "time": "2026-10-05T10:40:00+00:00",
-      "cat": "patranie",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791191303-z-okresu-senica-zmizol-23rocny-sean-peter-zvykne-nosit-volne-oblecenie-policia-prosi-o-pomoc-pri-patrani.webp"
+      "title": "Polícia uzavrela cestu medzi Sabinovom a Šarišskými Michaľanmi, došlo tu k vážnej nehode",
+      "link": "https://www.presovak.sk/clanky/15691/cestu-medzi-sabinovom-a-sarisskymi-michalanmi-uzavrela-vazna-nehoda-auto-vyletelo-mimo-vozovky",
+      "time": "2026-10-05T16:53:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Polícia pátra po nezvestnej Lucii Štrbovej z okresu Topoľčany",
-      "link": "https://www.nitrak.sk/clanky/12104/videli-ste-ju-45-rocna-lucia-z-okresu-topolcany-je-nezvestna-od-jej-zmiznutia-o-nej-nemaju-ziadne-spravy",
-      "time": "2026-10-05T10:40:00+00:00",
-      "cat": "patranie",
+      "title": "Uzávera priecestia v okrese Levice komplikuje dopravu, tvoria sa kolóny. Pozor aj v Nitre",
+      "link": "https://www.nitrak.sk/clanky/12112/vodici-pozor-pod-zoborom-v-nitre-doslo-k-nehode-v-okrese-levice-komplikuje-dopravu-uzavera-priecestia",
+      "time": "2026-10-05T16:45:00+00:00",
+      "cat": "nehoda",
       "region": "nitriansky",
       "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791192709-videli-ste-ju-45rocna-lucia-z-okresu-topolcany-je-nezvestna-od-jej-zmiznutia-o-nej-nemaju-ziadne-spravy.webp"
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791218744-vodici-pozor-pod-zoborom-v-nitre-doslo-k-nehode-v-okrese-levice-komplikuje-dopravu-uzavera-priecestia.webp"
     },
     {
-      "title": "Pri Senci sa zrazili tri autá, hasiči ošetrili dvoch zranených",
-      "link": "https://www.bratislavak.sk/clanky/15715/foto-zrazka-troch-aut-pri-senci-nehoda-mala-sest-ucastnikov-dvaja-sa-zranili",
-      "time": "2026-10-05T10:30:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791195162-foto-zrazka-troch-aut-pri-senci-nehoda-mala-sest-ucastnikov-dvaja-sa-zranili.webp"
-    },
-    {
-      "title": "Hasiči zasahujú neďaleko Dunajskej Stredy, horí traktor aj strnisko",
-      "link": "https://www.trnavak.sk/clanky/12460/foto-traktor-pri-dunajskej-strede-zachvatil-poziar-plamene-preskocili-aj-na-strnisko-na-mieste-zasahuju-hasici",
-      "time": "2026-10-05T09:31:00+00:00",
+      "title": "Rezort vnútra: V septembri bolo zaznamenaných 38 mimoriadnych udalostí",
+      "link": "https://www.teraz.sk/slovensko/rezort-vnutra-v-septembri-bolo-zazname/997466-clanok.html",
+      "time": "2026-10-05T14:59:00+00:00",
       "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791192397-foto-traktor-pri-dunajskej-strede-zachvatil-poziar-plamene-preskocili-aj-na-strnisko-na-mieste-zasahuju-hasici.webp"
-    },
-    {
-      "title": "POŽIAR TRAKTORA: V obci Padáň zasahujú hasiči",
-      "link": "https://www.teraz.sk/regiony/poziar-traktora-v-obci-padan-zasahuj/997291-clanok.html",
-      "time": "2026-10-05T09:05:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
+      "region": "zilinsky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Na Záhorí sa zrazili dve autá, dopravu riadi polícia",
-      "link": "https://www.trnavak.sk/clanky/12457/v-meste-na-zahori-sa-zrazili-dve-auta-premavku-riadi-policia",
-      "time": "2026-10-05T08:33:00+00:00",
+      "title": "Za 12 hodín pod Vršatcom vybehali pre Natálku 45 358 eur. Stovky ľudí spojil jeden cieľ",
+      "link": "https://www.bystricak.sk/clanky/13316/pod-vrsatcom-behali-pre-bojovnicku-natalku-po-tragickej-nehode-pri-lupci-vyzbieralo-sa-viac-ako-45-tisic-eur",
+      "time": "2026-10-05T14:40:00+00:00",
       "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Medvieďa pri Ružomberku zahynulo po nehode. Medvede hlásia v ďalších troch obciach",
-      "link": "https://www.zilinak.sk/clanky/43197/tragicka-nehoda-na-liptove-male-medvieda-zrazila-dodavka-dalsie-selmy-hlasia-z-troch-obci",
-      "time": "2026-10-05T08:25:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791188697-tragicka-nehoda-na-liptove-male-medvieda-zrazila-dodavka-dalsie-selmy-hlasia-z-troch-obci.webp"
-    },
-    {
-      "title": "FOTO: Pomoc turistovi v Nízkych Tatrách si vyžiadala vrtuľník aj sanitku",
-      "link": "https://www.bystricak.sk/clanky/13307/foto-turistu-v-tazko-dostupnom-terene-nizkych-tatier-musel-transportovat-vrtulnik-skoncil-v-breznianskej-nemocnici",
-      "time": "2026-10-05T08:20:00+00:00",
-      "cat": "zasah",
       "region": "banskobystricky",
       "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791184942-foto-turistu-v-tazko-dostupnom-terene-nizkych-tatier-musel-transportovat-vrtulnik-skoncil-v-breznianskej-nemoc.webp"
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791207572-pod-vrsatcom-behali-pre-bojovnicku-natalku-po-tragickej-nehode-pri-lupci-vyzbieralo-sa-viac-ako-45tisic-eur.webp"
     },
     {
-      "title": "Požiar na Prístavnej v Bratislave zasiahol chatku aj porast",
-      "link": "https://www.bratislavak.sk/clanky/15706/foto-na-pristavnej-ulici-horela-zahradna-chatka-poziar-sa-rychlo-rozsiril-aj-na-okolity-porast",
-      "time": "2026-10-05T07:40:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791183928-foto-na-pristavnej-ulici-horela-zahradna-chatka-poziar-sa-rychlo-rozsiril-aj-na-okolity-porast.webp"
-    },
-    {
-      "title": "Beckov po páde cyklistu na pumptracku vyzýva na prilby",
-      "link": "https://www.trencinak.sk/clanky/14008/beckov-reaguje-na-desivu-nehodu-na-pumptracku-varuje-pred-velkym-rizikom-do-diskusie-sa-zapojili-aj-skuseni-jazdci",
-      "time": "2026-10-05T06:55:00+00:00",
-      "cat": "nehoda",
+      "title": "Polícia pátra po nezvestnej Zuzane Illéšovej z Púchova",
+      "link": "https://www.trencinak.sk/clanky/14016/policia-patra-po-23-rocnej-zuzane-z-puchova-nezvestna-je-uz-tri-dni-zverejnili-jej-fotografiu-aj-opis",
+      "time": "2026-10-05T14:20:00+00:00",
+      "cat": "patranie",
       "region": "trenciansky",
       "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791182186-beckov-reaguje-na-desivu-nehodu-na-pumptracku-varuje-pred-velkym-rizikom-do-diskusie-sa-zapojili-aj-skuseni-ja.webp"
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791209104-policia-patra-po-23rocnej-zuzane-z-puchova-nezvestna-je-uz-tri-dni-zverejnili-jej-fotografiu-aj-opis.webp"
     },
     {
-      "title": "Pre nehodu v Prešove uviazli vodiči v niekoľkokilometrových kolónach. Niektorí sa nevedeli dostať ani von z dvora",
-      "link": "https://www.presovak.sk/clanky/15674/pre-nehodu-v-presove-uviazli-vodici-v-niekolkokilometrovych-kolonach-niektori-sa-nevedeli-dostat-ani-von-z-dvora",
-      "time": "2026-10-05T06:14:00+00:00",
+      "title": "V Prešovskom kraji sa počas víkendu stali tri nehody s účasťou motocyklistov",
+      "link": "https://korzar.sme.sk/presov/c/v-presovskom-kraji-sa-pocas-vikendu-stali-tri-nehody-s-ucastou-motocyklistov?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-10-05T14:12:18+00:00",
       "cat": "nehoda",
       "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791180889-pre-nehodu-v-presove-uviazli-vodici-v-niekolkokilometrovych-kolonach-niektori-sa-nevedeli-dostat-ani-von-z-dvo.webp"
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a10c62-9b71-7610-88b4-ade5fcd31582.jpg"
     },
     {
-      "title": "Ťažké ráno pre vodičov v Trnavskom kraji: Zrážka kamióna s autom aj nehody so zverou",
-      "link": "https://www.trnavak.sk/clanky/12454/ranne-nehody-v-trnavskom-kraji-zrazka-kamionu-a-auta-zablokovala-cestu-pri-dalsich-koliziach-uradovala-zver",
-      "time": "2026-10-05T06:08:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791180578-ranne-nehody-v-trnavskom-kraji-zrazka-kamionu-a-auta-zablokovala-cestu-pri-dalsich-koliziach-uradovala-zver.webp"
-    },
-    {
-      "title": "Trikrát vyhorený zámok Kunerad ožíva: Kedy privíta verejnosť?",
-      "link": "https://www1.pluska.sk/premium/regiony/trikrat-vyhoreny-zamok-kunerad-oziva-kedy-privita-verejnost",
-      "time": "2026-10-05T00:00:00+00:00",
+      "title": "Železnice v Žiline po požiari stále bojujú s poškodenou infraštruktúrou. Kedy sa prevádzka vráti do normálu?",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2053189-zeleznice-v-ziline-po-poziari-stale-bojuju-s-poskodenou-infrastrukturou-kedy-sa-prevadzka-vrati-do-normalu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-05T14:08:20+00:00",
       "cat": "poziar",
       "region": "zilinsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/a7e/a7e7dfb9-9e26-44c7-ad0f-392d30e42c70.webp"
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2025/11/18/4x3-medium/vlak.jpg?v=/NU"
+    },
+    {
+      "title": "ŽSR: Železničná doprava v okolí Žiliny zostáva v mimoriadnom režime",
+      "link": "https://www.teraz.sk/regiony/zsr-zeleznicna-doprava-v-okoli-zi/997438-clanok.html",
+      "time": "2026-10-05T14:02:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
     }
   ]
 }

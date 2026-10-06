@@ -1,79 +1,25 @@
 {
-  "generated_at": "2026-10-06T00:57:04.601434+00:00",
+  "generated_at": "2026-10-06T07:01:54.849428+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 2,
   "items": [
     {
-      "title": "Polícia uzavrela cestu medzi Sabinovom a Šarišskými Michaľanmi, došlo tu k vážnej nehode",
-      "link": "https://www.presovak.sk/clanky/15691/cestu-medzi-sabinovom-a-sarisskymi-michalanmi-uzavrela-vazna-nehoda-auto-vyletelo-mimo-vozovky",
-      "time": "2026-10-05T16:53:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Uzávera priecestia v okrese Levice komplikuje dopravu, tvoria sa kolóny. Pozor aj v Nitre",
-      "link": "https://www.nitrak.sk/clanky/12112/vodici-pozor-pod-zoborom-v-nitre-doslo-k-nehode-v-okrese-levice-komplikuje-dopravu-uzavera-priecestia",
-      "time": "2026-10-05T16:45:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791218744-vodici-pozor-pod-zoborom-v-nitre-doslo-k-nehode-v-okrese-levice-komplikuje-dopravu-uzavera-priecestia.webp"
-    },
-    {
-      "title": "Rezort vnútra: V septembri bolo zaznamenaných 38 mimoriadnych udalostí",
-      "link": "https://www.teraz.sk/slovensko/rezort-vnutra-v-septembri-bolo-zazname/997466-clanok.html",
-      "time": "2026-10-05T14:59:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Za 12 hodín pod Vršatcom vybehali pre Natálku 45 358 eur. Stovky ľudí spojil jeden cieľ",
-      "link": "https://www.bystricak.sk/clanky/13316/pod-vrsatcom-behali-pre-bojovnicku-natalku-po-tragickej-nehode-pri-lupci-vyzbieralo-sa-viac-ako-45-tisic-eur",
-      "time": "2026-10-05T14:40:00+00:00",
+      "link": "https://www.trencinak.sk/clanky/14015/pod-vrsatcom-behali-pre-bojovnicku-natalku-po-tragickej-nehode-za-12-hodin-sa-vyzbieralo-viac-ako-45-tisic-eur",
+      "time": "2026-10-06T05:40:00+00:00",
       "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791207572-pod-vrsatcom-behali-pre-bojovnicku-natalku-po-tragickej-nehode-pri-lupci-vyzbieralo-sa-viac-ako-45tisic-eur.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnej Zuzane Illéšovej z Púchova",
-      "link": "https://www.trencinak.sk/clanky/14016/policia-patra-po-23-rocnej-zuzane-z-puchova-nezvestna-je-uz-tri-dni-zverejnili-jej-fotografiu-aj-opis",
-      "time": "2026-10-05T14:20:00+00:00",
-      "cat": "patranie",
       "region": "trenciansky",
       "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791209104-policia-patra-po-23rocnej-zuzane-z-puchova-nezvestna-je-uz-tri-dni-zverejnili-jej-fotografiu-aj-opis.webp"
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791207528-pod-vrsatcom-behali-pre-bojovnicku-natalku-po-tragickej-nehode-za-12-hodin-sa-vyzbieralo-viac-ako-45tisic-eur.webp"
     },
     {
-      "title": "V Prešovskom kraji sa počas víkendu stali tri nehody s účasťou motocyklistov",
-      "link": "https://korzar.sme.sk/presov/c/v-presovskom-kraji-sa-pocas-vikendu-stali-tri-nehody-s-ucastou-motocyklistov?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-05T14:12:18+00:00",
+      "title": "Košická polícia hľadá svedkov nehody na Masarykovej ulici",
+      "link": "https://www.kosicak.sk/clanky/14425/kosicania-nevideli-ste-tuto-nehodu-policia-potrebuje-zistit-co-sa-naozaj-stalo-kazdy-dokaz-je-cenny",
+      "time": "2026-10-06T05:40:00+00:00",
       "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a10c62-9b71-7610-88b4-ade5fcd31582.jpg"
-    },
-    {
-      "title": "Železnice v Žiline po požiari stále bojujú s poškodenou infraštruktúrou. Kedy sa prevádzka vráti do normálu?",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2053189-zeleznice-v-ziline-po-poziari-stale-bojuju-s-poskodenou-infrastrukturou-kedy-sa-prevadzka-vrati-do-normalu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-05T14:08:20+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2025/11/18/4x3-medium/vlak.jpg?v=/NU"
-    },
-    {
-      "title": "ŽSR: Železničná doprava v okolí Žiliny zostáva v mimoriadnom režime",
-      "link": "https://www.teraz.sk/regiony/zsr-zeleznicna-doprava-v-okoli-zi/997438-clanok.html",
-      "time": "2026-10-05T14:02:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791206029-kosicania-nevideli-ste-tuto-nehodu-policia-potrebuje-zistit-co-sa-naozaj-stalo-kazdy-dokaz-je-cenny.webp"
     }
   ]
 }

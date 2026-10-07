@@ -1,16 +1,88 @@
 {
-  "generated_at": "2026-10-07T02:16:36.851800+00:00",
+  "generated_at": "2026-10-07T08:41:44.755532+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 9,
   "items": [
     {
-      "title": "Matka s dieťaťom sa ocitla v nebezpečnej situácii. Tvrdí, že kvôli nezodpovednému šoférovi narazila pri Trnave do kamióna",
-      "link": "https://www.trnavak.sk/clanky/12472/nebezpecne-predbiehanie-pri-trnave-skoncilo-zrazkou-pri-ktorej-bolo-ohrozene-aj-dieta-mama-vodicka-teraz-hlada-svedkov",
-      "time": "2026-10-06T15:20:00+00:00",
+      "title": "Nočný požiar auta v Žilinskej Lehote. Hasiči potvrdili úmyselné zapálenie neznámou osobou",
+      "link": "https://www.aktuality.sk/clanok/7dnZXYJ/nocny-poziar-auta-v-zilinskej-lehote-hasici-potvrdili-umyselne-zapalenie-neznamou-osobou/",
+      "time": "2026-10-07T08:23:27+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/nocny-poziar-auta-v-zilinskej-lehote/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/0i5ktkpTURBXy9kMGUxYWIyOWVmN2Y3OGFmM2FhZDBjNzUwZTA0NjU3My5qcGeSlQMAQs0Eks0CkpUCzQfQAMLD?st=xoSndfEKCiMaTQaJ2K3joqmarU87_29rCJi5NPXLIjk&ts=1791324000&e=0"
+    },
+    {
+      "title": "Neznáma osoba zapálila v noci auto v Žilinskej Lehote",
+      "link": "https://www.teraz.sk/regiony/neznama-osoba-zapalila-v-noci-auto-v-/997853-clanok.html",
+      "time": "2026-10-07T07:54:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Nehoda na Záhorí zablokovala D2 do Bratislavy",
+      "link": "https://www.trnavak.sk/clanky/12487/vodici-na-zahori-pozor-dopravna-nehoda-na-d2-zablokovala-smer-na-bratislavu",
+      "time": "2026-10-07T07:39:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791280842-nebezpecne-predbiehanie-pri-trnave-skoncilo-zrazkou-pri-ktorej-bolo-ohrozene-aj-dieta-mama-vodicka-teraz-hlada.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791358787-vodici-na-zahori-pozor-dopravna-nehoda-na-d2-zablokovala-smer-na-bratislavu.webp"
+    },
+    {
+      "title": "Namiesto obiehania trpezlivo zostali za bicyklami. Liptáci chvália vodičov nákladných áut",
+      "link": "https://www.zilinak.sk/clanky/43232/ziadne-trubenie-prasenie-ani-riskantne-obiehanie-vodici-nakladiakov-si-vysluzili-pochvalu-od-cyklistov-z-liptova",
+      "time": "2026-10-07T06:40:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791281329-ziadne-trubenie-prasenie-ani-riskantne-obiehanie-vodici-nakladiakov-si-vysluzili-pochvalu-od-cyklistov-z-lipto.webp"
+    },
+    {
+      "title": "Kolóna pri Malom Šariši, v Poprade sa zrazilo auto s dodávkou",
+      "link": "https://www.presovak.sk/clanky/15708/cestu-do-presova-komplikuje-rozsiahla-kolona-pri-malom-sarisi-v-poprade-zas-pozor-na-dopravnu-nehodu",
+      "time": "2026-10-07T06:19:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791354337-cestu-do-presova-komplikuje-rozsiahla-kolona-pri-malom-sarisi-v-poprade-zas-pozor-na-dopravnu-nehodu.webp"
+    },
+    {
+      "title": "Bratislavu v stredu ráno komplikujú nehody a kolóny",
+      "link": "https://www.bratislavak.sk/clanky/15741/v-bratislave-vas-v-stredu-rano-nepotesia-nehody-kolony-a-obmedzenia-na-dialniciach",
+      "time": "2026-10-07T06:17:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791353857-v-bratislave-vas-v-stredu-rano-nepotesia-nehody-kolony-a-obmedzenia-na-dialniciach.webp"
+    },
+    {
+      "title": "V Nitre pozor na ranné nehody: Jedna je na Štúrovej a na Cabajskej zrazilo auto chodkyňu",
+      "link": "https://www.nitrak.sk/clanky/12129/ranne-nehody-v-nitre-na-cabajskej-auto-zrazilo-mladu-chodkynu-museli-ju-previezt-do-nemocnice",
+      "time": "2026-10-07T06:15:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791356824-ranne-nehody-v-nitre-na-cabajskej-auto-zrazilo-mladu-chodkynu-museli-ju-previezt-do-nemocnice.webp"
+    },
+    {
+      "title": "Zrážka dvoch áut v Košiciach komplikuje dopravu",
+      "link": "https://www.kosicak.sk/clanky/14450/v-kosiciach-caka-na-vodicov-skuska-nervov-dovodom-je-zrazka-dvoch-aut-pri-autobusovej-stanici",
+      "time": "2026-10-07T06:06:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791353195-v-kosiciach-caka-na-vodicov-skuska-nervov-dovodom-je-zrazka-dvoch-aut-pri-autobusovej-stanici.webp"
+    },
+    {
+      "title": "Na Kysuciach opäť horelo. Obyčajný spotrebič spôsobil požiar so škodou 50-tisíc eur",
+      "link": "https://www.zilinak.sk/clanky/43247/poziar-na-kysuciach-napachal-skody-za-50-tisic-eur-na-vine-bol-spotrebic-ktory-ma-doma-takmer-kazdy",
+      "time": "2026-10-07T05:30:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791314826-poziar-na-kysuciach-napachal-skody-za-50tisic-eur-na-vine-bol-spotrebic-ktory-ma-doma-takmer-kazdy.webp"
     }
   ]
 }

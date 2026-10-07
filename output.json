@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T23:06:37.466674+00:00",
+  "generated_at": "2026-10-07T02:16:36.851800+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 1,
   "items": [
     {
       "title": "Matka s dieťaťom sa ocitla v nebezpečnej situácii. Tvrdí, že kvôli nezodpovednému šoférovi narazila pri Trnave do kamióna",
@@ -11,24 +11,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791280842-nebezpecne-predbiehanie-pri-trnave-skoncilo-zrazkou-pri-ktorej-bolo-ohrozene-aj-dieta-mama-vodicka-teraz-hlada.webp"
-    },
-    {
-      "title": "Rezort vnútra uzatvorí kontrakt na dodávku nových ťažkých vrtuľníkov",
-      "link": "https://www.teraz.sk/slovensko/rezort-vnutra-uzatvori-kontrakt-na-dod/997713-clanok.html",
-      "time": "2026-10-06T13:48:00+00:00",
-      "cat": "zasah",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V závode v Dunajskej Strede zomrel 31-ročný muž",
-      "link": "https://www.trnavak.sk/clanky/12476/tragedia-vo-vyrobnom-zavode-oblubeneho-peciva-v-dunajskej-strede-pri-nehode-zomrel-31-rocny-muz",
-      "time": "2026-10-06T12:30:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791289857-tragedia-vo-vyrobnom-zavode-oblubeneho-peciva-v-dunajskej-strede-pri-nehode-zomrel-31rocny-muz.webp"
     }
   ]
 }

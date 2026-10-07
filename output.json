@@ -1,88 +1,70 @@
 {
-  "generated_at": "2026-10-07T08:41:44.755532+00:00",
+  "generated_at": "2026-10-07T15:46:10.049808+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 7,
   "items": [
     {
-      "title": "Nočný požiar auta v Žilinskej Lehote. Hasiči potvrdili úmyselné zapálenie neznámou osobou",
-      "link": "https://www.aktuality.sk/clanok/7dnZXYJ/nocny-poziar-auta-v-zilinskej-lehote-hasici-potvrdili-umyselne-zapalenie-neznamou-osobou/",
-      "time": "2026-10-07T08:23:27+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/nocny-poziar-auta-v-zilinskej-lehote/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/0i5ktkpTURBXy9kMGUxYWIyOWVmN2Y3OGFmM2FhZDBjNzUwZTA0NjU3My5qcGeSlQMAQs0Eks0CkpUCzQfQAMLD?st=xoSndfEKCiMaTQaJ2K3joqmarU87_29rCJi5NPXLIjk&ts=1791324000&e=0"
+      "title": "Andrej je nezvestný už osem dní: Rodina prosí, neubližujte mu",
+      "link": "https://www.bratislavak.sk/clanky/15746/rodina-nezvestneho-andreja-posiela-po-osmich-dnoch-patrania-zufalu-prosbu-ak-je-u-vas-neublizujte-mu-a-pustite-ho",
+      "time": "2026-10-07T15:20:00+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791363159-rodina-nezvestneho-andreja-posiela-po-osmich-dnoch-patrania-zufalu-prosbu-ak-je-u-vas-neublizujte-mu-a-pustite.webp"
     },
     {
-      "title": "Neznáma osoba zapálila v noci auto v Žilinskej Lehote",
-      "link": "https://www.teraz.sk/regiony/neznama-osoba-zapalila-v-noci-auto-v-/997853-clanok.html",
-      "time": "2026-10-07T07:54:00+00:00",
+      "title": "Lučenec vyhlásil mimoriadnu situáciu, požiar pripravil desiatky ľudí o domov",
+      "link": "https://www.aktuality.sk/clanok/SDYrsfT/lucenec-vyhlasuje-mimoriadnu-situaciu-po-poziari-pri-rapovskej-krizovatke-prisli-desiatky-ludi-o-domov/",
+      "time": "2026-10-07T14:19:18+00:00",
       "cat": "poziar",
-      "region": "zilinsky",
+      "region": "banskobystricky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/poziar-strechy-v-lucenci/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/__HktkpTURBXy8yNTY4OWQ2ZjhlY2NhMWRlN2FmMDNmMWM2YmRmZTBkYi5qcGeSlQMAc80IAM0EgJUCzQfQAMLD?st=rSIOdE-_W5oCyVJPlaDZq5_ukozNtUyApq6AlAGIihQ&ts=1791324000&e=0"
+    },
+    {
+      "title": "Lučenec po požiari nájomnej bytovky vyhlásil mimoriadnu situáciu",
+      "link": "https://www.teraz.sk/regiony/lucenec-po-poziari-najomnej-bytovky-v/997994-clanok.html",
+      "time": "2026-10-07T13:51:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Nehoda na Záhorí zablokovala D2 do Bratislavy",
-      "link": "https://www.trnavak.sk/clanky/12487/vodici-na-zahori-pozor-dopravna-nehoda-na-d2-zablokovala-smer-na-bratislavu",
-      "time": "2026-10-07T07:39:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791358787-vodici-na-zahori-pozor-dopravna-nehoda-na-d2-zablokovala-smer-na-bratislavu.webp"
+      "title": "Lučenec po požiari vyhlásil mimoriadnu situáciu. Desiatky ľudí prišli o bývanie",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2054681-lucenec-vyhlasil-mimoriadnu-situaciu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-07T13:50:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/10/07/2542287/4x3-medium/lucenec-poziar-bytovky.jpg?v=NtA"
     },
     {
-      "title": "Namiesto obiehania trpezlivo zostali za bicyklami. Liptáci chvália vodičov nákladných áut",
-      "link": "https://www.zilinak.sk/clanky/43232/ziadne-trubenie-prasenie-ani-riskantne-obiehanie-vodici-nakladiakov-si-vysluzili-pochvalu-od-cyklistov-z-liptova",
-      "time": "2026-10-07T06:40:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791281329-ziadne-trubenie-prasenie-ani-riskantne-obiehanie-vodici-nakladiakov-si-vysluzili-pochvalu-od-cyklistov-z-lipto.webp"
-    },
-    {
-      "title": "Kolóna pri Malom Šariši, v Poprade sa zrazilo auto s dodávkou",
-      "link": "https://www.presovak.sk/clanky/15708/cestu-do-presova-komplikuje-rozsiahla-kolona-pri-malom-sarisi-v-poprade-zas-pozor-na-dopravnu-nehodu",
-      "time": "2026-10-07T06:19:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791354337-cestu-do-presova-komplikuje-rozsiahla-kolona-pri-malom-sarisi-v-poprade-zas-pozor-na-dopravnu-nehodu.webp"
-    },
-    {
-      "title": "Bratislavu v stredu ráno komplikujú nehody a kolóny",
-      "link": "https://www.bratislavak.sk/clanky/15741/v-bratislave-vas-v-stredu-rano-nepotesia-nehody-kolony-a-obmedzenia-na-dialniciach",
-      "time": "2026-10-07T06:17:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791353857-v-bratislave-vas-v-stredu-rano-nepotesia-nehody-kolony-a-obmedzenia-na-dialniciach.webp"
-    },
-    {
-      "title": "V Nitre pozor na ranné nehody: Jedna je na Štúrovej a na Cabajskej zrazilo auto chodkyňu",
-      "link": "https://www.nitrak.sk/clanky/12129/ranne-nehody-v-nitre-na-cabajskej-auto-zrazilo-mladu-chodkynu-museli-ju-previezt-do-nemocnice",
-      "time": "2026-10-07T06:15:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791356824-ranne-nehody-v-nitre-na-cabajskej-auto-zrazilo-mladu-chodkynu-museli-ju-previezt-do-nemocnice.webp"
-    },
-    {
-      "title": "Zrážka dvoch áut v Košiciach komplikuje dopravu",
-      "link": "https://www.kosicak.sk/clanky/14450/v-kosiciach-caka-na-vodicov-skuska-nervov-dovodom-je-zrazka-dvoch-aut-pri-autobusovej-stanici",
-      "time": "2026-10-07T06:06:00+00:00",
+      "title": "FOTO: Pri hromadnej nehode neďaleko Košíc sa zrazili štyri vozidlá, hlásia zranených",
+      "link": "https://www.kosicak.sk/clanky/14467/foto-hromadna-nehoda-za-kosicami-pri-zrazke-styroch-vozidiel-sa-zranilo-viacero-osob-zabery-nahanaju-hrozu",
+      "time": "2026-10-07T13:26:00+00:00",
       "cat": "nehoda",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791353195-v-kosiciach-caka-na-vodicov-skuska-nervov-dovodom-je-zrazka-dvoch-aut-pri-autobusovej-stanici.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791380118-foto-hromadna-nehoda-za-kosicami-pri-zrazke-styroch-vozidiel-sa-zranilo-viacero-osob-zabery-nahanaju-hrozu.webp"
     },
     {
-      "title": "Na Kysuciach opäť horelo. Obyčajný spotrebič spôsobil požiar so škodou 50-tisíc eur",
-      "link": "https://www.zilinak.sk/clanky/43247/poziar-na-kysuciach-napachal-skody-za-50-tisic-eur-na-vine-bol-spotrebic-ktory-ma-doma-takmer-kazdy",
-      "time": "2026-10-07T05:30:00+00:00",
+      "title": "FOTO: Pri Hronci došlo k čelnej zrážke dvoch áut",
+      "link": "https://www.bystricak.sk/clanky/13348/foto-pri-brezne-sa-celne-zrazili-dve-auta-jedneho-cloveka-previezli-do-nemocnice",
+      "time": "2026-10-07T13:17:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791378591-foto-pri-brezne-sa-celne-zrazili-dve-auta-jedneho-cloveka-previezli-do-nemocnice.webp"
+    },
+    {
+      "title": "Výluky nám komplikujú život, ale nevadí. Fico predlžuje polovičné zľavy, označil ich za úspech",
+      "link": "https://dennikn.sk/5608425/vyluky-nam-komplikuju-zivot-ale-nevadi-fico-predlzuje-polovicne-zlavy-oznacil-ich-za-uspech/",
+      "time": "2026-10-07T12:28:30+00:00",
       "cat": "poziar",
       "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791314826-poziar-na-kysuciach-napachal-skody-za-50tisic-eur-na-vine-bol-spotrebic-ktory-ma-doma-takmer-kazdy.webp"
+      "src": "dennikn.sk",
+      "image": "https://img.dennikn.sk/wp-static/2026/09/Jednotka-radu-263-ZSSK-e1791373432803.jpg?w=450&amp;h=300&amp;fit=crop&amp;fm=jpg&amp;q=85&amp;s=4a1dc879516410cac346c930355e6ed4"
     }
   ]
 }

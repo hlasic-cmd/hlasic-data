@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-10-07T15:46:10.049808+00:00",
+  "generated_at": "2026-10-07T20:47:27.832525+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 6,
   "items": [
+    {
+      "title": "VIDEO: Obcou neďaleko Rožňavy sa rozliehajú zvuky sirén, horí budova v blízkosti vlakovej stanice",
+      "link": "https://www.kosicak.sk/clanky/14472/video-obcou-nedaleko-roznavy-sa-rozliehaju-zvuky-siren-hori-budova-v-blizkosti-vlakovej-stanice",
+      "time": "2026-10-07T19:46:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791402391-video-obcou-nedaleko-roznavy-sa-rozliehaju-zvuky-siren-hori-budova-v-blizkosti-vlakovej-stanice.webp"
+    },
+    {
+      "title": "Večerná nehoda v Ružinove upchala cestu smerom do Vrakune, autobusy aj vodiči to musia obchádzať cez okolité ulice",
+      "link": "https://www.bratislavak.sk/clanky/15759/vecerna-nehoda-v-ruzinove-upchala-cestu-smerom-do-vrakune-autobusy-aj-vodici-to-musia-obchadzat-cez-okolite-ulice",
+      "time": "2026-10-07T17:56:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "HaZZ zasahuje pri požiari lesa v skalnatom teréne v Medzihradnom v Dol",
+      "link": "https://www.teraz.sk/regiony/hazz-zasahuje-pri-poziari-lesa-v-skalna/998063-clanok.html",
+      "time": "2026-10-07T17:55:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Andrej je nezvestný už osem dní: Rodina prosí, neubližujte mu",
       "link": "https://www.bratislavak.sk/clanky/15746/rodina-nezvestneho-andreja-posiela-po-osmich-dnoch-patrania-zufalu-prosbu-ak-je-u-vas-neublizujte-mu-a-pustite-ho",
@@ -13,24 +40,6 @@
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791363159-rodina-nezvestneho-andreja-posiela-po-osmich-dnoch-patrania-zufalu-prosbu-ak-je-u-vas-neublizujte-mu-a-pustite.webp"
     },
     {
-      "title": "Lučenec vyhlásil mimoriadnu situáciu, požiar pripravil desiatky ľudí o domov",
-      "link": "https://www.aktuality.sk/clanok/SDYrsfT/lucenec-vyhlasuje-mimoriadnu-situaciu-po-poziari-pri-rapovskej-krizovatke-prisli-desiatky-ludi-o-domov/",
-      "time": "2026-10-07T14:19:18+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/poziar-strechy-v-lucenci/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/__HktkpTURBXy8yNTY4OWQ2ZjhlY2NhMWRlN2FmMDNmMWM2YmRmZTBkYi5qcGeSlQMAc80IAM0EgJUCzQfQAMLD?st=rSIOdE-_W5oCyVJPlaDZq5_ukozNtUyApq6AlAGIihQ&ts=1791324000&e=0"
-    },
-    {
-      "title": "Lučenec po požiari nájomnej bytovky vyhlásil mimoriadnu situáciu",
-      "link": "https://www.teraz.sk/regiony/lucenec-po-poziari-najomnej-bytovky-v/997994-clanok.html",
-      "time": "2026-10-07T13:51:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Lučenec po požiari vyhlásil mimoriadnu situáciu. Desiatky ľudí prišli o bývanie",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2054681-lucenec-vyhlasil-mimoriadnu-situaciu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-10-07T13:50:00+00:00",
@@ -38,24 +47,6 @@
       "region": "banskobystricky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/10/07/2542287/4x3-medium/lucenec-poziar-bytovky.jpg?v=NtA"
-    },
-    {
-      "title": "FOTO: Pri hromadnej nehode neďaleko Košíc sa zrazili štyri vozidlá, hlásia zranených",
-      "link": "https://www.kosicak.sk/clanky/14467/foto-hromadna-nehoda-za-kosicami-pri-zrazke-styroch-vozidiel-sa-zranilo-viacero-osob-zabery-nahanaju-hrozu",
-      "time": "2026-10-07T13:26:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791380118-foto-hromadna-nehoda-za-kosicami-pri-zrazke-styroch-vozidiel-sa-zranilo-viacero-osob-zabery-nahanaju-hrozu.webp"
-    },
-    {
-      "title": "FOTO: Pri Hronci došlo k čelnej zrážke dvoch áut",
-      "link": "https://www.bystricak.sk/clanky/13348/foto-pri-brezne-sa-celne-zrazili-dve-auta-jedneho-cloveka-previezli-do-nemocnice",
-      "time": "2026-10-07T13:17:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791378591-foto-pri-brezne-sa-celne-zrazili-dve-auta-jedneho-cloveka-previezli-do-nemocnice.webp"
     },
     {
       "title": "Výluky nám komplikujú život, ale nevadí. Fico predlžuje polovičné zľavy, označil ich za úspech",

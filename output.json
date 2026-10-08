@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-08T13:41:46.820675+00:00",
+  "generated_at": "2026-10-08T19:25:47.109690+00:00",
   "max_age_hours": 12,
-  "count": 16,
+  "count": 12,
   "items": [
+    {
+      "title": "VEĽKÝ POŽIAR: Plamene zachvátili les na vrchu Dubie pri Krompachoch",
+      "link": "https://www.teraz.sk/regiony/poziar-zachvatil-les-na-vrchu-dubie-pr/998222-clanok.html",
+      "time": "2026-10-08T16:13:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Nový kruhový objazd v Mikuláši funguje. Prvé kolóny prišli po nehode auta s cyklistom",
+      "link": "https://www.zilinak.sk/clanky/43296/na-vytazenej-krizovatke-na-liptove-nakreslili-novy-kruhac-doprava-sa-zrychlila-no-obmedzila-ju-nehoda-s-cyklistom",
+      "time": "2026-10-08T14:50:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791466554-na-vytazenej-krizovatke-na-liptove-nakreslili-novy-kruhac-doprava-sa-zrychlila-no-obmedzila-ju-nehoda-s-cyklis.webp"
+    },
+    {
+      "title": "V Prešove sa zrazili dve autá, úsek je ťažko prejazdný. Pozor aj na ďalšiu nehodu",
+      "link": "https://www.presovak.sk/clanky/15746/v-presove-sa-zrazili-dve-auta-usek-je-tazko-prejazdny-pozor-aj-na-dalsiu-nehodu",
+      "time": "2026-10-08T14:48:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Veronike po nehode v Poprade pomohol neznámy muž",
+      "link": "https://www.presovak.sk/clanky/15742/veronika-zazila-po-nehode-v-poprade-neprijemne-chvile-v-narocnej-situacii-jej-pomohol-neznamy-hrdina",
+      "time": "2026-10-08T14:00:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791465118-veronika-zazila-po-nehode-v-poprade-neprijemne-chvile-v-narocnej-situacii-jej-pomohol-neznamy-hrdina.webp"
+    },
+    {
+      "title": "Havarijný most pri Galante prešiel obnovou. Rekonštrukcia stála takmer milión eur",
+      "link": "https://www.trnavak.sk/clanky/12510/foto-po-takmer-roku-rekonstrukcie-je-most-nedaleko-galanty-opat-prejazdny-pribudli-na-nom-aj-viacere-novinky",
+      "time": "2026-10-08T13:50:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791465345-foto-po-takmer-roku-rekonstrukcie-je-most-nedaleko-galanty-opat-prejazdny-pribudli-na-nom-aj-viacere-novinky.webp"
+    },
     {
       "title": "Slovensko čaká veterná noc: SHMÚ vydal výstrahu pre tri kraje, nárazy môžu dosiahnuť silu víchrice",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2055391-slovensko-caka-veterna-noc-shmu-vydal-vystrahu-pre-tri-kraje-narazy-mozu-dosiahnut-silu-vichrice?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -11,24 +56,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2024/09/14/4x3-medium/sr-bratislava-pocasie-kalamita-vietor-skody-bax.jpg?v=T/w"
-    },
-    {
-      "title": "Hasiči v Nedožeroch-Brezanoch cvičili hromadnú nehodu",
-      "link": "https://www.trencinak.sk/clanky/14061/foto-autobus-sa-zrazil-s-dodavkou-na-mieste-boli-zraneni-hasici-pri-prievidzi-nacvicovali-narocny-zasah",
-      "time": "2026-10-08T11:49:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791457650-foto-autobus-sa-zrazil-s-dodavkou-na-mieste-boli-zraneni-hasici-pri-prievidzi-nacvicovali-narocny-zasah.webp"
-    },
-    {
-      "title": "Na D1 smerom na Trnavu sa zrazili dve autá",
-      "link": "https://www.trnavak.sk/clanky/12508/aktualne-z-dopravy-na-d1-smerom-na-trnavu-sa-zrazili-dve-auta-policia-odporuca-vodicom-v-useku-zvysit-opatrnost",
-      "time": "2026-10-08T11:37:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     },
     {
       "title": "Pri Krompachoch horí les. Korunový požiar sa šíri smerom k okolitým obciam",
@@ -40,33 +67,6 @@
       "image": "https://image.smedata.sk/image/w660-h440/01a11b44-dd36-7934-8cea-237db8f3bd41.jpg"
     },
     {
-      "title": "VEĽKÝ POŽIAR: Plamene zachvátili les na vrchu Dubie pri Krompachoch",
-      "link": "https://www.teraz.sk/regiony/poziar-zachvatil-les-na-vrchu-dubie-pr/998222-clanok.html",
-      "time": "2026-10-08T11:15:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Šutaj Eštok: Nové vrtuľníky budú financované z európskych peňazí",
-      "link": "https://www.teraz.sk/slovensko/sutaj-estok-nove-vrtulniky-budu-f/998221-clanok.html",
-      "time": "2026-10-08T11:06:00+00:00",
-      "cat": "zasah",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "FOTO: Na Spiši horí les o veľkosti dvoch futbalových ihrísk",
-      "link": "https://www.presovak.sk/clanky/15741/foto-les-na-spisi-pohltili-plamene-ohen-sa-siri-k-okolitym-obciam-hori-plocha-velka-ako-dve-futbalove-ihriska",
-      "time": "2026-10-08T11:02:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791457374-foto-les-na-spisi-pohltili-plamene-ohen-sa-siri-k-okolitym-obciam-hori-plocha-velka-ako-dve-futbalove-ihriska.webp"
-    },
-    {
       "title": "Polícia pátra po 31-ročnom Branislavovi z okresu Prievidza",
       "link": "https://www.trencinak.sk/clanky/14060/policia-patra-po-31-rocnom-branislavovi-z-okresu-prievidza-nezvestny-je-uz-3-dni",
       "time": "2026-10-08T10:53:00+00:00",
@@ -76,49 +76,13 @@
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791456364-policia-patra-po-31rocnom-branislavovi-z-okresu-prievidza-nezvestny-je-uz-3-dni.webp"
     },
     {
-      "title": "Požiar pri Krompachoch sa šíri smerom k obciam. Hasiči nasadzujú aj leteckú podporu",
+      "title": "Požiar na vrchu Dubie pri Krompachoch lokalizovali",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2055237-poziar-pri-krompachoch-sa-siri-smerom-k-obciam-hasici-nasadzuju-aj-letecku-podporu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-10-08T10:49:14+00:00",
       "cat": "poziar",
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/10/08/2542737/4x3-medium/poziar.jpg?v=Vz4"
-    },
-    {
-      "title": "FOTO: V Krompachoch horí les o veľkosti dvoch futbalových ihrísk",
-      "link": "https://www.kosicak.sk/clanky/14482/foto-les-pri-krompachoch-pohltili-plamene-ohen-sa-siri-k-okolitym-obciam-hori-plocha-velka-ako-dve-futbalove-ihriska",
-      "time": "2026-10-08T10:49:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791456621-foto-les-pri-krompachoch-pohltili-plamene-ohen-sa-siri-k-okolitym-obciam-hori-plocha-velka-ako-dve-futbalove-i.webp"
-    },
-    {
-      "title": "Pozor na nehodu v tuneli Prešov",
-      "link": "https://www.presovak.sk/clanky/15739/v-tuneli-presov-doslo-k-dopravnej-nehode-jeden-jazdny-pruh-je-blokovany",
-      "time": "2026-10-08T10:23:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Premávku na cestách Trnavského kraja skomplikovala nehoda",
-      "link": "https://www.trnavak.sk/clanky/12505/pozor-na-cestach-nedaleko-dunajskej-stredy-doslo-k-dopravnej-nehode",
-      "time": "2026-10-08T09:21:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791451307-pozor-na-cestach-nedaleko-dunajskej-stredy-doslo-k-dopravnej-nehode.webp"
-    },
-    {
-      "title": "FOTO: Pri Bielom kríži horel les, hasiči nasadili aj dron",
-      "link": "https://www.bratislavak.sk/clanky/15773/foto-male-karpaty-zachvatil-poziar-pri-bielom-krizi-horel-les-na-ploche-priblizne-300-krat-300-metrov",
-      "time": "2026-10-08T09:10:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791448023-foto-male-karpaty-zachvatil-poziar-pri-bielom-krizi-horel-les-na-ploche-priblizne-300-krat-300-metrov.webp"
     },
     {
       "title": "Tragický koniec historickej stavby: Oheň spálil na uhol budovu v Plešivci, za ktorej záchranu bojovali tisíce ľudí",
@@ -139,13 +103,13 @@
       "image": "https://prvd.sk/cdn/2026/02/06/4x3-medium/vlak.jpg?v=aog"
     },
     {
-      "title": "Havária kamióna na I/66 smerom na Krupinu. Dopravu riadi polícia",
-      "link": "https://www.bystricak.sk/clanky/13359/na-hlavnej-ceste-smerom-na-krupinu-havaroval-kamion-premavku-usmernuje-policia",
+      "title": "Koniec meškania vlakov v uzle Žilina? Železnice spresnili termín opravy po požiari",
+      "link": "https://www.zilinak.sk/clanky/43281/poziar-na-stanici-v-ziline-znicil-stovky-metrov-kablov-zeleznice-spresnili-termin-kedy-sa-obnovi-doprava",
       "time": "2026-10-08T07:53:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791446048-poziar-na-stanici-v-ziline-znicil-stovky-metrov-kablov-zeleznice-spresnili-termin-kedy-sa-obnovi-doprava.webp"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T19:25:47.109690+00:00",
+  "generated_at": "2026-10-08T23:48:25.791612+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 2,
   "items": [
     {
       "title": "VEĽKÝ POŽIAR: Plamene zachvátili les na vrchu Dubie pri Krompachoch",
@@ -13,42 +13,6 @@
       "image": null
     },
     {
-      "title": "Nový kruhový objazd v Mikuláši funguje. Prvé kolóny prišli po nehode auta s cyklistom",
-      "link": "https://www.zilinak.sk/clanky/43296/na-vytazenej-krizovatke-na-liptove-nakreslili-novy-kruhac-doprava-sa-zrychlila-no-obmedzila-ju-nehoda-s-cyklistom",
-      "time": "2026-10-08T14:50:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791466554-na-vytazenej-krizovatke-na-liptove-nakreslili-novy-kruhac-doprava-sa-zrychlila-no-obmedzila-ju-nehoda-s-cyklis.webp"
-    },
-    {
-      "title": "V Prešove sa zrazili dve autá, úsek je ťažko prejazdný. Pozor aj na ďalšiu nehodu",
-      "link": "https://www.presovak.sk/clanky/15746/v-presove-sa-zrazili-dve-auta-usek-je-tazko-prejazdny-pozor-aj-na-dalsiu-nehodu",
-      "time": "2026-10-08T14:48:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Veronike po nehode v Poprade pomohol neznámy muž",
-      "link": "https://www.presovak.sk/clanky/15742/veronika-zazila-po-nehode-v-poprade-neprijemne-chvile-v-narocnej-situacii-jej-pomohol-neznamy-hrdina",
-      "time": "2026-10-08T14:00:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791465118-veronika-zazila-po-nehode-v-poprade-neprijemne-chvile-v-narocnej-situacii-jej-pomohol-neznamy-hrdina.webp"
-    },
-    {
-      "title": "Havarijný most pri Galante prešiel obnovou. Rekonštrukcia stála takmer milión eur",
-      "link": "https://www.trnavak.sk/clanky/12510/foto-po-takmer-roku-rekonstrukcie-je-most-nedaleko-galanty-opat-prejazdny-pribudli-na-nom-aj-viacere-novinky",
-      "time": "2026-10-08T13:50:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791465345-foto-po-takmer-roku-rekonstrukcie-je-most-nedaleko-galanty-opat-prejazdny-pribudli-na-nom-aj-viacere-novinky.webp"
-    },
-    {
       "title": "Slovensko čaká veterná noc: SHMÚ vydal výstrahu pre tri kraje, nárazy môžu dosiahnuť silu víchrice",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2055391-slovensko-caka-veterna-noc-shmu-vydal-vystrahu-pre-tri-kraje-narazy-mozu-dosiahnut-silu-vichrice?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-10-08T12:48:31+00:00",
@@ -56,60 +20,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2024/09/14/4x3-medium/sr-bratislava-pocasie-kalamita-vietor-skody-bax.jpg?v=T/w"
-    },
-    {
-      "title": "Pri Krompachoch horí les. Korunový požiar sa šíri smerom k okolitým obciam",
-      "link": "https://korzar.sme.sk/spis-gemer/c/pri-krompachoch-hori-les-korunovy-poziar-sa-siri-smerom-k-okolitym-obciam?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-08T11:29:04+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a11b44-dd36-7934-8cea-237db8f3bd41.jpg"
-    },
-    {
-      "title": "Polícia pátra po 31-ročnom Branislavovi z okresu Prievidza",
-      "link": "https://www.trencinak.sk/clanky/14060/policia-patra-po-31-rocnom-branislavovi-z-okresu-prievidza-nezvestny-je-uz-3-dni",
-      "time": "2026-10-08T10:53:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791456364-policia-patra-po-31rocnom-branislavovi-z-okresu-prievidza-nezvestny-je-uz-3-dni.webp"
-    },
-    {
-      "title": "Požiar na vrchu Dubie pri Krompachoch lokalizovali",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2055237-poziar-pri-krompachoch-sa-siri-smerom-k-obciam-hasici-nasadzuju-aj-letecku-podporu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-08T10:49:14+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/08/2542737/4x3-medium/poziar.jpg?v=Vz4"
-    },
-    {
-      "title": "Tragický koniec historickej stavby: Oheň spálil na uhol budovu v Plešivci, za ktorej záchranu bojovali tisíce ľudí",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2055057-historicky-mlyn-v-plesivci-zhorel-do-tla-skody-su-astronomicke?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-08T08:14:34+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/08/2542481/4x3-medium/poziar-mlyn-plesivec.jpg?v=tg8"
-    },
-    {
-      "title": "Veľký návrat vlakov cez Žilinu je na dohľad. Kedy ŽSR plánujú obnoviť plnú prevádzku?",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2055045-velky-navrat-vlakov-cez-zilinu-je-na-dohlad-kedy-zsr-planuju-obnovit-plnu-prevadzku?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-08T08:07:30+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/02/06/4x3-medium/vlak.jpg?v=aog"
-    },
-    {
-      "title": "Koniec meškania vlakov v uzle Žilina? Železnice spresnili termín opravy po požiari",
-      "link": "https://www.zilinak.sk/clanky/43281/poziar-na-stanici-v-ziline-znicil-stovky-metrov-kablov-zeleznice-spresnili-termin-kedy-sa-obnovi-doprava",
-      "time": "2026-10-08T07:53:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791446048-poziar-na-stanici-v-ziline-znicil-stovky-metrov-kablov-zeleznice-spresnili-termin-kedy-sa-obnovi-doprava.webp"
     }
   ]
 }

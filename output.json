@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T20:47:27.832525+00:00",
+  "generated_at": "2026-10-08T00:25:38.779098+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 7,
   "items": [
     {
       "title": "VIDEO: Obcou neďaleko Rožňavy sa rozliehajú zvuky sirén, horí budova v blízkosti vlakovej stanice",
@@ -47,6 +47,15 @@
       "region": "banskobystricky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/10/07/2542287/4x3-medium/lucenec-poziar-bytovky.jpg?v=NtA"
+    },
+    {
+      "title": "FOTO: Pri hromadnej nehode neďaleko Košíc sa zrazili štyri vozidlá, hlásia zranených",
+      "link": "https://www.kosicak.sk/clanky/14467/foto-hromadna-nehoda-za-kosicami-pri-zrazke-styroch-vozidiel-sa-zranilo-viacero-osob-zabery-nahanaju-hrozu",
+      "time": "2026-10-07T13:26:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791380118-foto-hromadna-nehoda-za-kosicami-pri-zrazke-styroch-vozidiel-sa-zranilo-viacero-osob-zabery-nahanaju-hrozu.webp"
     },
     {
       "title": "Výluky nám komplikujú život, ale nevadí. Fico predlžuje polovičné zľavy, označil ich za úspech",

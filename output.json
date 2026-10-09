@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T23:48:25.791612+00:00",
+  "generated_at": "2026-10-09T03:06:39.002077+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "title": "VEĽKÝ POŽIAR: Plamene zachvátili les na vrchu Dubie pri Krompachoch",
@@ -11,15 +11,6 @@
       "region": "kosicky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Slovensko čaká veterná noc: SHMÚ vydal výstrahu pre tri kraje, nárazy môžu dosiahnuť silu víchrice",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2055391-slovensko-caka-veterna-noc-shmu-vydal-vystrahu-pre-tri-kraje-narazy-mozu-dosiahnut-silu-vichrice?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-08T12:48:31+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2024/09/14/4x3-medium/sr-bratislava-pocasie-kalamita-vietor-skody-bax.jpg?v=T/w"
     }
   ]
 }

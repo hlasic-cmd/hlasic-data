@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-10-09T17:03:56.007002+00:00",
+  "generated_at": "2026-10-09T21:34:27.374419+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 4,
   "items": [
+    {
+      "title": "Železnice opravujú trať v Žiline po požiari. Vlaky sa budú postupne obnovovať od pondelka",
+      "link": "https://www.zilinak.sk/clanky/43313/foto-v-ziline-pokrocili-opravy-po-poziari-vratia-sa-od-pondelka-zrusene-vlaky-dopravca-zatial-nic-neslubuje",
+      "time": "2026-10-09T17:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791562172-foto-v-ziline-pokrocili-opravy-po-poziari-vratia-sa-od-pondelka-zrusene-vlaky-dopravca-zatial-nic-neslubuje.webp"
+    },
     {
       "title": "Žilinu ochromil požiar. Preveruje Slovensko aj možnú sabotáž?",
       "link": "https://www.bratislavak.sk/clanky/15779/v-zahranici-preveruju-sabotaze-na-zelezniciach-o-poziari-ktory-nadlho-ochromil-velky-uzol-v-ziline-nevieme-stale-nic",
@@ -11,15 +20,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791550094-v-zahranici-preveruju-sabotaze-na-zelezniciach-o-poziari-ktory-nadlho-ochromil-velky-uzol-v-ziline-nevieme-sta.webp"
-    },
-    {
-      "title": "Pri Galante sa zrazili tri vozidlá, premávku riadi polícia",
-      "link": "https://www.trnavak.sk/clanky/12526/pozor-na-cestach-pri-galante-doslo-k-hromadnej-dopravnej-nehode-na-d1-sa-zase-zrazili-dve-auta",
-      "time": "2026-10-09T14:19:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791556074-pozor-na-cestach-pri-galante-doslo-k-hromadnej-dopravnej-nehode-na-d1-sa-zase-zrazili-dve-auta.webp"
     },
     {
       "title": "Vodička havarovala s 4,35 promile. V aute viezla aj svoje maloleté dieťa",
@@ -31,24 +31,6 @@
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791552853-myjavska-policia-neverila-vlastnym-ociam-vodicka-havarovala-s-435-promile-v-krvi-v-aute-viezla-aj-svoje-dieta.webp"
     },
     {
-      "title": "Piatkové popoludnie v Prešove skomplikovala nehoda troch áut, zdržíte sa",
-      "link": "https://www.presovak.sk/clanky/15763/piatkove-popoludnie-v-presove-skomplikovala-nehoda-troch-aut-zdrzite-sa",
-      "time": "2026-10-09T13:36:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "V Klátovej Novej Vsi sa zrazilo auto s traktorom, zranili sa traja ľudia",
-      "link": "https://www.trencinak.sk/clanky/14077/vazna-nehoda-v-klatovej-novej-vsi-zrazilo-sa-tam-osobne-auto-s-traktorom-zranili-sa-traja-ludia-zasahoval-aj-vrtulnik",
-      "time": "2026-10-09T12:28:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791548850-vazna-nehoda-v-klatovej-novej-vsi-zrazilo-sa-tam-osobne-auto-s-traktorom-zranili-sa-traja-ludia-zasahoval-aj-v.webp"
-    },
-    {
       "title": "Plamene v Bratislave zničili 9 áut a stroje na spracovanie dreva",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2056029-plamene-v-bratislave-znicili-9-aut-a-stroje-na-spracovanie-dreva?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-10-09T11:36:43+00:00",
@@ -56,15 +38,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/10/09/2543303/4x3-medium/poziar-hasic-auta.jpg?v=7zo"
-    },
-    {
-      "title": "Požiar rodinného domu v Povode: Vnútri boli štyri osoby, zasahovali hasiči z troch staníc",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2055751-poziar-rodinneho-domu-v-povode-vnutri-boli-styri-osoby-zasahovali-hasici-z-troch-stanic?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-09T07:08:07+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/09/2543093/4x3-medium/poziar-povoda.jpg?v=sc0"
     }
   ]
 }

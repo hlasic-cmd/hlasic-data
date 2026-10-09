@@ -1,16 +1,70 @@
 {
-  "generated_at": "2026-10-09T03:06:39.002077+00:00",
+  "generated_at": "2026-10-09T10:23:50.572314+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 7,
   "items": [
     {
-      "title": "VEĽKÝ POŽIAR: Plamene zachvátili les na vrchu Dubie pri Krompachoch",
-      "link": "https://www.teraz.sk/regiony/poziar-zachvatil-les-na-vrchu-dubie-pr/998222-clanok.html",
-      "time": "2026-10-08T16:13:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
+      "title": "TRAGICKÝ VEČER V SKALICI: Pri nehode zahynula 83-ročná cyklistka",
+      "link": "https://www.teraz.sk/regiony/policia-pri-dopravnej-nehode-v-skalici/998425-clanok.html",
+      "time": "2026-10-09T08:34:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
       "src": "teraz.sk",
       "image": null
+    },
+    {
+      "title": "Dodávka zrazila troch ľudí priamo na priechode. Polícia vyšetruje nehodu v Liptovskom Hrádku",
+      "link": "https://www.zilinak.sk/clanky/43311/vodic-zrazil-na-priechode-pre-chodcov-troch-ludi-vsetci-skoncili-v-nemocnici-s-dodavkou-vychadzal-z-liptovskeho-hradku",
+      "time": "2026-10-09T08:30:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791534522-vodic-zrazil-na-priechode-pre-chodcov-troch-ludi-vsetci-skoncili-v-nemocnici-s-dodavkou-vychadzal-z-liptovskeh.webp"
+    },
+    {
+      "title": "V Skalici po páde na vozovku zomrela 83-ročná cyklistka",
+      "link": "https://www.trnavak.sk/clanky/12514/foto-tragicky-vecer-v-skalici-cyklistka-pri-obchadzani-auta-spadla-na-vozovku-zraneniam-podlahla",
+      "time": "2026-10-09T08:00:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791531365-foto-tragicky-vecer-v-skalici-cyklistka-pri-obchadzani-auta-spadla-na-vozovku-zraneniam-podlahla.webp"
+    },
+    {
+      "title": "Požiar rodinného domu v Povode: Vnútri boli štyri osoby, zasahovali hasiči z troch staníc",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2055751-poziar-rodinneho-domu-v-povode-vnutri-boli-styri-osoby-zasahovali-hasici-z-troch-stanic?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-09T07:08:07+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/10/09/2543093/4x3-medium/poziar-povoda.jpg?v=sc0"
+    },
+    {
+      "title": "V Povode horí rodinný dom, vnútri boli štyri osoby",
+      "link": "https://www.trnavak.sk/clanky/12511/foto-hasici-zasahuju-pri-poziari-v-rodinnom-dome-pri-dunajskej-strede-vnutri-sa-nachadzaju-styri-osoby",
+      "time": "2026-10-09T06:37:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791528280-foto-hasici-zasahuju-pri-poziari-v-rodinnom-dome-pri-dunajskej-strede-vnutri-sa-nachadzaju-styri-osoby.webp"
+    },
+    {
+      "title": "Na rýchlostnej ceste pred Mostom VSS zablokovala premávku zrážka kamióna s autom, vodiči uviazli v kolóne",
+      "link": "https://www.kosicak.sk/clanky/14489/na-rychlostnej-ceste-pred-mostom-vss-zablokovala-premavku-zrazka-kamiona-s-autom-vodici-uviazli-v-kolone",
+      "time": "2026-10-09T06:12:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791526367-na-rychlostnej-ceste-pred-mostom-vss-zablokovala-premavku-zrazka-kamiona-s-autom-vodici-uviazli-v-kolone.webp"
+    },
+    {
+      "title": "V obci Povoda vzbĺkol rodinný dom, vnútri sa nachádzali štyria ľudia",
+      "link": "https://www1.pluska.sk/krimi/v-obci-povoda-vzblkol-rodinny-dom-vnutri-sa-nachadzali-styria-ludia",
+      "time": "2026-10-09T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/788/788f82c1-118c-4eec-8dbc-b65b9451c4a9.webp"
     }
   ]
 }

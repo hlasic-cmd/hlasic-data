@@ -1,34 +1,61 @@
 {
-  "generated_at": "2026-10-09T10:23:50.572314+00:00",
+  "generated_at": "2026-10-09T17:03:56.007002+00:00",
   "max_age_hours": 12,
   "count": 7,
   "items": [
     {
-      "title": "TRAGICKÝ VEČER V SKALICI: Pri nehode zahynula 83-ročná cyklistka",
-      "link": "https://www.teraz.sk/regiony/policia-pri-dopravnej-nehode-v-skalici/998425-clanok.html",
-      "time": "2026-10-09T08:34:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "teraz.sk",
-      "image": null
+      "title": "Žilinu ochromil požiar. Preveruje Slovensko aj možnú sabotáž?",
+      "link": "https://www.bratislavak.sk/clanky/15779/v-zahranici-preveruju-sabotaze-na-zelezniciach-o-poziari-ktory-nadlho-ochromil-velky-uzol-v-ziline-nevieme-stale-nic",
+      "time": "2026-10-09T15:40:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791550094-v-zahranici-preveruju-sabotaze-na-zelezniciach-o-poziari-ktory-nadlho-ochromil-velky-uzol-v-ziline-nevieme-sta.webp"
     },
     {
-      "title": "Dodávka zrazila troch ľudí priamo na priechode. Polícia vyšetruje nehodu v Liptovskom Hrádku",
-      "link": "https://www.zilinak.sk/clanky/43311/vodic-zrazil-na-priechode-pre-chodcov-troch-ludi-vsetci-skoncili-v-nemocnici-s-dodavkou-vychadzal-z-liptovskeho-hradku",
-      "time": "2026-10-09T08:30:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791534522-vodic-zrazil-na-priechode-pre-chodcov-troch-ludi-vsetci-skoncili-v-nemocnici-s-dodavkou-vychadzal-z-liptovskeh.webp"
-    },
-    {
-      "title": "V Skalici po páde na vozovku zomrela 83-ročná cyklistka",
-      "link": "https://www.trnavak.sk/clanky/12514/foto-tragicky-vecer-v-skalici-cyklistka-pri-obchadzani-auta-spadla-na-vozovku-zraneniam-podlahla",
-      "time": "2026-10-09T08:00:00+00:00",
+      "title": "Pri Galante sa zrazili tri vozidlá, premávku riadi polícia",
+      "link": "https://www.trnavak.sk/clanky/12526/pozor-na-cestach-pri-galante-doslo-k-hromadnej-dopravnej-nehode-na-d1-sa-zase-zrazili-dve-auta",
+      "time": "2026-10-09T14:19:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791531365-foto-tragicky-vecer-v-skalici-cyklistka-pri-obchadzani-auta-spadla-na-vozovku-zraneniam-podlahla.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791556074-pozor-na-cestach-pri-galante-doslo-k-hromadnej-dopravnej-nehode-na-d1-sa-zase-zrazili-dve-auta.webp"
+    },
+    {
+      "title": "Vodička havarovala s 4,35 promile. V aute viezla aj svoje maloleté dieťa",
+      "link": "https://www.trencinak.sk/clanky/14078/myjavska-policia-neverila-vlastnym-ociam-vodicka-havarovala-s-435-promile-v-krvi-v-aute-viezla-aj-svoje-dieta",
+      "time": "2026-10-09T13:48:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791552853-myjavska-policia-neverila-vlastnym-ociam-vodicka-havarovala-s-435-promile-v-krvi-v-aute-viezla-aj-svoje-dieta.webp"
+    },
+    {
+      "title": "Piatkové popoludnie v Prešove skomplikovala nehoda troch áut, zdržíte sa",
+      "link": "https://www.presovak.sk/clanky/15763/piatkove-popoludnie-v-presove-skomplikovala-nehoda-troch-aut-zdrzite-sa",
+      "time": "2026-10-09T13:36:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "V Klátovej Novej Vsi sa zrazilo auto s traktorom, zranili sa traja ľudia",
+      "link": "https://www.trencinak.sk/clanky/14077/vazna-nehoda-v-klatovej-novej-vsi-zrazilo-sa-tam-osobne-auto-s-traktorom-zranili-sa-traja-ludia-zasahoval-aj-vrtulnik",
+      "time": "2026-10-09T12:28:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791548850-vazna-nehoda-v-klatovej-novej-vsi-zrazilo-sa-tam-osobne-auto-s-traktorom-zranili-sa-traja-ludia-zasahoval-aj-v.webp"
+    },
+    {
+      "title": "Plamene v Bratislave zničili 9 áut a stroje na spracovanie dreva",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2056029-plamene-v-bratislave-znicili-9-aut-a-stroje-na-spracovanie-dreva?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-09T11:36:43+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/10/09/2543303/4x3-medium/poziar-hasic-auta.jpg?v=7zo"
     },
     {
       "title": "Požiar rodinného domu v Povode: Vnútri boli štyri osoby, zasahovali hasiči z troch staníc",
@@ -38,33 +65,6 @@
       "region": "trnavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/10/09/2543093/4x3-medium/poziar-povoda.jpg?v=sc0"
-    },
-    {
-      "title": "V Povode horí rodinný dom, vnútri boli štyri osoby",
-      "link": "https://www.trnavak.sk/clanky/12511/foto-hasici-zasahuju-pri-poziari-v-rodinnom-dome-pri-dunajskej-strede-vnutri-sa-nachadzaju-styri-osoby",
-      "time": "2026-10-09T06:37:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791528280-foto-hasici-zasahuju-pri-poziari-v-rodinnom-dome-pri-dunajskej-strede-vnutri-sa-nachadzaju-styri-osoby.webp"
-    },
-    {
-      "title": "Na rýchlostnej ceste pred Mostom VSS zablokovala premávku zrážka kamióna s autom, vodiči uviazli v kolóne",
-      "link": "https://www.kosicak.sk/clanky/14489/na-rychlostnej-ceste-pred-mostom-vss-zablokovala-premavku-zrazka-kamiona-s-autom-vodici-uviazli-v-kolone",
-      "time": "2026-10-09T06:12:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791526367-na-rychlostnej-ceste-pred-mostom-vss-zablokovala-premavku-zrazka-kamiona-s-autom-vodici-uviazli-v-kolone.webp"
-    },
-    {
-      "title": "V obci Povoda vzbĺkol rodinný dom, vnútri sa nachádzali štyria ľudia",
-      "link": "https://www1.pluska.sk/krimi/v-obci-povoda-vzblkol-rodinny-dom-vnutri-sa-nachadzali-styria-ludia",
-      "time": "2026-10-09T00:00:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/788/788f82c1-118c-4eec-8dbc-b65b9451c4a9.webp"
     }
   ]
 }

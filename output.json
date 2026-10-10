@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T20:43:44.555226+00:00",
+  "generated_at": "2026-10-10T23:50:16.800023+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 2,
   "items": [
     {
       "title": "Polícia v Blhovciach vypátrala nezvestného seniora. Po noci strávenej mimo domu ho našli podchladeného",
@@ -10,7 +10,7 @@
       "cat": "patranie",
       "region": "banskobystricky",
       "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/policia-ilustracna-snimka/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/9GVktkpTURBXy80NGEwZDA4YWIzMzE4ZTUxYjljYzI0M2E3MDllMTk4MC5qcGeSlQMAzIzNEZTNCeOVAs0H0ADCww?st=4w7Vc9CBO_xYb2c9PiNm34tmL-ejov_vQrkFzw3RwHI&ts=1791583200&e=0"
+      "image": "https://img.aktuality.sk/foto/policia-ilustracna-snimka/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/9GVktkpTURBXy80NGEwZDA4YWIzMzE4ZTUxYjljYzI0M2E3MDllMTk4MC5qcGeSlQMAzIzNEZTNCeOVAs0H0ADCww?st=OpVxTcp7BFjzVGBYRjcY-aL26oewOsZ_6z77hZ-i-Nw&ts=1791669600&e=0"
     },
     {
       "title": "Vážna nehoda motocyklistu pri Klenovci. Do nemocnice ho transportoval vrtuľník",
@@ -20,33 +20,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Polícia pátra po 16-ročnom Valentínovi Horváthovi z Košíc-okolia",
-      "link": "https://www.kosicak.sk/clanky/14512/policia-patra-po-16-rocnom-nezvestnom-valentinovi-z-okolia-kosic-nevideli-ste-ho",
-      "time": "2026-10-10T14:00:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791639611-policia-patra-po-16rocnom-nezvestnom-valentinovi-z-okolia-kosic-nevideli-ste-ho.webp"
-    },
-    {
-      "title": "S požiarom na vrchu Dubie pri Krompachoch bojovali hasiči aj v piatok",
-      "link": "https://korzar.sme.sk/spis-gemer/c/s-poziarom-na-vrchu-dubie-pri-krompachoch-bojovali-hasici-aj-v-piatok?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-10T10:33:07+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a1255c-dce4-761c-ac83-be4ea3ff518c.jpg"
-    },
-    {
-      "title": "Nehoda v novom tuneli Čebrať. Rúru smerom na Liptovský Mikuláš úplne uzavreli",
-      "link": "https://www.zilinak.sk/clanky/43341/v-novom-tuneli-cebrat-sa-stala-nehoda-len-par-dni-po-otvoreni-jednu-ruru-uplne-uzavreli",
-      "time": "2026-10-10T10:01:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791626512-v-novom-tuneli-cebrat-sa-stala-nehoda-len-par-dni-po-otvoreni-jednu-ruru-uplne-uzavreli.webp"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T17:53:38.119845+00:00",
+  "generated_at": "2026-10-10T20:43:44.555226+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 5,
   "items": [
     {
       "title": "Polícia v Blhovciach vypátrala nezvestného seniora. Po noci strávenej mimo domu ho našli podchladeného",
@@ -31,15 +31,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791639611-policia-patra-po-16rocnom-nezvestnom-valentinovi-z-okolia-kosic-nevideli-ste-ho.webp"
     },
     {
-      "title": "Hromadná nehoda pri Lidli v Malackách obmedzila dopravu",
-      "link": "https://www.bratislavak.sk/clanky/15800/na-krizovatke-v-malackach-doslo-k-hromadnej-dopravnej-nehode-usek-je-tazko-prejazdny",
-      "time": "2026-10-10T10:36:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
-    },
-    {
       "title": "S požiarom na vrchu Dubie pri Krompachoch bojovali hasiči aj v piatok",
       "link": "https://korzar.sme.sk/spis-gemer/c/s-poziarom-na-vrchu-dubie-pri-krompachoch-bojovali-hasici-aj-v-piatok?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
       "time": "2026-10-10T10:33:07+00:00",
@@ -56,15 +47,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791626512-v-novom-tuneli-cebrat-sa-stala-nehoda-len-par-dni-po-otvoreni-jednu-ruru-uplne-uzavreli.webp"
-    },
-    {
-      "title": "V Tekovských Lužanoch horelo v areáli bývalej mliekarne už trikrát",
-      "link": "https://www.nitrak.sk/clanky/12166/dobrovolni-hasici-z-tekovskych-luzian-zasahovali-v-areali-byvalej-mliekarne-poziar-mal-niekto-umyselne-zalozit",
-      "time": "2026-10-10T09:15:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791621083-dobrovolni-hasici-z-tekovskych-luzian-zasahovali-v-areali-byvalej-mliekarne-poziar-mal-niekto-umyselne-zalozit.webp"
     }
   ]
 }

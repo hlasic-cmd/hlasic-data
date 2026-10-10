@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-10-10T13:19:08.050756+00:00",
+  "generated_at": "2026-10-10T17:53:38.119845+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 7,
   "items": [
+    {
+      "title": "Polícia v Blhovciach vypátrala nezvestného seniora. Po noci strávenej mimo domu ho našli podchladeného",
+      "link": "https://www.aktuality.sk/clanok/4ZQGp3U/policia-v-blhovciach-vypatrala-nezvestneho-seniora-po-noci-stravenej-mimo-domu-ho-nasli-podchladeneho/",
+      "time": "2026-10-10T15:58:59+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/policia-ilustracna-snimka/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/9GVktkpTURBXy80NGEwZDA4YWIzMzE4ZTUxYjljYzI0M2E3MDllMTk4MC5qcGeSlQMAzIzNEZTNCeOVAs0H0ADCww?st=4w7Vc9CBO_xYb2c9PiNm34tmL-ejov_vQrkFzw3RwHI&ts=1791583200&e=0"
+    },
+    {
+      "title": "Vážna nehoda motocyklistu pri Klenovci. Do nemocnice ho transportoval vrtuľník",
+      "link": "https://www.bystricak.sk/clanky/13388/jazda-28-rocneho-motocyklistu-pri-klenovci-sa-skoncila-padom-zasahoval-zachranarsky-vrtulnik",
+      "time": "2026-10-10T14:22:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Polícia pátra po 16-ročnom Valentínovi Horváthovi z Košíc-okolia",
+      "link": "https://www.kosicak.sk/clanky/14512/policia-patra-po-16-rocnom-nezvestnom-valentinovi-z-okolia-kosic-nevideli-ste-ho",
+      "time": "2026-10-10T14:00:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791639611-policia-patra-po-16rocnom-nezvestnom-valentinovi-z-okolia-kosic-nevideli-ste-ho.webp"
+    },
     {
       "title": "Hromadná nehoda pri Lidli v Malackách obmedzila dopravu",
       "link": "https://www.bratislavak.sk/clanky/15800/na-krizovatke-v-malackach-doslo-k-hromadnej-dopravnej-nehode-usek-je-tazko-prejazdny",
@@ -31,15 +58,6 @@
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791626512-v-novom-tuneli-cebrat-sa-stala-nehoda-len-par-dni-po-otvoreni-jednu-ruru-uplne-uzavreli.webp"
     },
     {
-      "title": "Nehoda vo Veľkom Mederi spôsobuje zdržanie",
-      "link": "https://www.trnavak.sk/clanky/12531/vo-velkom-mederi-doslo-k-dopravnej-nehode-pocitajte-so-zdrzanim",
-      "time": "2026-10-10T09:20:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
-    },
-    {
       "title": "V Tekovských Lužanoch horelo v areáli bývalej mliekarne už trikrát",
       "link": "https://www.nitrak.sk/clanky/12166/dobrovolni-hasici-z-tekovskych-luzian-zasahovali-v-areali-byvalej-mliekarne-poziar-mal-niekto-umyselne-zalozit",
       "time": "2026-10-10T09:15:00+00:00",
@@ -47,15 +65,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791621083-dobrovolni-hasici-z-tekovskych-luzian-zasahovali-v-areali-byvalej-mliekarne-poziar-mal-niekto-umyselne-zalozit.webp"
-    },
-    {
-      "title": "Krompachy hasia požiar tretí deň, podozrenie na podpaľačstvo",
-      "link": "https://www.kosicak.sk/clanky/14508/foto-hasici-bojuju-s-poziarom-na-vrchu-pri-krompachoch-uz-treti-den-nadobudli-podozrenie-ze-ide-o-podpalacstvo",
-      "time": "2026-10-10T07:23:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791616967-foto-hasici-bojuju-s-poziarom-na-vrchu-pri-krompachoch-uz-treti-den-nadobudli-podozrenie-ze-ide-o-podpalacstvo.webp"
     }
   ]
 }

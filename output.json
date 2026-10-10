@@ -1,16 +1,61 @@
 {
-  "generated_at": "2026-10-10T07:00:23.946192+00:00",
+  "generated_at": "2026-10-10T13:19:08.050756+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 6,
   "items": [
     {
-      "title": "V Tatrách už vládne zima. Pätica izraelských turistov sa dostala do problémov, zasahoval vrtuľník",
-      "link": "https://www.presovak.sk/clanky/15765/izraelski-turisti-podcenili-sneh-v-tatrach-jeden-sa-zranil-dalsi-styria-uviazli-letel-k-nim-vrtulnik",
-      "time": "2026-10-10T06:45:00+00:00",
-      "cat": "zasah",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791614728-izraelski-turisti-podcenili-sneh-v-tatrach-jeden-sa-zranil-dalsi-styria-uviazli-letel-k-nim-vrtulnik.webp"
+      "title": "Hromadná nehoda pri Lidli v Malackách obmedzila dopravu",
+      "link": "https://www.bratislavak.sk/clanky/15800/na-krizovatke-v-malackach-doslo-k-hromadnej-dopravnej-nehode-usek-je-tazko-prejazdny",
+      "time": "2026-10-10T10:36:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "S požiarom na vrchu Dubie pri Krompachoch bojovali hasiči aj v piatok",
+      "link": "https://korzar.sme.sk/spis-gemer/c/s-poziarom-na-vrchu-dubie-pri-krompachoch-bojovali-hasici-aj-v-piatok?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-10-10T10:33:07+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a1255c-dce4-761c-ac83-be4ea3ff518c.jpg"
+    },
+    {
+      "title": "Nehoda v novom tuneli Čebrať. Rúru smerom na Liptovský Mikuláš úplne uzavreli",
+      "link": "https://www.zilinak.sk/clanky/43341/v-novom-tuneli-cebrat-sa-stala-nehoda-len-par-dni-po-otvoreni-jednu-ruru-uplne-uzavreli",
+      "time": "2026-10-10T10:01:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791626512-v-novom-tuneli-cebrat-sa-stala-nehoda-len-par-dni-po-otvoreni-jednu-ruru-uplne-uzavreli.webp"
+    },
+    {
+      "title": "Nehoda vo Veľkom Mederi spôsobuje zdržanie",
+      "link": "https://www.trnavak.sk/clanky/12531/vo-velkom-mederi-doslo-k-dopravnej-nehode-pocitajte-so-zdrzanim",
+      "time": "2026-10-10T09:20:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "V Tekovských Lužanoch horelo v areáli bývalej mliekarne už trikrát",
+      "link": "https://www.nitrak.sk/clanky/12166/dobrovolni-hasici-z-tekovskych-luzian-zasahovali-v-areali-byvalej-mliekarne-poziar-mal-niekto-umyselne-zalozit",
+      "time": "2026-10-10T09:15:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791621083-dobrovolni-hasici-z-tekovskych-luzian-zasahovali-v-areali-byvalej-mliekarne-poziar-mal-niekto-umyselne-zalozit.webp"
+    },
+    {
+      "title": "Krompachy hasia požiar tretí deň, podozrenie na podpaľačstvo",
+      "link": "https://www.kosicak.sk/clanky/14508/foto-hasici-bojuju-s-poziarom-na-vrchu-pri-krompachoch-uz-treti-den-nadobudli-podozrenie-ze-ide-o-podpalacstvo",
+      "time": "2026-10-10T07:23:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791616967-foto-hasici-bojuju-s-poziarom-na-vrchu-pri-krompachoch-uz-treti-den-nadobudli-podozrenie-ze-ide-o-podpalacstvo.webp"
     }
   ]
 }

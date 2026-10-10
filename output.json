@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T21:34:27.374419+00:00",
+  "generated_at": "2026-10-10T01:10:09.459550+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "title": "Železnice opravujú trať v Žiline po požiari. Vlaky sa budú postupne obnovovať od pondelka",
@@ -29,15 +29,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791552853-myjavska-policia-neverila-vlastnym-ociam-vodicka-havarovala-s-435-promile-v-krvi-v-aute-viezla-aj-svoje-dieta.webp"
-    },
-    {
-      "title": "Plamene v Bratislave zničili 9 áut a stroje na spracovanie dreva",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2056029-plamene-v-bratislave-znicili-9-aut-a-stroje-na-spracovanie-dreva?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-09T11:36:43+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/09/2543303/4x3-medium/poziar-hasic-auta.jpg?v=7zo"
     }
   ]
 }

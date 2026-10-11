@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T19:29:39.425830+00:00",
+  "generated_at": "2026-10-11T23:02:30.506778+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 7,
   "items": [
     {
       "title": "Vážna nehoda ochromila železničnú dopravu na východe. Vlak zrazil človeka, meškania zasiahnu aj hlavný ťah do Bratislavy",
@@ -65,24 +65,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791716395-policia-patra-po-nezvestnom-martinovi-z-bratislavy-naposledy-mal-oblecene-spolocenske-oblecenie-nevideli-ste-h.webp"
-    },
-    {
-      "title": "V Prešove narazil vodič bez preukazu do dodávky Basawell",
-      "link": "https://www.presovak.sk/clanky/15773/video-znama-presovska-kapela-mala-dopravnu-nehodu-do-jej-dodavky-narazil-sofer-bez-vodicskeho-preukazu",
-      "time": "2026-10-11T10:00:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791712652-video-znama-presovska-kapela-mala-dopravnu-nehodu-do-jej-dodavky-narazil-sofer-bez-vodicskeho-preukazu.webp"
-    },
-    {
-      "title": "Pri Trnave došlo k tragickej nehode, 19-ročný spolujazdec zraneniam podľahol",
-      "link": "https://www.trnavak.sk/clanky/12536/foto-tragicka-nehoda-medzi-trnavou-a-spacincami-19-rocny-spolujazdec-zraneniam-podlahol",
-      "time": "2026-10-11T08:19:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791706737-foto-tragicka-nehoda-medzi-trnavou-a-spacincami-19rocny-spolujazdec-zraneniam-podlahol.webp"
     }
   ]
 }

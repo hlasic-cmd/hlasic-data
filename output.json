@@ -1,79 +1,124 @@
 {
-  "generated_at": "2026-10-12T09:08:03.100541+00:00",
+  "generated_at": "2026-10-12T18:56:48.371108+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 13,
   "items": [
     {
-      "title": "FOTO: Odišiel z domu a nevrátil sa. Nezvestného seniora z Blhoviec našli na druhý deň",
-      "link": "https://www.bystricak.sk/clanky/13392/foto-nezvestneho-seniora-nasli-pri-rimavskej-sobote-podchladeneho-zmizol-bez-mobilu-a-noc-stravil-v-terene",
-      "time": "2026-10-12T08:30:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791792251-foto-nezvestneho-seniora-nasli-pri-rimavskej-sobote-podchladeneho-zmizol-bez-mobilu-a-noc-stravil-v-terene.webp"
-    },
-    {
-      "title": "Turistka nebola zranená, no ochromil ju strach. Na Liptov pre ňu musel letieť vrtuľník",
-      "link": "https://www.zilinak.sk/clanky/43355/zena-nebola-zranena-no-musel-pre-nu-letiet-vrtulnik-v-strachu-nedokazala-zostupit-z-liptovskych-hor",
-      "time": "2026-10-12T07:50:00+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791784980-zena-nebola-zranena-no-musel-pre-nu-letiet-vrtulnik-v-strachu-nedokazala-zostupit-z-liptovskych-hor.webp"
-    },
-    {
-      "title": "VIDEO: Zásah hasičov na Borovej hore vo Zvolene",
-      "link": "https://www.bystricak.sk/clanky/13391/video-borova-hora-vo-zvolene-bola-opat-v-plamenoch-areal-je-pritom-uz-niekolko-tyzdnov-zatvoreny",
-      "time": "2026-10-12T07:35:00+00:00",
+      "title": "Požiar bytu na sídlisku Sekčov v Prešove: Na mieste zasahujú hasiči",
+      "link": "https://www.aktuality.sk/clanok/lN9wMMH/poziar-bytu-na-sidlisku-sekcov-v-presove-na-mieste-zasahuju-hasici/",
+      "time": "2026-10-12T16:14:30+00:00",
       "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791789925-video-borova-hora-vo-zvolene-bola-opat-v-plamenoch-areal-je-pritom-uz-niekolko-tyzdnov-zatvoreny.webp"
+      "region": "presovsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/ilustracna-fotografia/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/EmOktkpTURBXy8xZGU0MDZmM2M3ZTI5OWY2MTFlMTlhZjI0NGU1OTBhMi5qcGeSlQMAzQF8zRGPzQnjlQLNB9AAwsM?st=BQq5Rro4g_weWdsdRUY2HFzizK-8rQd0gqhR1cfk_Ik&ts=1791756000&e=0"
     },
     {
-      "title": "Na horskom priechode Dargov horí kamión, smerovali tam záchranné zložky, v úseku sa tvoria kolóny",
-      "link": "https://www.kosicak.sk/clanky/14523/na-horskom-priechode-dargov-hori-kamion-smerovali-tam-zachranne-zlozky-v-useku-sa-tvoria-kolony",
-      "time": "2026-10-12T07:23:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Na Orave došlo k vážnej nehode, ktorá úplne zablokovala dôležitý ťah cez mesto",
-      "link": "https://www.zilinak.sk/clanky/43358/dolezita-cesta-cez-oravu-je-neprejazdna-zablokovala-ju-nehoda-jedno-z-aut-skoncilo-mimo-cestu",
-      "time": "2026-10-12T07:07:00+00:00",
+      "title": "Nehodu na D2 v Bratislave odstránili, vodiči sa zdržia asi 30 minút",
+      "link": "https://www.teraz.sk/regiony/nehodu-na-d2-v-bratislave-odstranili-v/999147-clanok.html",
+      "time": "2026-10-12T16:07:00+00:00",
       "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791789043-dolezita-cesta-cez-oravu-je-neprejazdna-zablokovala-ju-nehoda-jedno-z-aut-skoncilo-mimo-cestu.webp"
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
     },
     {
-      "title": "Deti pri Žiline si našli nebezpečnú zábavu. Na bicykloch skákali cez oheň, poriadne ho neuhasili",
-      "link": "https://www.zilinak.sk/clanky/43354/nebezpecna-zabava-deti-pri-ziline-preskakovali-ohen-na-bicykloch-a-ani-ho-dobre-neuhasili-znovu-sa-rozhorel",
-      "time": "2026-10-12T07:00:00+00:00",
+      "title": "V byte na prešovskom sídlisku vypukol požiar, dvaja ľudia sa nadýchali splodín",
+      "link": "https://korzar.sme.sk/presov/c/v-byte-na-presovskom-sidlisku-vypukol-poziar-dvaja-ludia-sa-nadychali-splodin?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-10-12T16:06:21+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a130e7-cbc0-7f71-a1c0-d7a6adf3dacc.jpg"
+    },
+    {
+      "title": "POŽIAR BYTU: Hasiči zasahujú na sídlisku Sekčov v Prešove",
+      "link": "https://www.teraz.sk/regiony/hasici-zasahuju-pri-poziari-bytu-na-s/999146-clanok.html",
+      "time": "2026-10-12T16:05:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Dráma na prešovskom sídlisku. V byte vypukol požiar, na miesto vyrazili hasiči aj polícia. Hlásia zasiahnuté osoby",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2057681-drama-na-presovskom-sidlisku-v-byte-vypukol-poziar-na-miesto-vyrazili-hasici-aj-policia-hlasia-zasiahnute-osoby?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-12T16:00:25+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/09/21/2534465/4x3-medium/poziar-skola-presov.jpg?v=T/w"
+    },
+    {
+      "title": "V jednom z bytov v Prešove vypukol požiar, dve osoby sa nadýchali splodín",
+      "link": "https://www.presovak.sk/clanky/15792/v-jednom-z-bytov-v-presove-vypukol-poziar-na-mieste-zasahuju-zachranne-zlozky",
+      "time": "2026-10-12T15:37:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791819450-v-jednom-z-bytov-v-presove-vypukol-poziar-na-mieste-zasahuju-zachranne-zlozky.webp"
+    },
+    {
+      "title": "Po takmer dvoch týždňoch končia obmedzenia vlakov v Žiline. Záťažové skúšky dopadli bez problémov",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2057615-zilina-zeleznice-dopravny-uzol-doprava?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-12T15:02:50+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/02/06/4x3-medium/vlak-vozen.jpg?v=SkQ"
+    },
+    {
+      "title": "Po 13 dňoch sa vlaky v Žiline vracajú do normálu. Železnice oznámili nový termín",
+      "link": "https://www.zilinak.sk/clanky/43380/vlaky-v-ziline-sa-po-takmer-dvoch-tyzdnoch-vracaju-do-normalu-zeleznice-oznamili-termin",
+      "time": "2026-10-12T14:53:00+00:00",
       "cat": "poziar",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791785460-nebezpecna-zabava-deti-pri-ziline-preskakovali-ohen-na-bicykloch-a-ani-ho-dobre-neuhasili-znovu-sa-rozhorel.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791816753-vlaky-v-ziline-sa-po-takmer-dvoch-tyzdnoch-vracaju-do-normalu-zeleznice-oznamili-termin.webp"
     },
     {
-      "title": "Za Nižnými Ružbachmi blokovala cestu dopravná nehoda, pred Lipanmi zas ležali na vozovke uhynuté srnky",
-      "link": "https://www.presovak.sk/clanky/15774/za-niznymi-ruzbachmi-blokovala-cestu-dopravna-nehoda-pred-lipanmi-zas-lezali-na-vozovke-uhynute-srnky",
-      "time": "2026-10-12T06:32:00+00:00",
+      "title": "V Humennom skončilo auto prevrátené na streche, doprava kolabuje",
+      "link": "https://www.presovak.sk/clanky/15791/v-humennom-skoncilo-auto-prevratene-na-streche-doprava-kolabuje",
+      "time": "2026-10-12T14:06:00+00:00",
       "cat": "nehoda",
       "region": "presovsky",
       "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/03_aktualne.webp"
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791814951-v-humennom-skoncilo-auto-prevratene-na-streche-doprava-kolabuje.webp"
     },
     {
-      "title": "Diaľnica D2 v Bratislave bola úplne uzavretá, na mieste do tla zhorel kamión",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2057147-dialnica-d2-v-bratislave-je-uplne-uzavreta-na-mieste-do-tla-zhorel-kamion?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-12T06:01:47+00:00",
+      "title": "VYKUROVACIA SEZÓNA SA BLÍŽI: Na toto dávajte pozor, varujú hasiči",
+      "link": "https://www.teraz.sk/slovensko/vykurovacia-sezona-sa-blizi-na-toto/999109-clanok.html",
+      "time": "2026-10-12T13:59:00+00:00",
       "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/12/2544155/4x3-medium/poziar-kamiona-d2.jpg?v=6Z0"
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Žilinka najnovšie žiada súd, aby zrušil Pellegriniho rozhodnutie o disciplinárnom treste pre šéfa SIS Gašpara",
+      "link": "https://www.nitrak.sk/clanky/12179/detaily-nehody-sefa-sis-v-nitre-zilinka-ziada-zrusenie-trestu-pre-sefa-sis-proti-gasparovi-podava-zalobu",
+      "time": "2026-10-12T13:15:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791808427-detaily-nehody-sefa-sis-v-nitre-zilinka-ziada-zrusenie-trestu-pre-sefa-sis-proti-gasparovi-podava-zalobu.webp"
+    },
+    {
+      "title": "Zaparkované auto sa samovoľne pohlo dolu svahom a narazilo do nákladiaka",
+      "link": "https://korzar.sme.sk/presov/c/zaparkovane-auto-sa-samovolne-pohlo-dolu-svahom-a-narazilo-do-nakladiaku?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-10-12T10:49:20+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a12fb7-d2c5-7e60-93c9-0623bc0b261a.jpg"
+    },
+    {
+      "title": "Polícia pátra po nezvestnom Patrikovi Bazalovi z Považskej Bystrice",
+      "link": "https://www.trencinak.sk/clanky/14092/nevideli-ste-ho-policia-patra-po-44-rocnom-patrikovi-z-okresu-povazska-bystrica",
+      "time": "2026-10-12T09:10:00+00:00",
+      "cat": "patranie",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791786545-nevideli-ste-ho-policia-patra-po-44rocnom-patrikovi-z-okresu-povazska-bystrica.webp"
     }
   ]
 }

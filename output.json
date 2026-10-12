@@ -1,25 +1,79 @@
 {
-  "generated_at": "2026-10-12T02:12:15.459372+00:00",
+  "generated_at": "2026-10-12T09:08:03.100541+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 8,
   "items": [
     {
-      "title": "Vážna nehoda ochromila železničnú dopravu na východe. Vlak zrazil človeka, meškania zasiahnu aj hlavný ťah do Bratislavy",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2056991-vazna-nehoda-ochromila-zeleznicnu-dopravu-na-vychode-vlak-zrazil-cloveka-meskania-zasiahnu-aj-hlavny-tah-do-bratislavy?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-11T15:50:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2025/12/09/4x3-medium/vlaky-liptov.jpg?v=7WE"
+      "title": "FOTO: Odišiel z domu a nevrátil sa. Nezvestného seniora z Blhoviec našli na druhý deň",
+      "link": "https://www.bystricak.sk/clanky/13392/foto-nezvestneho-seniora-nasli-pri-rimavskej-sobote-podchladeneho-zmizol-bez-mobilu-a-noc-stravil-v-terene",
+      "time": "2026-10-12T08:30:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791792251-foto-nezvestneho-seniora-nasli-pri-rimavskej-sobote-podchladeneho-zmizol-bez-mobilu-a-noc-stravil-v-terene.webp"
     },
     {
-      "title": "Tragická nehoda prerušila vlakovú dopravu medzi Košicami a Kostoľanmi nad Hornádom",
-      "link": "https://korzar.sme.sk/kosice/c/tragicka-nehoda-prerusila-vlakovu-dopravu-medzi-kosicami-a-kostolanmi-nad-hornadom?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-11T15:34:13+00:00",
-      "cat": "nehoda",
+      "title": "Turistka nebola zranená, no ochromil ju strach. Na Liptov pre ňu musel letieť vrtuľník",
+      "link": "https://www.zilinak.sk/clanky/43355/zena-nebola-zranena-no-musel-pre-nu-letiet-vrtulnik-v-strachu-nedokazala-zostupit-z-liptovskych-hor",
+      "time": "2026-10-12T07:50:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791784980-zena-nebola-zranena-no-musel-pre-nu-letiet-vrtulnik-v-strachu-nedokazala-zostupit-z-liptovskych-hor.webp"
+    },
+    {
+      "title": "VIDEO: Zásah hasičov na Borovej hore vo Zvolene",
+      "link": "https://www.bystricak.sk/clanky/13391/video-borova-hora-vo-zvolene-bola-opat-v-plamenoch-areal-je-pritom-uz-niekolko-tyzdnov-zatvoreny",
+      "time": "2026-10-12T07:35:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1791789925-video-borova-hora-vo-zvolene-bola-opat-v-plamenoch-areal-je-pritom-uz-niekolko-tyzdnov-zatvoreny.webp"
+    },
+    {
+      "title": "Na horskom priechode Dargov horí kamión, smerovali tam záchranné zložky, v úseku sa tvoria kolóny",
+      "link": "https://www.kosicak.sk/clanky/14523/na-horskom-priechode-dargov-hori-kamion-smerovali-tam-zachranne-zlozky-v-useku-sa-tvoria-kolony",
+      "time": "2026-10-12T07:23:00+00:00",
+      "cat": "poziar",
       "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/1ef8a624-f42f-6608-b05f-d33a4132ab43.jpg"
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Na Orave došlo k vážnej nehode, ktorá úplne zablokovala dôležitý ťah cez mesto",
+      "link": "https://www.zilinak.sk/clanky/43358/dolezita-cesta-cez-oravu-je-neprejazdna-zablokovala-ju-nehoda-jedno-z-aut-skoncilo-mimo-cestu",
+      "time": "2026-10-12T07:07:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791789043-dolezita-cesta-cez-oravu-je-neprejazdna-zablokovala-ju-nehoda-jedno-z-aut-skoncilo-mimo-cestu.webp"
+    },
+    {
+      "title": "Deti pri Žiline si našli nebezpečnú zábavu. Na bicykloch skákali cez oheň, poriadne ho neuhasili",
+      "link": "https://www.zilinak.sk/clanky/43354/nebezpecna-zabava-deti-pri-ziline-preskakovali-ohen-na-bicykloch-a-ani-ho-dobre-neuhasili-znovu-sa-rozhorel",
+      "time": "2026-10-12T07:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791785460-nebezpecna-zabava-deti-pri-ziline-preskakovali-ohen-na-bicykloch-a-ani-ho-dobre-neuhasili-znovu-sa-rozhorel.webp"
+    },
+    {
+      "title": "Za Nižnými Ružbachmi blokovala cestu dopravná nehoda, pred Lipanmi zas ležali na vozovke uhynuté srnky",
+      "link": "https://www.presovak.sk/clanky/15774/za-niznymi-ruzbachmi-blokovala-cestu-dopravna-nehoda-pred-lipanmi-zas-lezali-na-vozovke-uhynute-srnky",
+      "time": "2026-10-12T06:32:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/03_aktualne.webp"
+    },
+    {
+      "title": "Diaľnica D2 v Bratislave bola úplne uzavretá, na mieste do tla zhorel kamión",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2057147-dialnica-d2-v-bratislave-je-uplne-uzavreta-na-mieste-do-tla-zhorel-kamion?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-12T06:01:47+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/10/12/2544155/4x3-medium/poziar-kamiona-d2.jpg?v=6Z0"
     }
   ]
 }

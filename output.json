@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T23:02:30.506778+00:00",
+  "generated_at": "2026-10-12T02:12:15.459372+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 2,
   "items": [
     {
       "title": "Vážna nehoda ochromila železničnú dopravu na východe. Vlak zrazil človeka, meškania zasiahnu aj hlavný ťah do Bratislavy",
@@ -20,51 +20,6 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/1ef8a624-f42f-6608-b05f-d33a4132ab43.jpg"
-    },
-    {
-      "title": "V obci pri Malackách vodič zrazil troch chodcov, z miesta nehody ušiel",
-      "link": "https://www.bratislavak.sk/clanky/15806/video-desiva-nehoda-pri-malackach-vodic-zrazil-tri-osoby-a-z-miesta-usiel-na-mieste-zasahovali-zachranari",
-      "time": "2026-10-11T14:00:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791721780-video-desiva-nehoda-pri-malackach-vodic-zrazil-tri-osoby-a-z-miesta-usiel-na-mieste-zasahovali-zachranari.webp"
-    },
-    {
-      "title": "V obci pri Hlohovci došlo k požiaru, plamene pohltili rodinný dom",
-      "link": "https://www.trnavak.sk/clanky/12538/foto-plamene-pohltili-rodinny-dom-pri-hlohovci-na-pomoc-prisli-hasicske-jednotky-z-okolia",
-      "time": "2026-10-11T14:00:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791724294-foto-plamene-pohltili-rodinny-dom-pri-hlohovci-na-pomoc-prisli-hasicske-jednotky-z-okolia.webp"
-    },
-    {
-      "title": "V Ilave zhorela do tla stará hospodárska budova",
-      "link": "https://www.trencinak.sk/clanky/14088/video-v-areali-byvalej-betonarky-v-ilave-vznikol-poziar-zasahovali-dobrovolni-hasici-stara-hospodarska-budova-zhorela",
-      "time": "2026-10-11T13:08:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1791724144-video-v-areali-byvalej-betonarky-v-ilave-vznikol-poziar-zasahovali-dobrovolni-hasici-stara-hospodarska-budova.webp"
-    },
-    {
-      "title": "Hasiči z Oravy vyrazili k požiaru do piatich minút. Až na mieste sa dozvedeli pravdu",
-      "link": "https://www.zilinak.sk/clanky/43324/hasicov-z-trstenej-privolali-k-poziaru-vyrazili-do-5-minut-na-mieste-ich-cakalo-prekvapenie",
-      "time": "2026-10-11T12:00:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791545019-hasicov-z-trstenej-privolali-k-poziaru-vyrazili-do-5-minut-na-mieste-ich-cakalo-prekvapenie.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnom Martinovi Mladom z Bratislavy",
-      "link": "https://www.bratislavak.sk/clanky/15804/policia-patra-po-nezvestnom-martinovi-z-bratislavy-naposledy-mal-oblecene-spolocenske-oblecenie-nevideli-ste-ho",
-      "time": "2026-10-11T11:40:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791716395-policia-patra-po-nezvestnom-martinovi-z-bratislavy-naposledy-mal-oblecene-spolocenske-oblecenie-nevideli-ste-h.webp"
     }
   ]
 }

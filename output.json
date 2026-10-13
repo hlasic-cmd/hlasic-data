@@ -1,88 +1,25 @@
 {
-  "generated_at": "2026-10-13T01:01:48.227418+00:00",
+  "generated_at": "2026-10-13T07:30:10.031821+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 2,
   "items": [
     {
-      "title": "Požiar bytu na sídlisku Sekčov v Prešove: Na mieste zasahujú hasiči",
-      "link": "https://www.aktuality.sk/clanok/lN9wMMH/poziar-bytu-na-sidlisku-sekcov-v-presove-na-mieste-zasahuju-hasici/",
-      "time": "2026-10-12T16:14:30+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/ilustracna-fotografia/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/EmOktkpTURBXy8xZGU0MDZmM2M3ZTI5OWY2MTFlMTlhZjI0NGU1OTBhMi5qcGeSlQMAzQF8zRGPzQnjlQLNB9AAwsM?st=T3wZJWYV-vbLvmB5M0upliXz8Zvt1Aj-LEqlkBiVJlQ&ts=1791842400&e=0"
-    },
-    {
-      "title": "Nehodu na D2 v Bratislave odstránili, vodiči sa zdržia asi 30 minút",
-      "link": "https://www.teraz.sk/regiony/nehodu-na-d2-v-bratislave-odstranili-v/999147-clanok.html",
-      "time": "2026-10-12T16:07:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V byte na prešovskom sídlisku vypukol požiar, dvaja ľudia sa nadýchali splodín",
-      "link": "https://korzar.sme.sk/presov/c/v-byte-na-presovskom-sidlisku-vypukol-poziar-dvaja-ludia-sa-nadychali-splodin?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-12T16:06:21+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a130e7-cbc0-7f71-a1c0-d7a6adf3dacc.jpg"
-    },
-    {
-      "title": "POŽIAR BYTU: Hasiči zasahujú na sídlisku Sekčov v Prešove",
-      "link": "https://www.teraz.sk/regiony/hasici-zasahuju-pri-poziari-bytu-na-s/999146-clanok.html",
-      "time": "2026-10-12T16:05:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Dráma na prešovskom sídlisku. V byte vypukol požiar, na miesto vyrazili hasiči aj polícia. Hlásia zasiahnuté osoby",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2057681-drama-na-presovskom-sidlisku-v-byte-vypukol-poziar-na-miesto-vyrazili-hasici-aj-policia-hlasia-zasiahnute-osoby?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-12T16:00:25+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/09/21/2534465/4x3-medium/poziar-skola-presov.jpg?v=T/w"
-    },
-    {
-      "title": "V jednom z bytov v Prešove vypukol požiar, dve osoby sa nadýchali splodín",
-      "link": "https://www.presovak.sk/clanky/15792/v-jednom-z-bytov-v-presove-vypukol-poziar-na-mieste-zasahuju-zachranne-zlozky",
-      "time": "2026-10-12T15:37:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791819450-v-jednom-z-bytov-v-presove-vypukol-poziar-na-mieste-zasahuju-zachranne-zlozky.webp"
-    },
-    {
-      "title": "Po takmer dvoch týždňoch končia obmedzenia vlakov v Žiline. Záťažové skúšky dopadli bez problémov",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2057615-zilina-zeleznice-dopravny-uzol-doprava?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-12T15:02:50+00:00",
+      "title": "Žilinský železničný uzol sa po dvoch týždňoch vracia do plnej prevádzky. Záťažové skúšky dopadli bez problémov",
+      "link": "https://www.aktuality.sk/clanok/WAwnZPS/zilinsky-zeleznicny-uzol-sa-po-dvoch-tyzdnoch-vracia-do-plnej-prevadzky-zatazove-skusky-dopadli-bez-problemov/",
+      "time": "2026-10-13T06:44:39+00:00",
       "cat": "poziar",
       "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/02/06/4x3-medium/vlak-vozen.jpg?v=SkQ"
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/zeleznica-v-ziline/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/fZLktkpTURBXy9mNDhhZTBiYTAwMGEyNjc3ZjkxODkzNDkyMzAxNjBkMy5qcGeSlQMAG80Fts0DNpUCzQfQAMLD?st=rcE1_BNVtHqHmdDbBBRStSf0Y6aE2xEJEM97vDEI1ME&ts=1791842400&e=0"
     },
     {
-      "title": "VYKUROVACIA SEZÓNA SA BLÍŽI: Na toto dávajte pozor, varujú hasiči",
-      "link": "https://www.teraz.sk/slovensko/vykurovacia-sezona-sa-blizi-na-toto/999109-clanok.html",
-      "time": "2026-10-12T13:59:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Žilinka najnovšie žiada súd, aby zrušil Pellegriniho rozhodnutie o disciplinárnom treste pre šéfa SIS Gašpara",
-      "link": "https://www.nitrak.sk/clanky/12179/detaily-nehody-sefa-sis-v-nitre-zilinka-ziada-zrusenie-trestu-pre-sefa-sis-proti-gasparovi-podava-zalobu",
-      "time": "2026-10-12T13:15:00+00:00",
+      "title": "Auto v Jakubove zrazilo troch chodcov, vodič ušiel",
+      "link": "https://www.bratislavak.sk/clanky/15822/v-okrese-malacky-zrazilo-auto-troch-chodcov-vodic-usiel-policia-hlada-svedkov-vaznej-nehody",
+      "time": "2026-10-13T05:40:00+00:00",
       "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791808427-detaily-nehody-sefa-sis-v-nitre-zilinka-ziada-zrusenie-trestu-pre-sefa-sis-proti-gasparovi-podava-zalobu.webp"
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791809617-v-okrese-malacky-zrazilo-auto-troch-chodcov-vodic-usiel-policia-hlada-svedkov-vaznej-nehody.webp"
     }
   ]
 }

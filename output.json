@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T20:39:06.161511+00:00",
+  "generated_at": "2026-10-13T23:51:09.982357+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 4,
   "items": [
     {
       "title": "Newsfilter: Fico nevie, aké ľahké je byť človekom",
@@ -38,33 +38,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/10/13/2545155/4x3-medium/tibor-papcun.jpg?v=IQI"
-    },
-    {
-      "title": "Trnavskí policajti sa nevzdali ani po 15 minútach. Muž po nehode opäť ožil",
-      "link": "https://www.trnavak.sk/clanky/12561/video-boj-o-zivot-v-trnave-policajti-15-minut-masirovali-muzovi-srdce-az-kym-nezacal-dychat",
-      "time": "2026-10-13T14:00:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791899136-video-boj-o-zivot-v-trnave-policajti-15-minut-masirovali-muzovi-srdce-az-kym-nezacal-dychat.webp"
-    },
-    {
-      "title": "V Trnave v utorok vypukol požiar, na mieste zasahovali hasiči",
-      "link": "https://www.trnavak.sk/clanky/12556/foto-v-utorok-dopoludnia-trnavcanov-vydesil-husty-dym-na-miesto-ihned-vyrazili-hasici",
-      "time": "2026-10-13T11:00:00+00:00",
-      "cat": "poziar",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791888609-foto-v-utorok-dopoludnia-trnavcanov-vydesil-husty-dym-na-miesto-ihned-vyrazili-hasici.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnom Ivanovi z okresu Levice. Dcéra ho naposledy videla v nedeľu, nadránom odišiel z domu",
-      "link": "https://www.nitrak.sk/clanky/12182/patranie-v-okrese-levice-50-rocny-ivan-je-nezvestny-dcera-ho-pocula-odchadzat-z-domu-no-odvtedy-sa-uz-nikomu-neozval",
-      "time": "2026-10-13T08:45:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791879656-patranie-v-okrese-levice-50rocny-ivan-je-nezvestny-dcera-ho-pocula-odchadzat-z-domu-no-odvtedy-sa-uz-nikomu-ne.webp"
     }
   ]
 }

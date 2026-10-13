@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-13T15:13:05.221233+00:00",
+  "generated_at": "2026-10-13T20:39:06.161511+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 7,
   "items": [
+    {
+      "title": "Newsfilter: Fico nevie, aké ľahké je byť človekom",
+      "link": "https://dennikn.sk/5621767/newsfilter-fico-nevie-ake-lahke-je-byt-clovekom/",
+      "time": "2026-10-13T17:33:28+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "dennikn.sk",
+      "image": "https://img.dennikn.sk/wp-static/2026/10/MixCollage-08-Oct-2026-02-56-PM-8156.jpg?w=450&amp;h=300&amp;fit=crop-67-64&amp;fm=jpg&amp;q=85&amp;s=809d3b15bfdbb68296c15e87a7ea6567"
+    },
+    {
+      "title": "Dve nehody komplikujú premávku pri Hutke a Vranove",
+      "link": "https://www.presovak.sk/clanky/15809/v-presovskom-kraji-doslo-na-viacerych-miestach-k-dopravnym-nehodam-kde-vsade-treba-pocitat-s-komplikaciami",
+      "time": "2026-10-13T17:08:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Hasiči zasahovali pri požiari opusteného domu v Bratislave",
+      "link": "https://www.teraz.sk/regiony/hasici-zasahovali-pri-poziari-opusten/999440-clanok.html",
+      "time": "2026-10-13T16:20:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "„A nastala tma.“ Rušňovodič prehovoril o desivej zrážke pri Jablonove. Po roku sa vracia do práce",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2058381-zssk-vlaky-rusnovodic-doprava-zrazka-na-gemeri-rychlik-pri-jablonove-nad-turnou-rusnovodic-zeleznicnej-spolocnosti-slovensko-zssk-tibor-papcun-?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-13T15:15:28+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/10/13/2545155/4x3-medium/tibor-papcun.jpg?v=IQI"
+    },
     {
       "title": "Trnavskí policajti sa nevzdali ani po 15 minútach. Muž po nehode opäť ožil",
       "link": "https://www.trnavak.sk/clanky/12561/video-boj-o-zivot-v-trnave-policajti-15-minut-masirovali-muzovi-srdce-az-kym-nezacal-dychat",
@@ -22,15 +58,6 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791888609-foto-v-utorok-dopoludnia-trnavcanov-vydesil-husty-dym-na-miesto-ihned-vyrazili-hasici.webp"
     },
     {
-      "title": "Nehoda na ceste I/79 pri Sačurove, jeden pruh neprejazdný",
-      "link": "https://www.presovak.sk/clanky/15806/nehoda-v-okrese-vranov-nad-toplou-jeden-jazdny-pruh-je-neprejazdny",
-      "time": "2026-10-13T10:47:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
       "title": "Polícia pátra po nezvestnom Ivanovi z okresu Levice. Dcéra ho naposledy videla v nedeľu, nadránom odišiel z domu",
       "link": "https://www.nitrak.sk/clanky/12182/patranie-v-okrese-levice-50-rocny-ivan-je-nezvestny-dcera-ho-pocula-odchadzat-z-domu-no-odvtedy-sa-uz-nikomu-neozval",
       "time": "2026-10-13T08:45:00+00:00",
@@ -38,15 +65,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1791879656-patranie-v-okrese-levice-50rocny-ivan-je-nezvestny-dcera-ho-pocula-odchadzat-z-domu-no-odvtedy-sa-uz-nikomu-ne.webp"
-    },
-    {
-      "title": "Dobrá správa pre cestujúcich: vlaky cez Žilinu po požiari opäť jazdia bez obmedzení",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2058023-dobra-sprava-pre-cestujucich-vlaky-cez-zilinu-po-poziari-opat-jazdia-bez-obmedzeni?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-13T08:32:44+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/13/2544899/4x3-medium/zilina-stanica-vlak.jpg?v=uYQ"
     }
   ]
 }

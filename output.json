@@ -1,43 +1,115 @@
 {
-  "generated_at": "2026-10-14T02:11:42.837863+00:00",
+  "generated_at": "2026-10-14T07:32:39.088977+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 12,
   "items": [
     {
-      "title": "Newsfilter: Fico nevie, aké ľahké je byť človekom",
-      "link": "https://dennikn.sk/5621767/newsfilter-fico-nevie-ake-lahke-je-byt-clovekom/",
-      "time": "2026-10-13T17:33:28+00:00",
+      "title": "V Malej Fatre sa zranil lesný robotník. Motorovou pílou si poranil nohu",
+      "link": "https://www.zilinak.sk/clanky/43410/v-malej-fatre-sa-muz-vazne-zranil-pri-praci-s-motorovou-pilou-zasahoval-vrtulnik",
+      "time": "2026-10-14T06:45:00+00:00",
       "cat": "nehoda",
       "region": "zilinsky",
-      "src": "dennikn.sk",
-      "image": "https://img.dennikn.sk/wp-static/2026/10/MixCollage-08-Oct-2026-02-56-PM-8156.jpg?w=450&amp;h=300&amp;fit=crop-67-64&amp;fm=jpg&amp;q=85&amp;s=809d3b15bfdbb68296c15e87a7ea6567"
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791959815-v-malej-fatre-sa-muz-vazne-zranil-pri-praci-s-motorovou-pilou-zasahoval-vrtulnik.webp"
     },
     {
-      "title": "Dve nehody komplikujú premávku pri Hutke a Vranove",
-      "link": "https://www.presovak.sk/clanky/15809/v-presovskom-kraji-doslo-na-viacerych-miestach-k-dopravnym-nehodam-kde-vsade-treba-pocitat-s-komplikaciami",
-      "time": "2026-10-13T17:08:00+00:00",
+      "title": "Vo Zvolene sa zrazili dve autá na križovatke",
+      "link": "https://www.bystricak.sk/clanky/13419/pozor-vo-zvolene-sa-v-krizovatke-stala-dopravna-nehoda-na-ulici-stefana-moyzesa-sa-zrazili-dve-osobne-auta",
+      "time": "2026-10-14T06:27:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Na R7 za Šamorínom sa zrazili tri autá a autobus",
+      "link": "https://www.bratislavak.sk/clanky/15845/video-hromadna-nehoda-na-r7-pri-bratislave-zrazili-sa-tri-auta-a-autobus-tvoria-sa-kolony",
+      "time": "2026-10-14T06:19:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791959105-video-hromadna-nehoda-na-r7-pri-bratislave-zrazili-sa-tri-auta-a-autobus-tvoria-sa-kolony.webp"
+    },
+    {
+      "title": "Hromadná nehoda na R7 za Šamorínom smerom na Bratislavu: Vodiči hlásia hodinové zdržanie",
+      "link": "https://www.aktuality.sk/clanok/rQutiWe/hromadna-nehoda-na-r7-za-samorinom-smerom-na-bratislavu-vodici-hlasia-hodinove-zdrzanie/",
+      "time": "2026-10-14T06:16:08+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/policia-ilustracna-foto/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/hM0ktkpTURBXy8yYTQxZjg5OThkMWE3MWYzNTU1NDY3ZGJjMjI3M2FlMy5qcGeSlQMAzIDNEwDNCrCVAs0H0ADCww?st=kYmO_MzqGdQqmO7FDP--CPy1T4tusLSRSHL0jDI5S2U&ts=1791928800&e=0"
+    },
+    {
+      "title": "Zrážka kamióna s dodávkou uzavrela cestu pri Lade",
+      "link": "https://www.presovak.sk/clanky/15810/uprostred-tyzdna-potrapia-vodicov-na-cestach-presovskeho-kraja-rozsiahle-kolony-aj-dopravne-nehody",
+      "time": "2026-10-14T06:11:00+00:00",
       "cat": "nehoda",
       "region": "presovsky",
       "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1791958271-uprostred-tyzdna-potrapia-vodicov-na-cestach-presovskeho-kraja-rozsiahle-kolony-aj-dopravne-nehody.webp"
     },
     {
-      "title": "Hasiči zasahovali pri požiari opusteného domu v Bratislave",
-      "link": "https://www.teraz.sk/regiony/hasici-zasahovali-pri-poziari-opusten/999440-clanok.html",
-      "time": "2026-10-13T16:20:00+00:00",
+      "title": "Hromadná zrážka na R7 skomplikovala dopravu do Bratislavy",
+      "link": "https://www.trnavak.sk/clanky/12563/video-rannu-dopravu-v-trnavskom-kraji-skomplikovala-hromadna-nehoda-na-r7-vodici-cakaju-desiatky-minut",
+      "time": "2026-10-14T06:02:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1791959786-video-rannu-dopravu-v-trnavskom-kraji-skomplikovala-hromadna-nehoda-na-r7-vodici-cakaju-desiatky-minut.webp"
+    },
+    {
+      "title": "Hromadná nehoda na R7, zrazil sa autobus s tromi autami",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2058625-hromadna-nehoda-na-r7-zrazil-sa-autobus-s-tromi-autami?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-14T05:41:26+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/08/21/2521267/4x3-medium/781008940-1390531453042510-4942419700646987335-n.jpg?v=J8E"
+    },
+    {
+      "title": "Požiar domu v bratislavskom Ružinove. Zdržiavali sa v ňom bezdomovci",
+      "link": "https://www.bratislavak.sk/clanky/15844/foto-v-bratislave-horel-dom-v-ktorom-sa-zdrziavali-bezdomovci-hasici-zasahovali-v-dychacich-pristrojoch",
+      "time": "2026-10-14T05:40:00+00:00",
       "cat": "poziar",
       "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791899188-foto-v-bratislave-horel-dom-v-ktorom-sa-zdrziavali-bezdomovci-hasici-zasahovali-v-dychacich-pristrojoch.webp"
+    },
+    {
+      "title": "Vodič pri cúvaní nabúral do BMW, poškodil aj zaparkovanú Kiu. Košická polícia hľadá svedkov nehody",
+      "link": "https://www.kosicak.sk/clanky/14549/kosicania-nevideli-ste-tuto-nehodu-vodic-pri-cuvani-poskodil-bmw-aj-kiu-zmizol-akoby-sa-nic-nestalo",
+      "time": "2026-10-14T05:40:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1791898447-kosicania-nevideli-ste-tuto-nehodu-vodic-pri-cuvani-poskodil-bmw-aj-kiu-zmizol-akoby-sa-nic-nestalo.webp"
+    },
+    {
+      "title": "Vážna ranná nehoda pri obci Lada: Cesta je po zrážke kamióna a dodávky úplne neprejazdná",
+      "link": "https://www.aktuality.sk/clanok/H4gdIjp/vazna-ranna-nehoda-pri-obci-lada-cesta-je-po-zrazke-kamiona-a-dodavky-uplne-neprejazdna/",
+      "time": "2026-10-14T05:36:51+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/policia-ilustracne-foto/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/wiQktkpTURBXy8xYmY0NzkwMmNiMDc5NjgzYTc2ZTliODNmMzcxZmFjOC5qcGeSlQMAUs0QEs0JCpUCzQfQAMLD?st=e3uP7ZEkK7XEQxblJvBVgLzMXzv50Z2Tb6aBC_o9ZCY&ts=1791928800&e=0"
+    },
+    {
+      "title": "NEHODA PRI PREŠOVE: Cesta I/18 pred obcou Lada je neprejazdná",
+      "link": "https://www.teraz.sk/regiony/zrazka-pri-presove-cesta-i18-pred-o/999540-clanok.html",
+      "time": "2026-10-14T05:32:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "„A nastala tma.“ Rušňovodič prehovoril o desivej zrážke pri Jablonove. Po roku sa vracia do práce",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2058381-zssk-vlaky-rusnovodic-doprava-zrazka-na-gemeri-rychlik-pri-jablonove-nad-turnou-rusnovodic-zeleznicnej-spolocnosti-slovensko-zssk-tibor-papcun-?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-13T15:15:28+00:00",
+      "title": "Na východe sa zrazil kamión a dodávka, pri Bratislave je zas hodinové zdržanie",
+      "link": "https://www1.pluska.sk/krimi/vazna-nehoda-na-vychode-zrazil-sa-kamion-a-dodavka-cestu-uzavreli",
+      "time": "2026-10-14T00:00:00+00:00",
       "cat": "nehoda",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/13/2545155/4x3-medium/tibor-papcun.jpg?v=IQI"
+      "region": "bratislavsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/670/670ca6a2-b428-4382-865a-c36bee8e9ea9.webp"
     }
   ]
 }

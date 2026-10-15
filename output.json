@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-15T01:47:49.449104+00:00",
+  "generated_at": "2026-10-15T06:29:52.840451+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "title": "Ráno v Trnavskom kraji poznačili viaceré nehody, na niekoľkých miestach zasahuje polícia i záchranári",
+      "link": "https://www.trnavak.sk/clanky/12581/nehodove-rano-v-trnavskom-kraji-kolizie-komplikuju-dopravu-na-viacerych-miestach-zasahuje-policia-i-zachranari",
+      "time": "2026-10-15T06:13:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792044905-nehodove-rano-v-trnavskom-kraji-kolizie-komplikuju-dopravu-na-viacerych-miestach-zasahuje-policia-i-zachranari.webp"
+    },
+    {
+      "title": "Pred obcou smerom na Sorošku havaroval kamión",
+      "link": "https://www.kosicak.sk/clanky/14584/pred-obcou-smerom-na-sorosku-havaroval-kamion",
+      "time": "2026-10-15T06:06:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
+    }
+  ]
 }

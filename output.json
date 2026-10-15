@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-10-15T15:47:50.581656+00:00",
+  "generated_at": "2026-10-15T19:26:52.543776+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 7,
   "items": [
+    {
+      "title": "Nehoda za Kopčanmi blokuje I/2, zrazili sa dodávka a auto",
+      "link": "https://www.trnavak.sk/clanky/12596/nehoda-na-zahori-blokuje-dopravu-na-ceste-i2-zrazili-sa-dodavka-a-osobne-auto",
+      "time": "2026-10-15T18:23:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Nehoda smerom na Šarišské Michaľany blokuje pruh do Prešova",
+      "link": "https://www.presovak.sk/clanky/15849/nehoda-smerom-na-sarisske-michalany-blokuje-dopravu-v-okoli-presova",
+      "time": "2026-10-15T17:45:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Nehoda na priechode v Košiciach spomaľuje dopravu",
+      "link": "https://www.kosicak.sk/clanky/14606/v-kosiciach-sa-stala-nehoda-na-priechode-pre-chodcov-doprava-na-hlinkovej-ulici-sa-spomaluje",
+      "time": "2026-10-15T16:55:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792083357-v-kosiciach-sa-stala-nehoda-na-priechode-pre-chodcov-doprava-na-hlinkovej-ulici-sa-spomaluje.webp"
+    },
     {
       "title": "Požiar pri Slovnafte, únik nebezpečnej látky a hasiči v akcii. V Bratislave to bude vyzerať ako pri skutočnej katastrofe",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2059781-poziar-pri-slovnafte-unik-nebezpecnej-latky-a-hasici-v-akcii-v-bratislave-to-bude-vyzerat-ako-pri-skutocnej-katastrofe?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -19,7 +46,7 @@
       "cat": "patranie",
       "region": "trenciansky",
       "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792068773-marek-z-beckova-odisiel-na-prechadzku-a-nevratil-sa-domov-prosia-o-pomoc-pri-patrani.webp"
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/04_patranie.webp"
     },
     {
       "title": "V okrese Šaľa pátrajú po nezvestnom tínedžerovi Patrikovi (15), hľadajú ho od štvrtka rána",
@@ -38,15 +65,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792059723-zivot-19rocneho-futbalistu-jarka-vyhasol-po-nehode-pri-trnave-rodina-ma-osobitnu-prosbu-k-poslednej-rozlucke.webp"
-    },
-    {
-      "title": "VIDEO: Polícia hľadá vodiča, ktorý ušiel z miesta nehody v Leviciach. Rannú haváriu zachytili kamery",
-      "link": "https://www.nitrak.sk/clanky/12206/video-policia-hlada-svedkov-nehody-pri-poste-v-leviciach-vodic-nabural-a-usiel-zachytili-to-vsak-kamery",
-      "time": "2026-10-15T08:40:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792052087-video-policia-hlada-svedkov-nehody-pri-poste-v-leviciach-vodic-nabural-a-usiel-zachytili-to-vsak-kamery.webp"
     }
   ]
 }

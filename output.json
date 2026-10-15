@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-10-15T11:55:05.285204+00:00",
+  "generated_at": "2026-10-15T15:47:50.581656+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 5,
   "items": [
+    {
+      "title": "Požiar pri Slovnafte, únik nebezpečnej látky a hasiči v akcii. V Bratislave to bude vyzerať ako pri skutočnej katastrofe",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2059781-poziar-pri-slovnafte-unik-nebezpecnej-latky-a-hasici-v-akcii-v-bratislave-to-bude-vyzerat-ako-pri-skutocnej-katastrofe?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-15T15:30:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/04/20/4x3-medium/hasici-hazz-bajc-poziar-triedicka-hasiace-prace-nrx.jpg?v=T/w"
+    },
+    {
+      "title": "Marek Čaňo z Beckova sa nevrátil z prechádzky, pátra polícia",
+      "link": "https://www.trencinak.sk/clanky/14161/marek-z-beckova-odisiel-na-prechadzku-a-nevratil-sa-domov-prosia-o-pomoc-pri-patrani",
+      "time": "2026-10-15T14:30:00+00:00",
+      "cat": "patranie",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792068773-marek-z-beckova-odisiel-na-prechadzku-a-nevratil-sa-domov-prosia-o-pomoc-pri-patrani.webp"
+    },
     {
       "title": "V okrese Šaľa pátrajú po nezvestnom tínedžerovi Patrikovi (15), hľadajú ho od štvrtka rána",
       "link": "https://www.nitrak.sk/clanky/12214/policia-vyhlasila-patranie-po-nezvestnom-tinedzerovi-z-okresu-sala-patrik-ma-15-rokov-hladaju-ho-od-stvrtka",
@@ -22,15 +40,6 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792059723-zivot-19rocneho-futbalistu-jarka-vyhasol-po-nehode-pri-trnave-rodina-ma-osobitnu-prosbu-k-poslednej-rozlucke.webp"
     },
     {
-      "title": "VIDEO: Pri odbočke na Krásnu Hôrku sa zrazili dve autá, premávku riadi polícia",
-      "link": "https://www.kosicak.sk/clanky/14594/video-pri-odbocke-na-krasnu-horku-sa-zrazili-dve-auta-premavku-riadi-policia",
-      "time": "2026-10-15T10:02:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792058579-video-pri-odbocke-na-krasnu-horku-sa-zrazili-dve-auta-premavku-riadi-policia.webp"
-    },
-    {
       "title": "VIDEO: Polícia hľadá vodiča, ktorý ušiel z miesta nehody v Leviciach. Rannú haváriu zachytili kamery",
       "link": "https://www.nitrak.sk/clanky/12206/video-policia-hlada-svedkov-nehody-pri-poste-v-leviciach-vodic-nabural-a-usiel-zachytili-to-vsak-kamery",
       "time": "2026-10-15T08:40:00+00:00",
@@ -38,24 +47,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792052087-video-policia-hlada-svedkov-nehody-pri-poste-v-leviciach-vodic-nabural-a-usiel-zachytili-to-vsak-kamery.webp"
-    },
-    {
-      "title": "Ráno v Trnavskom kraji poznačili viaceré nehody, na niekoľkých miestach zasahuje polícia i záchranári",
-      "link": "https://www.trnavak.sk/clanky/12581/nehodove-rano-v-trnavskom-kraji-kolizie-komplikuju-dopravu-na-viacerych-miestach-zasahuje-policia-i-zachranari",
-      "time": "2026-10-15T06:13:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792044905-nehodove-rano-v-trnavskom-kraji-kolizie-komplikuju-dopravu-na-viacerych-miestach-zasahuje-policia-i-zachranari.webp"
-    },
-    {
-      "title": "Pred obcou smerom na Sorošku zrazil kamión zver",
-      "link": "https://www.kosicak.sk/clanky/14584/pred-obcou-smerom-na-sorosku-zrazil-kamion-zver",
-      "time": "2026-10-15T06:06:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
     }
   ]
 }

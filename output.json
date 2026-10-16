@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T20:10:17.778259+00:00",
+  "generated_at": "2026-10-16T22:47:34.990048+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 4,
   "items": [
     {
       "title": "Rýchlostná cesta R7 je po nehode už plne prejazdná",
@@ -31,15 +31,6 @@
       "image": null
     },
     {
-      "title": "V Čadci spôsobila nehodu na mol opitá vodička. Polícia ju chytila o 20 kilometreov ďalej",
-      "link": "https://www.zilinak.sk/clanky/43480/na-mol-opita-vodicka-narazila-v-cadci-do-bmw-a-odisla-policajti-ju-chytili-o-20-kilometrov-dalej",
-      "time": "2026-10-16T15:30:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792163871-na-mol-opita-vodicka-narazila-v-cadci-do-bmw-a-odisla-policajti-ju-chytili-o-20-kilometrov-dalej.webp"
-    },
-    {
       "title": "Vážna nehoda na R7: Zraneného odváža vrtuľník, polícia obmedzila dopravu",
       "link": "https://www.bratislavak.sk/clanky/15908/vazna-nehoda-na-r7-pri-bratislave-pre-zraneneho-musel-priletiet-vrtulnik-policia-uzavrela-jazdny-pruh",
       "time": "2026-10-16T15:08:00+00:00",
@@ -47,33 +38,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792163386-vazna-nehoda-na-r7-pri-bratislave-pre-zraneneho-musel-priletiet-vrtulnik-policia-uzavrela-jazdny-pruh.webp"
-    },
-    {
-      "title": "Vodiči, pozor na D1! Neďaleko Trnavy došlo k hromadnej dopravnej nehode",
-      "link": "https://www.trnavak.sk/clanky/12609/vodici-pozor-na-d1-nedaleko-trnavy-doslo-k-hromadnej-dopravnej-nehode",
-      "time": "2026-10-16T13:52:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Veroniku z Prešova po piatich rokoch vypátrali",
-      "link": "https://www.presovak.sk/clanky/15855/po-rokoch-neistoty-prisla-neuveritelna-sprava-podarilo-sa-vypatrat-mladu-veroniku-z-presova-nezvestna-bola-pat-rokov",
-      "time": "2026-10-16T10:00:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1792143626-po-rokoch-neistoty-prisla-neuveritelna-sprava-podarilo-sa-vypatrat-mladu-veroniku-z-presova-nezvestna-bola-pat.webp"
-    },
-    {
-      "title": "Vodič po nehode pri Hlohovci ušiel, polícia hľadá svedkov",
-      "link": "https://www.trnavak.sk/clanky/12598/po-nehode-pri-hlohovci-skoncila-motocyklistka-v-nemocnici-druhy-vodic-zmizol-policia-hlada-svedkov",
-      "time": "2026-10-16T08:44:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792139420-po-nehode-pri-hlohovci-skoncila-motocyklistka-v-nemocnici-druhy-vodic-zmizol-policia-hlada-svedkov.webp"
     }
   ]
 }

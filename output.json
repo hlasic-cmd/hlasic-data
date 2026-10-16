@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T00:37:53.202039+00:00",
+  "generated_at": "2026-10-16T04:56:37.030218+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 6,
   "items": [
     {
       "title": "Kandidát na primátora Trenčína Mičega: Do 20-tisícového sídliska vedie len jedna cesta",
@@ -56,24 +56,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Nehoda na priechode v Košiciach spomaľuje dopravu",
-      "link": "https://www.kosicak.sk/clanky/14606/v-kosiciach-sa-stala-nehoda-na-priechode-pre-chodcov-doprava-na-hlinkovej-ulici-sa-spomaluje",
-      "time": "2026-10-15T16:55:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792083357-v-kosiciach-sa-stala-nehoda-na-priechode-pre-chodcov-doprava-na-hlinkovej-ulici-sa-spomaluje.webp"
-    },
-    {
-      "title": "Požiar pri Slovnafte, únik nebezpečnej látky a hasiči v akcii. V Bratislave to bude vyzerať ako pri skutočnej katastrofe",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2059781-poziar-pri-slovnafte-unik-nebezpecnej-latky-a-hasici-v-akcii-v-bratislave-to-bude-vyzerat-ako-pri-skutocnej-katastrofe?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-15T15:30:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/04/20/4x3-medium/hasici-hazz-bajc-poziar-triedicka-hasiace-prace-nrx.jpg?v=T/w"
     }
   ]
 }

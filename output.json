@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-10-16T04:56:37.030218+00:00",
+  "generated_at": "2026-10-16T09:23:47.458372+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 9,
   "items": [
+    {
+      "title": "Vodič po nehode pri Hlohovci ušiel, polícia hľadá svedkov",
+      "link": "https://www.trnavak.sk/clanky/12598/po-nehode-pri-hlohovci-skoncila-motocyklistka-v-nemocnici-druhy-vodic-zmizol-policia-hlada-svedkov",
+      "time": "2026-10-16T08:44:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792139420-po-nehode-pri-hlohovci-skoncila-motocyklistka-v-nemocnici-druhy-vodic-zmizol-policia-hlada-svedkov.webp"
+    },
+    {
+      "title": "Pátrajú po 17-ročnej Natálii z Turčianskych Teplíc. Zverejnili opis nezvestného dievčaťa",
+      "link": "https://www.zilinak.sk/clanky/43466/patraju-po-17-rocnej-natalii-z-turcianskych-teplic-policia-ziada-verejnost-o-pomoc",
+      "time": "2026-10-16T07:30:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792133309-patraju-po-17rocnej-natalii-z-turcianskych-teplic-policia-ziada-verejnost-o-pomoc.webp"
+    },
+    {
+      "title": "FOTO: Požiar rodinného domu v Čadci zasiahol celú strechu. Škoda dosahuje 30-tisíc eur",
+      "link": "https://www.zilinak.sk/clanky/43461/foto-poziar-domu-v-cadci-sposobil-skodu-30-tisic-eur-zasiahnuty-bol-cely-priestor-pod-strechou",
+      "time": "2026-10-16T07:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792132156-foto-poziar-domu-v-cadci-sposobil-skodu-30tisic-eur-zasiahnuty-bol-cely-priestor-pod-strechou.webp"
+    },
+    {
+      "title": "Slovnaft: Hasiči v Bratislave nasimulujú únik látky a požiar",
+      "link": "https://www.bratislavak.sk/clanky/15897/obyvatelia-podunajskych-biskupiciach-nezlaknite-sa-hasici-dnes-budu-v-blizkosti-rafinerie-simulovat-poziar",
+      "time": "2026-10-16T06:55:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792133388-obyvatelia-podunajskych-biskupiciach-nezlaknite-sa-hasici-dnes-budu-v-blizkosti-rafinerie-simulovat-poziar.webp"
+    },
+    {
+      "title": "Medzi dvoma obcami na Zemplíne došlo k nehode, pracujú na jej odstránení, rátajte so zdržaním",
+      "link": "https://www.kosicak.sk/clanky/14608/medzi-dvoma-obcami-na-zempline-doslo-k-nehode-pracuju-na-jej-odstraneni-ratajte-so-zdrzanim",
+      "time": "2026-10-16T06:14:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792131265-medzi-dvoma-obcami-na-zempline-doslo-k-nehode-pracuju-na-jej-odstraneni-ratajte-so-zdrzanim.webp"
+    },
+    {
+      "title": "Nehody zdržia dopravu v Bystrici a pri Zvolenskej Slatine",
+      "link": "https://www.bystricak.sk/clanky/13453/pozor-na-nehody-v-banskej-bystrici-na-stefanikovom-nabrezi-a-za-zvolenskou-slatinou-smerom-na-zvolen-zdrzite-sa-tam",
+      "time": "2026-10-16T06:13:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Hasiči v Čadci bojovali s požiarom strechy rodinného domu",
+      "link": "https://www.aktuality.sk/clanok/VxTUw07/poziari-strechy-domu-v-cadci-sposobil-skodu-za-30-tisic-eur/",
+      "time": "2026-10-16T06:11:25+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/poziar-strechy-rodinneho-domu-v-cadci/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/BtHktkpTURBXy80YmNmODc1MjM1Mzc3YWNiZjNmOGRiMTk1OTA3Nzk4Zi5qcGeSlQMAbM0HgM0EOJUCzQfQAMLD?st=0CpVQanEfmpNtPW1yHgyscsY4cxGQPkOmrir5gYsllE&ts=1792101600&e=0"
+    },
     {
       "title": "Kandidát na primátora Trenčína Mičega: Do 20-tisícového sídliska vedie len jedna cesta",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2058329-kandidat-na-primatora-trencina-micega-do-20-tisicoveho-sidliska-vedie-len-jedna-cesta?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -20,42 +83,6 @@
       "region": "trenciansky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/10/13/2545121/4x3-medium/milos-micega.jpg?v=T/w"
-    },
-    {
-      "title": "Nezvestnú tínedžerku z Turian naposledy videli na železničnej stanici. Polícia zverejnila jej popis",
-      "link": "https://www.zilinak.sk/clanky/43459/policia-hlada-14-rocnu-martinku-z-turca-z-domu-odisla-pred-dvoma-tyzdnami-videli-ju-na-stanici",
-      "time": "2026-10-15T20:06:00+00:00",
-      "cat": "patranie",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792094856-policia-hlada-14rocnu-martinku-z-turca-z-domu-odisla-pred-dvoma-tyzdnami-videli-ju-na-stanici.webp"
-    },
-    {
-      "title": "Večerný požiar zachvátil rodinný dom v Čadci. Zasahujú aj dobrovoľní hasiči",
-      "link": "https://www.zilinak.sk/clanky/43458/foto-v-cadci-hori-rodinny-dom-na-mieste-sa-siri-husty-dym-zasahuju-hasici",
-      "time": "2026-10-15T19:55:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792094109-foto-v-cadci-hori-rodinny-dom-na-mieste-sa-siri-husty-dym-zasahuju-hasici.webp"
-    },
-    {
-      "title": "Nehoda za Kopčanmi blokuje I/2, zrazili sa dodávka a auto",
-      "link": "https://www.trnavak.sk/clanky/12596/nehoda-na-zahori-blokuje-dopravu-na-ceste-i2-zrazili-sa-dodavka-a-osobne-auto",
-      "time": "2026-10-15T18:23:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Nehoda smerom na Šarišské Michaľany blokuje pruh do Prešova",
-      "link": "https://www.presovak.sk/clanky/15849/nehoda-smerom-na-sarisske-michalany-blokuje-dopravu-v-okoli-presova",
-      "time": "2026-10-15T17:45:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
     }
   ]
 }

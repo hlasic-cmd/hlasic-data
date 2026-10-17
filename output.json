@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-10-17T05:01:54.127461+00:00",
+  "generated_at": "2026-10-17T09:05:37.103284+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "title": "V Komárne sa pri nemocnici zrazili štyri autá",
+      "link": "https://www.nitrak.sk/clanky/12234/hromadna-nehoda-v-komarne-na-krizovatke-pri-nemocnici-sa-zrazili-styri-auta",
+      "time": "2026-10-17T08:28:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    }
+  ]
 }

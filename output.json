@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T20:30:55.648618+00:00",
+  "generated_at": "2026-10-17T22:32:30.862354+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "title": "Na D2 zomrel vodič Audi po náraze do návesu",
@@ -20,15 +20,6 @@
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Za Krupinou hromadná nehoda, na D2 pri Mýtnej havarovalo auto",
-      "link": "https://www.bystricak.sk/clanky/13463/na-cestach-si-davajte-pozor-za-krupinou-doslo-k-hromadnej-nehode-na-d2-v-smere-z-detvy-havarovalo-osobne-auto",
-      "time": "2026-10-17T12:00:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
     }
   ]
 }

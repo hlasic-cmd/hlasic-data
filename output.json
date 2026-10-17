@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-10-17T00:47:38.683547+00:00",
+  "generated_at": "2026-10-17T05:01:54.127461+00:00",
   "max_age_hours": 12,
-  "count": 4,
-  "items": [
-    {
-      "title": "Rýchlostná cesta R7 je po nehode už plne prejazdná",
-      "link": "https://www.teraz.sk/regiony/vodici-pozor-pravy-jazdny-pruh-na-r/1000428-clanok.html",
-      "time": "2026-10-16T16:41:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Súd vzal do väzby Lotyša, ktorého zadržali pre podpaľačský útok",
-      "link": "https://www.teraz.sk/slovensko/sud-vzal-do-vazby-lotysa-ktoreho-za/1000431-clanok.html",
-      "time": "2026-10-16T15:54:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "ZDRŽANIE: Dopravu v Bratislave a okolí komplikujú nehody a kolóny",
-      "link": "https://www.teraz.sk/regiony/zdrzanie-dopravu-v-bratislave-a-okoli/1000430-clanok.html",
-      "time": "2026-10-16T15:41:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Vážna nehoda na R7: Zraneného odváža vrtuľník, polícia obmedzila dopravu",
-      "link": "https://www.bratislavak.sk/clanky/15908/vazna-nehoda-na-r7-pri-bratislave-pre-zraneneho-musel-priletiet-vrtulnik-policia-uzavrela-jazdny-pruh",
-      "time": "2026-10-16T15:08:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792163386-vazna-nehoda-na-r7-pri-bratislave-pre-zraneneho-musel-priletiet-vrtulnik-policia-uzavrela-jazdny-pruh.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

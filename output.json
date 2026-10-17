@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T18:09:45.805495+00:00",
+  "generated_at": "2026-10-17T20:30:55.648618+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 3,
   "items": [
     {
       "title": "Na D2 zomrel vodič Audi po náraze do návesu",
@@ -29,33 +29,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Polícia pátra po Mariánovi Baranovi a Nikolasovi Grundzovi",
-      "link": "https://www.presovak.sk/clanky/15865/policia-patra-po-nezvestnom-27-rocnom-marianovi-zo-stropkova-a-14-rocnom-nikolasovi-z-medzilaboriec",
-      "time": "2026-10-17T12:00:00+00:00",
-      "cat": "patranie",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1792237123-policia-patra-po-nezvestnom-27rocnom-marianovi-zo-stropkova-a-14rocnom-nikolasovi-z-medzilaboriec.webp"
-    },
-    {
-      "title": "Jednu postrelil tréner, druhá po nehode skončila na vozíku. Dve parahokejistky z Kubína bojujú o cestu na majstrovstvá",
-      "link": "https://www.zilinak.sk/clanky/43398/jednu-postrelili-druha-po-nehode-zostala-na-voziku-parahokejistky-sa-mozu-dostat-z-kubina-az-do-australie-pomozete",
-      "time": "2026-10-17T11:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1791995701-jednu-postrelili-druha-po-nehode-zostala-na-voziku-parahokejistky-sa-mozu-dostat-z-kubina-az-do-australie-pomo.webp"
-    },
-    {
-      "title": "V Komárne sa pri nemocnici zrazili štyri autá",
-      "link": "https://www.nitrak.sk/clanky/12234/hromadna-nehoda-v-komarne-na-krizovatke-pri-nemocnici-sa-zrazili-styri-auta",
-      "time": "2026-10-17T08:28:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
     }
   ]
 }

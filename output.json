@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-18T00:12:03.897603+00:00",
+  "generated_at": "2026-10-18T04:25:33.324538+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Na D2 zomrel vodič Audi po náraze do návesu",
-      "link": "https://www.bratislavak.sk/clanky/15911/tragicka-nehoda-na-d2-vodic-audi-narazil-do-navesu-kamiona-na-mieste-zomrel",
-      "time": "2026-10-17T13:34:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792244082-tragicka-nehoda-na-d2-vodic-audi-narazil-do-navesu-kamiona-na-mieste-zomrel.webp"
-    },
-    {
-      "title": "VÁŽNA NEHODA: Na diaľnici D2 v sobotu ráno zahynul vodič",
-      "link": "https://www.teraz.sk/regiony/nehoda-na-dialnici-d2-v-sobotu-rano-z/1000582-clanok.html",
-      "time": "2026-10-17T13:05:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    }
-  ]
+  "count": 0,
+  "items": []
 }

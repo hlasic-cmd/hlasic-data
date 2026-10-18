@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T20:59:57.540342+00:00",
+  "generated_at": "2026-10-18T22:47:48.697666+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 4,
   "items": [
     {
       "title": "Viktória Ősziová a Tomáš Husár sú nezvestní",
@@ -13,13 +13,13 @@
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792333421-nevideli-ste-19rocnu-viktoriu-alebo-61rocneho-tomasa-obaja-su-z-bratislavy-a-nezvestni-patra-po-nich-policia.webp"
     },
     {
-      "title": "Polícia pátra po nezvestnom Patrikovi Monovi z Levíc",
-      "link": "https://www.nitrak.sk/clanky/12239/policia-spustila-patranie-po-nezvestnom-22-rocnom-patrikovi-z-levic-na-sebe-mal-biele-botasky-oblubenej-znacky",
-      "time": "2026-10-18T14:20:00+00:00",
-      "cat": "patranie",
+      "title": "Bombový poplach evakuoval 1500 ľudí z párty v Komárne",
+      "link": "https://www.nitrak.sk/clanky/12238/foto-hip-hopovu-party-v-komarne-prerusil-bombovy-poplach-policajti-zasahovali-do-skoreho-rana",
+      "time": "2026-10-18T13:30:00+00:00",
+      "cat": "zasah",
       "region": "nitriansky",
       "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792332605-policia-spustila-patranie-po-nezvestnom-22rocnom-patrikovi-z-levic-na-sebe-mal-biele-botasky-oblubenej-znacky.webp"
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792328214-foto-hiphopovu-party-v-komarne-prerusil-bombovy-poplach-policajti-zasahovali-do-skoreho-rana.webp"
     },
     {
       "title": "Dopravná nehoda na Galantskej ceste v Dunajskej Strede",
@@ -38,24 +38,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792320674-ludskost-policajtov-z-povazskej-bystrice-pomohla-detom-zvladnut-prvu-dopravnu-nehodu-aj-velke-vystupenie.webp"
-    },
-    {
-      "title": "Súd za smrť Bianky pri Novom Tekove uložil podmienku",
-      "link": "https://www.nitrak.sk/clanky/12235/video-tragicka-nehoda-pre-23-rocnu-bianku-pri-kalnej-nad-hronom-sa-dostala-pred-sud-jeho-rozhodnutie-zaskocilo-mamu",
-      "time": "2026-10-18T10:20:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792313655-video-tragicka-nehoda-pre-23rocnu-bianku-pri-kalnej-nad-hronom-sa-dostala-pred-sud-jeho-rozhodnutie-zaskocilo.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnej 13-ročnej Sofii Smoradovej zo Spišskej Novej Vsi",
-      "link": "https://www.kosicak.sk/clanky/14625/maloleta-sofia-zo-spisskej-novej-vsi-je-nezvestna-patra-po-nej-policia-pomozte-sa-jej-vratit-do-bezpecia",
-      "time": "2026-10-18T10:00:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792316714-maloleta-sofia-zo-spisskej-novej-vsi-je-nezvestna-patra-po-nej-policia-pomozte-sa-jej-vratit-do-bezpecia.webp"
     }
   ]
 }

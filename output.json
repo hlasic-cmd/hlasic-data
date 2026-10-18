@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-10-18T12:52:55.657865+00:00",
+  "generated_at": "2026-10-18T16:10:22.966503+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 7,
   "items": [
+    {
+      "title": "Viktória Ősziová a Tomáš Husár sú nezvestní",
+      "link": "https://www.bratislavak.sk/clanky/15918/nevideli-ste-19-rocnu-viktoriu-alebo-61-rocneho-tomasa-obaja-su-z-bratislavy-a-nezvestni-patra-po-nich-policia",
+      "time": "2026-10-18T14:30:00+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792333421-nevideli-ste-19rocnu-viktoriu-alebo-61rocneho-tomasa-obaja-su-z-bratislavy-a-nezvestni-patra-po-nich-policia.webp"
+    },
+    {
+      "title": "Polícia pátra po nezvestnom Patrikovi Monovi z Levíc",
+      "link": "https://www.nitrak.sk/clanky/12239/policia-spustila-patranie-po-nezvestnom-22-rocnom-patrikovi-z-levic-na-sebe-mal-biele-botasky-oblubenej-znacky",
+      "time": "2026-10-18T14:20:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792332605-policia-spustila-patranie-po-nezvestnom-22rocnom-patrikovi-z-levic-na-sebe-mal-biele-botasky-oblubenej-znacky.webp"
+    },
+    {
+      "title": "Bombový poplach evakuoval 1500 ľudí z párty v Komárne",
+      "link": "https://www.nitrak.sk/clanky/12238/foto-hip-hopovu-party-v-komarne-prerusil-bombovy-poplach-policajti-zasahovali-do-skoreho-rana",
+      "time": "2026-10-18T13:30:00+00:00",
+      "cat": "zasah",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792328214-foto-hiphopovu-party-v-komarne-prerusil-bombovy-poplach-policajti-zasahovali-do-skoreho-rana.webp"
+    },
     {
       "title": "Dopravná nehoda na Galantskej ceste v Dunajskej Strede",
       "link": "https://www.trnavak.sk/clanky/12613/na-galantskej-ceste-v-dunajskej-strede-doslo-k-nehode-zasahuju-policajti-aj-zachranne-zlozky",
@@ -31,15 +58,6 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792313655-video-tragicka-nehoda-pre-23rocnu-bianku-pri-kalnej-nad-hronom-sa-dostala-pred-sud-jeho-rozhodnutie-zaskocilo.webp"
     },
     {
-      "title": "Polícia: Na cestách Žilinského kraja zomrelo v tomto roku 22 ľudí",
-      "link": "https://www.teraz.sk/regiony/policia-na-cestach-zilinskeho-kraja/1000727-clanok.html",
-      "time": "2026-10-18T10:20:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
       "title": "Polícia pátra po nezvestnej 13-ročnej Sofii Smoradovej zo Spišskej Novej Vsi",
       "link": "https://www.kosicak.sk/clanky/14625/maloleta-sofia-zo-spisskej-novej-vsi-je-nezvestna-patra-po-nej-policia-pomozte-sa-jej-vratit-do-bezpecia",
       "time": "2026-10-18T10:00:00+00:00",
@@ -47,15 +65,6 @@
       "region": "kosicky",
       "src": "kosicak.sk",
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792316714-maloleta-sofia-zo-spisskej-novej-vsi-je-nezvestna-patra-po-nej-policia-pomozte-sa-jej-vratit-do-bezpecia.webp"
-    },
-    {
-      "title": "Požiar domu v Liptovskom Trnovci spôsobil škodu 130-tisíc eur",
-      "link": "https://www.zilinak.sk/clanky/43488/foto-plamene-pohltili-strechu-rodinneho-domu-na-liptove-majitelovi-vznikla-predbezna-skoda-vo-vyske-130-tisic-eur",
-      "time": "2026-10-18T07:37:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792309114-foto-plamene-pohltili-strechu-rodinneho-domu-na-liptove-majitelovi-vznikla-predbezna-skoda-vo-vyske-130tisic-e.webp"
     }
   ]
 }

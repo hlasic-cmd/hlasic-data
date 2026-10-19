@@ -1,6 +1,142 @@
 {
-  "generated_at": "2026-10-19T05:08:34.943367+00:00",
+  "generated_at": "2026-10-19T10:41:43.044423+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 15,
+  "items": [
+    {
+      "title": "Požiar v Rokytove pri Humennom pripravil rodinu o dom",
+      "link": "https://www.presovak.sk/clanky/15875/velke-nestastie-pri-humennom-po-nedavnej-necakanej-smrti-otca-prisla-rodina-o-strechu-nad-hlavou",
+      "time": "2026-10-19T09:00:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1792397928-velke-nestastie-pri-humennom-po-nedavnej-necakanej-smrti-otca-prisla-rodina-o-strechu-nad-hlavou.webp"
+    },
+    {
+      "title": "Tri autá sa zrazili na Prievozskej. Autobusy musia vybočovať",
+      "link": "https://www.bratislavak.sk/clanky/15926/nehoda-troch-aut-na-prievozskej-v-bratislave-blokovany-je-bus-pruh-pozor-na-vybocujuce-autobusy",
+      "time": "2026-10-19T08:47:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Pre rekonštrukciu priecestia bude uzavretá časť Požiarnickej ulice v Prešove",
+      "link": "https://korzar.sme.sk/presov/c/pre-rekonstrukciu-priecestia-bude-uzavreta-cast-poziarnickej-ulice-v-presove?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-10-19T08:27:44+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a15345-4a53-7173-be8b-fcd4f878b9a7.jpg"
+    },
+    {
+      "title": "NEHODA NA D4 PRI STUPAVE: Zranili sa tri osoby",
+      "link": "https://www.teraz.sk/regiony/nehoda-na-d4-pri-stupave-zranili-sa-tri/1000874-clanok.html",
+      "time": "2026-10-19T08:21:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Auto zostalo na streche v Nedožeroch-Brezanoch, štyria v nemocnici",
+      "link": "https://www.trencinak.sk/clanky/14190/foto-auto-pri-prievidzi-skoncilo-na-streche-styria-ludia-putovali-rovno-do-nemocnice",
+      "time": "2026-10-19T08:20:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792392523-foto-auto-pri-prievidzi-skoncilo-na-streche-styria-ludia-putovali-rovno-do-nemocnice.webp"
+    },
+    {
+      "title": "Nehoda ochromila D4 pri Stupave. Dve autá havarovali, traja zranení",
+      "link": "https://www.bratislavak.sk/clanky/15923/foto-dialnicu-d4-pri-stupave-ochromila-dopravna-nehoda-dve-auta-havarovali-na-krizovatke-s-d2-traja-ludia-sa-zranili",
+      "time": "2026-10-19T07:50:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792396110-foto-dialnicu-d4-pri-stupave-ochromila-dopravna-nehoda-dve-auta-havarovali-na-krizovatke-s-d2-traja-ludia-sa-z.webp"
+    },
+    {
+      "title": "V Prešove uzavrú priecestie, linka 12 pôjde obchádzkou",
+      "link": "https://www.presovak.sk/clanky/15872/zeleznicne-priecestie-v-presove-bude-uzatvorene-mhd-caka-zmena",
+      "time": "2026-10-19T07:30:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1792394698-zeleznicne-priecestie-v-presove-bude-uzatvorene-mhd-caka-zmena.webp"
+    },
+    {
+      "title": "Zrážka dvoch áut na D4 pri Bratislave: Traja ľudia sa zranili, jedno vozidlo skončilo mimo cesty",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2061529-zrazka-dvoch-aut-na-d4-pri-bratislave-traja-ludia-sa-zranili-jedno-vozidlo-skoncilo-mimo-cesty?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-19T07:30:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/10/19/2548287/4x3-medium/nehoda-d4.jpg?v=T/w"
+    },
+    {
+      "title": "Hasiči minulý týždeň zasahovali 601-krát, najviac pri požiaroch",
+      "link": "https://www.teraz.sk/slovensko/hasici-minuly-tyzden-zasahovali-601/1000852-clanok.html",
+      "time": "2026-10-19T07:24:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Banská Štiavnica: Tri ulice bez vody pre haváriu",
+      "link": "https://www.bystricak.sk/clanky/13466/obyvatelia-banskej-bystrice-a-banskej-stiavnice-spozornite-tieto-ulice-zostanu-bez-vody-ci-tepla",
+      "time": "2026-10-19T07:20:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792398331-obyvatelia-banskej-bystrice-a-banskej-stiavnice-spozornite-tieto-ulice-zostanu-bez-vody-ci-tepla.webp"
+    },
+    {
+      "title": "VIDEO: Na križovatke v Zbehoch horela dodávka, nehody však hlásia aj v okrese Topoľčany",
+      "link": "https://www.nitrak.sk/clanky/12243/video-v-zbehoch-horela-dodavka-pozor-vsak-aj-na-nehody-v-topolcanoch-a-koniarovciach",
+      "time": "2026-10-19T07:16:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792394253-video-v-zbehoch-horela-dodavka-pozor-vsak-aj-na-nehody-v-topolcanoch-a-koniarovciach.webp"
+    },
+    {
+      "title": "Na cestách Prešovského kraja je to samé prekvapenie. Hlásite nehody, zrážku so zverou aj pokazený autobus na diaľnici",
+      "link": "https://www.presovak.sk/clanky/15870/na-cestach-presovskeho-kraja-je-to-same-prekvapenie-hlasite-nehody-zrazku-so-zverou-aj-pokazeny-autobus-na-dialnici",
+      "time": "2026-10-19T06:23:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Hromadná nehoda pred Ivankou pri Dunaji tvorí kolóny",
+      "link": "https://www.bratislavak.sk/clanky/15922/hromadna-nehoda-pred-ivankou-pri-dunaji-na-ceste-z-bernolakova-sa-tvoria-kolony-pockate-si-aj-v-bratislave",
+      "time": "2026-10-19T06:16:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792390591-hromadna-nehoda-pred-ivankou-pri-dunaji-na-ceste-z-bernolakova-sa-tvoria-kolony-pockate-si-aj-v-bratislave.webp"
+    },
+    {
+      "title": "Na cestách Košického kraja je to samá nehoda, pre nehodu pod Mostom VSS v Košiciach si počkáte v kolónach dlhé minúty",
+      "link": "https://www.kosicak.sk/clanky/14630/na-cestach-kosickeho-kraja-je-to-sama-nehoda-pre-nehodu-pod-mostom-vss-v-kosiciach-si-pockate-v-kolonach-dlhe-minuty",
+      "time": "2026-10-19T06:13:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792390398-na-cestach-kosickeho-kraja-je-to-sama-nehoda-pre-nehodu-pod-mostom-vss-v-kosiciach-si-pockate-v-kolonach-dlhe.webp"
+    },
+    {
+      "title": "Nehoda na križovatke pri Stupave: Zrazili sa dve autá, traja ľudia sa zranili",
+      "link": "https://www1.pluska.sk/krimi/nehoda-na-krizovatke-pri-stupave-zrazili-sa-dve-auta-traja-ludia-sa-zranili",
+      "time": "2026-10-19T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/083/0838a71b-44c7-4ff8-b17f-4fa70593da9c.webp"
+    }
+  ]
 }

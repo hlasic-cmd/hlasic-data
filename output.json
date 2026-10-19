@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-19T00:32:25.313945+00:00",
+  "generated_at": "2026-10-19T05:08:34.943367+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Viktória Ősziová a Tomáš Husár sú nezvestní",
-      "link": "https://www.bratislavak.sk/clanky/15918/nevideli-ste-19-rocnu-viktoriu-alebo-61-rocneho-tomasa-obaja-su-z-bratislavy-a-nezvestni-patra-po-nich-policia",
-      "time": "2026-10-18T14:30:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792333421-nevideli-ste-19rocnu-viktoriu-alebo-61rocneho-tomasa-obaja-su-z-bratislavy-a-nezvestni-patra-po-nich-policia.webp"
-    },
-    {
-      "title": "Bombový poplach evakuoval 1500 ľudí z párty v Komárne",
-      "link": "https://www.nitrak.sk/clanky/12238/foto-hip-hopovu-party-v-komarne-prerusil-bombovy-poplach-policajti-zasahovali-do-skoreho-rana",
-      "time": "2026-10-18T13:30:00+00:00",
-      "cat": "zasah",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792328214-foto-hiphopovu-party-v-komarne-prerusil-bombovy-poplach-policajti-zasahovali-do-skoreho-rana.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

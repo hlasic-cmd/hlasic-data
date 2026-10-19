@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-10-19T17:09:35.719640+00:00",
+  "generated_at": "2026-10-19T21:28:53.967277+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 6,
   "items": [
     {
-      "title": "Milan zo Záhoria je od nedele nezvestný, polícia po 27-ročnom mužovi vyhlásila pátranie. O pomoc žiada aj verejnosť",
-      "link": "https://www.trnavak.sk/clanky/12626/milan-zo-zahoria-je-od-nedele-nezvestny-policia-po-27-rocnom-muzovi-vyhlasila-patranie-o-pomoc-ziada-aj-verejnost",
+      "title": "Polícia vyhlásila pátranie po dvoch mladých mužoch zo Záhoria. Milan je nezvestný od nedele, Boris od pondelka",
+      "link": "https://www.trnavak.sk/clanky/12626/policia-vyhlasila-patranie-po-dvoch-mladych-muzoch-zo-zahoria-milan-je-nezvestny-od-nedele-boris-od-pondelka",
       "time": "2026-10-19T15:55:00+00:00",
       "cat": "patranie",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792424673-milan-zo-zahoria-je-od-nedele-nezvestny-policia-po-27rocnom-muzovi-vyhlasila-patranie-o-pomoc-ziada-aj-verejno.webp"
-    },
-    {
-      "title": "Doživotný zákaz mu nezabránil sadnúť za volant. Na Liptove po nehode nafúkal 1,67 promile",
-      "link": "https://www.zilinak.sk/clanky/43513/foto-na-liptove-havaroval-opity-vodic-mal-dozivotny-zakaz-soferovania-po-nehode-odisiel",
-      "time": "2026-10-19T15:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792419743-foto-na-liptove-havaroval-opity-vodic-mal-dozivotny-zakaz-soferovania-po-nehode-odisiel.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792431081-policia-vyhlasila-patranie-po-dvoch-mladych-muzoch-zo-zahoria-milan-je-nezvestny-od-nedele-boris-od-pondelka.webp"
     },
     {
       "title": "Polícia v Košiciach pátra po nezvestnej 23-ročnej Patrícii B.",
@@ -31,24 +22,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792419917-kosicka-policia-ma-aj-v-uvode-noveho-pracovneho-tyzdna-ruky-plne-prace-nestretli-ste-niekde-23rocnu-patriciu.webp"
     },
     {
-      "title": "V Dúbravke horelo auto. Vodič sa pri hasení popálil na rukách",
-      "link": "https://www.bratislavak.sk/clanky/15934/foto-v-dubravke-zacalo-horiet-auto-vodic-sa-pokusil-poziar-uhasit-sam-skoncil-s-popaleninami",
-      "time": "2026-10-19T13:50:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792415317-foto-v-dubravke-zacalo-horiet-auto-vodic-sa-pokusil-poziar-uhasit-sam-skoncil-s-popaleninami.webp"
-    },
-    {
-      "title": "Bazén v Michalovciach zatvoria, Spišská Nová Ves otvára",
-      "link": "https://www.kosicak.sk/clanky/14636/foto-v-michalovciach-zavreli-plavaren-pre-nehodu-plavca-v-spisskej-sa-naopak-tesia-z-vynovenych-priestorov",
-      "time": "2026-10-19T13:20:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792412752-foto-v-michalovciach-zavreli-plavaren-pre-nehodu-plavca-v-spisskej-sa-naopak-tesia-z-vynovenych-priestorov.webp"
-    },
-    {
       "title": "Pacienta z Pohorelej previezli vrtuľníkom do Banskej Bystrice",
       "link": "https://www.bystricak.sk/clanky/13474/v-pohorelej-nestacila-pozemna-zachranka-pacienta-museli-previest-do-banskej-bystrice-vrtulnikom",
       "time": "2026-10-19T13:08:00+00:00",
@@ -56,15 +29,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792414408-v-pohorelej-nestacila-pozemna-zachranka-pacienta-museli-previest-do-banskej-bystrice-vrtulnikom.webp"
-    },
-    {
-      "title": "SHMÚ varuje pred víchricou na horách v okrese Poprad",
-      "link": "https://www.presovak.sk/clanky/15874/shmu-upozornuje-na-vystrahy-na-horach-v-popradskom-okrese-ocakavaju-aj-vichricu",
-      "time": "2026-10-19T12:40:00+00:00",
-      "cat": "burka",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1792410453-shmu-upozornuje-na-vystrahy-na-horach-v-popradskom-okrese-ocakavaju-aj-vichricu.webp"
     },
     {
       "title": "Polícia pátra po nezvestnom 30-ročnom Marekovi Pecháčovi",
@@ -92,24 +56,6 @@
       "region": "bratislavsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/10/19/2548403/4x3-medium/poziar-auto-bratislava.jpg?v=T/w"
-    },
-    {
-      "title": "Auto zostalo na streche v Nedožeroch-Brezanoch, štyria v nemocnici",
-      "link": "https://www.trencinak.sk/clanky/14190/foto-auto-pri-prievidzi-skoncilo-na-streche-styria-ludia-putovali-rovno-do-nemocnice",
-      "time": "2026-10-19T08:20:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792392523-foto-auto-pri-prievidzi-skoncilo-na-streche-styria-ludia-putovali-rovno-do-nemocnice.webp"
-    },
-    {
-      "title": "Zrážka dvoch áut na D4 pri Bratislave: Traja ľudia sa zranili, jedno vozidlo skončilo mimo cesty",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2061529-zrazka-dvoch-aut-na-d4-pri-bratislave-traja-ludia-sa-zranili-jedno-vozidlo-skoncilo-mimo-cesty?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-19T07:30:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/19/2548287/4x3-medium/nehoda-d4.jpg?v=T/w"
     }
   ]
 }

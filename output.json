@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-20T00:29:50.914311+00:00",
+  "generated_at": "2026-10-20T05:06:49.392715+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Polícia vyhlásila pátranie po dvoch mladých mužoch zo Záhoria. Milan je nezvestný od nedele, Boris od pondelka",
-      "link": "https://www.trnavak.sk/clanky/12626/policia-vyhlasila-patranie-po-dvoch-mladych-muzoch-zo-zahoria-milan-je-nezvestny-od-nedele-boris-od-pondelka",
-      "time": "2026-10-19T15:55:00+00:00",
-      "cat": "patranie",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792431081-policia-vyhlasila-patranie-po-dvoch-mladych-muzoch-zo-zahoria-milan-je-nezvestny-od-nedele-boris-od-pondelka.webp"
-    },
-    {
-      "title": "Pacienta z Pohorelej previezli vrtuľníkom do Banskej Bystrice",
-      "link": "https://www.bystricak.sk/clanky/13474/v-pohorelej-nestacila-pozemna-zachranka-pacienta-museli-previest-do-banskej-bystrice-vrtulnikom",
-      "time": "2026-10-19T13:08:00+00:00",
-      "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792414408-v-pohorelej-nestacila-pozemna-zachranka-pacienta-museli-previest-do-banskej-bystrice-vrtulnikom.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

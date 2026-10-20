@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-10-20T05:06:49.392715+00:00",
+  "generated_at": "2026-10-20T09:57:51.070214+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 9,
+  "items": [
+    {
+      "title": "Polícia pátra po nezvestnej Márii z okresu Ilava",
+      "link": "https://www.trencinak.sk/clanky/14214/nevideli-ste-ju-policia-patra-po-nezvestnej-56-rocnej-marii-z-okresu-ilava",
+      "time": "2026-10-20T09:45:00+00:00",
+      "cat": "patranie",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792485480-nevideli-ste-ju-policia-patra-po-nezvestnej-56rocnej-marii-z-okresu-ilava.webp"
+    },
+    {
+      "title": "Pri Lednických Rovniach sa zrazili nákladné a osobné auto",
+      "link": "https://www.trencinak.sk/clanky/14213/foto-v-puchovskom-okrese-doslo-k-vaznej-nehode-nakladne-auto-po-naraze-preletelo-cez-strom",
+      "time": "2026-10-20T08:50:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792480840-foto-v-puchovskom-okrese-doslo-k-vaznej-nehode-nakladne-auto-po-naraze-preletelo-cez-strom.webp"
+    },
+    {
+      "title": "FOTO: Vodič Audi uviazol vo Vrábľoch na opravovanom železničnom priecestí. Čo sa tam stalo?",
+      "link": "https://www.nitrak.sk/clanky/12260/foto-kuriozna-nehoda-vo-vrabloch-audi-zostalo-zaseknute-uprostred-zeleznicneho-priecestia",
+      "time": "2026-10-20T07:30:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792480480-foto-kuriozna-nehoda-vo-vrabloch-audi-zostalo-zaseknute-uprostred-zeleznicneho-priecestia.webp"
+    },
+    {
+      "title": "Teplé slnečné dni sa končia. Od stredy večer sa rozprší, miestami hrozí víchrica",
+      "link": "https://www.zilinak.sk/clanky/43519/teple-slnecne-dni-sa-koncia-hrozi-vichrica-meteorologovia-vydali-vystrahu-pre-zilinsky-kraj",
+      "time": "2026-10-20T07:15:00+00:00",
+      "cat": "burka",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792478976-teple-slnecne-dni-sa-koncia-hrozi-vichrica-meteorologovia-vydali-vystrahu-pre-zilinsky-kraj.webp"
+    },
+    {
+      "title": "Vážna nehoda v Nemšovej, cesta je už prejazdná",
+      "link": "https://www.trencinak.sk/clanky/14208/vazna-nehoda-v-nemsovej-skomplikovala-rano-vodicom-cesta-je-uz-plne-prejazdna",
+      "time": "2026-10-20T06:27:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/03_aktualne.webp"
+    },
+    {
+      "title": "Pozor na ranné nehody v Nitre aj okolí, buďte opatrní",
+      "link": "https://www.nitrak.sk/clanky/12255/vodici-pozor-na-ranne-nehody-v-nitre-aj-medzi-nedalekymi-obcami-ratajte-so-zdrzanim",
+      "time": "2026-10-20T06:18:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Zrážka dvoch áut pri Spišskom Hrhove, hromadná nehoda v Stropkove",
+      "link": "https://www.presovak.sk/clanky/15887/vodici-na-cestach-vas-cakaju-viacere-nastrahy-zo-spisa-hlasite-zrazku-dvoch-aut-zo-stropkova-hromadnu-nehodu",
+      "time": "2026-10-20T06:11:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Dopravu v Trnavskom kraji v utorok ráno poznačila hromadná nehoda na R7",
+      "link": "https://www.trnavak.sk/clanky/12630/dopravu-v-trnavskom-kraji-v-utorok-rano-poznacila-hromadna-nehoda-na-r7",
+      "time": "2026-10-20T06:07:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792476534-dopravu-v-trnavskom-kraji-v-utorok-rano-poznacila-hromadna-nehoda-na-r7.webp"
+    },
+    {
+      "title": "Košice: Rannú dopravu komplikujú kolóny a nehoda",
+      "link": "https://www.kosicak.sk/clanky/14653/v-metropole-vychodu-na-vodicov-caka-ranna-skuska-nervov-s-kolonami-pocitajte-na-viacerych-miestach",
+      "time": "2026-10-20T06:03:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792476193-v-metropole-vychodu-na-vodicov-caka-ranna-skuska-nervov-s-kolonami-pocitajte-na-viacerych-miestach.webp"
+    }
+  ]
 }

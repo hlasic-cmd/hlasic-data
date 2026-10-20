@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-10-20T14:36:19.253941+00:00",
+  "generated_at": "2026-10-20T18:41:00.321459+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 7,
   "items": [
+    {
+      "title": "Nebezpečná látka unikala zo železničnej cisterny. V areáli Slovnaftu pri Žiline zasahovali hasiči",
+      "link": "https://www.zilinak.sk/clanky/43534/foto-unik-nebezpecnej-latky-z-vlakovej-cisterny-a-poziar-preskusali-zilinskych-hasicov-slovnaft-im-pozical-areal",
+      "time": "2026-10-20T15:30:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792493339-foto-unik-nebezpecnej-latky-z-vlakovej-cisterny-a-poziar-preskusali-zilinskych-hasicov-slovnaft-im-pozical-are.webp"
+    },
+    {
+      "title": "Pri autobusovej stanici v Nitre blokuje cestu havarované auto, prevrátilo sa na strechu",
+      "link": "https://www.nitrak.sk/clanky/12268/pri-autobusovej-stanici-v-nitre-blokuje-cestu-havarovane-auto-prevratilo-sa-na-strechu",
+      "time": "2026-10-20T14:51:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792507899-pri-autobusovej-stanici-v-nitre-blokuje-cestu-havarovane-auto-prevratilo-sa-na-strechu.webp"
+    },
+    {
+      "title": "Na R1 vypadla z auta krabica s kovovým obsahom. Vodič za ním ledva stihol zabrzdiť",
+      "link": "https://www.bystricak.sk/clanky/13484/foto-na-r1-sa-odohrala-nebezpecna-situacia-vodic-musel-v-poslednej-chvili-reagovat-aby-sa-vyhol-necakanej-prekazke",
+      "time": "2026-10-20T14:30:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792504111-foto-na-r1-sa-odohrala-nebezpecna-situacia-vodic-musel-v-poslednej-chvili-reagovat-aby-sa-vyhol-necakanej-prek.webp"
+    },
     {
       "title": "Košickí mestskí policajti zadržali muža, po ktorom bolo vyhlásené pátranie",
       "link": "https://korzar.sme.sk/kosice/c/kosicki-mestski-policajti-zadrzali-muza-po-ktorom-bolo-vyhlasene-patranie-2?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
@@ -11,24 +38,6 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/01a159af-5d5d-7dab-a0a6-dce5dc8823ff.jpg"
-    },
-    {
-      "title": "Nezvestný Tibor (74) sa stratil pri Senci. Má problémy s chôdzou",
-      "link": "https://www.bratislavak.sk/clanky/15955/policia-patra-po-74-rocnom-tiborovi-z-bratislavskeho-kraja-ma-problemy-s-chodzou-uz-niekolko-dni-je-nezvestny",
-      "time": "2026-10-20T14:20:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792503008-policia-patra-po-74rocnom-tiborovi-z-bratislavskeho-kraja-ma-problemy-s-chodzou-uz-niekolko-dni-je-nezvestny.webp"
-    },
-    {
-      "title": "Prevrátený príves pritlačil prevážaný traktor. Pri Žiline došlo k nepríjemnej nehode",
-      "link": "https://www.zilinak.sk/clanky/43544/foto-zvlastna-nehoda-pri-ziline-obmedzila-dopravu-prives-sa-prevratil-na-traktor-auto-skoncilo-v-priekope",
-      "time": "2026-10-20T13:32:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792503168-foto-zvlastna-nehoda-pri-ziline-obmedzila-dopravu-prives-sa-prevratil-na-traktor-auto-skoncilo-v-priekope.webp"
     },
     {
       "title": "Proces s bývalým šéfom Krajského súdu v Bratislave pokračuje. Tóth vypovedal o Kočnerovi aj vplyve na sudcov",
@@ -40,24 +49,6 @@
       "image": "https://prvd.sk/cdn/2019/12/17/4x3-medium/lubos-sadovsky.jpg?v=pOE"
     },
     {
-      "title": "Cyklista sa zranil pri nehode v Bratislave. Polícia hľadá vodiča",
-      "link": "https://www.bratislavak.sk/clanky/15951/neznamy-vodic-v-bratislave-sposobil-nehodu-pri-ktorej-sa-zranil-cyklista-policia-hlada-svedkov",
-      "time": "2026-10-20T12:10:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792496206-neznamy-vodic-v-bratislave-sposobil-nehodu-pri-ktorej-sa-zranil-cyklista-policia-hlada-svedkov.webp"
-    },
-    {
-      "title": "Na Záhorí sa zrazilo auto so zverou. Polícia vyzýva vodičov, aby v úseku zvýšili opatrnosť",
-      "link": "https://www.trnavak.sk/clanky/12637/na-zahori-sa-zrazilo-auto-so-zverou-policia-vyzyva-vodicov-aby-v-useku-zvysili-opatrnost",
-      "time": "2026-10-20T10:49:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
       "title": "Polícia pátra po nezvestnej Márii z okresu Ilava",
       "link": "https://www.trencinak.sk/clanky/14214/nevideli-ste-ju-policia-patra-po-nezvestnej-56-rocnej-marii-z-okresu-ilava",
       "time": "2026-10-20T09:45:00+00:00",
@@ -67,13 +58,13 @@
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792485480-nevideli-ste-ju-policia-patra-po-nezvestnej-56rocnej-marii-z-okresu-ilava.webp"
     },
     {
-      "title": "Pri Lednických Rovniach sa zrazili nákladné a osobné auto",
-      "link": "https://www.trencinak.sk/clanky/14213/foto-v-puchovskom-okrese-doslo-k-vaznej-nehode-nakladne-auto-po-naraze-preletelo-cez-strom",
-      "time": "2026-10-20T08:50:00+00:00",
+      "title": "FOTO: Vodič Audi uviazol vo Vrábľoch na opravovanom železničnom priecestí. Čo sa tam stalo?",
+      "link": "https://www.nitrak.sk/clanky/12260/foto-kuriozna-nehoda-vo-vrabloch-audi-zostalo-zaseknute-uprostred-zeleznicneho-priecestia",
+      "time": "2026-10-20T07:30:00+00:00",
       "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792480840-foto-v-puchovskom-okrese-doslo-k-vaznej-nehode-nakladne-auto-po-naraze-preletelo-cez-strom.webp"
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792480480-foto-kuriozna-nehoda-vo-vrabloch-audi-zostalo-zaseknute-uprostred-zeleznicneho-priecestia.webp"
     }
   ]
 }

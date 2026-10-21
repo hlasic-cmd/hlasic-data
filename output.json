@@ -1,79 +1,34 @@
 {
-  "generated_at": "2026-10-21T09:34:46.923236+00:00",
+  "generated_at": "2026-10-21T14:36:46.176233+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 3,
   "items": [
     {
-      "title": "Únik plynu v Brezne: Z internátu a susednej budovy museli evakuovať 35 ľudí",
-      "link": "https://www.aktuality.sk/clanok/qH3LydI/unik-plynu-v-brezne-z-internatu-a-susednej-budovy-museli-evakuovat-35-ludi/",
-      "time": "2026-10-21T09:01:58+00:00",
-      "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/ilustracna-fotografia/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/OR8ktkpTURBXy8xZGU0MDZmM2M3ZTI5OWY2MTFlMTlhZjI0NGU1OTBhMi5qcGeSlQMAzI3NEZLNCeKVAs0H0ADCww?st=A6q8Ic0aB-dEWnclHD7gQF2SlTl3cElfNIdWZy49iTM&ts=1792533600&e=0"
-    },
-    {
-      "title": "DRÁMA V BREZNE: Unikal plyn, ľudí museli evakuovať",
-      "link": "https://www.teraz.sk/regiony/drama-v-brezne-unikal-plyn-ludi-mus/1001446-clanok.html",
-      "time": "2026-10-21T08:52:00+00:00",
-      "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V Sabinove sa tvoria rozsiahle kolóny, došlo tam k nehode",
-      "link": "https://www.presovak.sk/clanky/15912/v-sabinove-sa-tvoria-rozsiahle-kolony-doslo-tam-k-nehode",
-      "time": "2026-10-21T08:49:00+00:00",
+      "title": "Deväť mesiacov vyšetrovania a stále nič? Vodič po nehode v Nitre hľadá svedkov, stále vraj nie je jasný vinník",
+      "link": "https://www.nitrak.sk/clanky/12262/kto-presiel-na-cervenu-nehoda-pri-ukf-v-nitre-nema-ani-po-9-mesiacoch-vinnika-vodic-je-uz-zufaly-a-hlada-svedkov",
+      "time": "2026-10-21T13:15:00+00:00",
       "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792585637-kto-presiel-na-cervenu-nehoda-pri-ukf-v-nitre-nema-ani-po-9-mesiacoch-vinnika-vodic-je-uz-zufaly-a-hlada-svedk.webp"
     },
     {
-      "title": "Pri požiari traktora v Borši vznikla škoda 140.000 eur",
-      "link": "https://www.teraz.sk/regiony/pri-poziari-traktora-v-borsi-vznikla-/1001433-clanok.html",
-      "time": "2026-10-21T08:30:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
+      "title": "Polícia hľadá vodiča SUV, ktorý odišiel z miesta činu",
+      "link": "https://www.trencinak.sk/clanky/14240/foto-policia-patra-po-vodicovi-tmavosiveho-suv-ktory-odisiel-z-miesta-cinu-v-okrese-prievidza-mal-ohrozit-cyklistu",
+      "time": "2026-10-21T12:20:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792583410-foto-policia-patra-po-vodicovi-tmavosiveho-suv-ktory-odisiel-z-miesta-cinu-v-okrese-prievidza-mal-ohrozit-cykl.webp"
     },
     {
-      "title": "Únik plynu v Brezne evakuoval 35 ľudí z dvoch budov",
-      "link": "https://www.bystricak.sk/clanky/13490/foto-poplach-v-brezne-vecerny-zasah-hasicov-si-vyziadal-evakuaciu-dvoch-budov-co-sa-stalo",
-      "time": "2026-10-21T07:39:00+00:00",
+      "title": "Únos, rukojemníci aj zásah z vrtuľníka. Pri Jaslovských Bohuniciach sa konalo veľké bezpečnostné cvičenie",
+      "link": "https://www.trnavak.sk/clanky/12653/pri-jaslovskych-bohuniciach-sa-konalo-najvacsie-bezpecnostne-cvicenie-na-jadrovom-zariadeni-v-historii-slovenska",
+      "time": "2026-10-21T12:09:00+00:00",
       "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792567418-foto-poplach-v-brezne-vecerny-zasah-hasicov-si-vyziadal-evakuaciu-dvoch-budov-co-sa-stalo.webp"
-    },
-    {
-      "title": "Nehody v Bratislave a za Malackami tvoria kolóny na D4 a D2",
-      "link": "https://www.bratislavak.sk/clanky/15957/nehody-v-bratislave-aj-za-malackam-sposobili-dlhe-kolony-pockate-si-aj-na-d4-aj-d2",
-      "time": "2026-10-21T06:18:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792563533-nehody-v-bratislave-aj-za-malackam-sposobili-dlhe-kolony-pockate-si-aj-na-d4-aj-d2.webp"
-    },
-    {
-      "title": "Cestou do Prešova uviazli vodiči v kolóne, v smere z Malého Šariša došlo k hromadnej nehode",
-      "link": "https://www.presovak.sk/clanky/15907/cestou-do-presova-uviazli-vodici-v-kolone-v-smere-z-maleho-sarisa-doslo-k-hromadnej-nehode",
-      "time": "2026-10-21T06:11:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Košickí policajti vypátrali muža, cestujúca pomohla nájsť mladíka",
-      "link": "https://www.kosicak.sk/clanky/14661/policajtom-v-kosiciach-sa-podarilo-vypatrat-nezvestneho-muza-cestujuca-z-vlaku-hlasila-aj-vystraseneho-mladika",
-      "time": "2026-10-21T05:40:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792492589-policajtom-v-kosiciach-sa-podarilo-vypatrat-nezvestneho-muza-cestujuca-z-vlaku-hlasila-aj-vystraseneho-mladika.webp"
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792583658-pri-jaslovskych-bohuniciach-sa-konalo-najvacsie-bezpecnostne-cvicenie-na-jadrovom-zariadeni-v-historii-slovens.webp"
     }
   ]
 }

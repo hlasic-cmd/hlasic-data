@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-21T00:10:49.438607+00:00",
+  "generated_at": "2026-10-21T04:38:07.360668+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Košickí mestskí policajti zadržali muža, po ktorom bolo vyhlásené pátranie",
-      "link": "https://korzar.sme.sk/kosice/c/kosicki-mestski-policajti-zadrzali-muza-po-ktorom-bolo-vyhlasene-patranie-2?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-20T14:22:05+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a159af-5d5d-7dab-a0a6-dce5dc8823ff.jpg"
-    },
-    {
-      "title": "Proces s bývalým šéfom Krajského súdu v Bratislave pokračuje. Tóth vypovedal o Kočnerovi aj vplyve na sudcov",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2062677-proces-s-byvalym-sefom-krajskeho-sudu-v-bratislave-pokracuje-toth-vypovedal-o-kocnerovi-aj-vplyve-na-sudcov?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-20T13:25:00+00:00",
-      "cat": "burka",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2019/12/17/4x3-medium/lubos-sadovsky.jpg?v=pOE"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

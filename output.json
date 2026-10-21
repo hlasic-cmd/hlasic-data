@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T18:52:05.250155+00:00",
+  "generated_at": "2026-10-21T22:00:26.797718+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 2,
   "items": [
     {
       "title": "Vlak sa vo Veľkej Lomnici zrazil s autom, nasadili autobusy",
@@ -20,24 +20,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Deväť mesiacov vyšetrovania a stále nič? Vodič po nehode v Nitre hľadá svedkov, stále vraj nie je jasný vinník",
-      "link": "https://www.nitrak.sk/clanky/12262/kto-presiel-na-cervenu-nehoda-pri-ukf-v-nitre-nema-ani-po-9-mesiacoch-vinnika-vodic-je-uz-zufaly-a-hlada-svedkov",
-      "time": "2026-10-21T13:15:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792585637-kto-presiel-na-cervenu-nehoda-pri-ukf-v-nitre-nema-ani-po-9-mesiacoch-vinnika-vodic-je-uz-zufaly-a-hlada-svedk.webp"
-    },
-    {
-      "title": "Únik plynu v Brezne evakuoval 35 ľudí z dvoch budov",
-      "link": "https://www.bystricak.sk/clanky/13490/foto-poplach-v-brezne-vecerny-zasah-hasicov-si-vyziadal-evakuaciu-dvoch-budov-co-sa-stalo",
-      "time": "2026-10-21T07:39:00+00:00",
-      "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792567418-foto-poplach-v-brezne-vecerny-zasah-hasicov-si-vyziadal-evakuaciu-dvoch-budov-co-sa-stalo.webp"
     }
   ]
 }

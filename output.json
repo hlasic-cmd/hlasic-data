@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-10-22T00:27:03.418332+00:00",
+  "generated_at": "2026-10-22T05:07:22.737882+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Vlak sa vo Veľkej Lomnici zrazil s autom, nasadili autobusy",
-      "link": "https://www.presovak.sk/clanky/15927/pri-poprade-doslo-k-vaznej-zrazke-na-zeleznici-cestujucich-odvezu-pocas-najblizsich-hodin-autobusy",
-      "time": "2026-10-21T15:56:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1792598177-pri-poprade-doslo-k-vaznej-zrazke-na-zeleznici-cestujucich-odvezu-pocas-najblizsich-hodin-autobusy.webp"
-    },
-    {
-      "title": "Nehoda na R1 pred Vlčkovcami zdrží vodičov",
-      "link": "https://www.trnavak.sk/clanky/12657/vodici-cestu-z-prace-vam-predlzi-dopravna-nehoda-k-tej-doslo-na-r1-pred-vlckovcami-v-useku-zvyste-svoju-opatrnost",
-      "time": "2026-10-21T15:26:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

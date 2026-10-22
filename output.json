@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-10-22T05:07:22.737882+00:00",
+  "generated_at": "2026-10-22T10:03:24.986550+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 7,
+  "items": [
+    {
+      "title": "Pri Dobrej Nive sa zrazili dve autá, úsek je neprejazdný",
+      "link": "https://www.bystricak.sk/clanky/13511/bmw-dostalo-smyk-a-skoncilo-v-protismere-cesta-i66-pri-dobrej-nive-je-neprejazdna",
+      "time": "2026-10-22T09:24:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792659836-bmw-dostalo-smyk-a-skoncilo-v-protismere-cesta-i66-pri-dobrej-nive-je-neprejazdna.webp"
+    },
+    {
+      "title": "Pozor na cestách pri Nitre! Kamión skončil mimo vozovky, ďalšia nehoda je pri Zlatých Moravciach",
+      "link": "https://www.nitrak.sk/clanky/12287/nehody-komplikuju-dopravu-v-nitrianskom-kraji-jeden-kamion-skoncil-mimo-cesty-dalsi-sa-zrazil-s-dodavkou",
+      "time": "2026-10-22T08:45:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1792658683-nehody-komplikuju-dopravu-v-nitrianskom-kraji-jeden-kamion-skoncil-mimo-cesty-dalsi-sa-zrazil-s-dodavkou.webp"
+    },
+    {
+      "title": "Na diaľnici pri Štrbe došlo k dopravnej nehode, auto skončilo v priekope",
+      "link": "https://www.presovak.sk/clanky/15937/na-dialnici-pri-strbe-doslo-k-dopravnej-nehode-auto-skoncilo-v-priekope",
+      "time": "2026-10-22T08:01:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "V Novákoch auto zrazilo chodca na priechode",
+      "link": "https://www.trencinak.sk/clanky/14244/vodici-davajte-si-pozor-v-novakoch-na-prechode-pre-chodcov-zrazilo-auto-cloveka-zdrzite-sa",
+      "time": "2026-10-22T06:16:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792649763-vodici-davajte-si-pozor-v-novakoch-na-prechode-pre-chodcov-zrazilo-auto-cloveka-zdrzite-sa.webp"
+    },
+    {
+      "title": "Na cestách Prešovského kraja je to zrána samá nehoda, pod kolesami auta skončil aj chodec",
+      "link": "https://www.presovak.sk/clanky/15928/na-cestach-presovskeho-kraja-je-to-zrana-sama-nehoda-pod-kolesami-auta-skoncil-aj-chodec",
+      "time": "2026-10-22T06:14:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Vodiči, pripravte sa na zdržanie: Polícia hlási nehodu na R1 pri Trnave, inde zase došlo k hromadnej zrážke",
+      "link": "https://www.trnavak.sk/clanky/12660/vodici-pripravte-sa-na-zdrzanie-policia-hlasi-nehodu-na-r1-pri-trnave-inde-zase-doslo-k-hromadnej-zrazke",
+      "time": "2026-10-22T06:06:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1792649238-vodici-pripravte-sa-na-zdrzanie-policia-hlasi-nehodu-na-r1-pri-trnave-inde-zase-doslo-k-hromadnej-zrazke.webp"
+    },
+    {
+      "title": "FOTO: V obci na východe pohltili plamene traktor, požiar spôsobil státisícovú škodu",
+      "link": "https://www.kosicak.sk/clanky/14676/foto-v-obci-na-vychode-pohltili-plamene-traktor-poziar-sposobil-statisicovu-skodu",
+      "time": "2026-10-22T05:40:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792588885-foto-v-obci-na-vychode-pohltili-plamene-traktor-poziar-sposobil-statisicovu-skodu.webp"
+    }
+  ]
 }

@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-10-22T19:05:24.400824+00:00",
+  "generated_at": "2026-10-22T22:14:49.966181+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "title": "Za Košicami došlo k nehode. Pri prejazde si dávajte pozor",
-      "link": "https://www.kosicak.sk/clanky/14710/pozor-za-kosicami-havarovalo-osobne-auto-vodici-by-mali-zvysit-opatrnost",
-      "time": "2026-10-22T15:46:00+00:00",
-      "cat": "nehoda",
+      "title": "Masívny požiar v Košiciach: Plamene pohltili budovu",
+      "link": "https://www.kosicak.sk/clanky/14711/foto-nedaleko-kosickej-ryby-hori-budova-hasici-zasahuju-pri-masivnom-poziari",
+      "time": "2026-10-22T20:33:00+00:00",
+      "cat": "poziar",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Na horách v Banskobystrickom kraji hrozí víchrica. Meteorológovia vydali výstrahu",
-      "link": "https://www.bystricak.sk/clanky/13521/na-horach-v-oblasti-horehronia-hrozi-vichrica-shmu-vydal-vystrahu-narazy-vetra-mozu-dosiahnut-135-kmh",
-      "time": "2026-10-22T15:02:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792681082-na-horach-v-oblasti-horehronia-hrozi-vichrica-shmu-vydal-vystrahu-narazy-vetra-mozu-dosiahnut-135-kmh.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1792701491-foto-nedaleko-kosickej-ryby-hori-budova-hasici-zasahuju-pri-masivnom-poziari.webp"
     }
   ]
 }

@@ -1,8 +1,53 @@
 {
-  "generated_at": "2026-10-23T15:00:22.943229+00:00",
+  "generated_at": "2026-10-23T18:53:56.813837+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 9,
   "items": [
+    {
+      "title": "Obrovská tragédia v sabinovskom okrese: pri dopravnej nehode zomrelo osemročné dieťa",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2065125-obrovska-tragedia-v-sabinovskom-okrese-pri-dopravnej-nehode-zomrelo-osemrocne-dieta?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-23T17:32:49+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2021/01/25/4x3-medium/zachranka-sanitka-dopravna-zdravotna-sluzba_01.jpg?v=Ocw"
+    },
+    {
+      "title": "Pri dopravnej nehode v okrese Sabinov prišlo o život osemročné dieťa",
+      "link": "https://www.teraz.sk/regiony/pri-dopravnej-nehode-v-okrese-sabinov-pr/1002145-clanok.html",
+      "time": "2026-10-23T17:25:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Tragédia na východe Slovenska: Pri nehode vyhasol život 8-ročného dieťaťa",
+      "link": "https://www.presovak.sk/clanky/15960/tragedia-v-okrese-sabinov-pri-dopravnej-nehode-zahynulo-len-8-rocne-dieta-za-volantom-auta-sedel-28-rocny-vodic",
+      "time": "2026-10-23T17:20:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Dodávka prevážala vzácny náklad. Po nehode v Rači skončila na boku",
+      "link": "https://www.bratislavak.sk/clanky/16011/vazna-nehoda-v-bratislave-dodavka-s-mimoriadne-citlivym-nakladom-skoncila-prevratena-na-boku",
+      "time": "2026-10-23T15:52:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Nezvestný Radko (27) z Veľkého Krtíša: Polícia žiada ľudí o pomoc",
+      "link": "https://www.bystricak.sk/clanky/13536/policia-hlada-27-rocneho-radka-z-velkeho-krtisa-ak-ste-ho-videli-pomozte-pri-jeho-hladani",
+      "time": "2026-10-23T15:35:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792769725-policia-hlada-27rocneho-radka-z-velkeho-krtisa-ak-ste-ho-videli-pomozte-pri-jeho-hladani.webp"
+    },
     {
       "title": "Tragédia na priechode pre chodcov v Brezne: Vodič Audi zrazil 61-ročnú ženu, v nemocnici zomrela",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2065031-tragedia-na-priechode-pre-chodcov-v-brezne-vodic-audi-zrazil-61-rocnu-zenu-v-nemocnici-zomrela?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -13,15 +58,6 @@
       "image": "https://prvd.sk/cdn/2026/10/23/2551167/4x3-medium/zrazka-auto-rzbite-nehoda-chodec-chodkyna-priechod-prechod-prednost-mobil-za-volantom.jpg?v=T/w"
     },
     {
-      "title": "Nehoda na Košickej ulici v Žiline. Dve osobné autá ostali stáť v strede križovatky pri Tescu",
-      "link": "https://www.zilinak.sk/clanky/43606/doprava-na-hlavnom-tahu-v-ziline-je-obmedzena-dve-auta-sa-zrazili-v-strede-krizovatky",
-      "time": "2026-10-23T12:02:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792756941-doprava-na-hlavnom-tahu-v-ziline-je-obmedzena-dve-auta-sa-zrazili-v-strede-krizovatky.webp"
-    },
-    {
       "title": "V Brezne vyhasol život chodkyne. Vodič Audi ju mal prehliadnuť priamo na priechode",
       "link": "https://www.bystricak.sk/clanky/13532/tragedia-v-brezne-auto-zrazilo-61-rocnu-zenu-na-priechode-v-nemocnici-zraneniam-podlahla",
       "time": "2026-10-23T11:44:00+00:00",
@@ -29,15 +65,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792753915-tragedia-v-brezne-auto-zrazilo-61rocnu-zenu-na-priechode-v-nemocnici-zraneniam-podlahla.webp"
-    },
-    {
-      "title": "Trenčianska polícia eviduje 10 nehôd a 11 opitých vodičov",
-      "link": "https://www.trencinak.sk/clanky/14267/desat-dopravnych-nehod-za-tyzden-policia-v-trencianskom-kraji-odhalila-opitych-vodicov-aj-ludi-pod-vplyvom-drog",
-      "time": "2026-10-23T10:50:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792750945-desat-dopravnych-nehod-za-tyzden-policia-v-trencianskom-kraji-odhalila-opitych-vodicov-aj-ludi-pod-vplyvom-dro.webp"
     },
     {
       "title": "Nočná dráma v Košiciach: Budovu niekto úmyselne podpálil, hasiči z plameňov zachraňovali ľudí",

@@ -1,34 +1,52 @@
 {
-  "generated_at": "2026-10-23T10:10:03.914305+00:00",
+  "generated_at": "2026-10-23T15:00:22.943229+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 6,
   "items": [
     {
-      "title": "NEVIDELI STE HO? Pátrajú po nezvestnom 24-ročnom Michalovi z Trenčína",
-      "link": "https://www.teraz.sk/regiony/nevideli-ste-ho-patraju-po-nezvestnom/1001990-clanok.html",
-      "time": "2026-10-23T09:00:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "teraz.sk",
-      "image": null
+      "title": "Tragédia na priechode pre chodcov v Brezne: Vodič Audi zrazil 61-ročnú ženu, v nemocnici zomrela",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2065031-tragedia-na-priechode-pre-chodcov-v-brezne-vodic-audi-zrazil-61-rocnu-zenu-v-nemocnici-zomrela?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-23T14:10:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/10/23/2551167/4x3-medium/zrazka-auto-rzbite-nehoda-chodec-chodkyna-priechod-prechod-prednost-mobil-za-volantom.jpg?v=T/w"
     },
     {
-      "title": "Polícia: V opustenej budove v časti Košice-Juh po požiari ešte tlie",
-      "link": "https://www.teraz.sk/regiony/policia-v-opustenej-budove-v-mc-kosi/1001984-clanok.html",
-      "time": "2026-10-23T08:51:00+00:00",
+      "title": "Nehoda na Košickej ulici v Žiline. Dve osobné autá ostali stáť v strede križovatky pri Tescu",
+      "link": "https://www.zilinak.sk/clanky/43606/doprava-na-hlavnom-tahu-v-ziline-je-obmedzena-dve-auta-sa-zrazili-v-strede-krizovatky",
+      "time": "2026-10-23T12:02:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1792756941-doprava-na-hlavnom-tahu-v-ziline-je-obmedzena-dve-auta-sa-zrazili-v-strede-krizovatky.webp"
+    },
+    {
+      "title": "V Brezne vyhasol život chodkyne. Vodič Audi ju mal prehliadnuť priamo na priechode",
+      "link": "https://www.bystricak.sk/clanky/13532/tragedia-v-brezne-auto-zrazilo-61-rocnu-zenu-na-priechode-v-nemocnici-zraneniam-podlahla",
+      "time": "2026-10-23T11:44:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792753915-tragedia-v-brezne-auto-zrazilo-61rocnu-zenu-na-priechode-v-nemocnici-zraneniam-podlahla.webp"
+    },
+    {
+      "title": "Trenčianska polícia eviduje 10 nehôd a 11 opitých vodičov",
+      "link": "https://www.trencinak.sk/clanky/14267/desat-dopravnych-nehod-za-tyzden-policia-v-trencianskom-kraji-odhalila-opitych-vodicov-aj-ludi-pod-vplyvom-drog",
+      "time": "2026-10-23T10:50:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792750945-desat-dopravnych-nehod-za-tyzden-policia-v-trencianskom-kraji-odhalila-opitych-vodicov-aj-ludi-pod-vplyvom-dro.webp"
+    },
+    {
+      "title": "Nočná dráma v Košiciach: Budovu niekto úmyselne podpálil, hasiči z plameňov zachraňovali ľudí",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2064777-nocna-drama-v-kosiciach-budovu-niekto-umyselne-podpalil-hasici-z-plamenov-zachranovali-ludi?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-23T10:15:34+00:00",
       "cat": "poziar",
       "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "O sťažnosti proti odmietnutiu obžaloby na Moniku J. rozhodne NS SR",
-      "link": "https://www.teraz.sk/slovensko/o-staznosti-proti-odmietnutiu-obzalob/1001974-clanok.html",
-      "time": "2026-10-23T08:31:00+00:00",
-      "cat": "burka",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/06/08/4x3-medium/nova-hasicska-a-policajna-technika-hasicske-auto-policaj_06.jpg?v=T/w"
     },
     {
       "title": "Polícia pátra po nezvestnom Michalovi Briatkovi z Trenčína",
@@ -38,51 +56,6 @@
       "region": "trenciansky",
       "src": "trencinak.sk",
       "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-10/1792736919-nevideli-ste-ho-policia-patra-po-24rocnom-michalovi-z-okresu-trencin.webp"
-    },
-    {
-      "title": "Požiar na R1 medzi Zvolenom a Žiarom nad Hronom uzavrel cestu",
-      "link": "https://www.bystricak.sk/clanky/13524/necakany-poziar-na-r1-medzi-zvolenom-a-ziarom-auto-sa-vodicovi-zmenilo-na-vrak-priamo-pred-ocami",
-      "time": "2026-10-23T07:40:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792740737-necakany-poziar-na-r1-medzi-zvolenom-a-ziarom-auto-sa-vodicovi-zmenilo-na-vrak-priamo-pred-ocami.webp"
-    },
-    {
-      "title": "Vážna nehoda medzi Pohranicami a Hosťovou zablokovala cestu, použite obchádzku",
-      "link": "https://www.nitrak.sk/clanky/12299/medzi-pohranicami-a-hostovou-doslo-k-vaznej-nehode-cesta-bude-neprejazdna-dlhsi-cas",
-      "time": "2026-10-23T06:15:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Nehoda v Michalovciach zdrží vodičov o desať minút",
-      "link": "https://www.kosicak.sk/clanky/14712/dopravu-na-zempline-komplikuje-dopravna-nehoda-vodici-pocitajte-aj-so-zdrzanim-cestu-si-naplanujte-s-casovou-rezervou",
-      "time": "2026-10-23T06:05:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Zrážka vlakov v Bratislave: Pamätníci opísali dramatické chvíle",
-      "link": "https://www.bratislavak.sk/clanky/15826/foto-pri-zrazke-vlakov-v-bratislave-sa-zranilo-23-ludi-po-14-rokoch-prehovorili-pamatnici-o-osudnom-dni",
-      "time": "2026-10-23T05:40:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1791815892-foto-pri-zrazke-vlakov-v-bratislave-sa-zranilo-23-ludi-po-14-rokoch-prehovorili-pamatnici-o-osudnom-dni.webp"
-    },
-    {
-      "title": "V Košiciach horela opustená budova. Požiar bol založený úmyselne, zranili sa dvaja ľudia",
-      "link": "https://korzar.sme.sk/kosice/c/v-kosiciach-horela-opustena-budova-policajti-odklanali-dopravu?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-23T05:35:28+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a1673e-6e62-7c8f-a0d1-483f1f360e8d.jpg"
     }
   ]
 }

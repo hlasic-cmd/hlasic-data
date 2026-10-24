@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T00:01:48.107750+00:00",
+  "generated_at": "2026-10-24T03:55:55.810551+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 4,
   "items": [
     {
       "title": "V okrese Sabinov pri dopravnej nehode prišlo o život osemročné dieťa",
@@ -38,33 +38,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Dodávka prevážala vzácny náklad. Po nehode v Rači skončila na boku",
-      "link": "https://www.bratislavak.sk/clanky/16011/vazna-nehoda-v-bratislave-dodavka-s-mimoriadne-citlivym-nakladom-skoncila-prevratena-na-boku",
-      "time": "2026-10-23T15:52:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Nezvestný Radko (27) z Veľkého Krtíša: Polícia žiada ľudí o pomoc",
-      "link": "https://www.bystricak.sk/clanky/13536/policia-hlada-27-rocneho-radka-z-velkeho-krtisa-ak-ste-ho-videli-pomozte-pri-jeho-hladani",
-      "time": "2026-10-23T15:35:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792769725-policia-hlada-27rocneho-radka-z-velkeho-krtisa-ak-ste-ho-videli-pomozte-pri-jeho-hladani.webp"
-    },
-    {
-      "title": "Tragédia na priechode pre chodcov v Brezne: Vodič Audi zrazil 61-ročnú ženu, v nemocnici zomrela",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2065031-tragedia-na-priechode-pre-chodcov-v-brezne-vodic-audi-zrazil-61-rocnu-zenu-v-nemocnici-zomrela?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-23T14:10:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/23/2551167/4x3-medium/zrazka-auto-rzbite-nehoda-chodec-chodkyna-priechod-prechod-prednost-mobil-za-volantom.jpg?v=T/w"
     }
   ]
 }

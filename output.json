@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-10-24T12:50:11.814841+00:00",
+  "generated_at": "2026-10-24T16:17:03.954124+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 8,
   "items": [
+    {
+      "title": "Kandidát na primátora Veľkého Šariša mal vážnu nehodu",
+      "link": "https://www.presovak.sk/clanky/15967/jeden-z-kandidatov-na-primatora-mesta-na-sarisi-si-takto-predvolebnu-noc-nepredstavoval-stal-sa-ucastnikom-nehody",
+      "time": "2026-10-24T14:37:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1792852640-jeden-z-kandidatov-na-primatora-mesta-na-sarisi-si-takto-predvolebnu-noc-nepredstavoval-stal-sa-ucastnikom-neh.webp"
+    },
+    {
+      "title": "Nehoda auta na ceste z Popradu do Svitu spomaľuje premávku",
+      "link": "https://www.presovak.sk/clanky/15966/vodici-chystate-sa-na-cesty-v-okoli-popradu-plynulu-premavku-narusila-dopravna-nehoda-osobneho-auta",
+      "time": "2026-10-24T13:36:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
     {
       "title": "Opitý policajt mimo služby havaroval v Bratislave",
       "link": "https://www.bratislavak.sk/clanky/16016/opity-policajt-mimo-sluzby-havaroval-v-bratislave-poskodil-styri-auta-fasadu-domu-aj-plynovu-pripojku",

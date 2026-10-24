@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-24T03:55:55.810551+00:00",
+  "generated_at": "2026-10-24T08:27:58.248014+00:00",
   "max_age_hours": 12,
   "count": 4,
   "items": [
     {
-      "title": "V okrese Sabinov pri dopravnej nehode prišlo o život osemročné dieťa",
-      "link": "https://korzar.sme.sk/presov/c/v-okrese-sabinov-pri-dopravnej-nehode-prislo-o-zivot-osemrocne-dieta?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-23T19:24:14+00:00",
+      "title": "V Hriňovej horel výrobný závod, škody dosahujú dva milióny eur",
+      "link": "https://www.aktuality.sk/clanok/N5RIKSZ/poziar-zavodu-v-hrinovej-sposobil-skodu-dva-miliony-eur-hasici-zasahovali-v-dychacich-pristrojoch/",
+      "time": "2026-10-24T07:27:32+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/poziar-v-hrinovej/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/vCCktkpTURBXy9kYjYyNzQxMzM0NDg3MDZmMjY4MzY2YTA2ZjkwYWJlOC5qcGeSlQPMzADNBmDNA5aVAs0H0ADCww?st=Tgsd9tJUIqQNx-YqY05PcLB3-w3bQmxz2HZYhNGSv9k&ts=1792792800&e=0"
+    },
+    {
+      "title": "V Hriňovej horela známa fabrika. Oheň v nej spôsobil škody za milióny eur",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2065323-v-hrinovej-horela-znama-fabrika-ohen-v-nej-sposobil-skody-za-miliony-eur?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-24T07:24:46+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/10/24/2551483/4x3-medium/hrinova-poziar.jpg?v=XFI"
+    },
+    {
+      "title": "Pri dopravnej nehode pri Sabinove zahynulo osemročné dieťa",
+      "link": "https://korzar.sme.sk/presov/c/pri-dopravnej-nehode-pri-sabinove-zahynulo-osemrocne-dieta?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-10-24T07:21:00+00:00",
       "cat": "nehoda",
       "region": "presovsky",
       "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/019d7644-bc52-7e23-8760-ee236bec86ad.jpg"
+      "image": "https://image.smedata.sk/image/w660-h440/01a16cc7-2661-7c34-86ac-d8a8a5fbccaa.jpg"
     },
     {
-      "title": "Obrovská tragédia v sabinovskom okrese: pri dopravnej nehode zomrelo osemročné dieťa",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2065125-obrovska-tragedia-v-sabinovskom-okrese-pri-dopravnej-nehode-zomrelo-osemrocne-dieta?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-23T17:32:49+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2021/01/25/4x3-medium/zachranka-sanitka-dopravna-zdravotna-sluzba_01.jpg?v=Ocw"
-    },
-    {
-      "title": "Pri dopravnej nehode v okrese Sabinov prišlo o život osemročné dieťa",
-      "link": "https://www.teraz.sk/regiony/pri-dopravnej-nehode-v-okrese-sabinov-pr/1002145-clanok.html",
-      "time": "2026-10-23T17:25:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Tragédia na východe Slovenska: Pri nehode vyhasol život 8-ročného dieťaťa",
-      "link": "https://www.presovak.sk/clanky/15960/tragedia-v-okrese-sabinov-pri-dopravnej-nehode-zahynulo-len-8-rocne-dieta-za-volantom-auta-sedel-28-rocny-vodic",
-      "time": "2026-10-23T17:20:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+      "title": "V Hriňovej zhorel výrobný závod: Škody sa šplhajú na 2 milióny eur",
+      "link": "https://www1.pluska.sk/krimi/v-hrinovej-zhorel-vyrobny-zavod-skody-sa-splhaju-na-2-miliony-eur",
+      "time": "2026-10-24T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/efd/efda34ba-9ce9-42ad-a958-ed8d492dcf83.webp"
     }
   ]
 }

@@ -1,16 +1,43 @@
 {
-  "generated_at": "2026-10-24T08:27:58.248014+00:00",
+  "generated_at": "2026-10-24T12:50:11.814841+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 6,
   "items": [
     {
-      "title": "V Hriňovej horel výrobný závod, škody dosahujú dva milióny eur",
-      "link": "https://www.aktuality.sk/clanok/N5RIKSZ/poziar-zavodu-v-hrinovej-sposobil-skodu-dva-miliony-eur-hasici-zasahovali-v-dychacich-pristrojoch/",
-      "time": "2026-10-24T07:27:32+00:00",
+      "title": "Opitý policajt mimo služby havaroval v Bratislave",
+      "link": "https://www.bratislavak.sk/clanky/16016/opity-policajt-mimo-sluzby-havaroval-v-bratislave-poskodil-styri-auta-fasadu-domu-aj-plynovu-pripojku",
+      "time": "2026-10-24T10:50:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792838488-opity-policajt-mimo-sluzby-havaroval-v-bratislave-poskodil-styri-auta-fasadu-domu-aj-plynovu-pripojku.webp"
+    },
+    {
+      "title": "Nehoda troch áut blokuje pruh na Pražskej ulici",
+      "link": "https://www.bratislavak.sk/clanky/16015/nehoda-troch-aut-na-prazskej-ulici-v-bratislave-jeden-pruh-je-blokovany-a-premavka-sa-spomaluje",
+      "time": "2026-10-24T10:21:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Mária Longauerová z Brezna zomrela pri nehode",
+      "link": "https://www.bystricak.sk/clanky/13540/obyvatelia-brezna-smutia-za-oblubenou-ucitelkou-zo-zakladnej-umeleckej-skoly-zomrela-pri-autonehode",
+      "time": "2026-10-24T09:15:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792833350-obyvatelia-brezna-smutia-za-oblubenou-ucitelkou-zo-zakladnej-umeleckej-skoly-zomrela-pri-autonehode.webp"
+    },
+    {
+      "title": "Požiar v závode v Hriňovej spôsobil škody 2 milióny eur",
+      "link": "https://www.bystricak.sk/clanky/13537/foto-vyrobny-zavod-v-hrinovej-zasiahol-nocny-poziar-vzduchotechniky-skodu-vycislili-na-2-miliony-eur",
+      "time": "2026-10-24T08:20:00+00:00",
       "cat": "poziar",
       "region": "banskobystricky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/poziar-v-hrinovej/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/vCCktkpTURBXy9kYjYyNzQxMzM0NDg3MDZmMjY4MzY2YTA2ZjkwYWJlOC5qcGeSlQPMzADNBmDNA5aVAs0H0ADCww?st=Tgsd9tJUIqQNx-YqY05PcLB3-w3bQmxz2HZYhNGSv9k&ts=1792792800&e=0"
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792827248-foto-vyrobny-zavod-v-hrinovej-zasiahol-nocny-poziar-vzduchotechniky-skodu-vycislili-na-2-miliony-eur.webp"
     },
     {
       "title": "V Hriňovej horela známa fabrika. Oheň v nej spôsobil škody za milióny eur",
@@ -29,15 +56,6 @@
       "region": "presovsky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/01a16cc7-2661-7c34-86ac-d8a8a5fbccaa.jpg"
-    },
-    {
-      "title": "V Hriňovej zhorel výrobný závod: Škody sa šplhajú na 2 milióny eur",
-      "link": "https://www1.pluska.sk/krimi/v-hrinovej-zhorel-vyrobny-zavod-skody-sa-splhaju-na-2-miliony-eur",
-      "time": "2026-10-24T00:00:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/efd/efda34ba-9ce9-42ad-a958-ed8d492dcf83.webp"
     }
   ]
 }

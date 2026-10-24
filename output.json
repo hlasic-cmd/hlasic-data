@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T18:48:45.424325+00:00",
+  "generated_at": "2026-10-24T21:13:28.008428+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 3,
   "items": [
     {
       "title": "Kandidát na primátora Veľkého Šariša mal vážnu nehodu",
@@ -13,13 +13,13 @@
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1792852640-jeden-z-kandidatov-na-primatora-mesta-na-sarisi-si-takto-predvolebnu-noc-nepredstavoval-stal-sa-ucastnikom-neh.webp"
     },
     {
-      "title": "Nehoda auta na ceste z Popradu do Svitu spomaľuje premávku",
-      "link": "https://www.presovak.sk/clanky/15966/vodici-chystate-sa-na-cesty-v-okoli-popradu-plynulu-premavku-narusila-dopravna-nehoda-osobneho-auta",
-      "time": "2026-10-24T13:36:00+00:00",
+      "title": "Opitý policajt mimo služby havaroval v Bratislave",
+      "link": "https://www.bratislavak.sk/clanky/16016/opity-policajt-mimo-sluzby-havaroval-v-bratislave-poskodil-styri-auta-fasadu-domu-aj-plynovu-pripojku",
+      "time": "2026-10-24T10:50:00+00:00",
       "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1792838488-opity-policajt-mimo-sluzby-havaroval-v-bratislave-poskodil-styri-auta-fasadu-domu-aj-plynovu-pripojku.webp"
     },
     {
       "title": "Mária Longauerová z Brezna zomrela pri nehode",
@@ -29,33 +29,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792833350-obyvatelia-brezna-smutia-za-oblubenou-ucitelkou-zo-zakladnej-umeleckej-skoly-zomrela-pri-autonehode.webp"
-    },
-    {
-      "title": "Požiar v závode v Hriňovej spôsobil škody 2 milióny eur",
-      "link": "https://www.bystricak.sk/clanky/13537/foto-vyrobny-zavod-v-hrinovej-zasiahol-nocny-poziar-vzduchotechniky-skodu-vycislili-na-2-miliony-eur",
-      "time": "2026-10-24T08:20:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1792827248-foto-vyrobny-zavod-v-hrinovej-zasiahol-nocny-poziar-vzduchotechniky-skodu-vycislili-na-2-miliony-eur.webp"
-    },
-    {
-      "title": "V Hriňovej horela známa fabrika. Oheň v nej spôsobil škody za milióny eur",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2065323-v-hrinovej-horela-znama-fabrika-ohen-v-nej-sposobil-skody-za-miliony-eur?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-24T07:24:46+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/24/2551483/4x3-medium/hrinova-poziar.jpg?v=XFI"
-    },
-    {
-      "title": "Pri dopravnej nehode pri Sabinove zahynulo osemročné dieťa",
-      "link": "https://korzar.sme.sk/presov/c/pri-dopravnej-nehode-pri-sabinove-zahynulo-osemrocne-dieta?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-24T07:21:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a16cc7-2661-7c34-86ac-d8a8a5fbccaa.jpg"
     }
   ]
 }

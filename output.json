@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T16:59:52.233218+00:00",
+  "generated_at": "2026-10-26T21:21:42.868676+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 2,
   "items": [
     {
       "title": "V Topoľčanoch prerušili vlakovú dopravu pre nehodovú udalosť",
@@ -13,42 +13,6 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
     },
     {
-      "title": "Polícia vyhlásila pátranie po nezvestnej Lucii (44) z okresu Levice, hľadajú ju už štyri dni",
-      "link": "https://www.nitrak.sk/clanky/12336/kam-sa-podela-44-rocna-lucia-policia-stale-patra-po-zene-z-okresu-levice-ktora-je-nezvestna-uz-stvrty-den",
-      "time": "2026-10-26T14:20:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1793026739-kam-sa-podela-44rocna-lucia-policia-stale-patra-po-zene-z-okresu-levice-ktora-je-nezvestna-uz-stvrty-den.webp"
-    },
-    {
-      "title": "Na hlavnej stanici v Bratislave prerušili vlakovú dopravu",
-      "link": "https://www.bratislavak.sk/clanky/16054/na-bratislavskej-hlavnej-stanici-prerusili-dopravu-dovodom-je-nehodova-udalost-vlaky-meskaju-desiatky-minut",
-      "time": "2026-10-26T14:13:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793024231-na-bratislavskej-hlavnej-stanici-prerusili-dopravu-dovodom-je-nehodova-udalost-vlaky-meskaju-desiatky-minut.webp"
-    },
-    {
-      "title": "VIDEO: Vážna nehoda v okrese Rimavská Sobota. Po zrážke s dodávkou skončila vodička v nemocnici",
-      "link": "https://www.bystricak.sk/clanky/13567/video-pri-zrazke-v-okrese-rimavska-sobota-sa-vazne-zranila-zena-vodic-dodavky-presiel-do-protismeru",
-      "time": "2026-10-26T14:01:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1793022477-video-pri-zrazke-v-okrese-rimavska-sobota-sa-vazne-zranila-zena-vodic-dodavky-presiel-do-protismeru.webp"
-    },
-    {
-      "title": "Šmyk, náraz a poškodený elektrický stĺp. Hlavný ťah cez Oravu zostal dočasne uzavretý",
-      "link": "https://www.zilinak.sk/clanky/43652/mlady-vodic-havaroval-na-hlavnom-tahu-cez-oravu-cesta-ostala-neprejazdna-visel-nad-nou-stlp-a-kable",
-      "time": "2026-10-26T13:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793011668-mlady-vodic-havaroval-na-hlavnom-tahu-cez-oravu-cesta-ostala-neprejazdna-visel-nad-nou-stlp-a-kable.webp"
-    },
-    {
       "title": "Polícia pátra po 32-ročnom Jozefovi z okresu Trnava, je nezvestný už niekoľko dní",
       "link": "https://www.trnavak.sk/clanky/12714/policia-patra-po-32-rocnom-jozefovi-z-okresu-trnava-je-nezvestny-uz-niekolko-dni",
       "time": "2026-10-26T11:20:00+00:00",
@@ -56,24 +20,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1793011727-policia-patra-po-32rocnom-jozefovi-z-okresu-trnava-je-nezvestny-uz-niekolko-dni.webp"
-    },
-    {
-      "title": "Doprava v kraji viazne: Problémy hlásia zo Záhoria, nehoda skomplikovala dopravu aj pri Trnave",
-      "link": "https://www.trnavak.sk/clanky/12709/doprava-v-kraji-viazne-problemy-hlasia-zo-zahoria-nehoda-skomplikovala-dopravu-aj-pri-trnave",
-      "time": "2026-10-26T09:22:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Hrozivá zrážka dvoch áut v Nitrianskom kraji: Dve ženy previezli do nemocnice",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2066559-hroziva-zrazka-v-nitrianskom-kraji-dve-zeny-previezli-do-nemocnice?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-26T09:04:19+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/26/2552331/4x3-medium/nehoda-auto.jpg?v=2+o"
     }
   ]
 }

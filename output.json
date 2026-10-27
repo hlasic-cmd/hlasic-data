@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T20:30:51.493666+00:00",
+  "generated_at": "2026-10-27T23:55:41.738266+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 8,
   "items": [
     {
       "title": "Požiar v Žiline vyhnal 48 ľudí z domovov. Mesto prijalo mimoriadne opatrenie, zasadne aj krízový štáb",
@@ -40,15 +40,6 @@
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
     },
     {
-      "title": "Na Bratislavskej ulici v Žiline opäť horí byt. Na mieste zasahujú hasiči",
-      "link": "https://www.zilinak.sk/clanky/43692/na-bratislavskej-ulici-v-ziline-opat-hori-byt-na-mieste-zasahuju-hasici",
-      "time": "2026-10-27T17:02:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793120591-na-bratislavskej-ulici-v-ziline-opat-hori-byt-na-mieste-zasahuju-hasici.webp"
-    },
-    {
       "title": "Požiar balkóna vo Svidníku spôsobil škodu za 10-tisíc eur",
       "link": "https://korzar.sme.sk/presov/c/poziar-balkona-vo-svidniku-sposobil-skodu-za-10-tisic-eur?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
       "time": "2026-10-27T16:30:23+00:00",
@@ -83,15 +74,6 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/1ef87790-dea1-6a38-9880-c92ce60e2725.jpg"
-    },
-    {
-      "title": "Cestu I/11 zablokoval vysypaný náklad z havarovaného kamióna, vytiekla aj nafta",
-      "link": "https://www.zilinak.sk/clanky/43675/foto-z-havarovaneho-kamiona-na-kysuciach-sa-vysypal-cely-naklad-hlavny-tah-bol-neprejazdny-hodiny",
-      "time": "2026-10-27T08:31:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793104343-foto-z-havarovaneho-kamiona-na-kysuciach-sa-vysypal-cely-naklad-hlavny-tah-bol-neprejazdny-hodiny.webp"
     }
   ]
 }

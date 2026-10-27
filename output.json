@@ -1,16 +1,79 @@
 {
-  "generated_at": "2026-10-27T16:02:01.874834+00:00",
+  "generated_at": "2026-10-27T20:30:51.493666+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 10,
   "items": [
     {
-      "title": "Hasičom sa ledva podarilo zachrániť strechu bytovky v Ružomberku. Prečo tam založili oheň?",
-      "link": "https://www.zilinak.sk/clanky/43681/podkrovie-bytovky-v-ruzomberku-zachvatili-plamene-poziar-vznikol-umyselnym-a-nezodpovednym-cinom",
-      "time": "2026-10-27T15:20:00+00:00",
+      "title": "Požiar v Žiline vyhnal 48 ľudí z domovov. Mesto prijalo mimoriadne opatrenie, zasadne aj krízový štáb",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2067799-poziar-v-ziline-vyhnal-48-ludi-z-domovov-mesto-prijalo-mimoriadne-opatrenie-zasadne-aj-krizovy-stab?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-27T20:15:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/10/27/2553459/4x3-medium/poziar-zilina.jpg?v=T/w"
+    },
+    {
+      "title": "Žilina vyhlásila mimoriadnu situáciu pre večerný požiar bytu",
+      "link": "https://www.teraz.sk/regiony/zilina-vyhlasila-mimoriadnu-situaciu/1003297-clanok.html",
+      "time": "2026-10-27T19:47:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Z horiacej bytovky v Žiline evakuovali desiatky ľudí, ostanú v telocvični. Platí mimoriadna situácia",
+      "link": "https://www.zilinak.sk/clanky/43695/z-horiacej-bytovky-na-bratislavskej-ulici-evakuovali-48-ludi-co-s-nimi-bude-mesto-vyhlasilo-mimoriadnu-situaciu",
+      "time": "2026-10-27T19:11:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793128280-z-horiacej-bytovky-na-bratislavskej-ulici-evakuovali-48-ludi-co-s-nimi-bude-mesto-vyhlasilo-mimoriadnu-situaci.webp"
+    },
+    {
+      "title": "Vlak Praha – Bratislava mešká 120 minút pre nehodu na Morave",
+      "link": "https://www.bratislavak.sk/clanky/16080/vlak-z-prahy-do-bratislavy-meska-dve-hodiny-na-morave-sa-nakladny-vlak-zrazil-s-osobou",
+      "time": "2026-10-27T17:10:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Na Bratislavskej ulici v Žiline opäť horí byt. Na mieste zasahujú hasiči",
+      "link": "https://www.zilinak.sk/clanky/43692/na-bratislavskej-ulici-v-ziline-opat-hori-byt-na-mieste-zasahuju-hasici",
+      "time": "2026-10-27T17:02:00+00:00",
       "cat": "poziar",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793098999-podkrovie-bytovky-v-ruzomberku-zachvatili-plamene-poziar-vznikol-umyselnym-a-nezodpovednym-cinom.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793120591-na-bratislavskej-ulici-v-ziline-opat-hori-byt-na-mieste-zasahuju-hasici.webp"
+    },
+    {
+      "title": "Požiar balkóna vo Svidníku spôsobil škodu za 10-tisíc eur",
+      "link": "https://korzar.sme.sk/presov/c/poziar-balkona-vo-svidniku-sposobil-skodu-za-10-tisic-eur?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-10-27T16:30:23+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a07d18-7d96-7eb5-bda5-c28e061ceacd.jpg"
+    },
+    {
+      "title": "POŽIAR BALKÓNA VO SVIDNÍKU: Škody sú v tisíckach eur",
+      "link": "https://www.teraz.sk/regiony/poziar-balkona-v-bytovom-dome-sposobi/1003260-clanok.html",
+      "time": "2026-10-27T16:23:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Požiar domu v obci pri Senci: Horela jedna miestnosť, škody sú obrovské",
+      "link": "https://www.bratislavak.sk/clanky/16079/foto-husty-cierny-dym-vystrasil-obec-pri-bratislave-skody-v-rodinnom-dome-sa-vysplhali-na-10-tisic-eur",
+      "time": "2026-10-27T16:10:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793114728-foto-husty-cierny-dym-vystrasil-obec-pri-bratislave-skody-v-rodinnom-dome-sa-vysplhali-na-10tisic-eur.webp"
     },
     {
       "title": "Tragická nehoda v košických železiarňach si pred 31 rokmi vyžiadala 11 obetí",
@@ -22,22 +85,13 @@
       "image": "https://image.smedata.sk/image/w660-h440/1ef87790-dea1-6a38-9880-c92ce60e2725.jpg"
     },
     {
-      "title": "Havarijný most v Kozelníku čaká veľká prestavba. Cestu I/51 na niekoľko dní úplne uzavrú",
-      "link": "https://www.bystricak.sk/clanky/13574/most-v-okrese-banska-stiavnica-caka-rozsiahla-sanacia-aj-uplna-uzavera-pre-jeho-stav-vyhlasili-mimoriadnu-situaciu",
-      "time": "2026-10-27T12:00:00+00:00",
+      "title": "Cestu I/11 zablokoval vysypaný náklad z havarovaného kamióna, vytiekla aj nafta",
+      "link": "https://www.zilinak.sk/clanky/43675/foto-z-havarovaneho-kamiona-na-kysuciach-sa-vysypal-cely-naklad-hlavny-tah-bol-neprejazdny-hodiny",
+      "time": "2026-10-27T08:31:00+00:00",
       "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1793100467-most-v-okrese-banska-stiavnica-caka-rozsiahla-sanacia-aj-uplna-uzavera-pre-jeho-stav-vyhlasili-mimoriadnu-situ.webp"
-    },
-    {
-      "title": "V obci neďaleko Šale havarovali dve autá, na mieste zasahujú policajti",
-      "link": "https://www.nitrak.sk/clanky/12351/v-obci-nedaleko-sale-havarovali-dve-auta-na-mieste-zasahuju-policajti",
-      "time": "2026-10-27T11:50:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793104343-foto-z-havarovaneho-kamiona-na-kysuciach-sa-vysypal-cely-naklad-hlavny-tah-bol-neprejazdny-hodiny.webp"
     }
   ]
 }

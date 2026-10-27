@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T00:34:31.694421+00:00",
+  "generated_at": "2026-10-27T05:29:42.599446+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "title": "Vlak zrazil osobu medzi Dolným Štálom a Dolným Barom, k rovnakej nehode došlo aj nad Bratislavou",
@@ -20,15 +20,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793055221-za-devinskou-novou-vsou-zrazil-nakladny-vlak-neznamu-osobu-doprava-stoji-k-rovnakej-nehode-doslo-aj-v-nedaleko.webp"
-    },
-    {
-      "title": "V Topoľčanoch prerušili vlakovú dopravu pre nehodovú udalosť",
-      "link": "https://www.nitrak.sk/clanky/12342/vlakovu-dopravu-na-stanici-v-topolcanoch-prerusili-zeleznice-hlasia-nehodovu-udalost",
-      "time": "2026-10-26T16:30:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
     }
   ]
 }

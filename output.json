@@ -1,25 +1,79 @@
 {
-  "generated_at": "2026-10-27T05:29:42.599446+00:00",
+  "generated_at": "2026-10-27T10:46:49.925030+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 8,
   "items": [
     {
-      "title": "Vlak zrazil osobu medzi Dolným Štálom a Dolným Barom, k rovnakej nehode došlo aj nad Bratislavou",
-      "link": "https://www.trnavak.sk/clanky/12723/v-okrese-dunajska-streda-doslo-k-zrazke-osobneho-vlaku-s-osobou-doprava-opat-stoji",
-      "time": "2026-10-26T22:37:00+00:00",
+      "title": "Hasiči zasahujú pri požiari drevených stavieb v okrese Žilina. Zhorelo mólo aj prístrešok",
+      "link": "https://www.zilinak.sk/clanky/43678/pri-ziline-vypukol-poziar-mola-a-pristresku-hasici-ich-nasli-v-stvrtej-faze-horenia-zistuje-sa-ako-vznikol",
+      "time": "2026-10-27T10:08:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793095739-pri-ziline-vypukol-poziar-mola-a-pristresku-hasici-ich-nasli-v-stvrtej-faze-horenia-zistuje-sa-ako-vznikol.webp"
+    },
+    {
+      "title": "Vážna nehoda pred tunelom Horelica: Úsek cesty I/11 v Čadci je úplne neprejazdný",
+      "link": "https://www.aktuality.sk/clanok/F1Lu2JJ/vazna-nehoda-pred-tunelom-horelica-usek-cesty-i11-v-cadci-je-uplne-neprejazdny/",
+      "time": "2026-10-27T09:22:20+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/tunel-horelica/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/5WtktkuTURBXy9kOTYxOTA3Ni1kNDZkLTRiZjAtODU5Ni1mNmI2NWVlYzkzMjEuanBlZ5KVAwBDzQSwzQKjlQLNB9AAwsM?st=PAIbKkgVjlNmZMNAxhmsR4rwU_rC_1sj0cEUXPiUZ-s&ts=1793055600&e=0"
+    },
+    {
+      "title": "Dopravné komplikácie na Záhorí i pri Dunajskej Strede: Autá sa zrazili na križovatke, ďalšia nehoda sa stala pri škole",
+      "link": "https://www.trnavak.sk/clanky/12726/dopravne-komplikacie-na-zahori-i-pri-dunajskej-strede-auta-sa-zrazili-na-krizovatke-dalsia-nehoda-sa-stala-pri-skole",
+      "time": "2026-10-27T09:11:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1793054290-v-okrese-dunajska-streda-doslo-k-zrazke-osobneho-vlaku-s-osobou-doprava-opat-stoji.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1793094928-dopravne-komplikacie-na-zahori-i-pri-dunajskej-strede-auta-sa-zrazili-na-krizovatke-dalsia-nehoda-sa-stala-pri.webp"
     },
     {
-      "title": "Nákladný vlak zrazil neznámu osobu za Devínskou Novou Vsou",
-      "link": "https://www.bratislavak.sk/clanky/16059/za-devinskou-novou-vsou-zrazil-nakladny-vlak-neznamu-osobu-doprava-stoji-k-rovnakej-nehode-doslo-aj-v-nedalekom-okrese",
-      "time": "2026-10-26T22:30:00+00:00",
+      "title": "Cestu I/11 zablokoval vysypaný náklad z havarovaného kamióna, vytiekla aj nafta",
+      "link": "https://www.zilinak.sk/clanky/43675/foto-z-havarovaneho-kamiona-na-kysuciach-sa-vysypal-cely-naklad-hlavny-tah-je-neprejazdny-hodiny",
+      "time": "2026-10-27T08:31:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793093494-foto-z-havarovaneho-kamiona-na-kysuciach-sa-vysypal-cely-naklad-hlavny-tah-je-neprejazdny-hodiny.webp"
+    },
+    {
+      "title": "Pozor na nehodu vo Vranove nad Topľou. Pre zrážku áut je blokovaný jazdný pruh, zasahujú záchranné zložky",
+      "link": "https://www.presovak.sk/clanky/16005/pozor-na-nehodu-vo-vranove-nad-toplou-pre-zrazku-aut-je-blokovany-jazdny-pruh-zasahuju-zachranne-zlozky",
+      "time": "2026-10-27T08:18:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Na Orave čistý ľad, na Liptove nehoda na moste. Ráno bolo na cestách nebezpečné",
+      "link": "https://www.zilinak.sk/clanky/43672/vodici-pozor-cesty-sa-menia-na-lad-na-mostoch-zilinskeho-kraja-sa-zrazili-auta-aj-kamion",
+      "time": "2026-10-27T07:33:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793086480-vodici-pozor-cesty-sa-menia-na-lad-na-mostoch-zilinskeho-kraja-sa-zrazili-auta-aj-kamion.webp"
+    },
+    {
+      "title": "Vodiči, pozor! Na D1 smerom do Bratislavy sa stala hromadná nehoda",
+      "link": "https://www.bratislavak.sk/clanky/16060/vodici-pozor-na-d1-smerom-do-bratislavy-sa-stala-hromadna-nehoda",
+      "time": "2026-10-27T07:11:00+00:00",
       "cat": "nehoda",
       "region": "bratislavsky",
       "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793055221-za-devinskou-novou-vsou-zrazil-nakladny-vlak-neznamu-osobu-doprava-stoji-k-rovnakej-nehode-doslo-aj-v-nedaleko.webp"
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793085119-vodici-pozor-na-d1-smerom-do-bratislavy-sa-stala-hromadna-nehoda.webp"
+    },
+    {
+      "title": "Dron našiel nezvestného 72-ročného muža zo Sabinova",
+      "link": "https://www.presovak.sk/clanky/15993/foto-po-72-rocnom-muzovi-zo-sabinova-sa-zlahla-zem-intenzivne-patranie-trvalo-dlhe-hodiny",
+      "time": "2026-10-27T06:40:00+00:00",
+      "cat": "patranie",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1793015460-foto-po-72rocnom-muzovi-zo-sabinova-sa-zlahla-zem-intenzivne-patranie-trvalo-dlhe-hodiny.webp"
     }
   ]
 }

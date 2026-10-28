@@ -1,70 +1,43 @@
 {
-  "generated_at": "2026-10-28T02:44:50.847899+00:00",
+  "generated_at": "2026-10-28T08:59:27.577688+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 4,
   "items": [
     {
-      "title": "Požiar v Žiline vyhnal 48 ľudí z domovov. Mesto prijalo mimoriadne opatrenie, zasadne aj krízový štáb",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2067799-poziar-v-ziline-vyhnal-48-ludi-z-domovov-mesto-prijalo-mimoriadne-opatrenie-zasadne-aj-krizovy-stab?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-27T20:15:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/27/2553459/4x3-medium/poziar-zilina.jpg?v=T/w"
-    },
-    {
-      "title": "Žilina vyhlásila mimoriadnu situáciu pre večerný požiar bytu",
-      "link": "https://www.teraz.sk/regiony/zilina-vyhlasila-mimoriadnu-situaciu/1003297-clanok.html",
-      "time": "2026-10-27T19:47:00+00:00",
+      "title": "Požiar záhradných chatiek v Dolnom Kubíne spôsobil škodu 50.000 eur",
+      "link": "https://www.teraz.sk/regiony/poziar-zahradnych-chatiek-v-dolnom-ku/1003354-clanok.html",
+      "time": "2026-10-28T08:48:00+00:00",
       "cat": "poziar",
       "region": "zilinsky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Z horiacej bytovky v Žiline evakuovali desiatky ľudí, ostanú v telocvični. Platí mimoriadna situácia",
-      "link": "https://www.zilinak.sk/clanky/43695/z-horiacej-bytovky-na-bratislavskej-ulici-evakuovali-48-ludi-co-s-nimi-bude-mesto-vyhlasilo-mimoriadnu-situaciu",
-      "time": "2026-10-27T19:11:00+00:00",
-      "cat": "zasah",
+      "title": "Požiar chatiek vo Veľkom Bysterci hasili štyri jednotky. Ohniská hľadali aj termokamerou",
+      "link": "https://www.zilinak.sk/clanky/43699/foto-uprostred-noci-zacali-horiet-viacere-chatky-na-orave-majitelia-rataju-skodu-v-desattisicoch-eur",
+      "time": "2026-10-28T08:15:00+00:00",
+      "cat": "poziar",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793128280-z-horiacej-bytovky-na-bratislavskej-ulici-evakuovali-48-ludi-co-s-nimi-bude-mesto-vyhlasilo-mimoriadnu-situaci.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793173373-foto-uprostred-noci-zacali-horiet-viacere-chatky-na-orave-majitelia-rataju-skodu-v-desattisicoch-eur.webp"
     },
     {
-      "title": "Vlak Praha – Bratislava mešká 120 minút pre nehodu na Morave",
-      "link": "https://www.bratislavak.sk/clanky/16080/vlak-z-prahy-do-bratislavy-meska-dve-hodiny-na-morave-sa-nakladny-vlak-zrazil-s-osobou",
-      "time": "2026-10-27T17:10:00+00:00",
+      "title": "V Žiline vyhlásili po požiari bytu mimoriadnu situáciu",
+      "link": "https://www.aktuality.sk/clanok/JdGlF0s/v-ziline-vyhlasili-po-poziari-bytu-mimoriadnu-situaciu/",
+      "time": "2026-10-28T07:52:10+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/po-poziari-bytu-evakuovali-z-bytovky-48-ludi/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/vo8ktkpTURBXy85MDFlMzVkZTY0MWE4OGI2Yjk1MGFkYWU0ZWFmM2IyZC5qcGeSlQMAOc0EAM0CQJUCzQfQAMLD?st=XHklortGoWAav5YGUCp9CLLoC--FuDOI0uVvfgRD4kY&ts=1793142000&e=0"
+    },
+    {
+      "title": "Nehoda na Vyšnom Opátskom spôsobila kolóny, smerom na most VSS sa zdržia vodiči niekoľko minút",
+      "link": "https://www.kosicak.sk/clanky/14778/nehoda-na-vysnom-opatskom-sposobila-kolony-smerom-na-most-vss-sa-zdrzia-vodici-niekolko-minut",
+      "time": "2026-10-28T07:04:00+00:00",
       "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Požiar balkóna vo Svidníku spôsobil škodu za 10-tisíc eur",
-      "link": "https://korzar.sme.sk/presov/c/poziar-balkona-vo-svidniku-sposobil-skodu-za-10-tisic-eur?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-27T16:30:23+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a07d18-7d96-7eb5-bda5-c28e061ceacd.jpg"
-    },
-    {
-      "title": "POŽIAR BALKÓNA VO SVIDNÍKU: Škody sú v tisíckach eur",
-      "link": "https://www.teraz.sk/regiony/poziar-balkona-v-bytovom-dome-sposobi/1003260-clanok.html",
-      "time": "2026-10-27T16:23:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Požiar domu v obci pri Senci: Horela jedna miestnosť, škody sú obrovské",
-      "link": "https://www.bratislavak.sk/clanky/16079/foto-husty-cierny-dym-vystrasil-obec-pri-bratislave-skody-v-rodinnom-dome-sa-vysplhali-na-10-tisic-eur",
-      "time": "2026-10-27T16:10:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793114728-foto-husty-cierny-dym-vystrasil-obec-pri-bratislave-skody-v-rodinnom-dome-sa-vysplhali-na-10tisic-eur.webp"
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
     }
   ]
 }

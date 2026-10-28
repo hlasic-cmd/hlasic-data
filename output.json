@@ -1,43 +1,79 @@
 {
-  "generated_at": "2026-10-28T08:59:27.577688+00:00",
+  "generated_at": "2026-10-28T15:43:18.117342+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 8,
   "items": [
     {
-      "title": "Požiar záhradných chatiek v Dolnom Kubíne spôsobil škodu 50.000 eur",
-      "link": "https://www.teraz.sk/regiony/poziar-zahradnych-chatiek-v-dolnom-ku/1003354-clanok.html",
-      "time": "2026-10-28T08:48:00+00:00",
+      "title": "Požiar bytu v Žiline spôsobil škodu za 80-tisíc eur. Evakuovali desiatky ľudí",
+      "link": "https://www.aktuality.sk/clanok/m71OqBA/poziar-bytu-v-ziline-sposobil-skodu-za-80-tisic-eur-evakuovali-desiatky-ludi/",
+      "time": "2026-10-28T15:30:08+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/ilustracna-snimka/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/_FuktkpTURBXy9lYTgxOWMzMTNhZWI0ZTU1MDEwNjdlYmRlNDc1OGEzYi5qcGeSlQMAzIzNEZTNCeOVAs0H0ADCww?st=7gc7GdAyI5viRBnNSHMDXJZJcg_w_xudOn61YxSwZck&ts=1793142000&e=0"
+    },
+    {
+      "title": "Požiar bytu v Žiline spôsobil škodu 80.000 eur, evakuovali 48 osôb",
+      "link": "https://www.teraz.sk/regiony/poziar-bytu-v-ziline-sposobil-skodu/1003521-clanok.html",
+      "time": "2026-10-28T15:13:00+00:00",
       "cat": "poziar",
       "region": "zilinsky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Požiar chatiek vo Veľkom Bysterci hasili štyri jednotky. Ohniská hľadali aj termokamerou",
-      "link": "https://www.zilinak.sk/clanky/43699/foto-uprostred-noci-zacali-horiet-viacere-chatky-na-orave-majitelia-rataju-skodu-v-desattisicoch-eur",
-      "time": "2026-10-28T08:15:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793173373-foto-uprostred-noci-zacali-horiet-viacere-chatky-na-orave-majitelia-rataju-skodu-v-desattisicoch-eur.webp"
-    },
-    {
-      "title": "V Žiline vyhlásili po požiari bytu mimoriadnu situáciu",
-      "link": "https://www.aktuality.sk/clanok/JdGlF0s/v-ziline-vyhlasili-po-poziari-bytu-mimoriadnu-situaciu/",
-      "time": "2026-10-28T07:52:10+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/po-poziari-bytu-evakuovali-z-bytovky-48-ludi/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/vo8ktkpTURBXy85MDFlMzVkZTY0MWE4OGI2Yjk1MGFkYWU0ZWFmM2IyZC5qcGeSlQMAOc0EAM0CQJUCzQfQAMLD?st=XHklortGoWAav5YGUCp9CLLoC--FuDOI0uVvfgRD4kY&ts=1793142000&e=0"
-    },
-    {
-      "title": "Nehoda na Vyšnom Opátskom spôsobila kolóny, smerom na most VSS sa zdržia vodiči niekoľko minút",
-      "link": "https://www.kosicak.sk/clanky/14778/nehoda-na-vysnom-opatskom-sposobila-kolony-smerom-na-most-vss-sa-zdrzia-vodici-niekolko-minut",
-      "time": "2026-10-28T07:04:00+00:00",
+      "title": "Tragická nehoda v Rožňave. Seniorka po zrážke na priechode zomrela",
+      "link": "https://www.aktuality.sk/clanok/NO8lTW3/vodic-v-roznave-zrazil-72-rocnu-chodkynu-zena-zraneniam-podlahla/",
+      "time": "2026-10-28T14:57:00+00:00",
       "cat": "nehoda",
       "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/ilustracne-foto/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/NQFktkpTURBXy82ZTFmNjMyYTZlODk2Mzg0MmIzNzhiNzM2YzliNDgwOS5qcGeSlQMAzIzNEZTNCeOVAs0H0ADCww?st=YxXp097zW1_UBJWP83U7lJnCAQhffqIVTb6O3C6E3_k&ts=1793142000&e=0"
+    },
+    {
+      "title": "Vážna nehoda pri Veľkom Šariši: Po zrážke zostal na ceste bicykel, polícia uzavrela cestu zo Šarišských Michalian",
+      "link": "https://www.presovak.sk/clanky/16029/foto-vazna-nehoda-vo-velkom-sarisi-na-mieste-zasahovali-hasici-aj-zachranari-poskodeny-je-aj-autobus",
+      "time": "2026-10-28T14:55:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1793199283-foto-vazna-nehoda-vo-velkom-sarisi-na-mieste-zasahovali-hasici-aj-zachranari-poskodeny-je-aj-autobus.webp"
+    },
+    {
+      "title": "Pozor na dopravu v Bystrici: Vodiči hlásia nehodu cyklistu s autom",
+      "link": "https://www.bystricak.sk/clanky/13596/v-centre-banskej-bystrice-hlasia-zrazku-auta-s-cyklistom-na-mieste-sa-zacali-tvorit-zapchy",
+      "time": "2026-10-28T14:37:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1793198854-v-centre-banskej-bystrice-hlasia-zrazku-auta-s-cyklistom-na-mieste-sa-zacali-tvorit-zapchy.webp"
+    },
+    {
+      "title": "Raši vyjadril úprimnú sústrasť pozostalým po havárii vlakov",
+      "link": "https://www.teraz.sk/slovensko/rasi-vyjadril-uprimnu-sustrast-pozo/1003495-clanok.html",
+      "time": "2026-10-28T13:51:00+00:00",
+      "cat": "nehoda",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V okrese Dunajská Streda došlo k vážnej dopravnej nehode, na mieste zasahovali všetky záchranné zložky",
+      "link": "https://www.trnavak.sk/clanky/12744/v-okrese-dunajska-streda-doslo-k-vaznej-dopravnej-nehode-na-mieste-zasahovali-vsetky-zachranne-zlozky",
+      "time": "2026-10-28T12:25:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1793197482-v-okrese-dunajska-streda-doslo-k-vaznej-dopravnej-nehode-na-mieste-zasahovali-vsetky-zachranne-zlozky.webp"
+    },
+    {
+      "title": "Nehoda v Kežmarku obmedzila dopravu. Jeden jazdný pruh je blokovaný",
+      "link": "https://www.presovak.sk/clanky/16024/v-kezmarku-sa-zrazili-dve-auta-blokovany-je-jeden-jazdny-pruh",
+      "time": "2026-10-28T11:35:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
     }
   ]
 }

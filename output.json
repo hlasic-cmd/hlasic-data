@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-10-28T15:43:18.117342+00:00",
+  "generated_at": "2026-10-28T20:33:28.411473+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 4,
   "items": [
     {
-      "title": "Požiar bytu v Žiline spôsobil škodu za 80-tisíc eur. Evakuovali desiatky ľudí",
-      "link": "https://www.aktuality.sk/clanok/m71OqBA/poziar-bytu-v-ziline-sposobil-skodu-za-80-tisic-eur-evakuovali-desiatky-ludi/",
-      "time": "2026-10-28T15:30:08+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/ilustracna-snimka/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/_FuktkpTURBXy9lYTgxOWMzMTNhZWI0ZTU1MDEwNjdlYmRlNDc1OGEzYi5qcGeSlQMAzIzNEZTNCeOVAs0H0ADCww?st=7gc7GdAyI5viRBnNSHMDXJZJcg_w_xudOn61YxSwZck&ts=1793142000&e=0"
+      "title": "Nehoda skomplikovala večernú premávku v Nitre, polícia upozornila na zdržanie",
+      "link": "https://www.nitrak.sk/clanky/12370/nehoda-skomplikovala-vecernu-premavku-v-nitre-policia-upozornila-na-zdrzanie",
+      "time": "2026-10-28T17:53:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Tragédia pri Prešove. Muž na elektrobicykli neprežil zrážku s autobusom",
+      "link": "https://korzar.sme.sk/presov/c/tragedia-pri-presove-muz-na-elektrobicykli-neprezil-zrazku-s-autobusom?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-10-28T17:31:55+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a1838f-8af4-7709-ba5e-305b1b5ae903.jpg"
     },
     {
       "title": "Požiar bytu v Žiline spôsobil škodu 80.000 eur, evakuovali 48 osôb",
@@ -22,24 +31,6 @@
       "image": null
     },
     {
-      "title": "Tragická nehoda v Rožňave. Seniorka po zrážke na priechode zomrela",
-      "link": "https://www.aktuality.sk/clanok/NO8lTW3/vodic-v-roznave-zrazil-72-rocnu-chodkynu-zena-zraneniam-podlahla/",
-      "time": "2026-10-28T14:57:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/ilustracne-foto/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/NQFktkpTURBXy82ZTFmNjMyYTZlODk2Mzg0MmIzNzhiNzM2YzliNDgwOS5qcGeSlQMAzIzNEZTNCeOVAs0H0ADCww?st=YxXp097zW1_UBJWP83U7lJnCAQhffqIVTb6O3C6E3_k&ts=1793142000&e=0"
-    },
-    {
-      "title": "Vážna nehoda pri Veľkom Šariši: Po zrážke zostal na ceste bicykel, polícia uzavrela cestu zo Šarišských Michalian",
-      "link": "https://www.presovak.sk/clanky/16029/foto-vazna-nehoda-vo-velkom-sarisi-na-mieste-zasahovali-hasici-aj-zachranari-poskodeny-je-aj-autobus",
-      "time": "2026-10-28T14:55:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1793199283-foto-vazna-nehoda-vo-velkom-sarisi-na-mieste-zasahovali-hasici-aj-zachranari-poskodeny-je-aj-autobus.webp"
-    },
-    {
       "title": "Pozor na dopravu v Bystrici: Vodiči hlásia nehodu cyklistu s autom",
       "link": "https://www.bystricak.sk/clanky/13596/v-centre-banskej-bystrice-hlasia-zrazku-auta-s-cyklistom-na-mieste-sa-zacali-tvorit-zapchy",
       "time": "2026-10-28T14:37:00+00:00",
@@ -47,33 +38,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1793198854-v-centre-banskej-bystrice-hlasia-zrazku-auta-s-cyklistom-na-mieste-sa-zacali-tvorit-zapchy.webp"
-    },
-    {
-      "title": "Raši vyjadril úprimnú sústrasť pozostalým po havárii vlakov",
-      "link": "https://www.teraz.sk/slovensko/rasi-vyjadril-uprimnu-sustrast-pozo/1003495-clanok.html",
-      "time": "2026-10-28T13:51:00+00:00",
-      "cat": "nehoda",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V okrese Dunajská Streda došlo k vážnej dopravnej nehode, na mieste zasahovali všetky záchranné zložky",
-      "link": "https://www.trnavak.sk/clanky/12744/v-okrese-dunajska-streda-doslo-k-vaznej-dopravnej-nehode-na-mieste-zasahovali-vsetky-zachranne-zlozky",
-      "time": "2026-10-28T12:25:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1793197482-v-okrese-dunajska-streda-doslo-k-vaznej-dopravnej-nehode-na-mieste-zasahovali-vsetky-zachranne-zlozky.webp"
-    },
-    {
-      "title": "Nehoda v Kežmarku obmedzila dopravu. Jeden jazdný pruh je blokovaný",
-      "link": "https://www.presovak.sk/clanky/16024/v-kezmarku-sa-zrazili-dve-auta-blokovany-je-jeden-jazdny-pruh",
-      "time": "2026-10-28T11:35:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
     }
   ]
 }

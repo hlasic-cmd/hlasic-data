@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T23:55:41.738266+00:00",
+  "generated_at": "2026-10-28T02:44:50.847899+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 7,
   "items": [
     {
       "title": "Požiar v Žiline vyhnal 48 ľudí z domovov. Mesto prijalo mimoriadne opatrenie, zasadne aj krízový štáb",
@@ -65,15 +65,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793114728-foto-husty-cierny-dym-vystrasil-obec-pri-bratislave-skody-v-rodinnom-dome-sa-vysplhali-na-10tisic-eur.webp"
-    },
-    {
-      "title": "Tragická nehoda v košických železiarňach si pred 31 rokmi vyžiadala 11 obetí",
-      "link": "https://korzar.sme.sk/kosice/c/tragicka-nehoda-v-kosickych-zeleziarnach-si-pred-31-rokmi-vyziadala-11-obeti?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-27T13:59:48+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/1ef87790-dea1-6a38-9880-c92ce60e2725.jpg"
     }
   ]
 }

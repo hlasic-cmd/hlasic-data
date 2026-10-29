@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T20:33:28.411473+00:00",
+  "generated_at": "2026-10-29T00:18:00.094380+00:00",
   "max_age_hours": 12,
   "count": 4,
   "items": [
@@ -31,13 +31,13 @@
       "image": null
     },
     {
-      "title": "Pozor na dopravu v Bystrici: Vodiči hlásia nehodu cyklistu s autom",
-      "link": "https://www.bystricak.sk/clanky/13596/v-centre-banskej-bystrice-hlasia-zrazku-auta-s-cyklistom-na-mieste-sa-zacali-tvorit-zapchy",
-      "time": "2026-10-28T14:37:00+00:00",
+      "title": "V okrese Dunajská Streda došlo k vážnej dopravnej nehode, na mieste zasahovali všetky záchranné zložky",
+      "link": "https://www.trnavak.sk/clanky/12744/v-okrese-dunajska-streda-doslo-k-vaznej-dopravnej-nehode-na-mieste-zasahovali-vsetky-zachranne-zlozky",
+      "time": "2026-10-28T12:25:00+00:00",
       "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1793198854-v-centre-banskej-bystrice-hlasia-zrazku-auta-s-cyklistom-na-mieste-sa-zacali-tvorit-zapchy.webp"
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1793197482-v-okrese-dunajska-streda-doslo-k-vaznej-dopravnej-nehode-na-mieste-zasahovali-vsetky-zachranne-zlozky.webp"
     }
   ]
 }

@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-10-29T00:18:00.094380+00:00",
+  "generated_at": "2026-10-29T05:53:29.873440+00:00",
   "max_age_hours": 12,
-  "count": 4,
-  "items": [
-    {
-      "title": "Nehoda skomplikovala večernú premávku v Nitre, polícia upozornila na zdržanie",
-      "link": "https://www.nitrak.sk/clanky/12370/nehoda-skomplikovala-vecernu-premavku-v-nitre-policia-upozornila-na-zdrzanie",
-      "time": "2026-10-28T17:53:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Tragédia pri Prešove. Muž na elektrobicykli neprežil zrážku s autobusom",
-      "link": "https://korzar.sme.sk/presov/c/tragedia-pri-presove-muz-na-elektrobicykli-neprezil-zrazku-s-autobusom?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-28T17:31:55+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a1838f-8af4-7709-ba5e-305b1b5ae903.jpg"
-    },
-    {
-      "title": "Požiar bytu v Žiline spôsobil škodu 80.000 eur, evakuovali 48 osôb",
-      "link": "https://www.teraz.sk/regiony/poziar-bytu-v-ziline-sposobil-skodu/1003521-clanok.html",
-      "time": "2026-10-28T15:13:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V okrese Dunajská Streda došlo k vážnej dopravnej nehode, na mieste zasahovali všetky záchranné zložky",
-      "link": "https://www.trnavak.sk/clanky/12744/v-okrese-dunajska-streda-doslo-k-vaznej-dopravnej-nehode-na-mieste-zasahovali-vsetky-zachranne-zlozky",
-      "time": "2026-10-28T12:25:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1793197482-v-okrese-dunajska-streda-doslo-k-vaznej-dopravnej-nehode-na-mieste-zasahovali-vsetky-zachranne-zlozky.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

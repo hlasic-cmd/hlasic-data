@@ -1,8 +1,35 @@
 {
-  "generated_at": "2026-10-29T17:35:17.983968+00:00",
+  "generated_at": "2026-10-29T21:57:44.371742+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 10,
   "items": [
+    {
+      "title": "Zrážka dvoch áut a autobusu na východe Slovenska. Jeden človek utrpel zranenia",
+      "link": "https://www.presovak.sk/clanky/16048/pozor-na-nehodu-v-okrese-vranov-nad-toplou-zrazili-sa-dve-auta-a-autobus-jeden-clovek-sa-zranil",
+      "time": "2026-10-29T19:02:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Neďaleko Rožňavy došlo k dopravnej nehode, premávka je obmedzená",
+      "link": "https://korzar.sme.sk/spis-gemer/c/nedaleko-roznavy-doslo-k-dopravnej-nehode-premavka-je-obmedzena?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-10-29T18:14:03+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a188dc-e187-7e90-bbb8-c4e620f5df4c.jpg"
+    },
+    {
+      "title": "Dopravná nehoda neďaleko Rožňavy: Premávka je obmedzená",
+      "link": "https://www.teraz.sk/regiony/dopravna-nehoda-nedaleko-roznavy-pr/1003826-clanok.html",
+      "time": "2026-10-29T18:01:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "teraz.sk",
+      "image": null
+    },
     {
       "title": "Pozor na diaľnici D1: Nehody hlásia na Prístavnom moste aj smerom na Senec",
       "link": "https://www.bratislavak.sk/clanky/16124/na-dialnici-d1-sa-stali-dve-nehody-problemy-su-pri-bratislave-aj-za-bernolakovom",
@@ -13,13 +40,13 @@
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Pomôžte ju nájsť: Polícia pátra po 84-ročnej Magde z Malaciek",
-      "link": "https://www.bratislavak.sk/clanky/16123/policia-vyhlasila-patranie-po-seniorke-z-malaciek-moze-mat-na-sebe-hnedy-alebo-cierny-kabat",
+      "title": "Magda z Malaciek sa našla, polícia odvolala pátranie",
+      "link": "https://www.bratislavak.sk/clanky/16123/aktualizovane-patranie-po-seniorke-z-malaciek-je-odvolane-nasla-sa-a-je-v-poriadku",
       "time": "2026-10-29T17:00:00+00:00",
       "cat": "patranie",
       "region": "bratislavsky",
       "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793291702-policia-vyhlasila-patranie-po-seniorke-z-malaciek-moze-mat-na-sebe-hnedy-alebo-cierny-kabat.webp"
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793301710-aktualizovane-patranie-po-seniorke-z-malaciek-je-odvolane-nasla-sa-a-je-v-poriadku.webp"
     },
     {
       "title": "Zrážka dvoch vozidiel pri Krásnohorskom Podhradí. Na mieste zasahujú záchranné zložky",
@@ -58,31 +85,13 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1793286135-hroziva-nehoda-v-tvrdosovciach-86rocnu-chodkynu-zrazila-opita-vodicka-museli-ju-previezt-do-nemocnice.webp"
     },
     {
-      "title": "Vážne obmedzenie na D1 pri Trnave. Dva jazdné pruhy sú neprejazdné",
-      "link": "https://www.trnavak.sk/clanky/12774/pozor-na-dialnici-d1-smerom-na-trnavu-nehoda-blokuje-dva-jazdne-pruhy",
-      "time": "2026-10-29T15:21:00+00:00",
+      "title": "Marekova kamera zachytila nehodu kamióna na Donovaloch",
+      "link": "https://www.bystricak.sk/clanky/13602/video-marek-sa-dnes-pri-nehode-na-donovaloch-druhykrat-narodil-jeho-kamera-v-aute-zachytila-celu-desivu-zrazku",
+      "time": "2026-10-29T10:00:00+00:00",
       "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Nehoda pri Želiezovciach obmedzila dopravu. Zrazili sa dve osobné autá",
-      "link": "https://www.nitrak.sk/clanky/12383/na-ceste-medzi-zeliezovcami-a-hronovcami-havarovali-dve-auta-premavku-riadi-policia",
-      "time": "2026-10-29T15:06:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Opitá vodička zrazila v Tvrdošovciach dôchodkyňu priamo na priechode: Nafúkala 1,35 promile",
-      "link": "https://www.aktuality.sk/clanok/OH3AQH7/opita-vodicka-zrazila-v-tvrdosovciach-dochodkynu-priamo-na-priechode-nafukala-135-promile/",
-      "time": "2026-10-29T14:25:28+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/opita-vodicka-zrazila-v-tvrdosovciach-dochodkynu-priamo-na-priechode-nafukala-135-promile/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/6EvktkpTURBXy8zMDc4YWE1NTE2MDE1NzMzMzAzYTk3ZTcxMGRmNjZjZS5qcGeSlQMAW80EWs0CcpUCzQfQAMLD?st=d_VD7pPtsbrasBX7qUDfXZUPUukSTowQu7pVu2fxovI&ts=1793228400&e=0"
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1793267883-video-marek-sa-dnes-pri-nehode-na-donovaloch-druhykrat-narodil-jeho-kamera-v-aute-zachytila-celu-desivu-zrazku.webp"
     }
   ]
 }

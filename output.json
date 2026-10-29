@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-10-29T05:53:29.873440+00:00",
+  "generated_at": "2026-10-29T11:49:19.565921+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 9,
+  "items": [
+    {
+      "title": "Pre nehodu v Michalovciach uviazli vodiči v kolóne, počkajú si aj 20 minút. V Košiciach sa zrazili autá na Moldavskej",
+      "link": "https://www.kosicak.sk/clanky/14801/pre-nehodu-v-michalovciach-uviazli-vodici-v-kolone-pockaju-si-aj-20-minut-v-kosiciach-sa-zrazili-auta-na-moldavskej",
+      "time": "2026-10-29T11:27:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1793273281-pre-nehodu-v-michalovciach-uviazli-vodici-v-kolone-pockaju-si-aj-20-minut-v-kosiciach-sa-zrazili-auta-na-molda.webp"
+    },
+    {
+      "title": "Vlak Tatran do Košíc mešká 60 minút pre požiar vozňa",
+      "link": "https://www.bratislavak.sk/clanky/16109/vlak-tatran-z-bratislavy-do-kosic-meska-viac-ako-hodinu-dovodom-je-poziar-vozna",
+      "time": "2026-10-29T10:51:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Marekova kamera zachytila nehodu kamióna na Donovaloch",
+      "link": "https://www.bystricak.sk/clanky/13602/video-marek-sa-dnes-pri-nehode-na-donovaloch-druhykrat-narodil-jeho-kamera-v-aute-zachytila-celu-desivu-zrazku",
+      "time": "2026-10-29T10:00:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1793267883-video-marek-sa-dnes-pri-nehode-na-donovaloch-druhykrat-narodil-jeho-kamera-v-aute-zachytila-celu-desivu-zrazku.webp"
+    },
+    {
+      "title": "FOTO: Dramatický požiar v Hlohovci: Kamión úplne pohltili plamene, hasičský zásah komplikoval hustý dym",
+      "link": "https://www.trnavak.sk/clanky/12759/foto-dramaticky-poziar-v-hlohovci-kamion-uplne-pohltili-plamene-hasicsky-zasah-komplikoval-husty-dym",
+      "time": "2026-10-29T09:00:00+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1793263358-foto-dramaticky-poziar-v-hlohovci-kamion-uplne-pohltili-plamene-hasicsky-zasah-komplikoval-husty-dym.webp"
+    },
+    {
+      "title": "Požiar ťahača v Hlohovci spôsobil škodu 25-tisíc eur, príčina je zatiaľ neznáma",
+      "link": "https://www.aktuality.sk/clanok/MBUWGMU/poziar-tahaca-v-hlohovci-sposobil-skodu-25-tisic-eur-pricina-je-zatial-neznama/",
+      "time": "2026-10-29T08:42:14+00:00",
+      "cat": "poziar",
+      "region": "trnavsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/poziar-kamionu-v-hlohovci/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/9NqktkpTURBXy8zOTllYWMyNWZkMWUxMzYwYTZmNzBiM2IzODlhYmQ0Ny5qcGeSlQMKAM0Has0ELJUCzQfQAMLD?st=XFK8Um8_JYJmrdEzJVULQjWqiAh_EoojZx0X4KavCZY&ts=1793228400&e=0"
+    },
+    {
+      "title": "Na Donovaloch sa zrazili dva kamióny a dve autá",
+      "link": "https://www.bystricak.sk/clanky/13601/vodici-chystate-sa-prechadzat-cez-donovaly-usekom-neprejdete-dovodom-je-hromadna-dopravna-nehoda",
+      "time": "2026-10-29T08:28:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Na zjazde za Ružomberkom sa stala nehoda., Vodičom prekážajú betónové zábrany",
+      "link": "https://www.zilinak.sk/clanky/43731/na-zjazde-z-obchvatu-ruzomberka-sa-zrazili-auta-vodici-tvrdia-ze-nehoda-bola-len-otazkou-casu-toto-im-prekaza",
+      "time": "2026-10-29T08:26:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793262383-na-zjazde-z-obchvatu-ruzomberka-sa-zrazili-auta-vodici-tvrdia-ze-nehoda-bola-len-otazkou-casu-toto-im-prekaza.webp"
+    },
+    {
+      "title": "V Nitre sa zrazil kamión s osobným autom, kruhový objazd pod Zoborom je upchatý",
+      "link": "https://www.nitrak.sk/clanky/12374/na-kruhovom-objazde-pod-zoborom-v-nitre-sa-zrazil-kamion-s-osobnym-autom-ratajte-so-zdrzanim",
+      "time": "2026-10-29T07:41:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Ranná nehoda v Trnavskom kraji: Zrážka dvoch vozidiel komplikuje dopravu, vodiči si chvíľu počkajú",
+      "link": "https://www.trnavak.sk/clanky/12757/ranna-nehoda-v-trnavskom-kraji-zrazka-dvoch-vozidiel-komplikuje-dopravu-vodici-si-chvilu-pockaju",
+      "time": "2026-10-29T07:16:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1793258236-ranna-nehoda-v-trnavskom-kraji-zrazka-dvoch-vozidiel-komplikuje-dopravu-vodici-si-chvilu-pockaju.webp"
+    }
+  ]
 }

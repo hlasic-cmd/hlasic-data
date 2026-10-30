@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-10-30T19:31:45.708129+00:00",
+  "generated_at": "2026-10-30T23:07:19.653800+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 5,
   "items": [
+    {
+      "title": "Vážna nehoda v Čadci. Po čelnej zrážke auto narazilo do domu strechou nadol",
+      "link": "https://www.zilinak.sk/clanky/43777/foto-po-celnej-zrazke-v-cadci-skoncilo-auto-na-streche-prvi-zasahovali-dobrovolni-hasici-ktori-sa-vracali-z-vyjazdu",
+      "time": "2026-10-30T22:41:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793400092-foto-po-celnej-zrazke-v-cadci-skoncilo-auto-na-streche-prvi-zasahovali-dobrovolni-hasici-ktori-sa-vracali-z-vy.webp"
+    },
+    {
+      "title": "Požiar pálenice v Čadci. Zasahujú hasiči",
+      "link": "https://www.zilinak.sk/clanky/43776/video-foto-na-kysuciach-hori-palenica-poziar-zasiahol-strechu-budovy-zasahuju-hasici",
+      "time": "2026-10-30T20:09:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793399704-video-foto-na-kysuciach-hori-palenica-poziar-zasiahol-strechu-budovy-zasahuju-hasici.webp"
+    },
     {
       "title": "Ľudia v Malackách sa pýtali, čo sa stalo pri zdravotnom stredisku, malo dôjsť k nehode",
       "link": "https://www.bratislavak.sk/clanky/16136/obyvatelmi-malaciek-otriasla-nehoda-pri-zdravotnom-stredisku-auto-tam-malo-zrazit-len-13-rocneho-chlapca",
@@ -11,15 +29,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793378787-obyvatelmi-malaciek-otriasla-nehoda-pri-zdravotnom-stredisku-auto-tam-malo-zrazit-len-13rocneho-chlapca.webp"
-    },
-    {
-      "title": "Vodiči v Bratislave, pozor! Na Bajkalskej sa zrazila sanitka s osobným autom",
-      "link": "https://www.bratislavak.sk/clanky/16135/v-bratislave-sa-zrazila-sanitka-s-osobnym-autom-blokuju-stred-frekventovanej-krizovatky",
-      "time": "2026-10-30T16:14:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
     },
     {
       "title": "Päť detí v ohrození, desiatky evakuovaných. Po požiari bytovky v Žiline obvinili ženu",
@@ -31,15 +40,6 @@
       "image": "https://prvd.sk/cdn/2026/10/30/2555035/4x3-medium/poziar-zilina.png?v=INY"
     },
     {
-      "title": "FOTO: Vodič pri Brezne po úhybnom manévri zišiel do priekopy",
-      "link": "https://www.bystricak.sk/clanky/13630/foto-v-okrese-brezno-skoncilo-auto-v-priekope-vodic-sa-snazil-vyhnut-divej-zveri",
-      "time": "2026-10-30T15:05:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1793371700-foto-v-okrese-brezno-skoncilo-auto-v-priekope-vodic-sa-snazil-vyhnut-divej-zveri.webp"
-    },
-    {
       "title": "V prípade požiaru v Žiline polícia obvinila 53-ročnú ženu",
       "link": "https://www.teraz.sk/regiony/v-pripade-poziaru-na-bratislavskej-uli/1004018-clanok.html",
       "time": "2026-10-30T15:03:00+00:00",
@@ -47,24 +47,6 @@
       "region": "zilinsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Požiar v Žiline má obvinenú. Žena mala vystaviť nebezpečenstvu 5 detí a 4 dospelých",
-      "link": "https://www.zilinak.sk/clanky/43771/po-poziari-na-bratislavskej-ulici-padlo-obvinenie-zo-zlocinu-zena-mala-riskovat-zivoty-5-deti-a-4-dospelych",
-      "time": "2026-10-30T14:26:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793370391-po-poziari-na-bratislavskej-ulici-padlo-obvinenie-zo-zlocinu-zena-mala-riskovat-zivoty-5-deti-a-4-dospelych.webp"
-    },
-    {
-      "title": "Opitý vodič vrazil do auta so ženou a deťmi. Po nehode skončili v nemocnici",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2069493-opity-vodic-vrazil-do-auta-so-zenou-a-detmi-po-nehode-skoncili-v-nemocnici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-30T10:21:11+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/30/2554907/4x3-medium/nehoda-lucky.jpg?v=j+4"
     }
   ]
 }

@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-30T07:30:10.384778+00:00",
+  "generated_at": "2026-10-30T14:26:25.072644+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 5,
   "items": [
+    {
+      "title": "Požiar vo výrobnej hale v Turčianskych Tepliciach: Škoda dosiahla 50-tisíc eur",
+      "link": "https://www.zilinak.sk/clanky/43760/v-turcianskych-tepliciach-horela-vyrobna-hala-poziar-sposobil-skodu-50-tisic-eur",
+      "time": "2026-10-30T13:02:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793354549-v-turcianskych-tepliciach-horela-vyrobna-hala-poziar-sposobil-skodu-50tisic-eur.webp"
+    },
+    {
+      "title": "Odvážny muž počas noci hasil horiacu drevenicu na Kysuciach. Patrila jeho susedovi",
+      "link": "https://www.zilinak.sk/clanky/43766/vdaka-odvaznemu-susedovi-maju-skody-len-v-stovkach-eur-v-noci-sam-hasil-drevenicu-na-kysuciach",
+      "time": "2026-10-30T11:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793355311-vdaka-odvaznemu-susedovi-maju-skody-len-v-stovkach-eur-v-noci-sam-hasil-drevenicu-na-kysuciach.webp"
+    },
+    {
+      "title": "Nehoda v Košiciach obmedzila dopravu aj MHD",
+      "link": "https://www.kosicak.sk/clanky/14819/v-metropole-vychodu-doslo-k-dopravnej-nehode-obmedzenia-sa-netykaju-len-vodicov-ale-aj-cestujucich-mhd",
+      "time": "2026-10-30T10:51:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1793357526-v-metropole-vychodu-doslo-k-dopravnej-nehode-obmedzenia-sa-netykaju-len-vodicov-ale-aj-cestujucich-mhd.webp"
+    },
+    {
+      "title": "Opitý vodič vrazil do auta so ženou a deťmi. Po nehode skončili v nemocnici",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2069493-opity-vodic-vrazil-do-auta-so-zenou-a-detmi-po-nehode-skoncili-v-nemocnici?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-10-30T10:21:11+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/10/30/2554907/4x3-medium/nehoda-lucky.jpg?v=j+4"
+    },
     {
       "title": "Nehodové ráno v Trnavskom kraji: Zrážka s kamiónom aj náraz do zaparkovaného auta",
       "link": "https://www.trnavak.sk/clanky/12775/nehodove-rano-v-trnavskom-kraji-zrazka-s-kamionom-aj-naraz-do-zaparkovaneho-auta",

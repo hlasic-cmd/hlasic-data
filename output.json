@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T21:57:44.371742+00:00",
+  "generated_at": "2026-10-30T01:29:14.459701+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "title": "Zrážka dvoch áut a autobusu na východe Slovenska. Jeden človek utrpel zranenia",
@@ -64,7 +64,7 @@
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/kolony-maju-aj-20-kilometrov/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/E5ektkpTURBXy80YTgzYTA0NjBkNmE5OGY2MWQ5YTE2MGRkM2ZjY2YyZi5qcGeSlQMAzK3NENLNCXaVAs0H0ADCww?st=-o1Mmh8Vae38azkzg3Te4j2Uj3ORXcRQTxRRPg3zzAU&ts=1793228400&e=0"
+      "image": "https://img.aktuality.sk/foto/kolony-maju-aj-20-kilometrov/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/E5ektkpTURBXy80YTgzYTA0NjBkNmE5OGY2MWQ5YTE2MGRkM2ZjY2YyZi5qcGeSlQMAzK3NENLNCXaVAs0H0ADCww?st=-dEXW12rcLfN2YBOcDlkztdeuSBtSsujWKMdCz9k0vg&ts=1793314800&e=0"
     },
     {
       "title": "Dlhé kolóny na slovenských cestách: Na D1 sa vodiči zdržia aj dve hodiny, pozor na nehodu",
@@ -83,15 +83,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1793286135-hroziva-nehoda-v-tvrdosovciach-86rocnu-chodkynu-zrazila-opita-vodicka-museli-ju-previezt-do-nemocnice.webp"
-    },
-    {
-      "title": "Marekova kamera zachytila nehodu kamióna na Donovaloch",
-      "link": "https://www.bystricak.sk/clanky/13602/video-marek-sa-dnes-pri-nehode-na-donovaloch-druhykrat-narodil-jeho-kamera-v-aute-zachytila-celu-desivu-zrazku",
-      "time": "2026-10-29T10:00:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-10/1793267883-video-marek-sa-dnes-pri-nehode-na-donovaloch-druhykrat-narodil-jeho-kamera-v-aute-zachytila-celu-desivu-zrazku.webp"
     }
   ]
 }

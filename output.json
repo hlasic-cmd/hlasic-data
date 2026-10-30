@@ -1,88 +1,16 @@
 {
-  "generated_at": "2026-10-30T01:29:14.459701+00:00",
+  "generated_at": "2026-10-30T07:30:10.384778+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 1,
   "items": [
     {
-      "title": "Zrážka dvoch áut a autobusu na východe Slovenska. Jeden človek utrpel zranenia",
-      "link": "https://www.presovak.sk/clanky/16048/pozor-na-nehodu-v-okrese-vranov-nad-toplou-zrazili-sa-dve-auta-a-autobus-jeden-clovek-sa-zranil",
-      "time": "2026-10-29T19:02:00+00:00",
+      "title": "Nehodové ráno v Trnavskom kraji: Zrážka s kamiónom aj náraz do zaparkovaného auta",
+      "link": "https://www.trnavak.sk/clanky/12775/nehodove-rano-v-trnavskom-kraji-zrazka-s-kamionom-aj-naraz-do-zaparkovaneho-auta",
+      "time": "2026-10-30T07:04:00+00:00",
       "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Neďaleko Rožňavy došlo k dopravnej nehode, premávka je obmedzená",
-      "link": "https://korzar.sme.sk/spis-gemer/c/nedaleko-roznavy-doslo-k-dopravnej-nehode-premavka-je-obmedzena?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-10-29T18:14:03+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a188dc-e187-7e90-bbb8-c4e620f5df4c.jpg"
-    },
-    {
-      "title": "Dopravná nehoda neďaleko Rožňavy: Premávka je obmedzená",
-      "link": "https://www.teraz.sk/regiony/dopravna-nehoda-nedaleko-roznavy-pr/1003826-clanok.html",
-      "time": "2026-10-29T18:01:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Pozor na diaľnici D1: Nehody hlásia na Prístavnom moste aj smerom na Senec",
-      "link": "https://www.bratislavak.sk/clanky/16124/na-dialnici-d1-sa-stali-dve-nehody-problemy-su-pri-bratislave-aj-za-bernolakovom",
-      "time": "2026-10-29T17:14:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Magda z Malaciek sa našla, polícia odvolala pátranie",
-      "link": "https://www.bratislavak.sk/clanky/16123/aktualizovane-patranie-po-seniorke-z-malaciek-je-odvolane-nasla-sa-a-je-v-poriadku",
-      "time": "2026-10-29T17:00:00+00:00",
-      "cat": "patranie",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793301710-aktualizovane-patranie-po-seniorke-z-malaciek-je-odvolane-nasla-sa-a-je-v-poriadku.webp"
-    },
-    {
-      "title": "Zrážka dvoch vozidiel pri Krásnohorskom Podhradí. Na mieste zasahujú záchranné zložky",
-      "link": "https://www.kosicak.sk/clanky/14806/nehoda-pri-roznave-si-vyziadala-zasah-hasicov-vo-vozidle-zostala-zakliesnena-osoba",
-      "time": "2026-10-29T16:51:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-10/1793294585-nehoda-pri-roznave-si-vyziadala-zasah-hasicov-vo-vozidle-zostala-zakliesnena-osoba.webp"
-    },
-    {
-      "title": "Vodiči hlásia kolóny: Smer na Ružomberok stojí 2 hodiny, D1 hlási vážnu nehodu",
-      "link": "https://www.aktuality.sk/clanok/tcUODBg/doprava-vodici-hlasia-kolony-na-konci-d1-za-martinom-si-pockaju-aj-dve-hodiny/",
-      "time": "2026-10-29T16:36:58+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/kolony-maju-aj-20-kilometrov/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/E5ektkpTURBXy80YTgzYTA0NjBkNmE5OGY2MWQ5YTE2MGRkM2ZjY2YyZi5qcGeSlQMAzK3NENLNCXaVAs0H0ADCww?st=-dEXW12rcLfN2YBOcDlkztdeuSBtSsujWKMdCz9k0vg&ts=1793314800&e=0"
-    },
-    {
-      "title": "Dlhé kolóny na slovenských cestách: Na D1 sa vodiči zdržia aj dve hodiny, pozor na nehodu",
-      "link": "https://www.pravda.sk/auto/doprava/clanok/2069175-dlhe-kolony-na-slovenskych-cestach-na-d1-sa-vodici-zdrzia-aj-dve-hodiny-pozor-na-nehodu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-29T16:29:28+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/15/2546491/4x3-medium/dialnica-d2-zapcha-lamac.jpg?v=T/w"
-    },
-    {
-      "title": "Opitá vodička zrazila v Tvrdošovciach 86-ročnú ženu, ktorá prechádzala cez priechod. Skončila v nemocnici",
-      "link": "https://www.nitrak.sk/clanky/12382/hroziva-nehoda-v-tvrdosovciach-86-rocnu-chodkynu-zrazila-opita-vodicka-museli-ju-previezt-do-nemocnice",
-      "time": "2026-10-29T15:40:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-10/1793286135-hroziva-nehoda-v-tvrdosovciach-86rocnu-chodkynu-zrazila-opita-vodicka-museli-ju-previezt-do-nemocnice.webp"
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-10/1793343871-nehodove-rano-v-trnavskom-kraji-zrazka-s-kamionom-aj-naraz-do-zaparkovaneho-auta.webp"
     }
   ]
 }

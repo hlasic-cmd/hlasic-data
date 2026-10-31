@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T02:16:11.087306+00:00",
+  "generated_at": "2026-10-31T08:27:23.110487+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 1,
   "items": [
     {
       "title": "Vážna nehoda v Čadci. Po čelnej zrážke auto narazilo do domu strechou nadol",
@@ -11,42 +11,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793400092-foto-po-celnej-zrazke-v-cadci-skoncilo-auto-na-streche-prvi-zasahovali-dobrovolni-hasici-ktori-sa-vracali-z-vy.webp"
-    },
-    {
-      "title": "Požiar pálenice v Čadci. Zasahujú hasiči",
-      "link": "https://www.zilinak.sk/clanky/43776/video-foto-na-kysuciach-hori-palenica-poziar-zasiahol-strechu-budovy-zasahuju-hasici",
-      "time": "2026-10-30T20:09:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793399704-video-foto-na-kysuciach-hori-palenica-poziar-zasiahol-strechu-budovy-zasahuju-hasici.webp"
-    },
-    {
-      "title": "Ľudia v Malackách sa pýtali, čo sa stalo pri zdravotnom stredisku, malo dôjsť k nehode",
-      "link": "https://www.bratislavak.sk/clanky/16136/obyvatelmi-malaciek-otriasla-nehoda-pri-zdravotnom-stredisku-auto-tam-malo-zrazit-len-13-rocneho-chlapca",
-      "time": "2026-10-30T16:52:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-10/1793378787-obyvatelmi-malaciek-otriasla-nehoda-pri-zdravotnom-stredisku-auto-tam-malo-zrazit-len-13rocneho-chlapca.webp"
-    },
-    {
-      "title": "Päť detí v ohrození, desiatky evakuovaných. Po požiari bytovky v Žiline obvinili ženu",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2069731-pat-deti-v-ohrozeni-desiatky-evakuovanych-po-poziari-bytovky-v-ziline-obvinili-zenu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-30T15:30:30+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/30/2555035/4x3-medium/poziar-zilina.png?v=INY"
-    },
-    {
-      "title": "V prípade požiaru v Žiline polícia obvinila 53-ročnú ženu",
-      "link": "https://www.teraz.sk/regiony/v-pripade-poziaru-na-bratislavskej-uli/1004018-clanok.html",
-      "time": "2026-10-30T15:03:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

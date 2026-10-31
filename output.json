@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-31T08:27:23.110487+00:00",
+  "generated_at": "2026-10-31T14:38:10.601279+00:00",
   "max_age_hours": 12,
   "count": 1,
   "items": [
     {
-      "title": "Vážna nehoda v Čadci. Po čelnej zrážke auto narazilo do domu strechou nadol",
-      "link": "https://www.zilinak.sk/clanky/43777/foto-po-celnej-zrazke-v-cadci-skoncilo-auto-na-streche-prvi-zasahovali-dobrovolni-hasici-ktori-sa-vracali-z-vyjazdu",
-      "time": "2026-10-30T22:41:00+00:00",
+      "title": "Dve nehody v krátkom čase komplikujú sviatočnú premávku v Prešovskom kraji. Jedna je hromadná",
+      "link": "https://www.presovak.sk/clanky/16068/dve-nehody-blokuju-hlavne-tahy-presovskeho-kraja-na-d1-dokumentuju-koliziu-pri-zdiari-sa-zrazili-az-tri-auta",
+      "time": "2026-10-31T11:42:00+00:00",
       "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-10/1793400092-foto-po-celnej-zrazke-v-cadci-skoncilo-auto-na-streche-prvi-zasahovali-dobrovolni-hasici-ktori-sa-vracali-z-vy.webp"
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
     }
   ]
 }

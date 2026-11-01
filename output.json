@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-11-01T06:34:12.506710+00:00",
+  "generated_at": "2026-11-01T13:43:43.798702+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 5,
+  "items": [
+    {
+      "title": "TRAGICKÁ NEHODA: Na obchvate Svidníka došlo k zrážke auta s autobusom",
+      "link": "https://www.teraz.sk/regiony/tragicka-nehoda-na-obchvate-svidnika/1004299-clanok.html",
+      "time": "2026-11-01T12:31:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Pálenici v Čadci vyhorela strecha. Majitelia odkázali zákazníkom, čo bude s ich termínmi",
+      "link": "https://www.zilinak.sk/clanky/43783/palenica-v-cadci-zverejnila-po-poziari-dolezity-oznam-pre-zakaznikov-co-bude-dalej-s-prevadzkou",
+      "time": "2026-11-01T11:30:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793530759-palenica-v-cadci-zverejnila-po-poziari-dolezity-oznam-pre-zakaznikov-co-bude-dalej-s-prevadzkou.webp"
+    },
+    {
+      "title": "FOTO: Nehoda na obchvate Svidníka si vyžiadala dva ľudské životy, zasahovali aj vrtuľníky",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2070351-na-obchvate-svidnika-sa-zrazil-autobus-s-autom-hlasia-viacero-zranenych?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-01T11:19:17+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/01/2555527/4x3-medium/nehoda.jpg?v=8Dw"
+    },
+    {
+      "title": "Na obchvate Svidníka sa zrazil autobus s osobným autom, nehoda si vyžiadala aj obete na životoch",
+      "link": "https://korzar.sme.sk/presov/c/na-obchvate-svidnika-sa-zrazil-autobus-s-osobnym-autom-nehoda-si-vyziadala-aj-obete-na-zivotoch?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-11-01T11:16:50+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a196db-3a09-78df-801b-36dc59880b93.jpg"
+    },
+    {
+      "title": "Nehoda zablokovala obchvat Svidníka, obchádzka cez mesto",
+      "link": "https://www.presovak.sk/clanky/16072/dusicky-na-vychode-poznacila-tragicka-dopravna-nehoda-ku-svojim-blizkym-sa-uz-nevrati-72-rocny-muz-a-69-rocna-zena",
+      "time": "2026-11-01T10:35:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1793537147-dusicky-na-vychode-poznacila-tragicka-dopravna-nehoda-ku-svojim-blizkym-sa-uz-nevrati-72rocny-muz-a-69rocna-ze.webp"
+    }
+  ]
 }

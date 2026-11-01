@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-11-01T00:28:31.827541+00:00",
+  "generated_at": "2026-11-01T06:34:12.506710+00:00",
   "max_age_hours": 12,
-  "count": 5,
-  "items": [
-    {
-      "title": "Tragicky sa skončila dopravná nehoda pri Revúcej, muž bol mŕtvy na mieste",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2070143-tragicky-sa-skoncila-dopravna-nehoda-pri-revucej-muz-bol-mrtvy-na-mieste?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-10-31T18:07:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/10/31/2555381/4x3-medium/nehoda.jpg?v=Gz0"
-    },
-    {
-      "title": "TRAGICKÁ NEHODA: Medzi Revúcou a Muránskou Dlhou Lúkou zomrel človek",
-      "link": "https://www.teraz.sk/regiony/tragicka-nehoda-medzi-revucou-a-mura/1004209-clanok.html",
-      "time": "2026-10-31T17:31:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Smrteľná nehoda pri Revúcej: Muža pri odstavenom vozidle zabil náraz osobného auta",
-      "link": "https://www.aktuality.sk/clanok/FYzXQWf/smrtelna-nehoda-pri-revucej-muza-pri-odstavenom-vozidle-zabil-naraz-osobneho-auta/",
-      "time": "2026-10-31T17:15:33+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/nasledky-dopravnej-nehody-na-ceste-medzi-revucou-a-muranskou-dlhou-lukou-31-oktobra-2026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/vGiktkqTURBXy82YTE4YjVmYzk4NDYxNTE1OTU4MDNhZWI2N2NmNmMyYy5qcGVnkpUDzJAAzQUgzQLilQLNB9AAwsM?st=Y1Zc07Pr-u3yLMWC1E5caFKIPXk5GjH3gCs2-lNKraI&ts=1793487600&e=0"
-    },
-    {
-      "title": "Medzi Revúcou a Muránskou Dlhou Lúkou sa zrazili dve autá",
-      "link": "https://www.bystricak.sk/clanky/13637/medzi-revucou-a-muranskou-dlhou-lukou-sa-zrazili-dve-auta-cesta-je-neprejazdna",
-      "time": "2026-10-31T17:00:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Nehoda dvoch áut zablokovala cestu z Pezinka do Viničného",
-      "link": "https://www.bratislavak.sk/clanky/16140/na-ceste-z-pezinka-do-vinicneho-sa-zrazili-dve-auta-usek-je-neprejazdny",
-      "time": "2026-10-31T16:57:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

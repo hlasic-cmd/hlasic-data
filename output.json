@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T21:52:15.631846+00:00",
+  "generated_at": "2026-11-01T00:28:31.827541+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 5,
   "items": [
     {
       "title": "Tragicky sa skončila dopravná nehoda pri Revúcej, muž bol mŕtvy na mieste",
@@ -28,7 +28,7 @@
       "cat": "nehoda",
       "region": "banskobystricky",
       "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/nasledky-dopravnej-nehody-na-ceste-medzi-revucou-a-muranskou-dlhou-lukou-31-oktobra-2026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/vGiktkqTURBXy82YTE4YjVmYzk4NDYxNTE1OTU4MDNhZWI2N2NmNmMyYy5qcGVnkpUDzJAAzQUgzQLilQLNB9AAwsM?st=KFTc4KZPyPJy49oiXh4Ax2r3lMHSMDrqI2Fj8THxZA4&ts=1793401200&e=0"
+      "image": "https://img.aktuality.sk/foto/nasledky-dopravnej-nehody-na-ceste-medzi-revucou-a-muranskou-dlhou-lukou-31-oktobra-2026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/vGiktkqTURBXy82YTE4YjVmYzk4NDYxNTE1OTU4MDNhZWI2N2NmNmMyYy5qcGVnkpUDzJAAzQUgzQLilQLNB9AAwsM?st=Y1Zc07Pr-u3yLMWC1E5caFKIPXk5GjH3gCs2-lNKraI&ts=1793487600&e=0"
     },
     {
       "title": "Medzi Revúcou a Muránskou Dlhou Lúkou sa zrazili dve autá",
@@ -47,24 +47,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Pri Hniezde skončilo auto na streche, I/77 uzavreli",
-      "link": "https://www.presovak.sk/clanky/16071/medzi-obcami-v-okrese-stara-lubovna-skoncilo-auto-na-streche-usek-je-obojstranne-uzavrety",
-      "time": "2026-10-31T16:12:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Opitý vodič v Prešovskom kraji spôsobil nehodu. Za alkohol za volantom už bol odsúdený",
-      "link": "https://www.presovak.sk/clanky/16070/vodic-pri-presove-nabural-na-krizovatke-do-auta-druheho-sofera-dostal-do-nemocnice-bol-opity-na-mol",
-      "time": "2026-10-31T15:30:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-10/1793459237-vodic-pri-presove-nabural-na-krizovatke-do-auta-druheho-sofera-dostal-do-nemocnice-bol-opity-na-mol.webp"
     }
   ]
 }

@@ -1,28 +1,37 @@
 {
-  "generated_at": "2026-11-01T13:43:43.798702+00:00",
+  "generated_at": "2026-11-01T18:34:23.960981+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 6,
   "items": [
+    {
+      "title": "Folklorista Radko Dusa z Kokavanu zahynul pri autonehode",
+      "link": "https://www.bystricak.sk/clanky/13639/v-predvecer-dusiciek-vyhasol-na-cestach-malohontu-zivot-folkloristu-radka-jeho-jedinecny-hlas-si-budu-pamatat-vsetci",
+      "time": "2026-11-01T14:00:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1793539612-v-predvecer-dusiciek-vyhasol-na-cestach-malohontu-zivot-folkloristu-radka-jeho-jedinecny-hlas-si-budu-pamatat.webp"
+    },
     {
       "title": "TRAGICKÁ NEHODA: Na obchvate Svidníka došlo k zrážke auta s autobusom",
       "link": "https://www.teraz.sk/regiony/tragicka-nehoda-na-obchvate-svidnika/1004299-clanok.html",
-      "time": "2026-11-01T12:31:00+00:00",
+      "time": "2026-11-01T13:48:00+00:00",
       "cat": "nehoda",
       "region": "presovsky",
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Pálenici v Čadci vyhorela strecha. Majitelia odkázali zákazníkom, čo bude s ich termínmi",
-      "link": "https://www.zilinak.sk/clanky/43783/palenica-v-cadci-zverejnila-po-poziari-dolezity-oznam-pre-zakaznikov-co-bude-dalej-s-prevadzkou",
-      "time": "2026-11-01T11:30:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793530759-palenica-v-cadci-zverejnila-po-poziari-dolezity-oznam-pre-zakaznikov-co-bude-dalej-s-prevadzkou.webp"
+      "title": "Zrážka autobusu s autom na obchvate Svidníka má dve obete, na mieste zasahovali aj dva vrtuľníky – VIDEO,  FOTO",
+      "link": "https://sita.sk/zrazka-autobusu-s-nakladnym-autom-si-vyziadala-zasah-vrtulnikov-a-uzavrela-r4-hlasia-obete-na-zivotoch/",
+      "time": "2026-11-01T12:53:05+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/11/871735870_1927358158439880_6227805152705853074_n-png-e1793537822510-688x387.jpeg"
     },
     {
-      "title": "FOTO: Nehoda na obchvate Svidníka si vyžiadala dva ľudské životy, zasahovali aj vrtuľníky",
+      "title": "FOTO: Nehoda pri Svidníku si vyžiadala dvoch mŕtvych seniorov, dieťa je v umelom spánku a bojuje o život",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2070351-na-obchvate-svidnika-sa-zrazil-autobus-s-autom-hlasia-viacero-zranenych?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-11-01T11:19:17+00:00",
       "cat": "nehoda",
@@ -37,7 +46,7 @@
       "cat": "nehoda",
       "region": "presovsky",
       "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a196db-3a09-78df-801b-36dc59880b93.jpg"
+      "image": "https://image.smedata.sk/image/w660-h440/01a1975f-aee7-7262-a371-0b708d314a21.jpg"
     },
     {
       "title": "Nehoda zablokovala obchvat Svidníka, obchádzka cez mesto",

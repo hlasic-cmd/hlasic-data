@@ -1,16 +1,34 @@
 {
-  "generated_at": "2026-11-02T01:31:50.136482+00:00",
+  "generated_at": "2026-11-02T08:02:34.266267+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 3,
   "items": [
     {
-      "title": "Folklorista Radko Dusa z Kokavanu zahynul pri autonehode",
-      "link": "https://www.bystricak.sk/clanky/13639/v-predvecer-dusiciek-vyhasol-na-cestach-gemera-zivot-folkloristu-radka-jeho-jedinecny-hlas-si-budu-pamatat-vsetci",
-      "time": "2026-11-01T14:00:00+00:00",
+      "title": "Nový týždeň sa začal nehodou: Ranná kolízia komplikuje dopravu v Lučenci",
+      "link": "https://www.bystricak.sk/clanky/13642/novy-tyzden-sa-zacal-nehodou-ranna-kolizia-komplikuje-dopravu-v-lucenci",
+      "time": "2026-11-02T07:14:00+00:00",
       "cat": "nehoda",
       "region": "banskobystricky",
       "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1793557921-v-predvecer-dusiciek-vyhasol-na-cestach-gemera-zivot-folkloristu-radka-jeho-jedinecny-hlas-si-budu-pamatat-vse.webp"
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1793603651-novy-tyzden-sa-zacal-nehodou-ranna-kolizia-komplikuje-dopravu-v-lucenci.webp"
+    },
+    {
+      "title": "Boj o život na liptovskom sídlisku skončil tragédiou. Nepomohli leteckí ani pozemní záchranári",
+      "link": "https://www.zilinak.sk/clanky/43792/pri-gymnaziu-na-liptove-pristal-vrtulnik-zachranna-akcia-napriek-velkej-snahe-skoncila-tragicky",
+      "time": "2026-11-02T07:10:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793601307-pri-gymnaziu-na-liptove-pristal-vrtulnik-zachranna-akcia-napriek-velkej-snahe-skoncila-tragicky.webp"
+    },
+    {
+      "title": "Ranná nehoda v Trnavskom kraji: Kamión sa zrazil s dvoma osobnými autami",
+      "link": "https://www.trnavak.sk/clanky/12796/ranna-nehoda-v-trnavskom-kraji-kamion-sa-zrazil-s-dvoma-osobnymi-autami",
+      "time": "2026-11-02T07:06:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1793603184-ranna-nehoda-v-trnavskom-kraji-kamion-sa-zrazil-s-dvoma-osobnymi-autami.webp"
     }
   ]
 }

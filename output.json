@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-03T00:53:55.796241+00:00",
+  "generated_at": "2026-11-03T07:18:06.107236+00:00",
   "max_age_hours": 12,
   "count": 1,
   "items": [
     {
-      "title": "Hasiči v Trenčianskom kraji likvidovali na cintorínoch päť požiarov",
-      "link": "https://www.teraz.sk/regiony/hasici-v-trencianskom-kraji-likvidoval/1004589-clanok.html",
-      "time": "2026-11-02T13:10:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "teraz.sk",
-      "image": null
+      "title": "Vodiči naďalej kritizujú zjazd pri Ružomberku: Výhľad je zlý, v noci vraj takmer prehliadli kamión",
+      "link": "https://www.zilinak.sk/clanky/43748/vodici-stale-upozornuju-na-neprehladny-zjazd-pri-ruzomberku-v-noci-vraj-takmer-prehliadli-kamion",
+      "time": "2026-11-03T06:30:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793644384-vodici-stale-upozornuju-na-neprehladny-zjazd-pri-ruzomberku-v-noci-vraj-takmer-prehliadli-kamion.webp"
     }
   ]
 }

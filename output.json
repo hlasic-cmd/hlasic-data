@@ -1,16 +1,70 @@
 {
-  "generated_at": "2026-11-03T07:18:06.107236+00:00",
+  "generated_at": "2026-11-03T15:14:20.201568+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 7,
   "items": [
     {
-      "title": "Vodiči naďalej kritizujú zjazd pri Ružomberku: Výhľad je zlý, v noci vraj takmer prehliadli kamión",
-      "link": "https://www.zilinak.sk/clanky/43748/vodici-stale-upozornuju-na-neprehladny-zjazd-pri-ruzomberku-v-noci-vraj-takmer-prehliadli-kamion",
-      "time": "2026-11-03T06:30:00+00:00",
+      "title": "Polícia po 19 mesiacoch ukončila vyšetrovanie nehody primátora Revúcej",
+      "link": "https://www.teraz.sk/regiony/policia-po-19-mesiacoch-ukoncila-vyse/1004899-clanok.html",
+      "time": "2026-11-03T14:18:00+00:00",
       "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Polícia ukončila vyšetrovanie nehody primátora Revúcej, rozhodnutie je na prokurátorovi",
+      "link": "https://www.aktuality.sk/clanok/xebOijV/policia-ukoncila-vysetrovanie-nehody-primatora-revucej-rozhodnutie-je-na-prokuratorovi/",
+      "time": "2026-11-03T14:14:55+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/primator-revucej-julius-buchta-vlavo-zaber-auta-s-ktorym-v-marci-2025-nabural-do-plota-rodinneho-domu/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/-8VktkpTURBXy9jZmMyOTk0NWYxNTViMTAxZDhjMzE2MDg3YjMyYTM3ZS5qcGeSlQMAAM0KAM0FoJUCzQfQAMLD?st=BF3pGVTKK6AWzZyuulpa2H_sCv_0PDwtzzPLFUKTqAs&ts=1793660400&e=0"
+    },
+    {
+      "title": "V okrese Poprad došlo k dopravnej nehode. Osobné auto skončilo pod dodávkou",
+      "link": "https://www.presovak.sk/clanky/16106/v-okrese-poprad-doslo-k-dopravnej-nehode-osobne-auto-skoncilo-pod-dodavkou",
+      "time": "2026-11-03T14:08:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1793714872-v-okrese-poprad-doslo-k-dopravnej-nehode-osobne-auto-skoncilo-pod-dodavkou.webp"
+    },
+    {
+      "title": "Vodiči smerujúci na diaľnicu do Košíc musia rátať so zdržaním pre zrážku kamióna s autom",
+      "link": "https://www.kosicak.sk/clanky/14862/vodici-smerujuci-na-dialnicu-do-kosic-musia-ratat-so-zdrzanim-pre-zrazku-kamiona-s-autom",
+      "time": "2026-11-03T13:21:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Nočný požiar domu na Liptove vyhnal von sedem ľudí. Príčinou mohlo byť toto",
+      "link": "https://www.zilinak.sk/clanky/43836/na-liptove-zacal-horiet-dom-v-ktorom-byvalo-sedem-ludi-hasici-maju-podozrenie-na-pricinu-ktora-hrozi-mnohym",
+      "time": "2026-11-03T13:00:00+00:00",
+      "cat": "poziar",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793644384-vodici-stale-upozornuju-na-neprehladny-zjazd-pri-ruzomberku-v-noci-vraj-takmer-prehliadli-kamion.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793705928-na-liptove-zacal-horiet-dom-v-ktorom-byvalo-sedem-ludi-hasici-maju-podozrenie-na-pricinu-ktora-hrozi-mnohym.webp"
+    },
+    {
+      "title": "V Hanušovciach nad Topľou sa zrazili tri autá, tvoria sa kolóny. Pozor aj na nehodu auta a kamióna v Prešove",
+      "link": "https://www.presovak.sk/clanky/16104/v-hanusovciach-nad-toplou-sa-zrazili-tri-auta-tvoria-sa-kolony-pozor-aj-na-nehodu-auta-a-kamiona-v-presove",
+      "time": "2026-11-03T12:33:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "V obci Visolaje horelo odstavené auto",
+      "link": "https://www.trencinak.sk/clanky/14387/foto-odstavene-vozidlo-v-obci-pri-puchove-pohltili-plamene-vodic-sa-stihol-dostat-von-este-pred-prichodom-hasicov",
+      "time": "2026-11-03T12:05:00+00:00",
+      "cat": "poziar",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1793704927-foto-odstavene-vozidlo-v-obci-pri-puchove-pohltili-plamene-vodic-sa-stihol-dostat-von-este-pred-prichodom-hasi.webp"
     }
   ]
 }

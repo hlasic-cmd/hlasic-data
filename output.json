@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-11-03T15:14:20.201568+00:00",
+  "generated_at": "2026-11-03T20:58:08.892616+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 8,
   "items": [
+    {
+      "title": "Košická polícia hľadá ženu, ktorá bola svedkyňou nehody na parkovisku",
+      "link": "https://www.kosicak.sk/clanky/14867/kosicania-nepoznate-tuto-zenu-patraju-po-nej-muzi-zakona-mohla-by-im-pomoct-objasnit-jeden-skutok-na-parkovisku",
+      "time": "2026-11-03T19:00:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1793732453-kosicania-nepoznate-tuto-zenu-patraju-po-nej-muzi-zakona-mohla-by-im-pomoct-objasnit-jeden-skutok-na-parkovisk.webp"
+    },
+    {
+      "title": "Autobus v Kleňanoch pri otáčaní zachytil chodkyňu",
+      "link": "https://www.bystricak.sk/clanky/13674/v-okrese-velky-krtis-doslo-k-vaznej-nehode-autobus-pri-otacani-zachytil-chodkynu-do-nemocnice-ju-prevazal-vrtulnik",
+      "time": "2026-11-03T18:14:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1793729664-v-okrese-velky-krtis-doslo-k-vaznej-nehode-autobus-pri-otacani-zachytil-chodkynu-do-nemocnice-ju-prevazal-vrtu.webp"
+    },
+    {
+      "title": "Nehoda v Topoľčanoch blokuje pruh na ulici ČSA",
+      "link": "https://www.nitrak.sk/clanky/12428/v-topolcanoch-spomaluje-plynulu-premavku-dopravna-nehoda-na-tomto-mieste-je-blokovany-jazdny-pruh-ratajte-so-zdrzanim",
+      "time": "2026-11-03T17:18:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Pri Svidníku zahynul aj 9-ročný Adam, nehoda si tak vyžiadala tri obete",
+      "link": "https://www.presovak.sk/clanky/16108/tragedia-pri-svidniku-si-vyziadala-aj-tretiu-obet-za-starkymi-sa-do-neba-vybral-aj-9-rocny-vnucik-adamko",
+      "time": "2026-11-03T17:11:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1793730874-tragedia-pri-svidniku-si-vyziadala-aj-tretiu-obet-za-starkymi-sa-do-neba-vybral-aj-9rocny-vnucik-adamko.webp"
+    },
+    {
+      "title": "Pri Banskej Bystrici sa zrazili dve autá, zjazd z R1 uzavreli",
+      "link": "https://www.bystricak.sk/clanky/13672/zjazd-z-r1-v-banskej-bystrici-je-uzavrety-dovodom-je-dopravna-nehoda-dvoch-aut-na-prejazd-pouzite-alternativnu-trasu",
+      "time": "2026-11-03T16:36:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "V okrese Poprad sa zrazila dodávka s autom. Zranené dieťa previezol do nemocnice vrtuľník",
+      "link": "https://korzar.sme.sk/spis-gemer/c/v-okrese-poprad-sa-zrazila-dodavka-s-autom-zranene-dieta-previezol-do-nemocnice-vrtulnik?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-11-03T16:19:54+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a1a23b-71f4-77d5-aea1-ab44e29d94af.jpg"
+    },
+    {
+      "title": "Nehoda primátora Revúcej má po 19 mesiacoch posun. Nafúkal 1,31 promile, o jeho prípade rozhodne prokurátor",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2071793-nehoda-primatora-revucej-ma-po-19-mesiacoch-posun-nafukal-1-31-promile-o-jeho-pripade-rozhodne-prokurator?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-03T15:45:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2025/08/26/4x3-medium/julius-buchta-primator-revucej.jpg?v=T/w"
+    },
     {
       "title": "Polícia po 19 mesiacoch ukončila vyšetrovanie nehody primátora Revúcej",
       "link": "https://www.teraz.sk/regiony/policia-po-19-mesiacoch-ukoncila-vyse/1004899-clanok.html",
@@ -11,60 +74,6 @@
       "region": "banskobystricky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Polícia ukončila vyšetrovanie nehody primátora Revúcej, rozhodnutie je na prokurátorovi",
-      "link": "https://www.aktuality.sk/clanok/xebOijV/policia-ukoncila-vysetrovanie-nehody-primatora-revucej-rozhodnutie-je-na-prokuratorovi/",
-      "time": "2026-11-03T14:14:55+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/primator-revucej-julius-buchta-vlavo-zaber-auta-s-ktorym-v-marci-2025-nabural-do-plota-rodinneho-domu/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/-8VktkpTURBXy9jZmMyOTk0NWYxNTViMTAxZDhjMzE2MDg3YjMyYTM3ZS5qcGeSlQMAAM0KAM0FoJUCzQfQAMLD?st=BF3pGVTKK6AWzZyuulpa2H_sCv_0PDwtzzPLFUKTqAs&ts=1793660400&e=0"
-    },
-    {
-      "title": "V okrese Poprad došlo k dopravnej nehode. Osobné auto skončilo pod dodávkou",
-      "link": "https://www.presovak.sk/clanky/16106/v-okrese-poprad-doslo-k-dopravnej-nehode-osobne-auto-skoncilo-pod-dodavkou",
-      "time": "2026-11-03T14:08:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1793714872-v-okrese-poprad-doslo-k-dopravnej-nehode-osobne-auto-skoncilo-pod-dodavkou.webp"
-    },
-    {
-      "title": "Vodiči smerujúci na diaľnicu do Košíc musia rátať so zdržaním pre zrážku kamióna s autom",
-      "link": "https://www.kosicak.sk/clanky/14862/vodici-smerujuci-na-dialnicu-do-kosic-musia-ratat-so-zdrzanim-pre-zrazku-kamiona-s-autom",
-      "time": "2026-11-03T13:21:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Nočný požiar domu na Liptove vyhnal von sedem ľudí. Príčinou mohlo byť toto",
-      "link": "https://www.zilinak.sk/clanky/43836/na-liptove-zacal-horiet-dom-v-ktorom-byvalo-sedem-ludi-hasici-maju-podozrenie-na-pricinu-ktora-hrozi-mnohym",
-      "time": "2026-11-03T13:00:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793705928-na-liptove-zacal-horiet-dom-v-ktorom-byvalo-sedem-ludi-hasici-maju-podozrenie-na-pricinu-ktora-hrozi-mnohym.webp"
-    },
-    {
-      "title": "V Hanušovciach nad Topľou sa zrazili tri autá, tvoria sa kolóny. Pozor aj na nehodu auta a kamióna v Prešove",
-      "link": "https://www.presovak.sk/clanky/16104/v-hanusovciach-nad-toplou-sa-zrazili-tri-auta-tvoria-sa-kolony-pozor-aj-na-nehodu-auta-a-kamiona-v-presove",
-      "time": "2026-11-03T12:33:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "V obci Visolaje horelo odstavené auto",
-      "link": "https://www.trencinak.sk/clanky/14387/foto-odstavene-vozidlo-v-obci-pri-puchove-pohltili-plamene-vodic-sa-stihol-dostat-von-este-pred-prichodom-hasicov",
-      "time": "2026-11-03T12:05:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1793704927-foto-odstavene-vozidlo-v-obci-pri-puchove-pohltili-plamene-vodic-sa-stihol-dostat-von-este-pred-prichodom-hasi.webp"
     }
   ]
 }

@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-11-04T07:14:43.993471+00:00",
+  "generated_at": "2026-11-04T15:25:57.098477+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 5,
+  "items": [
+    {
+      "title": "Dopravu na D1 pri Trnave skomplikovala nehoda. Premávka je čiastočne obmedzená, vodiči hlásia zdržanie",
+      "link": "https://www.trnavak.sk/clanky/12832/dopravu-na-d1-pri-trnave-skomplikovala-nehoda-premavka-je-ciastocne-obmedzena-vodici-hlasia-zdrzanie",
+      "time": "2026-11-04T14:55:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1793804124-dopravu-na-d1-pri-trnave-skomplikovala-nehoda-premavka-je-ciastocne-obmedzena-vodici-hlasia-zdrzanie.webp"
+    },
+    {
+      "title": "Nehoda skomplikovala cestu na Čadcu. V kolóne malo dôjsť aj k ďalšej zrážke",
+      "link": "https://www.zilinak.sk/clanky/43872/vaznejsie-zdrzanie-na-kysuciach-pri-kysuckom-lieskovci-sa-zrazili-dve-vozidla",
+      "time": "2026-11-04T14:27:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793802478-vaznejsie-zdrzanie-na-kysuciach-pri-kysuckom-lieskovci-sa-zrazili-dve-vozidla.webp"
+    },
+    {
+      "title": "V Topoľčanoch sa zrazili dve autá, k nehode došlo pred železničnou stanicou",
+      "link": "https://www.nitrak.sk/clanky/12439/pred-zeleznicnou-stanicou-v-topolcanoch-doslo-k-nehode-na-mieste-je-aj-policia",
+      "time": "2026-11-04T14:15:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1793801650-pred-zeleznicnou-stanicou-v-topolcanoch-doslo-k-nehode-na-mieste-je-aj-policia.webp"
+    },
+    {
+      "title": "Auto narazilo do odstaveného kamióna v Kalnej nad Hronom",
+      "link": "https://www.nitrak.sk/clanky/12433/pri-nocnej-nehode-pri-leviciach-zasahovali-hasici-aj-zachranari-auto-skoncilo-v-zadnej-casti-odstaveneho-kamiona",
+      "time": "2026-11-04T11:10:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1793789389-pri-nocnej-nehode-pri-leviciach-zasahovali-hasici-aj-zachranari-auto-skoncilo-v-zadnej-casti-odstaveneho-kamio.webp"
+    },
+    {
+      "title": "Tragická nehoda na obchvate Svidníka má tretiu obeť, zraneniam podľahol aj deväťročný chlapček",
+      "link": "https://korzar.sme.sk/presov/c/tragicka-nehoda-na-obchvate-svidnika-ma-tretiu-obet-zraneniam-podlahol-aj-devatrocny-chlapcek?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-11-04T07:27:01+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a1a570-9a94-7d91-812c-9437728ab2e9.jpg"
+    }
+  ]
 }

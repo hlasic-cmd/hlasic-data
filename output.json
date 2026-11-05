@@ -1,61 +1,61 @@
 {
-  "generated_at": "2026-11-05T16:28:39.576199+00:00",
+  "generated_at": "2026-11-05T22:09:53.769290+00:00",
   "max_age_hours": 12,
   "count": 6,
   "items": [
     {
-      "title": "Na Krížnej ulici v Bratislave dokumentujú nehodu. Kde si treba dať pozor?",
-      "link": "https://www.bratislavak.sk/clanky/16226/v-bratislave-dokumentuju-nehodu-na-frekventovanej-ulici-vodici-by-mali-spozorniet",
-      "time": "2026-11-05T16:06:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
+      "title": "Nešťastie na stavbe nového mosta na Kysuciach. Zasahovali pozemní aj leteckí záchranári",
+      "link": "https://www.zilinak.sk/clanky/43898/na-stavenisku-noveho-mosta-v-povine-doslo-k-nestastiu-smerovali-tam-sanitky-policia-aj-vrtulnik",
+      "time": "2026-11-05T20:56:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793912206-na-stavenisku-noveho-mosta-v-povine-doslo-k-nestastiu-smerovali-tam-sanitky-policia-aj-vrtulnik.webp"
     },
     {
-      "title": "Nehoda v Prešove: Na Vranovskej ulici sa zrazili dve autá, premávka je obmedzená",
-      "link": "https://www.presovak.sk/clanky/16136/nehoda-v-presove-pri-vranovskej-ulici-sa-zrazili-dve-auta-policia-upozornuje-na-obmedzenie",
-      "time": "2026-11-05T13:41:00+00:00",
-      "cat": "nehoda",
+      "title": "Pomôžte ho nájsť: 14-ročný Alex je nezvestný, naposledy ho videli v Tatranskej Lomnici",
+      "link": "https://www.presovak.sk/clanky/16140/policia-patra-po-14-rocnom-alexovi-z-popradu-naposledy-ho-videli-vo-vysokych-tatrach-odvtedy-sa-neozval",
+      "time": "2026-11-05T18:21:00+00:00",
+      "cat": "patranie",
       "region": "presovsky",
       "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/03_aktualne.webp"
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1793902540-policia-patra-po-14rocnom-alexovi-z-popradu-naposledy-ho-videli-vo-vysokych-tatrach-odvtedy-sa-neozval.webp"
     },
     {
-      "title": "Zrážka dvoch áut pri Steel Aréne zdrží premávku v Košiciach",
-      "link": "https://www.kosicak.sk/clanky/14903/kosicania-chystate-sa-pomaly-z-prace-domov-pri-steel-arene-si-postojite-dovodom-je-zrazka-dvoch-osobnych-aut",
-      "time": "2026-11-05T13:21:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1793885027-kosicania-chystate-sa-pomaly-z-prace-domov-pri-steel-arene-si-postojite-dovodom-je-zrazka-dvoch-osobnych-aut.webp"
-    },
-    {
-      "title": "Dopravná nehoda v okrese Prešov: Pred Demjatou sa zrazili dve autá, polícia obmedzila premávku",
-      "link": "https://www.presovak.sk/clanky/16133/nehoda-pri-presove-pred-demjatou-sa-zrazili-dve-auta-policia-obmedzila-premavku",
-      "time": "2026-11-05T12:15:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Nehoda pred Hradišťom zdrží vodičov niekoľko minút",
-      "link": "https://www.trencinak.sk/clanky/14415/nehoda-pred-hradistom-smerom-do-banoviec-nad-bebravou-komplikuje-dopravu-vodici-sa-zdrzia",
-      "time": "2026-11-05T09:46:00+00:00",
+      "title": "Vodiči, pozor na D1: Za Považskou Bystricou havarovali dve autá",
+      "link": "https://www.trencinak.sk/clanky/14421/pozor-na-cestach-na-dialnici-d1-za-povazskou-bystricou-sa-zrazili-dve-auta-nehoda-komplikuje-premavku",
+      "time": "2026-11-05T18:05:00+00:00",
       "cat": "nehoda",
       "region": "trenciansky",
       "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1793901671-pozor-na-cestach-na-dialnici-d1-za-povazskou-bystricou-sa-zrazili-dve-auta-nehoda-komplikuje-premavku.webp"
     },
     {
-      "title": "Nočná dráma v domove sociálnych služieb: Plamene vyhnali 60 ľudí, zasahovali desiatky hasičov",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2072931-poziar-domova-socialnych-sluzieb-v-neporadzi-evakuovali-60-ludi-dvoch-osetrili-zachranari?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-05T09:20:00+00:00",
+      "title": "Mimoriadna udalosť zastavila vlaky: Expres sa v Trenčianskom kraji zrazil s osobou v koľajisku",
+      "link": "https://www.trencinak.sk/clanky/14420/vazna-udalost-na-zeleznici-pri-novom-meste-nad-vahom-expresny-vlak-sa-zrazil-s-osobou-doprava-je-prerusena",
+      "time": "2026-11-05T17:39:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1793900333-vazna-udalost-na-zeleznici-pri-novom-meste-nad-vahom-expresny-vlak-sa-zrazil-s-osobou-doprava-je-prerusena.webp"
+    },
+    {
+      "title": "FOTO: Mercedes za 150-tisíc odparkovaný vo Veľkom Záluží zhorel do tla, prípad už vyšetruje polícia",
+      "link": "https://www.nitrak.sk/clanky/12455/foto-v-obci-pri-nitre-zhorelo-do-tla-auto-za-150-tisic-podla-policie-mohlo-ist-o-cudzie-zavinenie",
+      "time": "2026-11-05T16:40:00+00:00",
       "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/05/2557567/4x3-medium/poziar-v-dss-v-obci-neporadza-v-okrese-rimavska-sobota.jpg?v=T/w"
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1793884193-foto-v-obci-pri-nitre-zhorelo-do-tla-auto-za-150tisic-podla-policie-mohlo-ist-o-cudzie-zavinenie.webp"
+    },
+    {
+      "title": "Nehoda pri Košiciach blokuje dopravu. Na kruhovom objazde sa zrazili dve autá",
+      "link": "https://www.kosicak.sk/clanky/14906/pozor-na-cerstvu-nehodu-na-kruhovom-objazde-pri-kosiciach-sa-zrazili-dve-auta",
+      "time": "2026-11-05T16:33:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1793896383-pozor-na-cerstvu-nehodu-na-kruhovom-objazde-pri-kosiciach-sa-zrazili-dve-auta.webp"
     }
   ]
 }

@@ -1,79 +1,61 @@
 {
-  "generated_at": "2026-11-05T08:15:45.962869+00:00",
+  "generated_at": "2026-11-05T16:28:39.576199+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 6,
   "items": [
     {
-      "title": "Pri nehode v Žiline zastavil k zranenému vodičovi len jeden človek. Rodina ho hľadá",
-      "link": "https://www.zilinak.sk/clanky/43877/muz-pri-ziline-prezil-vaznu-nehodu-zastavil-mu-len-jediny-vodic-manzelka-patra-po-neznamom-zachrancovi",
-      "time": "2026-11-05T08:04:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793865903-muz-pri-ziline-prezil-vaznu-nehodu-zastavil-mu-len-jediny-vodic-manzelka-patra-po-neznamom-zachrancovi.webp"
-    },
-    {
-      "title": "Po nehode pri Žiline hľadá neznámeho záchrancu. Jej manželovi ako jediný zastavil a poskytol prvú pomoc",
-      "link": "https://www.zilinak.sk/clanky/43875/vsetci-prechadzali-dalej-on-vsak-zastavil-po-nehode-pri-ziline-hlada-rodina-neznameho-zachrancu",
-      "time": "2026-11-05T07:30:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793817299-vsetci-prechadzali-dalej-on-vsak-zastavil-po-nehode-pri-ziline-hlada-rodina-neznameho-zachrancu.webp"
-    },
-    {
-      "title": "Domov sociálnych služieb v Neporadzi zachvátili v noci plamene. Z budovy evakuovali desiatky ľudí, dve osoby sa zranili",
-      "link": "https://www.bystricak.sk/clanky/13688/domov-socialnych-sluzieb-v-neporadzi-zachvatili-v-noci-plamene-z-budovy-evakuovali-desiatky-ludi-dve-osoby-sa-zranili",
-      "time": "2026-11-05T07:20:00+00:00",
-      "cat": "zasah",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1793863255-domov-socialnych-sluzieb-v-neporadzi-zachvatili-v-noci-plamene-z-budovy-evakuovali-desiatky-ludi-dve-osoby-sa.webp"
-    },
-    {
-      "title": "Kolóny a obmedzenia pri Bratislave, Senci a Malackách",
-      "link": "https://www.bratislavak.sk/clanky/16210/vo-stvrtok-rano-vas-zdrzia-cestari-pri-senci-nehoda-pri-malackach-a-kolony-v-centre-aj-mimo-bratislavy",
-      "time": "2026-11-05T07:17:00+00:00",
+      "title": "Na Krížnej ulici v Bratislave dokumentujú nehodu. Kde si treba dať pozor?",
+      "link": "https://www.bratislavak.sk/clanky/16226/v-bratislave-dokumentuju-nehodu-na-frekventovanej-ulici-vodici-by-mali-spozorniet",
+      "time": "2026-11-05T16:06:00+00:00",
       "cat": "nehoda",
       "region": "bratislavsky",
       "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1793863066-vo-stvrtok-rano-vas-zdrzia-cestari-pri-senci-nehoda-pri-malackach-a-kolony-v-centre-aj-mimo-bratislavy.webp"
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "V Prešove si pre nehodu počkáte v rozsiahlych kolónach, medzi Ľubicou a Kežmarkom vás zas zdrží semafor",
-      "link": "https://www.presovak.sk/clanky/16124/v-presove-si-pre-nehodu-pockate-v-rozsiahlych-kolonach-medzi-lubicou-a-kezmarkom-vas-zas-zdrzi-semafor",
-      "time": "2026-11-05T07:13:00+00:00",
+      "title": "Nehoda v Prešove: Na Vranovskej ulici sa zrazili dve autá, premávka je obmedzená",
+      "link": "https://www.presovak.sk/clanky/16136/nehoda-v-presove-pri-vranovskej-ulici-sa-zrazili-dve-auta-policia-upozornuje-na-obmedzenie",
+      "time": "2026-11-05T13:41:00+00:00",
       "cat": "nehoda",
       "region": "presovsky",
       "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1793862789-v-presove-si-pre-nehodu-pockate-v-rozsiahlych-kolonach-medzi-lubicou-a-kezmarkom-vas-zas-zdrzi-semafor.webp"
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/03_aktualne.webp"
     },
     {
-      "title": "Košická polícia hľadá svedkov nehody, pri ktorej zrazil vodič Mercedesu chodkyňu na Štúrovej ulici",
-      "link": "https://www.kosicak.sk/clanky/14878/na-sturovej-v-kosiciach-zrazil-cierny-mercedes-chodkynu-na-priechode-svedkovia-by-mohli-pomoct-zistit-kto-to-bol",
-      "time": "2026-11-05T06:40:00+00:00",
+      "title": "Zrážka dvoch áut pri Steel Aréne zdrží premávku v Košiciach",
+      "link": "https://www.kosicak.sk/clanky/14903/kosicania-chystate-sa-pomaly-z-prace-domov-pri-steel-arene-si-postojite-dovodom-je-zrazka-dvoch-osobnych-aut",
+      "time": "2026-11-05T13:21:00+00:00",
       "cat": "nehoda",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1793790193-na-sturovej-v-kosiciach-zrazil-cierny-mercedes-chodkynu-na-priechode-svedkovia-by-mohli-pomoct-zistit-kto-to-b.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1793885027-kosicania-chystate-sa-pomaly-z-prace-domov-pri-steel-arene-si-postojite-dovodom-je-zrazka-dvoch-osobnych-aut.webp"
     },
     {
-      "title": "Požiar v domove sociálnych služieb: Evakuovali 60 ľudí, dvaja sú zranení",
-      "link": "https://www1.pluska.sk/krimi/poziar-v-domove-socialnych-sluzieb-evakuovali-60-ludi-dvaja-su-zraneni",
-      "time": "2026-11-05T00:00:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/069/069a2125-9256-42b7-ab07-ebd8d0025414.webp"
+      "title": "Dopravná nehoda v okrese Prešov: Pred Demjatou sa zrazili dve autá, polícia obmedzila premávku",
+      "link": "https://www.presovak.sk/clanky/16133/nehoda-pri-presove-pred-demjatou-sa-zrazili-dve-auta-policia-obmedzila-premavku",
+      "time": "2026-11-05T12:15:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Pri požiari v domove v Neporadzi zasahuje 27 hasičov, zranili sa dve osoby",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2072753-pri-poziari-v-domove-v-neporadzi-zasahuje-27-hasicov-zranili-sa-dve-osoby?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-04T21:56:44+00:00",
+      "title": "Nehoda pred Hradišťom zdrží vodičov niekoľko minút",
+      "link": "https://www.trencinak.sk/clanky/14415/nehoda-pred-hradistom-smerom-do-banoviec-nad-bebravou-komplikuje-dopravu-vodici-sa-zdrzia",
+      "time": "2026-11-05T09:46:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Nočná dráma v domove sociálnych služieb: Plamene vyhnali 60 ľudí, zasahovali desiatky hasičov",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2072931-poziar-domova-socialnych-sluzieb-v-neporadzi-evakuovali-60-ludi-dvoch-osetrili-zachranari?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-05T09:20:00+00:00",
       "cat": "poziar",
       "region": "banskobystricky",
       "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/08/14/2518543/4x3-medium/poziar-poziarnici-ohen-hasenie-hasici.jpg?v=EoY"
+      "image": "https://prvd.sk/cdn/2026/11/05/2557567/4x3-medium/poziar-v-dss-v-obci-neporadza-v-okrese-rimavska-sobota.jpg?v=T/w"
     }
   ]
 }

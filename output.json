@@ -1,61 +1,70 @@
 {
-  "generated_at": "2026-11-06T02:21:47.616931+00:00",
+  "generated_at": "2026-11-06T09:31:17.255667+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 7,
   "items": [
     {
-      "title": "Nešťastie na stavbe nového mosta na Kysuciach. Zasahovali pozemní aj leteckí záchranári",
-      "link": "https://www.zilinak.sk/clanky/43898/na-stavenisku-noveho-mosta-v-povine-doslo-k-nestastiu-smerovali-tam-sanitky-policia-aj-vrtulnik",
-      "time": "2026-11-05T20:56:00+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793912206-na-stavenisku-noveho-mosta-v-povine-doslo-k-nestastiu-smerovali-tam-sanitky-policia-aj-vrtulnik.webp"
-    },
-    {
-      "title": "Pomôžte ho nájsť: 14-ročný Alex je nezvestný, naposledy ho videli v Tatranskej Lomnici",
-      "link": "https://www.presovak.sk/clanky/16140/policia-patra-po-14-rocnom-alexovi-z-popradu-naposledy-ho-videli-vo-vysokych-tatrach-odvtedy-sa-neozval",
-      "time": "2026-11-05T18:21:00+00:00",
+      "title": "NEVIDELI STE HO? Pátrajú po nezvestnom 14-ročnom Alexovi z Popradu",
+      "link": "https://www.teraz.sk/regiony/nevideli-ste-ho-patraju-po-nezvestnom/1005587-clanok.html",
+      "time": "2026-11-06T09:08:00+00:00",
       "cat": "patranie",
       "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1793902540-policia-patra-po-14rocnom-alexovi-z-popradu-naposledy-ho-videli-vo-vysokych-tatrach-odvtedy-sa-neozval.webp"
+      "src": "teraz.sk",
+      "image": null
     },
     {
-      "title": "Vodiči, pozor na D1: Za Považskou Bystricou havarovali dve autá",
-      "link": "https://www.trencinak.sk/clanky/14421/pozor-na-cestach-na-dialnici-d1-za-povazskou-bystricou-sa-zrazili-dve-auta-nehoda-komplikuje-premavku",
-      "time": "2026-11-05T18:05:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1793901671-pozor-na-cestach-na-dialnici-d1-za-povazskou-bystricou-sa-zrazili-dve-auta-nehoda-komplikuje-premavku.webp"
-    },
-    {
-      "title": "Mimoriadna udalosť zastavila vlaky: Expres sa v Trenčianskom kraji zrazil s osobou v koľajisku",
-      "link": "https://www.trencinak.sk/clanky/14420/vazna-udalost-na-zeleznici-pri-novom-meste-nad-vahom-expresny-vlak-sa-zrazil-s-osobou-doprava-je-prerusena",
-      "time": "2026-11-05T17:39:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1793900333-vazna-udalost-na-zeleznici-pri-novom-meste-nad-vahom-expresny-vlak-sa-zrazil-s-osobou-doprava-je-prerusena.webp"
-    },
-    {
-      "title": "FOTO: Mercedes za 150-tisíc odparkovaný vo Veľkom Záluží zhorel do tla, prípad už vyšetruje polícia",
-      "link": "https://www.nitrak.sk/clanky/12455/foto-v-obci-pri-nitre-zhorelo-do-tla-auto-za-150-tisic-podla-policie-mohlo-ist-o-cudzie-zavinenie",
-      "time": "2026-11-05T16:40:00+00:00",
-      "cat": "poziar",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1793884193-foto-v-obci-pri-nitre-zhorelo-do-tla-auto-za-150tisic-podla-policie-mohlo-ist-o-cudzie-zavinenie.webp"
-    },
-    {
-      "title": "Nehoda pri Košiciach blokuje dopravu. Na kruhovom objazde sa zrazili dve autá",
-      "link": "https://www.kosicak.sk/clanky/14906/pozor-na-cerstvu-nehodu-na-kruhovom-objazde-pri-kosiciach-sa-zrazili-dve-auta",
-      "time": "2026-11-05T16:33:00+00:00",
+      "title": "Autobusy do košickej Starej nemocnice premávajú cez obchádzkovú trasu",
+      "link": "https://www.kosicak.sk/clanky/14910/pre-prace-na-rastislavovej-v-kosiciach-musia-autobusy-premavat-po-obchadzkovej-trase-pozor-tuto-zastavku-zrusili",
+      "time": "2026-11-06T09:00:00+00:00",
       "cat": "nehoda",
       "region": "kosicky",
       "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1793896383-pozor-na-cerstvu-nehodu-na-kruhovom-objazde-pri-kosiciach-sa-zrazili-dve-auta.webp"
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1793953617-pre-prace-na-rastislavovej-v-kosiciach-musia-autobusy-premavat-po-obchadzkovej-trase-pozor-tuto-zastavku-zrusi.webp"
+    },
+    {
+      "title": "Nešťastie na Kysuciach. Na stavbe utrpeli úraz dvaja muži, jedného zachraňoval vrtuľník, druhého sanitka",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2073603-drama-na-stavbe-na-kysuciach-dvaja-muzi-spadli-z-vysky-na-miesto-privolali-aj-vrtulnik?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-06T08:15:03+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/09/18/2533697/4x3-medium/ate-vrtulnik-zachranny.jpg?v=T/w"
+    },
+    {
+      "title": "Ranné dopravné komplikácie v Trnavskom kraji: Hromadná zrážka pri obchode i horiace auto medzi obcami",
+      "link": "https://www.trnavak.sk/clanky/12856/ranne-dopravne-komplikacie-v-trnavskom-kraji-hromadna-zrazka-pri-obchode-i-horiace-auto-medzi-obcami",
+      "time": "2026-11-06T08:10:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1793952671-ranne-dopravne-komplikacie-v-trnavskom-kraji-hromadna-zrazka-pri-obchode-i-horiace-auto-medzi-obcami.webp"
+    },
+    {
+      "title": "Pre dvoch vodičov sa piatkového ráno nezačalo najlepšie, zrazili sa na diaľnici medzi Košicami a Prešovom",
+      "link": "https://www.kosicak.sk/clanky/14907/pre-dvoch-vodicov-sa-piatkoveho-rano-nezacalo-najlepsie-zrazili-sa-na-dialnici-medzi-kosicami-a-presovom",
+      "time": "2026-11-06T07:10:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1793949073-pre-dvoch-vodicov-sa-piatkoveho-rano-nezacalo-najlepsie-zrazili-sa-na-dialnici-medzi-kosicami-a-presovom.webp"
+    },
+    {
+      "title": "Polícia v Trenčianskom kraji odhalila 11 opitých vodičov",
+      "link": "https://www.trencinak.sk/clanky/14418/vodici-v-trencianskom-kraji-riskovali-zivoty-policajne-kontroly-odhalili-u-motoristov-neprijemny-trend",
+      "time": "2026-11-06T06:40:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1793890726-vodici-v-trencianskom-kraji-riskovali-zivoty-policajne-kontroly-odhalili-u-motoristov-neprijemny-trend.webp"
+    },
+    {
+      "title": "Adamko († 9) miloval futbal: Čo mu dali na hrob, vás dojme",
+      "link": "https://www1.pluska.sk/krimi/adamko-9-miloval-futbal-co-mu-dali-na-hrob-vas-dojme",
+      "time": "2026-11-06T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/f1c/f1c47434-c24c-49cf-aaa4-b1a565d0a8d0.webp"
     }
   ]
 }

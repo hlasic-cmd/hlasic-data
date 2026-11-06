@@ -1,26 +1,8 @@
 {
-  "generated_at": "2026-11-06T16:52:54.637261+00:00",
+  "generated_at": "2026-11-06T21:47:12.983429+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 1,
   "items": [
-    {
-      "title": "Vážna nehoda v Novej Bystrici: 76-ročného chodca po zrážke s autom previezol do nemocnice vrtuľník",
-      "link": "https://www.zilinak.sk/clanky/43912/vazna-nehoda-na-kysuciach-auto-zrazilo-76-rocneho-chodca-do-nemocnice-ho-previezol-vrtulnik",
-      "time": "2026-11-06T14:21:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793974609-vazna-nehoda-na-kysuciach-auto-zrazilo-76rocneho-chodca-do-nemocnice-ho-previezol-vrtulnik.webp"
-    },
-    {
-      "title": "Zrážka áut skomplikovala dopravu v Leopoldove. Na mieste zasahovala polícia",
-      "link": "https://www.trnavak.sk/clanky/12867/zrazka-aut-skomplikovala-dopravu-v-leopoldove-na-mieste-zasahovala-policia",
-      "time": "2026-11-06T13:22:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1793978898-zrazka-aut-skomplikovala-dopravu-v-leopoldove-na-mieste-zasahovala-policia.webp"
-    },
     {
       "title": "Lindtner sa ostro pustil do Žilinku: Namiesto ospravedlnenia ste si zvolili osobný útok. Spor vyvolali slová o „sadistoch“ a „nádore“",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2073917-lindtner-sa-ostro-pustil-do-zilinku-namiesto-ospravedlnenia-ste-si-zvolili-osobny-utok-spor-vyvolali-slova-o-sadistoch-a-nadore?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -29,33 +11,6 @@
       "region": "zilinsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/11/06/2558477/4x3-medium/zilinka-lindtner.jpg?v=T/w"
-    },
-    {
-      "title": "Pátranie so smutným koncom: Mladého Sebastiána zo Spiša našli neskoro",
-      "link": "https://www.kosicak.sk/clanky/14919/po-jedenastich-dnoch-prisla-bolestiva-sprava-nezvestny-19-rocny-sebastian-zo-spisa-bol-najdeny-bez-znamok-zivota",
-      "time": "2026-11-06T11:53:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1793966016-po-jedenastich-dnoch-prisla-bolestiva-sprava-nezvestny-19rocny-sebastian-zo-spisa-bol-najdeny-bez-znamok-zivot.webp"
-    },
-    {
-      "title": "VIDEO: Nehoda pri Banskej Štiavnici komplikuje dopravu. Vodiči prechádzajú striedavo",
-      "link": "https://www.bystricak.sk/clanky/13714/video-vodici-hlasia-vaznu-nehodu-pri-banskej-stiavnici-premavku-museli-obmedzit",
-      "time": "2026-11-06T11:34:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1793964470-video-vodici-hlasia-vaznu-nehodu-pri-banskej-stiavnici-premavku-museli-obmedzit.webp"
-    },
-    {
-      "title": "Nešťastie na Kysuciach. Na stavbe utrpeli úraz dvaja muži, jedného zachraňoval vrtuľník, druhého sanitka",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2073603-drama-na-stavbe-na-kysuciach-dvaja-muzi-spadli-z-vysky-na-miesto-privolali-aj-vrtulnik?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-06T08:15:03+00:00",
-      "cat": "zasah",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/09/18/2533697/4x3-medium/ate-vrtulnik-zachranny.jpg?v=T/w"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T18:24:33.020077+00:00",
+  "generated_at": "2026-11-07T22:03:33.258944+00:00",
   "max_age_hours": 12,
-  "count": 12,
+  "count": 8,
   "items": [
     {
       "title": "Auto poškodil z oboch strán, no jazdu neukončil. Vodič v Martine nafúkal poriadne číslo",
@@ -40,15 +40,6 @@
       "image": null
     },
     {
-      "title": "SOI varuje pred detektorom dymu Tesla. Pri požiari môže reagovať neskoro",
-      "link": "https://www.bratislavak.sk/clanky/16207/pozor-mate-ho-doma-oblubeny-detektor-dymu-moze-zlyhat-pri-poziari-soi-varuje-pred-rizikom-smrti",
-      "time": "2026-11-07T12:25:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1793966586-pozor-mate-ho-doma-oblubeny-detektor-dymu-moze-zlyhat-pri-poziari-soi-varuje-pred-rizikom-smrti.webp"
-    },
-    {
       "title": "Tragédia v Košiciach: Po nočnom požiari na sídlisku Nad jazerom našli telo ženy",
       "link": "https://www.kosicak.sk/clanky/14925/video-nocny-poziar-v-kosiciach-sa-skoncil-tragediou-po-uhaseni-plamenov-nasli-v-troskach-telo-zeny",
       "time": "2026-11-07T11:54:00+00:00",
@@ -67,15 +58,6 @@
       "image": null
     },
     {
-      "title": "Nehoda dvoch áut v Nitre uzavrela Jeleneckú ulicu",
-      "link": "https://www.nitrak.sk/clanky/12471/vazna-dopravna-nehoda-skomplikovala-dopravu-v-nitre-cesta-na-jeleneckej-bola-neprejazdna",
-      "time": "2026-11-07T11:27:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
       "title": "Úsek diaľnice D1 pri Trenčíne je opäť plne prejazdný",
       "link": "https://www.teraz.sk/regiony/d1-medzi-trencinom-a-privadzacom-dri/1005830-clanok.html",
       "time": "2026-11-07T11:25:00+00:00",
@@ -92,24 +74,6 @@
       "region": "kosicky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/01a1b5fa-9939-7f4c-8263-6f26bfe97842.jpg"
-    },
-    {
-      "title": "Hasiči v Košiciach zasahovali pri požiari, našli telo bez známok života",
-      "link": "https://www.aktuality.sk/clanok/KCjHIkY/hasici-v-kosiciach-zasahovali-pri-poziari-nasli-telo-bez-znamok-zivota/",
-      "time": "2026-11-07T10:49:29+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/hasici-ilustracne-foto/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/rd8ktkpTURBXy8xZGVkNGE5ZDdmMjg0ZjEzN2MxY2ZkZmY4Nzg0YmUzNi5qcGeSlQMCAM0GPM0DgpUCzQfQAMLD?st=XDdzeEv9QxZ5uEPTi13doEzyYqt88PBx_4EpxWvQMXk&ts=1794006000&e=0"
-    },
-    {
-      "title": "Pri dopravnej nehode v okrese Spišská Nová Ves sa zranili štyria ľudia",
-      "link": "https://www.teraz.sk/regiony/pri-dopravnej-nehode-v-okrese-spisska/1005837-clanok.html",
-      "time": "2026-11-07T09:39:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

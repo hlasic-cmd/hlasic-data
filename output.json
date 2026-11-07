@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-11-07T13:56:49.865460+00:00",
+  "generated_at": "2026-11-07T18:24:33.020077+00:00",
   "max_age_hours": 12,
   "count": 12,
   "items": [
+    {
+      "title": "Auto poškodil z oboch strán, no jazdu neukončil. Vodič v Martine nafúkal poriadne číslo",
+      "link": "https://www.zilinak.sk/clanky/43849/do-zvodidiel-narazil-zlava-aj-sprava-na-mol-opity-vodic-soferoval-po-martine-nezastavila-ho-ani-nehoda",
+      "time": "2026-11-07T16:00:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793725487-do-zvodidiel-narazil-zlava-aj-sprava-na-mol-opity-vodic-soferoval-po-martine-nezastavila-ho-ani-nehoda.webp"
+    },
+    {
+      "title": "Tragédia uprostred noci v Košiciach. Hasiči bojovali s plameňmi, v horiacej stavbe ich čakal hrozivý nález",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2074391-tragedia-uprostred-noci-v-kosiciach-hasici-bojovali-s-plamenmi-v-horiacej-stavbe-ich-cakal-hrozivy-nalez?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-07T14:00:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/07/2558953/4x3-medium/poziar-kosice-telo.jpg?v=Idg"
+    },
     {
       "title": "Nočná dráma na Spiši: Auto vyletelo z cesty, po 50 metroch prišla tvrdá zrážka",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2074383-nocna-drama-na-spisi-auto-vyletelo-z-cesty-po-50-metroch-prisla-tvrda-zrazka?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -50,7 +68,7 @@
     },
     {
       "title": "Nehoda dvoch áut v Nitre uzavrela Jeleneckú ulicu",
-      "link": "https://www.nitrak.sk/clanky/12471/vazna-dopravna-nehoda-v-nitre-cesta-na-jeleneckej-je-neprejazdna-vodici-sa-zdrzia-az-100-minut",
+      "link": "https://www.nitrak.sk/clanky/12471/vazna-dopravna-nehoda-skomplikovala-dopravu-v-nitre-cesta-na-jeleneckej-bola-neprejazdna",
       "time": "2026-11-07T11:27:00+00:00",
       "cat": "nehoda",
       "region": "nitriansky",
@@ -92,24 +110,6 @@
       "region": "kosicky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Úsek diaľnice D1 medzi Trenčínom a privádzačom Drietoma je pre dopravnú nehodu neprejazdný",
-      "link": "https://www.aktuality.sk/clanok/TVOnTFH/usek-dialnice-d1-medzi-trencinom-a-privadzacom-drietoma-je-pre-dopravnu-nehodu-neprejazdny/",
-      "time": "2026-11-07T09:16:11+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/dialnica-d1-ilustracna-foto/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/dBxktkpTURBXy8xYWQ2ZjQzZTViODlkMjZlYjZiM2Q0ZDQ4OWUwMDY1ZS5qcGeSlQMAzOfNHMDNECyVAs0H0ADCww?st=bEWfC1nR8r67X6OuDpimLgenP4HuRFEWy0EXi-RlSzE&ts=1794006000&e=0"
-    },
-    {
-      "title": "Pri Spišských Tomášovciach sa zrazili dve autá. Audi skončilo na streche, štyria ľudia sa zranili",
-      "link": "https://www.kosicak.sk/clanky/14923/foto-audi-skoncilo-po-zrazke-na-streche-pri-spisskej-novej-vsi-sa-zranili-styria-ludia",
-      "time": "2026-11-07T09:00:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1794039934-foto-audi-skoncilo-po-zrazke-na-streche-pri-spisskej-novej-vsi-sa-zranili-styria-ludia.webp"
     }
   ]
 }

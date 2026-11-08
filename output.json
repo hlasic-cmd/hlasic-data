@@ -1,17 +1,8 @@
 {
-  "generated_at": "2026-11-07T22:03:33.258944+00:00",
+  "generated_at": "2026-11-08T01:15:35.748664+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 3,
   "items": [
-    {
-      "title": "Auto poškodil z oboch strán, no jazdu neukončil. Vodič v Martine nafúkal poriadne číslo",
-      "link": "https://www.zilinak.sk/clanky/43849/do-zvodidiel-narazil-zlava-aj-sprava-na-mol-opity-vodic-soferoval-po-martine-nezastavila-ho-ani-nehoda",
-      "time": "2026-11-07T16:00:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1793725487-do-zvodidiel-narazil-zlava-aj-sprava-na-mol-opity-vodic-soferoval-po-martine-nezastavila-ho-ani-nehoda.webp"
-    },
     {
       "title": "Tragédia uprostred noci v Košiciach. Hasiči bojovali s plameňmi, v horiacej stavbe ich čakal hrozivý nález",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2074391-tragedia-uprostred-noci-v-kosiciach-hasici-bojovali-s-plamenmi-v-horiacej-stavbe-ich-cakal-hrozivy-nalez?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -38,42 +29,6 @@
       "region": null,
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Tragédia v Košiciach: Po nočnom požiari na sídlisku Nad jazerom našli telo ženy",
-      "link": "https://www.kosicak.sk/clanky/14925/video-nocny-poziar-v-kosiciach-sa-skoncil-tragediou-po-uhaseni-plamenov-nasli-v-troskach-telo-zeny",
-      "time": "2026-11-07T11:54:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1794051826-video-nocny-poziar-v-kosiciach-sa-skoncil-tragediou-po-uhaseni-plamenov-nasli-v-troskach-telo-zeny.webp"
-    },
-    {
-      "title": "Pri požiari v Košiciach našli hasiči telo osoby bez známok života",
-      "link": "https://www.teraz.sk/regiony/pri-poziari-v-kosiciach-nasli-hasici/1005846-clanok.html",
-      "time": "2026-11-07T11:30:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Úsek diaľnice D1 pri Trenčíne je opäť plne prejazdný",
-      "link": "https://www.teraz.sk/regiony/d1-medzi-trencinom-a-privadzacom-dri/1005830-clanok.html",
-      "time": "2026-11-07T11:25:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Pri požiari jednoduchej stavby v Košiciach našli hasiči torzo ženského tela",
-      "link": "https://korzar.sme.sk/kosice/c/pri-poziari-jednoduchej-stavby-v-kosiciach-nasli-hasici-telo-osoby-bez-znamok-zivota?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-11-07T11:08:47+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a1b5fa-9939-7f4c-8263-6f26bfe97842.jpg"
     }
   ]
 }

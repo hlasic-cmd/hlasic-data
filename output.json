@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T14:22:24.687946+00:00",
+  "generated_at": "2026-11-08T18:53:47.286030+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 3,
   "items": [
     {
       "title": "Lukáš Kobetič z AŠK Slávia Trnava zomrel pri tragickej nehode",
@@ -13,15 +13,6 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1794134226-trnavski-futbalisti-sa-lucia-so-spoluhracom-lukasom-prezyvali-ho-kobo-mladik-zomrel-pri-tragickej-nehode.webp"
     },
     {
-      "title": "Ján z Košíc je po odchode do Vysokých Tatier nezvestný, horskí záchranári vyzývajú o pomoc",
-      "link": "https://www.kosicak.sk/clanky/14927/jan-z-kosic-je-nezvestny-vydal-sa-do-vysokych-tatier-a-odvtedy-o-sebe-nepodal-ziadnu-informaciu",
-      "time": "2026-11-08T10:30:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1794131022-jan-z-kosic-je-nezvestny-vydal-sa-do-vysokych-tatier-a-odvtedy-o-sebe-nepodal-ziadnu-informaciu.webp"
-    },
-    {
       "title": "Žilina odvolala mimoriadnu situáciu vyhlásenú pre požiar",
       "link": "https://www.teraz.sk/regiony/zilina-odvolala-mimoriadnu-situaciu-vy/1005988-clanok.html",
       "time": "2026-11-08T10:24:00+00:00",
@@ -29,15 +20,6 @@
       "region": "bratislavsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Nehoda pri Sabinove uzavrela cestu, premávku riadi polícia",
-      "link": "https://www.presovak.sk/clanky/16167/pri-sabinove-doslo-k-vaznej-nehode-vyuzite-obchadzkovu-trasu",
-      "time": "2026-11-08T08:05:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
     },
     {
       "title": "V okrese Sabinov sa zrazili dve vozidlá. Cesta je opäť prejazdná bez obmedzení",

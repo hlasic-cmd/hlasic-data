@@ -1,34 +1,6 @@
 {
-  "generated_at": "2026-11-08T01:15:35.748664+00:00",
+  "generated_at": "2026-11-08T07:20:59.476096+00:00",
   "max_age_hours": 12,
-  "count": 3,
-  "items": [
-    {
-      "title": "Tragédia uprostred noci v Košiciach. Hasiči bojovali s plameňmi, v horiacej stavbe ich čakal hrozivý nález",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2074391-tragedia-uprostred-noci-v-kosiciach-hasici-bojovali-s-plamenmi-v-horiacej-stavbe-ich-cakal-hrozivy-nalez?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-07T14:00:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/07/2558953/4x3-medium/poziar-kosice-telo.jpg?v=Idg"
-    },
-    {
-      "title": "Nočná dráma na Spiši: Auto vyletelo z cesty, po 50 metroch prišla tvrdá zrážka",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2074383-nocna-drama-na-spisi-auto-vyletelo-z-cesty-po-50-metroch-prisla-tvrda-zrazka?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-07T13:50:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/07/2558913/4x3-medium/nehoda-spisska-nova-ves.jpg?v=T/w"
-    },
-    {
-      "title": "NEZABUDNITE: Vymeniť pneumatiky na aute treba pred prvým snehom",
-      "link": "https://www.teraz.sk/slovensko/nezabudnite-vymenit-pneumatiky-na-aute/1005871-clanok.html",
-      "time": "2026-11-07T13:16:00+00:00",
-      "cat": "nehoda",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    }
-  ]
+  "count": 0,
+  "items": []
 }

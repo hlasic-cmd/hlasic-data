@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T18:53:47.286030+00:00",
+  "generated_at": "2026-11-08T22:32:22.359523+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 1,
   "items": [
     {
       "title": "Lukáš Kobetič z AŠK Slávia Trnava zomrel pri tragickej nehode",
@@ -11,24 +11,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1794134226-trnavski-futbalisti-sa-lucia-so-spoluhracom-lukasom-prezyvali-ho-kobo-mladik-zomrel-pri-tragickej-nehode.webp"
-    },
-    {
-      "title": "Žilina odvolala mimoriadnu situáciu vyhlásenú pre požiar",
-      "link": "https://www.teraz.sk/regiony/zilina-odvolala-mimoriadnu-situaciu-vy/1005988-clanok.html",
-      "time": "2026-11-08T10:24:00+00:00",
-      "cat": "poziar",
-      "region": "bratislavsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "V okrese Sabinov sa zrazili dve vozidlá. Cesta je opäť prejazdná bez obmedzení",
-      "link": "https://korzar.sme.sk/presov/c/policia-upozornuje-na-dopravnu-udalost-v-okrese-sabinov-cesta-je-aktualne-neprejazdna?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-11-08T07:44:13+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/019c3297-9236-720e-912a-02b99431b81f.jpg"
     }
   ]
 }

@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-09T01:52:02.194209+00:00",
+  "generated_at": "2026-11-09T08:43:28.560407+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "title": "V Hrabovskej doline horela chata, zasahovali hasiči z troch staníc. Príčinu požiaru vyšetrujú",
+      "link": "https://www.zilinak.sk/clanky/43920/poziar-v-oblubenej-doline-pri-ruzomberku-znicil-drevenu-chatu-v-zime-v-nej-fungoval-bufet-pre-lyziarov",
+      "time": "2026-11-09T07:31:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794209522-poziar-v-oblubenej-doline-pri-ruzomberku-znicil-drevenu-chatu-v-zime-v-nej-fungoval-bufet-pre-lyziarov.webp"
+    },
+    {
+      "title": "R2 pri Tornali po nehode obojsmerne uzavreli",
+      "link": "https://www.bystricak.sk/clanky/13723/pozor-na-dialnici-r2-na-obchvate-tornale-smerom-na-rimavsku-sobotu-sa-stala-nehoda-usek-je-obojsmerne-uzavrety",
+      "time": "2026-11-09T07:12:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+    }
+  ]
 }

@@ -1,34 +1,97 @@
 {
-  "generated_at": "2026-11-10T09:17:25.942565+00:00",
+  "generated_at": "2026-11-10T17:04:18.017257+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 10,
   "items": [
     {
-      "title": "Poľadovica komplikuje dopravu pod Tatrami. Vodiči hlásia nehody, jedno auto skončilo v priekope",
-      "link": "https://www.presovak.sk/clanky/16187/foto-cesty-pod-tatrami-sa-menia-na-klzisko-auta-koncia-v-priekopach-vodici-stoja-v-kolonach",
-      "time": "2026-11-10T08:11:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794298322-foto-cesty-pod-tatrami-sa-menia-na-klzisko-auta-koncia-v-priekopach-vodici-stoja-v-kolonach.webp"
-    },
-    {
-      "title": "Nehoda troch áut na D1 zo Senca zdržuje vjazd do Bratislavy",
-      "link": "https://www.bratislavak.sk/clanky/16272/nehoda-troch-aut-komplikuje-vjazd-do-bratislavy-zo-senca-na-d1-sa-soferi-zdrzia-aj-35-minut",
-      "time": "2026-11-10T07:16:00+00:00",
+      "title": "Vodiči v Bratislave, pozor! Na vjazde do mesta sa stala nehoda, ďalšie auto havarovalo v Ružinove",
+      "link": "https://www.bratislavak.sk/clanky/16289/vodici-v-bratislave-pozor-na-vjazde-do-mesta-sa-stala-nehoda-dalsie-auto-havarovalo-v-ruzinove",
+      "time": "2026-11-10T16:05:00+00:00",
       "cat": "nehoda",
       "region": "bratislavsky",
       "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1794295019-nehoda-troch-aut-komplikuje-vjazd-do-bratislavy-zo-senca-na-d1-sa-soferi-zdrzia-aj-35-minut.webp"
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1794327327-vodici-v-bratislave-pozor-na-vjazde-do-mesta-sa-stala-nehoda-dalsie-auto-havarovalo-v-ruzinove.webp"
     },
     {
-      "title": "Poľadovica v Prešovskom kraji prináša nehody a kolóny",
-      "link": "https://www.presovak.sk/clanky/16184/viacere-cesty-v-presovskom-kraji-sa-premenili-na-klzisko-z-niekolkych-miest-uz-hlasia-vodici-nehody-aj-rozsiahle-kolony",
-      "time": "2026-11-10T07:11:00+00:00",
+      "title": "Spôsobil nehodu a odmietol fúkať",
+      "link": "https://www.teraz.sk/regiony/sposobil-nehodu-a-odmietol-fukat/1006612-clanok.html",
+      "time": "2026-11-10T15:43:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Po nehode v Klokočove odmietol dychovú skúšku. Polícia vodiča Mitsubishi zadržala a obvinila",
+      "link": "https://www.zilinak.sk/clanky/43959/foto-vodic-na-kysuciach-narazil-do-auta-pred-sebou-a-skoncil-v-plote-fukat-odmietol-teraz-celi-obvineniu",
+      "time": "2026-11-10T15:40:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794323609-foto-vodic-na-kysuciach-narazil-do-auta-pred-sebou-a-skoncil-v-plote-fukat-odmietol-teraz-celi-obvineniu.webp"
+    },
+    {
+      "title": "Nešťastie v Jarovniciach: Ročné dieťa sa obarilo horúcou tekutinou, zasahoval vrtuľník",
+      "link": "https://www.presovak.sk/clanky/16200/rocne-dieta-sa-v-jarovniciach-obarilo-horucou-tekutinou-na-pomoc-mu-letel-vrtulnik",
+      "time": "2026-11-10T14:30:00+00:00",
+      "cat": "zasah",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794320360-rocne-dieta-sa-v-jarovniciach-obarilo-horucou-tekutinou-na-pomoc-mu-letel-vrtulnik.webp"
+    },
+    {
+      "title": "Nezvestná Rebeka zmizla v Bratislave. Polícia žiada ľudí o pomoc",
+      "link": "https://www.bratislavak.sk/clanky/16287/foto-policia-patra-po-14-rocnej-rebeke-naposledy-ju-videli-v-bratislave-odvtedy-o-nej-nemaju-spravy",
+      "time": "2026-11-10T14:20:00+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1794317830-foto-policia-patra-po-14rocnej-rebeke-naposledy-ju-videli-v-bratislave-odvtedy-o-nej-nemaju-spravy.webp"
+    },
+    {
+      "title": "Len 16-ročný Pavol z okresu Trnava je nezvestný. Polícia zverejnila jeho opis, nevideli ste ho?",
+      "link": "https://www.trnavak.sk/clanky/12900/len-16-rocny-pavol-z-okresu-trnava-je-nezvestny-policia-zverejnila-jeho-opis-nevideli-ste-ho",
+      "time": "2026-11-10T14:00:00+00:00",
+      "cat": "patranie",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1794316805-len-16rocny-pavol-z-okresu-trnava-je-nezvestny-policia-zverejnila-jeho-opis-nevideli-ste-ho.webp"
+    },
+    {
+      "title": "Zrážka dvoch áut v Prešove: Košická ulica je čiastočne blokovaná, vodiči sa môžu zdržať",
+      "link": "https://www.presovak.sk/clanky/16199/zrazka-dvoch-aut-v-presove-komplikuje-dopravu-na-kosickej-ulici-sa-mozu-tvorit-kolony",
+      "time": "2026-11-10T13:49:00+00:00",
       "cat": "nehoda",
       "region": "presovsky",
       "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794294702-viacere-cesty-v-presovskom-kraji-sa-premenili-na-klzisko-z-niekolkych-miest-uz-hlasia-vodici-nehody-aj-rozsiah.webp"
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "TRAGÉDIA NA DIAĽNICI: MZVEZ neeviduje Slovákov medzi obeťami",
+      "link": "https://www.teraz.sk/slovensko/tragedia-na-dialnici-mzvez-neeviduje/1006562-clanok.html",
+      "time": "2026-11-10T13:43:00+00:00",
+      "cat": "nehoda",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Nezvestnú ženu z Martina hľadala polícia. Pátranie už odvolali",
+      "link": "https://www.zilinak.sk/clanky/43953/foto-policia-odvolava-patranie-po-53-rocnej-zene-z-martina-nezvestnu-bozenu-uz-nasli",
+      "time": "2026-11-10T13:20:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794325241-foto-policia-odvolava-patranie-po-53rocnej-zene-z-martina-nezvestnu-bozenu-uz-nasli.webp"
+    },
+    {
+      "title": "FOTO: Tragická nehoda vo Veľkom Krtíši si vyžiadala život vodiča",
+      "link": "https://www.bystricak.sk/clanky/13744/foto-tragicka-nehoda-vo-velkom-krtisi-po-zrazke-dvoch-aut-jeden-z-vodicov-zomrel-cesta-na-lucenec-bola-uzavreta",
+      "time": "2026-11-10T11:51:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1794319954-foto-tragicka-nehoda-vo-velkom-krtisi-po-zrazke-dvoch-aut-jeden-z-vodicov-zomrel-cesta-na-lucenec-bola-uzavret.webp"
     }
   ]
 }

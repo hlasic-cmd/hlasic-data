@@ -1,35 +1,8 @@
 {
-  "generated_at": "2026-11-09T19:07:47.963721+00:00",
+  "generated_at": "2026-11-10T01:59:50.800041+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 1,
   "items": [
-    {
-      "title": "Hromadná nehoda na Prístavnom moste v Bratislave: Časť cesty blokujú tri havarované vozidlá",
-      "link": "https://www.bratislavak.sk/clanky/16271/hromadna-nehoda-na-pristavnom-moste-v-bratislave-cast-cesty-blokuju-tri-havarovane-vozidla",
-      "time": "2026-11-09T17:12:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Banskobystrický kraj čaká nebezpečné počasie. SHMÚ upozorňuje na poľadovicu aj víchricu",
-      "link": "https://www.bystricak.sk/clanky/13729/v-banskobystrickom-kraji-sa-treba-opat-pripravit-na-poladovicu-na-horach-moze-vycinat-az-vichrica",
-      "time": "2026-11-09T14:40:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1794233565-v-banskobystrickom-kraji-sa-treba-opat-pripravit-na-poladovicu-na-horach-moze-vycinat-az-vichrica.webp"
-    },
-    {
-      "title": "Nehoda cisterny na I/64 v Kľačoch, pomohli odťahové špeciály",
-      "link": "https://www.zilinak.sk/clanky/43929/foto-stacil-jeden-zly-pohyb-a-cisterna-by-sa-prevratila-narocny-zasah-pri-rajci-zablokoval-cestu",
-      "time": "2026-11-09T14:15:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794226462-foto-stacil-jeden-zly-pohyb-a-cisterna-by-sa-prevratila-narocny-zasah-pri-rajci-zablokoval-cestu.webp"
-    },
     {
       "title": "Aktuálne pátranie v okrese Nitra: 35-ročná Denisa je nezvestná, polícia prosí o pomoc verejnosť",
       "link": "https://www.nitrak.sk/clanky/12486/kam-sa-podela-denisa-policia-patra-po-35-rocnej-zene-z-okresu-nitra-o-pomoc-prosi-aj-verejnost",
@@ -38,51 +11,6 @@
       "region": "nitriansky",
       "src": "nitrak.sk",
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794232766-kam-sa-podela-denisa-policia-patra-po-35rocnej-zene-z-okresu-nitra-o-pomoc-prosi-aj-verejnost.webp"
-    },
-    {
-      "title": "Pri Lidli v Giraltovciach sa zrazil kamión s autom",
-      "link": "https://www.presovak.sk/clanky/16182/v-giraltovciach-pri-lidli-komplikuje-premavku-dopravna-nehoda-z-miesta-hlasia-vodici-aj-zdrzanie",
-      "time": "2026-11-09T12:34:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794227668-v-giraltovciach-pri-lidli-komplikuje-premavku-dopravna-nehoda-z-miesta-hlasia-vodici-aj-zdrzanie.webp"
-    },
-    {
-      "title": "Z výrobnej haly v Košiciach evakuovali 60 zamestnancov, vypukol v nej požiar",
-      "link": "https://www.kosicak.sk/clanky/14945/z-vyrobnej-haly-v-kosiciach-evakuovali-60-zamestnancov-vypukol-v-nej-poziar",
-      "time": "2026-11-09T11:44:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1794224699-z-vyrobnej-haly-v-kosiciach-evakuovali-60-zamestnancov-vypukol-v-nej-poziar.webp"
-    },
-    {
-      "title": "Hasiči zasahujú pri požiari vo výrobnej hale v Košiciach",
-      "link": "https://korzar.sme.sk/kosice/c/hasici-zasahuju-pri-poziari-vo-vyrobnej-hale-v-kosiciach?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-11-09T11:24:20+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/1efd3266-fc44-6e74-9361-b3e226e8f105.jpg"
-    },
-    {
-      "title": "Dramatický zásah v Košiciach: Vo výrobnej hale vypukol požiar, štyria zamestnanci skončili v opatere zdravotníkov",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2075151-dramaticky-zasah-v-kosiciach-vo-vyrobnej-hale-vypukol-poziar-hasici-su-na-mieste?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-09T11:20:00+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2018/03/22/4x3-medium/aktualna-informacia-horuca-novinka-prave-sa-stalo-pravda.png?v=GBo"
-    },
-    {
-      "title": "V známom stredisku pri Ružomberku vypukol ničivý požiar. Hasiči museli nasadiť aj ťažkú techniku, škody sú obrovské",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2075045-mohutny-poziar-restauracie-v-hrabovskej-doline-plamene-znicili-strechu-aj-interier-skoda-dosiahla-300-tisic-eur?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-09T09:30:00+00:00",
-      "cat": "poziar",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/09/2559339/4x3-medium/poziar-restauracie-v-hrabovskej-doline.jpg?v=T/w"
     }
   ]
 }

@@ -1,16 +1,34 @@
 {
-  "generated_at": "2026-11-10T01:59:50.800041+00:00",
+  "generated_at": "2026-11-10T09:17:25.942565+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 3,
   "items": [
     {
-      "title": "Aktuálne pátranie v okrese Nitra: 35-ročná Denisa je nezvestná, polícia prosí o pomoc verejnosť",
-      "link": "https://www.nitrak.sk/clanky/12486/kam-sa-podela-denisa-policia-patra-po-35-rocnej-zene-z-okresu-nitra-o-pomoc-prosi-aj-verejnost",
-      "time": "2026-11-09T14:05:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794232766-kam-sa-podela-denisa-policia-patra-po-35rocnej-zene-z-okresu-nitra-o-pomoc-prosi-aj-verejnost.webp"
+      "title": "Poľadovica komplikuje dopravu pod Tatrami. Vodiči hlásia nehody, jedno auto skončilo v priekope",
+      "link": "https://www.presovak.sk/clanky/16187/foto-cesty-pod-tatrami-sa-menia-na-klzisko-auta-koncia-v-priekopach-vodici-stoja-v-kolonach",
+      "time": "2026-11-10T08:11:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794298322-foto-cesty-pod-tatrami-sa-menia-na-klzisko-auta-koncia-v-priekopach-vodici-stoja-v-kolonach.webp"
+    },
+    {
+      "title": "Nehoda troch áut na D1 zo Senca zdržuje vjazd do Bratislavy",
+      "link": "https://www.bratislavak.sk/clanky/16272/nehoda-troch-aut-komplikuje-vjazd-do-bratislavy-zo-senca-na-d1-sa-soferi-zdrzia-aj-35-minut",
+      "time": "2026-11-10T07:16:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1794295019-nehoda-troch-aut-komplikuje-vjazd-do-bratislavy-zo-senca-na-d1-sa-soferi-zdrzia-aj-35-minut.webp"
+    },
+    {
+      "title": "Poľadovica v Prešovskom kraji prináša nehody a kolóny",
+      "link": "https://www.presovak.sk/clanky/16184/viacere-cesty-v-presovskom-kraji-sa-premenili-na-klzisko-z-niekolkych-miest-uz-hlasia-vodici-nehody-aj-rozsiahle-kolony",
+      "time": "2026-11-10T07:11:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794294702-viacere-cesty-v-presovskom-kraji-sa-premenili-na-klzisko-z-niekolkych-miest-uz-hlasia-vodici-nehody-aj-rozsiah.webp"
     }
   ]
 }

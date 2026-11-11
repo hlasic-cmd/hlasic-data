@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T22:16:08.493535+00:00",
+  "generated_at": "2026-11-11T01:56:41.769443+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 2,
   "items": [
     {
       "title": "Taraba prekvapil koalíciu, Rusom unikli desivé čísla z vojny a Bulharskom otriasla tragédia (denný výber správ)",
@@ -10,16 +10,7 @@
       "cat": "nehoda",
       "region": "zilinsky",
       "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/denny-vyber-sprav-10112026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/MZRktktTURBXy9jM2MzYzg4ZS02YzZmLTQ5YTUtYjVjNi0yNWQyYTU3NDY1NTAucG5nkpUDAADNBwjNA_SVAs0H0ADCww?st=o4RG7ZZLtRv3eEZ7vprEGZp57f-RmQb77TghP3soNAg&ts=1794265200&e=0"
-    },
-    {
-      "title": "Vodiči v Bratislave, pozor! Na vjazde do mesta sa stala nehoda, ďalšie auto havarovalo v Ružinove",
-      "link": "https://www.bratislavak.sk/clanky/16289/vodici-v-bratislave-pozor-na-vjazde-do-mesta-sa-stala-nehoda-dalsie-auto-havarovalo-v-ruzinove",
-      "time": "2026-11-10T16:05:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1794327327-vodici-v-bratislave-pozor-na-vjazde-do-mesta-sa-stala-nehoda-dalsie-auto-havarovalo-v-ruzinove.webp"
+      "image": "https://img.aktuality.sk/foto/denny-vyber-sprav-10112026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/MZRktktTURBXy9jM2MzYzg4ZS02YzZmLTQ5YTUtYjVjNi0yNWQyYTU3NDY1NTAucG5nkpUDAADNBwjNA_SVAs0H0ADCww?st=0FMxTSHy9fc1mRQhU3hd1i9dedM0w-B7Cp_hHBMvcWQ&ts=1794351600&e=0"
     },
     {
       "title": "Spôsobil nehodu a odmietol fúkať",
@@ -29,33 +20,6 @@
       "region": "zilinsky",
       "src": "teraz.sk",
       "image": null
-    },
-    {
-      "title": "Po nehode v Klokočove odmietol dychovú skúšku. Polícia vodiča Mitsubishi zadržala a obvinila",
-      "link": "https://www.zilinak.sk/clanky/43959/foto-vodic-na-kysuciach-narazil-do-auta-pred-sebou-a-skoncil-v-plote-fukat-odmietol-teraz-celi-obvineniu",
-      "time": "2026-11-10T15:40:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794323609-foto-vodic-na-kysuciach-narazil-do-auta-pred-sebou-a-skoncil-v-plote-fukat-odmietol-teraz-celi-obvineniu.webp"
-    },
-    {
-      "title": "TRAGÉDIA NA DIAĽNICI: MZVEZ neeviduje Slovákov medzi obeťami",
-      "link": "https://www.teraz.sk/slovensko/tragedia-na-dialnici-mzvez-neeviduje/1006562-clanok.html",
-      "time": "2026-11-10T13:43:00+00:00",
-      "cat": "nehoda",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "FOTO: Tragická nehoda vo Veľkom Krtíši si vyžiadala život vodiča",
-      "link": "https://www.bystricak.sk/clanky/13744/foto-tragicka-nehoda-vo-velkom-krtisi-po-zrazke-dvoch-aut-jeden-z-vodicov-zomrel-cesta-na-lucenec-bola-uzavreta",
-      "time": "2026-11-10T11:51:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1794319954-foto-tragicka-nehoda-vo-velkom-krtisi-po-zrazke-dvoch-aut-jeden-z-vodicov-zomrel-cesta-na-lucenec-bola-uzavret.webp"
     }
   ]
 }

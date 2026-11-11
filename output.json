@@ -1,25 +1,43 @@
 {
-  "generated_at": "2026-11-11T01:56:41.769443+00:00",
+  "generated_at": "2026-11-11T08:37:43.802247+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 4,
   "items": [
     {
-      "title": "Taraba prekvapil koalíciu, Rusom unikli desivé čísla z vojny a Bulharskom otriasla tragédia (denný výber správ)",
-      "link": "https://www.aktuality.sk/clanok/sMcprkw/taraba-prekvapil-koaliciu-rusom-unikli-desive-cisla-z-vojny-bulharskom-otriasla-tragediadenny-vyber-sprav/",
-      "time": "2026-11-10T18:00:00+00:00",
-      "cat": "nehoda",
+      "title": "Pri Námestove v noci horela drevenica. Dobrovoľní hasiči sa zo zásahu vrátili až o tretej ráno",
+      "link": "https://www.zilinak.sk/clanky/43968/foto-na-orave-v-noci-horela-drevena-chatka-ked-prisli-hasici-bola-cela-v-plamenoch",
+      "time": "2026-11-11T08:10:00+00:00",
+      "cat": "poziar",
       "region": "zilinsky",
-      "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/denny-vyber-sprav-10112026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/MZRktktTURBXy9jM2MzYzg4ZS02YzZmLTQ5YTUtYjVjNi0yNWQyYTU3NDY1NTAucG5nkpUDAADNBwjNA_SVAs0H0ADCww?st=0FMxTSHy9fc1mRQhU3hd1i9dedM0w-B7Cp_hHBMvcWQ&ts=1794351600&e=0"
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794384067-foto-na-orave-v-noci-horela-drevena-chatka-ked-prisli-hasici-bola-cela-v-plamenoch.webp"
     },
     {
-      "title": "Spôsobil nehodu a odmietol fúkať",
-      "link": "https://www.teraz.sk/regiony/sposobil-nehodu-a-odmietol-fukat/1006612-clanok.html",
-      "time": "2026-11-10T15:43:00+00:00",
+      "title": "Na moste v Považskom Chlmci narazilo auto do autobusu. Ďalšie nehody hlásia vodiči z celej Žiliny",
+      "link": "https://www.zilinak.sk/clanky/43966/foto-cesty-v-ziline-pokryla-poladovica-vodici-hlasia-nehody-na-mostoch-zrazky-s-autobusmi-aj-naraz-do-stlpu",
+      "time": "2026-11-11T07:35:00+00:00",
       "cat": "nehoda",
       "region": "zilinsky",
-      "src": "teraz.sk",
-      "image": null
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794382645-foto-cesty-v-ziline-pokryla-poladovica-vodici-hlasia-nehody-na-mostoch-zrazky-s-autobusmi-aj-naraz-do-stlpu.webp"
+    },
+    {
+      "title": "Nehody v Bratislave a Dunajskej Lužnej spomaľujú dopravu",
+      "link": "https://www.bratislavak.sk/clanky/16290/v-bratislave-aj-okolitych-obciach-sa-stali-nehody-vodici-sa-niekolko-minut-zdrzia-aj-na-viacerych-tahoch",
+      "time": "2026-11-11T07:15:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1794381379-v-bratislave-aj-okolitych-obciach-sa-stali-nehody-vodici-sa-niekolko-minut-zdrzia-aj-na-viacerych-tahoch.webp"
+    },
+    {
+      "title": "Nehoda pri Víťazi komplikuje dopravu v Prešovskom kraji",
+      "link": "https://www.presovak.sk/clanky/16203/video-martin-na-bielom-koni-prisiel-pozor-na-nehodu-pri-vitazi-vodici-stoja-aj-na-viacerych-dalsich-usekoch",
+      "time": "2026-11-11T07:13:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794381292-video-martin-na-bielom-koni-prisiel-pozor-na-nehodu-pri-vitazi-vodici-stoja-aj-na-viacerych-dalsich-usekoch.webp"
     }
   ]
 }

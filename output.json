@@ -1,6 +1,160 @@
 {
-  "generated_at": "2026-11-12T03:29:49.211231+00:00",
+  "generated_at": "2026-11-12T11:38:59.714343+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 17,
+  "items": [
+    {
+      "title": "Polícia v Žiline rozlúskla sériu požiarov áut, škoda presiahla 100-tisíc eur",
+      "link": "https://www.aktuality.sk/clanok/E6PL8Wo/kriminalka-v-ziline-odhalila-seriu-podpalacskych-utokov-na-auta-skoda-presiahla-100-tisic-eur/",
+      "time": "2026-11-12T10:55:14+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/kriminalisti-v-ziline-zadrzali-podpalaca-aut/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/TsyktkpTURBXy9lM2RhNDMyMjU1OTY3ZDhhMWQ0ZTYyOTE1MmE5OTFjZC5qcGeSlQMAP80IAM0EgJUCzQfQAMLD?st=VbYzF5r6j7DHmGsF26NyCeRyVsGUiPZdw6rCk_XHN20&ts=1794438000&e=0"
+    },
+    {
+      "title": "Kamióny pri Prešove blokujú výhľad. Vodiči sa obávajú nehody",
+      "link": "https://www.presovak.sk/clanky/16220/video-vodici-pri-presove-su-zufali-kazdy-den-ten-isty-problem-kamiony-blokuju-cestu-musia-vychadzat-naslepo",
+      "time": "2026-11-12T10:50:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794473865-video-vodici-pri-presove-su-zufali-kazdy-den-ten-isty-problem-kamiony-blokuju-cestu-musia-vychadzat-naslepo.webp"
+    },
+    {
+      "title": "VÁŽNA NEHODA V LEVICIACH: Po zrážke autobusu s autom hlásia zranenia",
+      "link": "https://www.teraz.sk/regiony/vazna-nehoda-v-leviciach-po-zrazke/1007051-clanok.html",
+      "time": "2026-11-12T10:19:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Vážna nehoda v Leviciach. Autobus so 16-timi cestujúcimi sa zrazil s autom – FOTO",
+      "link": "https://sita.sk/vazna-nehoda-v-leviciach-autobus-so-16-timi-cestujucimi-sa-zrazil-s-autom-foto/",
+      "time": "2026-11-12T10:03:28+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/11/nehoda-1-688x387.jpg"
+    },
+    {
+      "title": "Most v Harichovciach sa po mnohých hádkach a prieťahoch dočká opravy",
+      "link": "https://www.kosicak.sk/clanky/14973/harichovcania-sa-po-dlhych-rokoch-dockali-most-v-havarijnom-stave-opravia-zupa-uz-prezradila-aj-cenu-rekonstrukcie",
+      "time": "2026-11-12T10:00:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1794473676-harichovcania-sa-po-dlhych-rokoch-dockali-most-v-havarijnom-stave-opravia-zupa-uz-prezradila-aj-cenu-rekonstru.webp"
+    },
+    {
+      "title": "Motocyklista po zrážke so srnou v okrese Trenčín skončil v nemocnici",
+      "link": "https://www.trencinak.sk/clanky/14492/motorkar-skoncil-po-nehode-v-okrese-trencin-v-nemocnici-do-cesty-mu-skocilo-toto-velke-zviera",
+      "time": "2026-11-12T09:55:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1794476341-motorkar-skoncil-po-nehode-v-okrese-trencin-v-nemocnici-do-cesty-mu-skocilo-toto-velke-zviera.webp"
+    },
+    {
+      "title": "Muž ležal v noci na ulici v Nitre, ľudia mu privolali pomoc. Záchranári však zistili niečo nečakané",
+      "link": "https://www.nitrak.sk/clanky/12517/nocna-zachrana-muza-leziaceho-na-zemi-v-nitre-mala-necakany-zaver-policia-upozornila-na-vazny-problem",
+      "time": "2026-11-12T09:15:00+00:00",
+      "cat": "poziar",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794470006-nocna-zachrana-muza-leziaceho-na-zemi-v-nitre-mala-necakany-zaver-policia-upozornila-na-vazny-problem.webp"
+    },
+    {
+      "title": "V Nitrianskom Rudne zrážka dodávky s autom blokuje hlavný ťah",
+      "link": "https://www.trencinak.sk/clanky/14495/vodici-pozor-v-nitrianskom-rudne-sa-na-hlavnom-tahu-zrazila-dodavka-s-osobnym-autom-usek-je-neprejazdny",
+      "time": "2026-11-12T09:05:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1794473301-vodici-pozor-v-nitrianskom-rudne-sa-na-hlavnom-tahu-zrazila-dodavka-s-osobnym-autom-usek-je-neprejazdny.webp"
+    },
+    {
+      "title": "Zrážka autobusu s autom v Leviciach sa skončila ťažko zranenou ženou, odvážal ju vrtuľník",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2077117-v-leviciach-sa-zrazil-autobus-s-autom-hlasia-viacero-zranenych?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-12T08:46:25+00:00",
+      "cat": "zasah",
+      "region": "nitriansky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/12/2560781/4x3-medium/nehoda.jpg?v=v7I"
+    },
+    {
+      "title": "FOTO: V Leviciach zasahujú všetky záchranné zložky. Po zrážke autobusu s autom uzavreli cestu",
+      "link": "https://www.nitrak.sk/clanky/12520/foto-v-leviciach-doslo-k-vaznej-zrazke-autobusu-s-autom-zranenych-je-viacero-ludi-cestu-uzavreli",
+      "time": "2026-11-12T08:15:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794471271-foto-v-leviciach-doslo-k-vaznej-zrazke-autobusu-s-autom-zranenych-je-viacero-ludi-cestu-uzavreli.webp"
+    },
+    {
+      "title": "Vodiči, pozor na výjazde z Komárna! Nehoda zablokovala jeden jazdný pruh",
+      "link": "https://www.nitrak.sk/clanky/12519/nehoda-na-vyjazde-z-komarna-komplikuje-rannu-premavku-zrazili-sa-dve-auta-ratajte-so-zdrzanim",
+      "time": "2026-11-12T08:06:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "NEHODA NA D1: Tunel Branisko je uzavretý obojsmerne",
+      "link": "https://www.teraz.sk/slovensko/nehoda-na-d1-tunel-branisko-je-uzavret/1007032-clanok.html",
+      "time": "2026-11-12T07:26:00+00:00",
+      "cat": "nehoda",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V Košiciach nehoda v Barci blokuje pruh, tvoria sa kolóny",
+      "link": "https://www.kosicak.sk/clanky/14982/v-kosiciach-komplikuje-premavku-dazd-v-barci-pozor-na-dopravnu-nehodu-v-kolonach-stojite-aj-na-dalsich-miestach",
+      "time": "2026-11-12T07:14:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1794467684-v-kosiciach-komplikuje-premavku-dazd-v-barci-pozor-na-dopravnu-nehodu-v-kolonach-stojite-aj-na-dalsich-miestac.webp"
+    },
+    {
+      "title": "Vodiči v Trnavskom kraji, pozor! Ráno prinieslo nehody aj kamión v problémoch",
+      "link": "https://www.trnavak.sk/clanky/12922/ranne-komplikacie-na-cestach-trnavskeho-kraja-nehody-aj-kamion-uviaznuty-v-kopci",
+      "time": "2026-11-12T07:09:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1794467484-ranne-komplikacie-na-cestach-trnavskeho-kraja-nehody-aj-kamion-uviaznuty-v-kopci.webp"
+    },
+    {
+      "title": "Nehoda uzavrela tunel Branisko v oboch smeroch",
+      "link": "https://www.presovak.sk/clanky/16218/dopravu-v-presovskom-kraji-komplikuje-dopravna-nehoda-pri-tuneli-branisko-aj-viacere-kolony",
+      "time": "2026-11-12T07:07:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794467275-dopravu-v-presovskom-kraji-komplikuje-dopravna-nehoda-pri-tuneli-branisko-aj-viacere-kolony.webp"
+    },
+    {
+      "title": "Polícia odhalila podpaľača áut v Žiline: Zničil ich až sedem",
+      "link": "https://www1.pluska.sk/krimi/policia-odhalila-podpalaca-aut-v-ziline-znicil-ich-az-sedem",
+      "time": "2026-11-12T00:00:00+00:00",
+      "cat": "poziar",
+      "region": "zilinsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/4c4/4c4365ad-8f82-434e-ad73-452dce67ea67.webp"
+    },
+    {
+      "title": "Vážna nehoda v Leviciach: Auto sa zrazilo s autobusom, hlásia zranených",
+      "link": "https://www1.pluska.sk/krimi/vazna-nehoda-v-leviciach-auto-sa-zrazilo-s-autobusom-hlasia-zranenych",
+      "time": "2026-11-12T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/5a1/5a1be696-f4fd-432f-af0d-45e67fb4b938.webp"
+    }
+  ]
 }

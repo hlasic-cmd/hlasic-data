@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-11T22:56:50.292801+00:00",
+  "generated_at": "2026-11-12T03:29:49.211231+00:00",
   "max_age_hours": 12,
-  "count": 2,
-  "items": [
-    {
-      "title": "Na troch miestach v Košiciach bolo odstavené kúrenie alebo dodávky teplej vody",
-      "link": "https://korzar.sme.sk/kosice/c/na-troch-miestach-v-kosiciach-je-odstavene-kurenie-alebo-dodavky-teplej-vody?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-11-11T14:18:43+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/019ea78e-bd62-7679-a6b6-01ccd5acb9d2.jpg"
-    },
-    {
-      "title": "Polícia pátra po nezvestnom 31-ročnom Jozefovi H.",
-      "link": "https://www.kosicak.sk/clanky/14974/znamy-youtuber-a-sportovec-dodo-halas-z-kosic-je-nezvestny-priatelom-ani-rodine-nezdviha-telefon-z-domu-odisiel-autom",
-      "time": "2026-11-11T13:35:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1794401591-znamy-youtuber-a-sportovec-dodo-halas-z-kosic-je-nezvestny-priatelom-ani-rodine-nezdviha-telefon-z-domu-odisie.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

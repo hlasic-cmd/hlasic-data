@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-11-13T06:30:27.596839+00:00",
+  "generated_at": "2026-11-13T14:48:50.250550+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 7,
+  "items": [
+    {
+      "title": "Prešla do protismeru a zdemolovala dve vozidlá. Žena v Turzovke nafúkala takmer tri a pol promile",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2078209-presla-do-protismeru-a-zdemolovala-dve-vozidla-zena-v-turzovke-nafukala-takmer-tri-a-pol-promile?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-13T14:26:14+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/13/2561643/4x3-medium/nehoda.jpg?v=IwY"
+    },
+    {
+      "title": "Dve nehody na priechodoch za jeden večer: V Bystrici zrazili 17-ročné dievča, v Ľupči 30-ročného muža",
+      "link": "https://www.bystricak.sk/clanky/13790/dve-zrazky-na-priechodoch-za-jeden-vecer-v-banskej-bystrici-aj-lupci-skoncili-chodci-v-nemocnici",
+      "time": "2026-11-13T14:20:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1794574412-dve-zrazky-na-priechodoch-za-jeden-vecer-v-banskej-bystrici-aj-lupci-skoncili-chodci-v-nemocnici.webp"
+    },
+    {
+      "title": "Polícia pátra po 23-ročnom Ivanovi z Nových Zámkoch, už takmer mesiac o sebe nepodal žiadnu správu",
+      "link": "https://www.nitrak.sk/clanky/12550/po-mladikovi-z-novych-zamkov-sa-zlahla-zem-ivan-sa-blizkym-neozval-uz-takmer-mesiac-patraju-po-nom",
+      "time": "2026-11-13T13:10:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794572132-po-mladikovi-z-novych-zamkov-sa-zlahla-zem-ivan-sa-blizkym-neozval-uz-takmer-mesiac-patraju-po-nom.webp"
+    },
+    {
+      "title": "Požiar drevenice v Liptovskej Tepličke: Škoda dosiahla 150-tisíc eur, hasiči zasahovali celú noc",
+      "link": "https://www.presovak.sk/clanky/16251/foto-poziar-drevenice-v-liptovskej-teplicke-sposobil-skodu-150-tisic-eur-hasici-bojovali-s-plamenmi-az-do-rana",
+      "time": "2026-11-13T12:45:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794572473-foto-poziar-drevenice-v-liptovskej-teplicke-sposobil-skodu-150tisic-eur-hasici-bojovali-s-plamenmi-az-do-rana.webp"
+    },
+    {
+      "title": "Nehoda kamióna a osobného auta v Prešove: Na ceste smerom na Sekčov je blokovaný pravý pruh",
+      "link": "https://www.presovak.sk/clanky/16250/v-presove-sa-zrazili-kamion-a-osobne-auto-nehoda-obmedzila-dopravu-smerom-na-sekcov",
+      "time": "2026-11-13T12:08:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Polícia pátra po 23-ročnom Ivanovi z Nových Zámkov",
+      "link": "https://www.trencinak.sk/clanky/14517/policia-z-trencianskeho-kraja-patra-po-23-rocnom-ivanovi-uz-viac-ako-mesiac-o-sebe-nepodal-ziadnu-spravu",
+      "time": "2026-11-13T11:00:00+00:00",
+      "cat": "patranie",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1794567499-policia-z-trencianskeho-kraja-patra-po-23rocnom-ivanovi-uz-sedem-dni-o-sebe-nepodal-ziadnu-spravu.webp"
+    },
+    {
+      "title": "Nehoda v Prešove pri Merkury Markete. Kamión sa zrazil s osobným autom, doprava sa môže spomaliť",
+      "link": "https://www.presovak.sk/clanky/16245/v-presove-sa-zrazil-kamion-s-osobnym-autom-nehoda-komplikuje-dopravu-na-duklianskej-ulici",
+      "time": "2026-11-13T09:05:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/01_aktualne.webp"
+    }
+  ]
 }

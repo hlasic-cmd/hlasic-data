@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-11-13T00:09:01.210066+00:00",
+  "generated_at": "2026-11-13T06:30:27.596839+00:00",
   "max_age_hours": 12,
-  "count": 5,
-  "items": [
-    {
-      "title": "SHMÚ: Hrozí dážď a hmla, v piatok sa pridá aj sneženie a silný vietor",
-      "link": "https://www.teraz.sk/slovensko/shmu-hrozi-dazd-a-hmla-v-piatok-s/1007252-clanok.html",
-      "time": "2026-11-12T17:34:00+00:00",
-      "cat": "burka",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Dôležitá skratka medzi Kysucami a Žilinou je neprejazdná. Zrazili sa tam tri autá, zasahujú záchranné zložky",
-      "link": "https://www.zilinak.sk/clanky/44008/dolezita-skratka-medzi-kysucami-a-zilinou-je-neprejazdna-zrazili-sa-tam-tri-auta-zasahuju-zachranne-zlozky",
-      "time": "2026-11-12T17:08:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794503318-dolezita-skratka-medzi-kysucami-a-zilinou-je-neprejazdna-zrazili-sa-tam-tri-auta-zasahuju-zachranne-zlozky.webp"
-    },
-    {
-      "title": "Nehoda pri OBI v Nitre blokuje jeden jazdný pruh",
-      "link": "https://www.nitrak.sk/clanky/12533/nehoda-v-nitre-komplikovala-dopravu-pri-predajni-obi-sa-zrazili-dve-auta-blokovany-bol-jeden-pruh",
-      "time": "2026-11-12T16:41:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Pri Bardejove sa stala tragická nehoda. Náraz do stromu neprežil 73-ročný vodič",
-      "link": "https://korzar.sme.sk/presov/c/pri-bardejove-sa-stala-tragicka-nehoda-naraz-do-stromu-neprezil-73-rocny-vodic?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-11-12T15:50:39+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a1d071-2be3-77a8-a495-20fc30d6392a.jpg"
-    },
-    {
-      "title": "Primátor Revúcej nafúkal 1,31 promile, no trestný čin mu nepreukázali. V prípade nastal zvrat",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2077485-primator-revucej-nafukal-1-31-promile-no-trestny-cin-mu-nepreukazali-v-pripade-juliusa-buchtu-nastal-zvrat?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-12T13:55:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2025/08/26/4x3-medium/julius-buchta-primator-revucej.jpg?v=T/w"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T19:06:05.107412+00:00",
+  "generated_at": "2026-11-13T00:09:01.210066+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 5,
   "items": [
     {
       "title": "SHMÚ: Hrozí dážď a hmla, v piatok sa pridá aj sneženie a silný vietor",
@@ -31,15 +31,6 @@
       "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Narazil do stojaceho Audi a odišiel domov. Vodičovi na Kysuciach policajti namerali 2,52 promile",
-      "link": "https://www.zilinak.sk/clanky/44005/foto-opity-vodic-na-kysuciach-narazil-do-stojaceho-auta-a-odisiel-domov-nafukal-viac-ako-25-promile",
-      "time": "2026-11-12T16:02:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794499372-foto-opity-vodic-na-kysuciach-narazil-do-stojaceho-auta-a-odisiel-domov-nafukal-viac-ako-25-promile.webp"
-    },
-    {
       "title": "Pri Bardejove sa stala tragická nehoda. Náraz do stromu neprežil 73-ročný vodič",
       "link": "https://korzar.sme.sk/presov/c/pri-bardejove-sa-stala-tragicka-nehoda-naraz-do-stromu-neprezil-73-rocny-vodic?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
       "time": "2026-11-12T15:50:39+00:00",
@@ -49,24 +40,6 @@
       "image": "https://image.smedata.sk/image/w660-h440/01a1d071-2be3-77a8-a495-20fc30d6392a.jpg"
     },
     {
-      "title": "V Zlatých Moravciach sa rodina len tesne vyhla zrážke. Vodič Toyoty podľa muža odišiel bez zastavenia",
-      "link": "https://www.nitrak.sk/clanky/12478/nebezpecna-krizovatka-pri-moravciach-opat-takmer-sposobila-nehodu-ludia-volaju-po-rieseni-vodici-sa-jej-obavaju",
-      "time": "2026-11-12T15:00:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794473825-nebezpecna-krizovatka-pri-moravciach-opat-takmer-sposobila-nehodu-ludia-volaju-po-rieseni-vodici-sa-jej-obavaj.webp"
-    },
-    {
-      "title": "Vyšetrovanie nehody primátora Revúcej sa skončilo. Prokuratúra upozornila na dôležitý detail",
-      "link": "https://www.bystricak.sk/clanky/13776/v-pripade-nehody-primatora-revucej-nastal-zvrat-viac-ako-jedno-promile-pri-soferovani-sa-nepodarilo-preukazat",
-      "time": "2026-11-12T14:50:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1794494234-v-pripade-nehody-primatora-revucej-nastal-zvrat-viac-ako-jedno-promile-pri-soferovani-sa-nepodarilo-preukazat.webp"
-    },
-    {
       "title": "Primátor Revúcej nafúkal 1,31 promile, no trestný čin mu nepreukázali. V prípade nastal zvrat",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2077485-primator-revucej-nafukal-1-31-promile-no-trestny-cin-mu-nepreukazali-v-pripade-juliusa-buchtu-nastal-zvrat?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-11-12T13:55:00+00:00",
@@ -74,15 +47,6 @@
       "region": "banskobystricky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2025/08/26/4x3-medium/julius-buchta-primator-revucej.jpg?v=T/w"
-    },
-    {
-      "title": "Zrážka autobusu s autom v Leviciach sa skončila ťažko zranenou ženou, odvážal ju vrtuľník",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2077117-v-leviciach-sa-zrazil-autobus-s-autom-hlasia-viacero-zranenych?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-12T08:46:25+00:00",
-      "cat": "zasah",
-      "region": "nitriansky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/12/2560781/4x3-medium/nehoda.jpg?v=v7I"
     }
   ]
 }

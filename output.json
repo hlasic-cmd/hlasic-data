@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-11-14T01:18:50.797245+00:00",
+  "generated_at": "2026-11-14T07:38:37.676771+00:00",
   "max_age_hours": 12,
-  "count": 4,
-  "items": [
-    {
-      "title": "Vodiči na R1 pozor! Pred Zlatými Moravcami havarovalo viacero áut",
-      "link": "https://www.nitrak.sk/clanky/12554/na-r1-pred-zlatymi-moravcami-sa-zrazilo-viacero-aut-doprava-je-obmedzena",
-      "time": "2026-11-13T18:59:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Pozor, na D1 smerom na Zlaté piesky sa zrazili dve autá",
-      "link": "https://www.bratislavak.sk/clanky/16349/nehoda-na-bratislavskej-d1-za-pristavnym-mostom-pri-cerpacej-stanici-sa-zrazili-dve-auta",
-      "time": "2026-11-13T17:31:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Vodiči v Rimavskej Sobote, pozor! Na hlavnom ťahu je nehoda",
-      "link": "https://www.bystricak.sk/clanky/13793/na-hlavnom-tahu-v-rimavskej-sobote-sa-stala-nehoda-dopravu-obmedzuje-blokovany-pruh",
-      "time": "2026-11-13T16:56:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Prešla do protismeru a zdemolovala dve vozidlá. Žena v Turzovke nafúkala takmer tri a pol promile",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2078209-presla-do-protismeru-a-zdemolovala-dve-vozidla-zena-v-turzovke-nafukala-takmer-tri-a-pol-promile?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-13T14:26:14+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/13/2561643/4x3-medium/nehoda.jpg?v=IwY"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

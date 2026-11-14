@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T21:00:33.828085+00:00",
+  "generated_at": "2026-11-14T01:18:50.797245+00:00",
   "max_age_hours": 12,
-  "count": 7,
+  "count": 4,
   "items": [
     {
       "title": "Vodiči na R1 pozor! Pred Zlatými Moravcami havarovalo viacero áut",
@@ -31,24 +31,6 @@
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Po nehode pri Trenčíne našli strateného kocúra Maxa",
-      "link": "https://www.trencinak.sk/clanky/14521/foto-po-nehode-pri-trencine-zmizol-kocur-maxo-dobrovolnici-vyskusali-aj-nezvycajny-sposob-ako-ho-privolat",
-      "time": "2026-11-13T15:40:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1794572617-foto-po-nehode-pri-trencine-zmizol-kocur-maxo-dobrovolnici-vyskusali-aj-nezvycajny-sposob-ako-ho-privolat.webp"
-    },
-    {
-      "title": "V Banskobystrickom kraji pátrajú po 22-ročnej žene",
-      "link": "https://www.bystricak.sk/clanky/13791/pomozte-pri-patrani-po-mladej-zene-z-rimavskej-soboty-nezvestna-je-22-rocna-tatiana",
-      "time": "2026-11-13T15:00:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1794579884-pomozte-pri-patrani-po-mladej-zene-z-rimavskej-soboty-nezvestna-je-22rocna-tatiana.webp"
-    },
-    {
       "title": "Prešla do protismeru a zdemolovala dve vozidlá. Žena v Turzovke nafúkala takmer tri a pol promile",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2078209-presla-do-protismeru-a-zdemolovala-dve-vozidla-zena-v-turzovke-nafukala-takmer-tri-a-pol-promile?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-11-13T14:26:14+00:00",
@@ -56,15 +38,6 @@
       "region": "zilinsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/11/13/2561643/4x3-medium/nehoda.jpg?v=IwY"
-    },
-    {
-      "title": "Polícia pátra po 23-ročnom Ivanovi z Nových Zámkov",
-      "link": "https://www.trencinak.sk/clanky/14517/policia-z-trencianskeho-kraja-patra-po-23-rocnom-ivanovi-uz-viac-ako-mesiac-o-sebe-nepodal-ziadnu-spravu",
-      "time": "2026-11-13T11:00:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1794567499-policia-z-trencianskeho-kraja-patra-po-23rocnom-ivanovi-uz-sedem-dni-o-sebe-nepodal-ziadnu-spravu.webp"
     }
   ]
 }

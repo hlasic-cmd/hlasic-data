@@ -1,34 +1,70 @@
 {
-  "generated_at": "2026-11-15T09:45:52.596355+00:00",
+  "generated_at": "2026-11-15T16:37:20.917775+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 8,
   "items": [
     {
-      "title": "Polícia pátra po 50-ročnej Adriane a 18-ročnej Liane z Ružomberka, nezvestné sú od soboty",
-      "link": "https://www.zilinak.sk/clanky/44032/adriana-a-liana-z-ruzomberka-su-nezvestne-patra-po-nich-policia-nevideli-ste-ich",
-      "time": "2026-11-15T08:30:00+00:00",
-      "cat": "patranie",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794730961-adriana-a-liana-z-ruzomberka-su-nezvestne-patra-po-nich-policia-nevideli-ste-ich.webp"
+      "title": "V bratislavskom byte vypukol požiar, zasahovalo 19 hasičov",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2078971-v-bratislavskom-byte-vypukol-poziar-zasahovalo-19-hasicov?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-15T15:59:58+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/04/20/4x3-medium/hasici-hazz-bajc-poziar-triedicka.jpg?v=vQM"
     },
     {
-      "title": "Opitý vodič v Poprade pri úteku zrazil chodkyňu, podľahla zraneniam",
-      "link": "https://www.presovak.sk/clanky/16257/opity-vodic-v-poprade-pri-uniku-pred-policiou-zrazil-32-rocnu-chodkynu-zraneniam-podlahla",
-      "time": "2026-11-15T08:30:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794730625-opity-vodic-v-poprade-pri-uniku-pred-policiou-zrazil-32rocnu-chodkynu-zraneniam-podlahla.webp"
+      "title": "Pri požiari v bytovom dome v bratislavskom N. Meste sa nikto nezranil",
+      "link": "https://www.teraz.sk/regiony/pri-poziari-v-bytovom-dome-v-bratislavs/1007797-clanok.html",
+      "time": "2026-11-15T15:10:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
     },
     {
-      "title": "Opitý vodič pri úteku pred políciou v Poprade prešiel na červenú a zabil chodkyňu",
-      "link": "https://www.aktuality.sk/clanok/ipeNDPO/opity-vodic-pri-uteku-pred-policiou-v-poprade-presiel-na-cervenu-a-zabil-chodkynu/",
-      "time": "2026-11-15T06:56:25+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
+      "title": "Požiar bytu v Bratislave už hasiči zlikvidovali",
+      "link": "https://www.aktuality.sk/clanok/wHphyOn/poziar-bytu-v-bratislave-uz-hasici-zlikvidovali/",
+      "time": "2026-11-15T14:48:35+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
       "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/nasledky-dopravnej-nehody-v-poprade-14-novembra-2026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/KNoktkqTURBXy9mOTQxY2M2MzY2YmFhZjRmYTlhNjE2M2IxZjQwNjA2Mi5qcGVnkpUDAMzozQN4zQHzlQLNB9AAwsM?st=9Okq_66tYCFBtGSfij2cB3-UMv4SL1ab_-Z3NXl-JgA&ts=1794697200&e=0"
+      "image": "https://img.aktuality.sk/foto/dym-stupa-pocas-poziaru-bytu-na-riazanskej-ulici-v-bratislave-15-novembra-2026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/zaZktkpTURBXy80ZTNiY2VlMDI5N2YwNGM4MzU5NmZiNzM2MGViNTU1Mi5qcGeSlQMAcs0IAM0EgJUCzQfQAMLD?st=BbFJDPwKd4oPE-Bzj45tNTJOFL8qMOSfFokUT60ynVg&ts=1794697200&e=0"
+    },
+    {
+      "title": "HaZZ: Dopravná nehoda môže v jedinom okamihu navždy zmeniť životy",
+      "link": "https://www.teraz.sk/slovensko/hazz-dopravna-nehoda-moze-v-jedinom/1007785-clanok.html",
+      "time": "2026-11-15T14:03:00+00:00",
+      "cat": "nehoda",
+      "region": null,
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "V bratislavskom Novom Meste horel byt",
+      "link": "https://www.bratislavak.sk/clanky/16354/aktualizovane-v-bratislavskom-novom-meste-horel-byt-udajne-bol-plny-zbytocnosti-zasahovalo-takmer-20-hasicov",
+      "time": "2026-11-15T13:43:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1794756316-aktualizovane-v-bratislavskom-novom-meste-horel-byt-udajne-bol-plny-zbytocnosti-zasahovalo-takmer-20-hasicov.webp"
+    },
+    {
+      "title": "V Poprade sa opitý vodič pokúsil uniknúť policajtom. Počas jazdy na červenú zrazil chodkyňu, zraneniam podľahla – FOTO",
+      "link": "https://sita.sk/v-poprade-sa-opity-vodic-pokusil-uniknut-policajtom-pocas-jazdy-na-cervenu-zrazil-chodkynu-zraneniam-podlahla-foto/",
+      "time": "2026-11-15T12:34:23+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/11/903683924_1114478761379025_278813345681163690_n-png-e1794741107988-688x387.jpeg"
+    },
+    {
+      "title": "Hasiči zasahovali pri požiari hospodárskej budove pri rodinnom dome v Korytárkach",
+      "link": "https://www.bystricak.sk/clanky/13799/foto-hasici-zasahovali-pri-rozsiahlom-poziari-pri-detve-plamene-pohltili-hospodarsku-budovu-pri-rodinnom-dome",
+      "time": "2026-11-15T10:02:00+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1794737006-foto-hasici-zasahovali-pri-rozsiahlom-poziari-pri-detve-plamene-pohltili-hospodarsku-budovu-pri-rodinnom-dome.webp"
     },
     {
       "title": "Opitý vodič pri úteku pred políciou zrazil chodkyňu, žena vážnym zraneniam podľahla",
@@ -38,15 +74,6 @@
       "region": "presovsky",
       "src": "korzar.sme.sk",
       "image": "https://image.smedata.sk/image/w660-h440/01a1ddd0-49bb-70a0-bebd-b7cbcbd8f9df.jpg"
-    },
-    {
-      "title": "Opitý vodič unikal polícii, prešiel na červenú a zrazil ženu: Tá na mieste zomrela",
-      "link": "https://www1.pluska.sk/krimi/opity-vodic-unikal-policii-presiel-na-cervenu-a-zrazil-zenu-ta-na-mieste-zomrela",
-      "time": "2026-11-15T00:00:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "www1.pluska.sk",
-      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/a06/a06730dd-6972-4b14-ac3a-9e58796877e7.webp"
     }
   ]
 }

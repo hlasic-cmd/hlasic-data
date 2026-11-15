@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T23:03:47.529017+00:00",
+  "generated_at": "2026-11-15T02:31:03.350140+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "title": "Na R1 pri Zvolene sa stala smrteľná nehoda s chodcom",
@@ -11,15 +11,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Polícia pátra po nezvestnom 14-ročnom Denisovi Čonkovi z Levíc",
-      "link": "https://www.nitrak.sk/clanky/12556/policia-hlada-14-rocneho-denisa-z-levic-nezvestny-je-uz-par-dni-nevideli-ste-ho",
-      "time": "2026-11-14T11:47:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794656835-policia-hlada-14rocneho-denisa-z-levic-nezvestny-je-uz-par-dni-nevideli-ste-ho.webp"
     }
   ]
 }

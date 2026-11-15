@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-11-15T16:37:20.917775+00:00",
+  "generated_at": "2026-11-15T21:12:57.882832+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 11,
   "items": [
+    {
+      "title": "Pre nehodovú udalosť je prerušená železničná doprava pri Ilave",
+      "link": "https://www.teraz.sk/regiony/pre-nehodovu-udalost-je-prerusena-z/1007826-clanok.html",
+      "time": "2026-11-15T18:56:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Cesta III/1295 z Trnavy na Zvončín je po nehode uzavretá",
+      "link": "https://www.trnavak.sk/clanky/12953/na-cesta-za-trnavou-doslo-k-dopravnej-nehode-prevratilo-sa-tam-auto-usek-je-neprejazdny",
+      "time": "2026-11-15T18:40:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Nehoda zastavila vlaky medzi Ilavou a Dubnicou, rýchliky odriekli",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2079047-medzi-ilavou-a-dubnicou-stoja-vlaky-po-nehodovej-udalosti-rychliky-odriekli?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-15T18:30:12+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/03/06/4x3-medium/vlak.jpg?v=T/w"
+    },
+    {
+      "title": "V Košickej Novej Vsi horela chatka, príčinou mohol byť únik plynu",
+      "link": "https://www.kosicak.sk/clanky/15023/v-kosickej-novej-vsi-v-casti-konopiska-vypukol-poziar-pricinou-mohol-byt-unik-plynu",
+      "time": "2026-11-15T17:15:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1794762906-v-kosickej-novej-vsi-v-casti-konopiska-vypukol-poziar-pricinou-mohol-byt-unik-plynu.webp"
+    },
     {
       "title": "V bratislavskom byte vypukol požiar, zasahovalo 19 hasičov",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2078971-v-bratislavskom-byte-vypukol-poziar-zasahovalo-19-hasicov?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -65,15 +101,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1794737006-foto-hasici-zasahovali-pri-rozsiahlom-poziari-pri-detve-plamene-pohltili-hospodarsku-budovu-pri-rodinnom-dome.webp"
-    },
-    {
-      "title": "Opitý vodič pri úteku pred políciou zrazil chodkyňu, žena vážnym zraneniam podľahla",
-      "link": "https://korzar.sme.sk/spis-gemer/c/opity-vodic-pri-uteku-pred-policiou-zrazil-chodkynu-zena-vaznym-zraneniam-podlahla?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-11-15T06:16:57+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a1ddd0-49bb-70a0-bebd-b7cbcbd8f9df.jpg"
     }
   ]
 }

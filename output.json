@@ -1,16 +1,52 @@
 {
-  "generated_at": "2026-11-15T02:31:03.350140+00:00",
+  "generated_at": "2026-11-15T09:45:52.596355+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 5,
   "items": [
     {
-      "title": "Na R1 pri Zvolene sa stala smrteľná nehoda s chodcom",
-      "link": "https://www.bystricak.sk/clanky/13798/na-r1-medzi-banskou-bystricou-a-zvolenom-doslo-k-smrtelnej-dopravnej-nehode",
-      "time": "2026-11-14T20:36:00+00:00",
+      "title": "Polícia pátra po 50-ročnej Adriane a 18-ročnej Liane z Ružomberka, nezvestné sú od soboty",
+      "link": "https://www.zilinak.sk/clanky/44032/adriana-a-liana-z-ruzomberka-su-nezvestne-patra-po-nich-policia-nevideli-ste-ich",
+      "time": "2026-11-15T08:30:00+00:00",
+      "cat": "patranie",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794730961-adriana-a-liana-z-ruzomberka-su-nezvestne-patra-po-nich-policia-nevideli-ste-ich.webp"
+    },
+    {
+      "title": "Opitý vodič v Poprade pri úteku zrazil chodkyňu, podľahla zraneniam",
+      "link": "https://www.presovak.sk/clanky/16257/opity-vodic-v-poprade-pri-uniku-pred-policiou-zrazil-32-rocnu-chodkynu-zraneniam-podlahla",
+      "time": "2026-11-15T08:30:00+00:00",
       "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794730625-opity-vodic-v-poprade-pri-uniku-pred-policiou-zrazil-32rocnu-chodkynu-zraneniam-podlahla.webp"
+    },
+    {
+      "title": "Opitý vodič pri úteku pred políciou v Poprade prešiel na červenú a zabil chodkyňu",
+      "link": "https://www.aktuality.sk/clanok/ipeNDPO/opity-vodic-pri-uteku-pred-policiou-v-poprade-presiel-na-cervenu-a-zabil-chodkynu/",
+      "time": "2026-11-15T06:56:25+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/nasledky-dopravnej-nehody-v-poprade-14-novembra-2026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/KNoktkqTURBXy9mOTQxY2M2MzY2YmFhZjRmYTlhNjE2M2IxZjQwNjA2Mi5qcGVnkpUDAMzozQN4zQHzlQLNB9AAwsM?st=9Okq_66tYCFBtGSfij2cB3-UMv4SL1ab_-Z3NXl-JgA&ts=1794697200&e=0"
+    },
+    {
+      "title": "Opitý vodič pri úteku pred políciou zrazil chodkyňu, žena vážnym zraneniam podľahla",
+      "link": "https://korzar.sme.sk/spis-gemer/c/opity-vodic-pri-uteku-pred-policiou-zrazil-chodkynu-zena-vaznym-zraneniam-podlahla?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-11-15T06:16:57+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a1ddd0-49bb-70a0-bebd-b7cbcbd8f9df.jpg"
+    },
+    {
+      "title": "Opitý vodič unikal polícii, prešiel na červenú a zrazil ženu: Tá na mieste zomrela",
+      "link": "https://www1.pluska.sk/krimi/opity-vodic-unikal-policii-presiel-na-cervenu-a-zrazil-zenu-ta-na-mieste-zomrela",
+      "time": "2026-11-15T00:00:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "www1.pluska.sk",
+      "image": "https://dam.production02.nmh.nmheagle.sk/api/pub/image/640x360/a06/a06730dd-6972-4b14-ac3a-9e58796877e7.webp"
     }
   ]
 }

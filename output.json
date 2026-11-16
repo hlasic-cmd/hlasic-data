@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T21:12:57.882832+00:00",
+  "generated_at": "2026-11-16T00:59:12.405000+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 9,
   "items": [
     {
       "title": "Pre nehodovú udalosť je prerušená železničná doprava pri Ilave",
@@ -64,7 +64,7 @@
       "cat": "poziar",
       "region": "bratislavsky",
       "src": "aktuality.sk",
-      "image": "https://img.aktuality.sk/foto/dym-stupa-pocas-poziaru-bytu-na-riazanskej-ulici-v-bratislave-15-novembra-2026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/zaZktkpTURBXy80ZTNiY2VlMDI5N2YwNGM4MzU5NmZiNzM2MGViNTU1Mi5qcGeSlQMAcs0IAM0EgJUCzQfQAMLD?st=BbFJDPwKd4oPE-Bzj45tNTJOFL8qMOSfFokUT60ynVg&ts=1794697200&e=0"
+      "image": "https://img.aktuality.sk/foto/dym-stupa-pocas-poziaru-bytu-na-riazanskej-ulici-v-bratislave-15-novembra-2026/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/zaZktkpTURBXy80ZTNiY2VlMDI5N2YwNGM4MzU5NmZiNzM2MGViNTU1Mi5qcGeSlQMAcs0IAM0EgJUCzQfQAMLD?st=ai8GlU5zSP_oY3XIyCxCV_WCBX4i12-7FCeC9yT9ixU&ts=1794783600&e=0"
     },
     {
       "title": "HaZZ: Dopravná nehoda môže v jedinom okamihu navždy zmeniť životy",
@@ -83,24 +83,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1794756316-aktualizovane-v-bratislavskom-novom-meste-horel-byt-udajne-bol-plny-zbytocnosti-zasahovalo-takmer-20-hasicov.webp"
-    },
-    {
-      "title": "V Poprade sa opitý vodič pokúsil uniknúť policajtom. Počas jazdy na červenú zrazil chodkyňu, zraneniam podľahla – FOTO",
-      "link": "https://sita.sk/v-poprade-sa-opity-vodic-pokusil-uniknut-policajtom-pocas-jazdy-na-cervenu-zrazil-chodkynu-zraneniam-podlahla-foto/",
-      "time": "2026-11-15T12:34:23+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/11/903683924_1114478761379025_278813345681163690_n-png-e1794741107988-688x387.jpeg"
-    },
-    {
-      "title": "Hasiči zasahovali pri požiari hospodárskej budove pri rodinnom dome v Korytárkach",
-      "link": "https://www.bystricak.sk/clanky/13799/foto-hasici-zasahovali-pri-rozsiahlom-poziari-pri-detve-plamene-pohltili-hospodarsku-budovu-pri-rodinnom-dome",
-      "time": "2026-11-15T10:02:00+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1794737006-foto-hasici-zasahovali-pri-rozsiahlom-poziari-pri-detve-plamene-pohltili-hospodarsku-budovu-pri-rodinnom-dome.webp"
     }
   ]
 }

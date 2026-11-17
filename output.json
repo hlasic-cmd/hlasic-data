@@ -1,61 +1,43 @@
 {
-  "generated_at": "2026-11-17T00:53:13.536287+00:00",
+  "generated_at": "2026-11-17T08:34:15.604736+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 4,
   "items": [
     {
-      "title": "Vlak v Zbehoch poškodil výhybku, doprava je prerušená. Spoj z Nitry do Nových Zámkov odriekli",
-      "link": "https://www.nitrak.sk/clanky/12578/vlakovu-dopravu-v-zbehoch-prerusila-nehoda-odriekli-aj-spoj-z-nitry-do-novych-zamkov-aj-smer-hlohovec",
-      "time": "2026-11-16T17:50:00+00:00",
+      "title": "Farmár z východu utrpel obrovskú stratu: Pri požiari uhynuli zvieratá v stodole",
+      "link": "https://www.presovak.sk/clanky/16286/poziar-pripravil-farmara-z-kezmarskeho-okresu-o-statok-aj-stodolu-hasici-bojovali-s-ohnom-celu-noc",
+      "time": "2026-11-17T07:33:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794901574-poziar-pripravil-farmara-z-kezmarskeho-okresu-o-statok-aj-stodolu-hasici-bojovali-s-ohnom-celu-noc.webp"
+    },
+    {
+      "title": "Dopravný kolaps v centre Nitry: Na Štúrovej ulici sa zrazili tri autá, tvoria sa dlhé kolóny",
+      "link": "https://www.nitrak.sk/clanky/12579/ranny-kolaps-dopravy-v-centre-nitry-zrazka-troch-aut-zablokovala-premavku-tvoria-sa-dlhe-kolony-a-meska-aj-mhd",
+      "time": "2026-11-17T07:11:00+00:00",
       "cat": "nehoda",
       "region": "nitriansky",
       "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794854852-vlakovu-dopravu-v-zbehoch-prerusila-nehoda-odriekli-aj-spoj-z-nitry-do-novych-zamkov-aj-smer-hlohovec.webp"
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794899663-ranny-kolaps-dopravy-v-centre-nitry-zrazka-troch-aut-zablokovala-premavku-tvoria-sa-dlhe-kolony-a-meska-aj-mhd.webp"
     },
     {
-      "title": "Pri Lučenci došlo k zrážke áut s kamiónom, cestu uzavreli zasahujúce záchranné zložky",
-      "link": "https://www.bystricak.sk/clanky/13819/pri-lucenci-doslo-k-zrazke-aut-s-kamionom-cestu-uzavreli-zasahujuce-zachranne-zlozky",
-      "time": "2026-11-16T17:35:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Polícia obvinila v prípade tragickej nehody v Poprade 26-ročného muža",
-      "link": "https://www.teraz.sk/regiony/policia-obvinila-v-pripade-tragickej-n/1008087-clanok.html",
-      "time": "2026-11-16T16:53:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Opitý vodič zabil v Poprade mamu dvoch detí. Zverejnili jej parte",
-      "link": "https://www.presovak.sk/clanky/16283/tragedia-v-poprade-ma-svoju-tvar-opity-vodic-pripravil-o-zivot-32-rocnu-petru-zostali-po-nej-dve-deti",
-      "time": "2026-11-16T16:40:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794843800-tragedia-v-poprade-ma-svoju-tvar-opity-vodic-pripravil-o-zivot-32rocnu-petru-zostali-po-nej-dve-deti.webp"
-    },
-    {
-      "title": "VIDEO: Neďaleko Hlohovca havarovalo auto, na mieste zasahujú hasiči i polícia",
-      "link": "https://www.trnavak.sk/clanky/12974/video-nedaleko-hlohovca-havarovalo-auto-na-mieste-zasahuju-hasici-i-policia",
-      "time": "2026-11-16T15:16:00+00:00",
+      "title": "Pozor na cestách! Ranná nehoda uzavrela cestu na Záhorí, vodiči musia využiť obchádzku",
+      "link": "https://www.trnavak.sk/clanky/12976/pozor-na-cestach-ranna-nehoda-uzavrela-cestu-na-zahori-vodici-musia-vyuzit-obchadzku",
+      "time": "2026-11-17T06:59:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1794842251-video-nedaleko-hlohovca-havarovalo-auto-na-mieste-zasahuju-hasici-i-policia.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1794899091-pozor-na-cestach-ranna-nehoda-uzavrela-cestu-na-zahori-vodici-musia-vyuzit-obchadzku.webp"
     },
     {
-      "title": "Komín materskej školy zachvátili plamene, evakuovať museli 14 detí",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2079605-komin-materskej-skoly-zachvatili-plamene-evakuovat-museli-14-deti?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-16T14:37:09+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/06/29/4x3-medium/poziar-sturovo_01.jpg?v=T/w"
+      "title": "FOTO: Sestrička z novozámockej nemocnice zachraňovala životy pri hrozivej nehode, teraz získala prestížne ocenenie",
+      "link": "https://www.nitrak.sk/clanky/12575/foto-zdravotna-sestra-andrea-z-novych-zamkov-je-vitazkou-ankety-moja-sestra-2026-pomohla-pri-hrozivej-havarii",
+      "time": "2026-11-17T06:40:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794841405-foto-zdravotna-sestra-andrea-z-novych-zamkov-je-vitazkou-ankety-moja-sestra-2026-pomohla-pri-hrozivej-havarii.webp"
     }
   ]
 }

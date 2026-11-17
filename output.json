@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-11-16T17:23:40.250108+00:00",
+  "generated_at": "2026-11-17T00:53:13.536287+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 6,
   "items": [
     {
-      "title": "Vodiči, pozor: Nehoda na križovatke pri Leviciach, na mieste zasahujú hasiči aj polícia",
-      "link": "https://www.nitrak.sk/clanky/12577/vodici-pozor-nehoda-na-krizovatke-pri-leviciach-na-mieste-zasahuju-hasici-aj-policia",
-      "time": "2026-11-16T17:00:00+00:00",
+      "title": "Vlak v Zbehoch poškodil výhybku, doprava je prerušená. Spoj z Nitry do Nových Zámkov odriekli",
+      "link": "https://www.nitrak.sk/clanky/12578/vlakovu-dopravu-v-zbehoch-prerusila-nehoda-odriekli-aj-spoj-z-nitry-do-novych-zamkov-aj-smer-hlohovec",
+      "time": "2026-11-16T17:50:00+00:00",
       "cat": "nehoda",
       "region": "nitriansky",
       "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794854852-vlakovu-dopravu-v-zbehoch-prerusila-nehoda-odriekli-aj-spoj-z-nitry-do-novych-zamkov-aj-smer-hlohovec.webp"
+    },
+    {
+      "title": "Pri Lučenci došlo k zrážke áut s kamiónom, cestu uzavreli zasahujúce záchranné zložky",
+      "link": "https://www.bystricak.sk/clanky/13819/pri-lucenci-doslo-k-zrazke-aut-s-kamionom-cestu-uzavreli-zasahujuce-zachranne-zlozky",
+      "time": "2026-11-16T17:35:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/02_aktualne.webp"
     },
     {
       "title": "Polícia obvinila v prípade tragickej nehody v Poprade 26-ročného muža",
@@ -40,24 +49,6 @@
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1794842251-video-nedaleko-hlohovca-havarovalo-auto-na-mieste-zasahuju-hasici-i-policia.webp"
     },
     {
-      "title": "Požiar v materskej škole pri Humennom. Evakuovali 14 malých detí",
-      "link": "https://www.presovak.sk/clanky/16281/poziar-v-materskej-skolke-pri-humennomz-budovy-museli-evakuovat-14-deti-hasici-zasahovali-aj-s-vyskovou-plosinou",
-      "time": "2026-11-16T14:50:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1794840263-poziar-v-materskej-skolke-pri-humennomz-budovy-museli-evakuovat-14-deti-hasici-zasahovali-aj-s-vyskovou-plosin.webp"
-    },
-    {
-      "title": "Žena z Nitrianskeho kraja po nehode nafúkala 2,42 promile. Polícia odhalila aj manželov, ktorí šoférovali opití",
-      "link": "https://www.nitrak.sk/clanky/12572/opity-manzelsky-par-z-tvrdosoviec-putoval-za-mreze-policajti-najprv-prichytili-za-volantom-muza-potom-aj-zenu",
-      "time": "2026-11-16T14:40:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794832850-opity-manzelsky-par-z-tvrdosoviec-putoval-za-mreze-policajti-najprv-prichytili-za-volantom-muza-potom-aj-zenu.webp"
-    },
-    {
       "title": "Komín materskej školy zachvátili plamene, evakuovať museli 14 detí",
       "link": "https://www.pravda.sk/spravy/regiony/clanok/2079605-komin-materskej-skoly-zachvatili-plamene-evakuovat-museli-14-deti?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
       "time": "2026-11-16T14:37:09+00:00",
@@ -65,24 +56,6 @@
       "region": "presovsky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/06/29/4x3-medium/poziar-sturovo_01.jpg?v=T/w"
-    },
-    {
-      "title": "Modré oči, tetovania a výrazná žltá čiapka. Polícia hľadá 31-ročného Žilinčana",
-      "link": "https://www.zilinak.sk/clanky/44051/naposledy-ho-videli-doma-odvtedy-sa-neozval-policia-patra-po-31-rocnom-zilincanovi-s-tetovaniami",
-      "time": "2026-11-16T13:30:00+00:00",
-      "cat": "patranie",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794833498-naposledy-ho-videli-doma-odvtedy-sa-neozval-policia-patra-po-31rocnom-zilincanovi-s-tetovaniami.webp"
-    },
-    {
-      "title": "Vnútro od Airbusu nakupuje nie dve, ale tri vrtuľníky. Každý za 40 miliónov eur, Šutaj Eštok už podpísal aj zmluvu",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2079399-vnutro-od-airbusu-nakupuje-nie-dve-ale-tri-vrtulniky-kazdy-za-40-milionov-eur-sutajk-estok-uz-podpisla-zmluvu?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-16T11:05:16+00:00",
-      "cat": "zasah",
-      "region": "nitriansky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2018/04/15/4x3-medium/ministerstvo-vnutra-mv-sr-budova.jpg?v=LE4"
     }
   ]
 }

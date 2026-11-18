@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-11-18T15:06:44.703432+00:00",
+  "generated_at": "2026-11-18T22:33:01.253939+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 6,
   "items": [
+    {
+      "title": "Dramatická nehoda v Banskej Bystrici: Auto preletelo križovatkou a skončilo na streche",
+      "link": "https://www.bystricak.sk/clanky/13852/ludia-na-zastavke-v-bystrici-zostali-v-soku-75-rocny-vodic-preletel-krizovatkou-a-skoncil-na-streche-medzi-stromami",
+      "time": "2026-11-18T19:00:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795027380-ludia-na-zastavke-v-bystrici-zostali-v-soku-75rocny-vodic-preletel-krizovatkou-a-skoncil-na-streche-medzi-stro.webp"
+    },
+    {
+      "title": "Ranč v obci Šumiac zhorel do tla. Škody rátajú v státisícoch",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2081411-ranc-v-obci-sumiac-zhorel-do-tla-skody-rataju-v-statisicoch?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-18T18:12:17+00:00",
+      "cat": "poziar",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/18/2564227/4x3-medium/ranc-sumiac.jpg?v=UGg"
+    },
+    {
+      "title": "Dopravné komplikácie v Trnavskom kraji: Kamión skončil mimo cesty, premávku odklonili",
+      "link": "https://www.trnavak.sk/clanky/13001/kamion-skoncil-mimo-cesty-tento-usek-pri-senici-uzavreli-vodici-musia-ist-obchadzkou",
+      "time": "2026-11-18T16:59:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Vodiči, pozor na cestu v Poprade. Po nehode premávku riadi polícia",
+      "link": "https://www.presovak.sk/clanky/16314/v-poprade-doslo-k-nehode-vodici-musia-pocitat-s-obmedzeniami-premavku-riadi-policia",
+      "time": "2026-11-18T16:14:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+    },
     {
       "title": "Ranná nehoda v Šamoríne: Autobus zrazil ženu na priechode, skončila s ťažkými zraneniami",
       "link": "https://www.pravda.sk/spravy/domace/clanok/2081145-ranna-nehoda-v-samorine-autobus-zrazil-zenu-na-priechode-skoncila-s-tazkymi-zraneniami?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
@@ -13,33 +49,6 @@
       "image": "https://prvd.sk/cdn/2026/11/18/2563983/4x3-medium/autobus-samorin.jpg?v=0jY"
     },
     {
-      "title": "FOTO: Pri Krupine došlo k nehode kamiónov, jeden vodič utrpel zranenia. Druhý z miesta odišiel",
-      "link": "https://www.bystricak.sk/clanky/13843/foto-pri-krupine-doslo-ku-kolizii-nakladnych-aut-vodic-po-nehode-usiel-odtahova-sluzba-hlada-svedkov",
-      "time": "2026-11-18T12:50:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795003100-foto-pri-krupine-doslo-ku-kolizii-nakladnych-aut-vodic-po-nehode-usiel-odtahova-sluzba-hlada-svedkov.webp"
-    },
-    {
-      "title": "Hasiči: Zvýšené riziko vzniku požiarov neplatí v žiadnom okrese v SR",
-      "link": "https://www.teraz.sk/slovensko/zvysene-riziko-vzniku-poziarov-nepla/1008612-clanok.html",
-      "time": "2026-11-18T12:35:00+00:00",
-      "cat": "poziar",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Ďalšia vážna nehoda v Šamoríne: Chodkyňa po zrážke s autobusom skončila s vážnymi zraneniami v nemocnici",
-      "link": "https://www.trnavak.sk/clanky/12995/dalsia-vazna-nehoda-v-samorine-chodkyna-po-zrazke-s-autobusom-skoncila-s-vaznymi-zraneniami-v-nemocnici",
-      "time": "2026-11-18T11:50:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795002720-dalsia-vazna-nehoda-v-samorine-chodkyna-po-zrazke-s-autobusom-skoncila-s-vaznymi-zraneniami-v-nemocnici.webp"
-    },
-    {
       "title": "Na námestí ticho, na internete poriadna búrka. Kysučania sa pohádali pre 17. november",
       "link": "https://www.zilinak.sk/clanky/44090/prazdne-namestie-17-novembra-rozdelilo-kysucanov-diskusia-sa-zmenila-na-ostru-hadku-o-minulosti",
       "time": "2026-11-18T11:30:00+00:00",
@@ -47,42 +56,6 @@
       "region": "zilinsky",
       "src": "zilinak.sk",
       "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794998946-prazdne-namestie-17-novembra-rozdelilo-kysucanov-diskusia-sa-zmenila-na-ostru-hadku-o-minulosti.webp"
-    },
-    {
-      "title": "Nehoda ochromila dopravu v centre Bratislavy. Električky nepremávajú",
-      "link": "https://www.bratislavak.sk/clanky/16406/nehoda-zablokovala-ulicu-v-centre-bratislavy-elektricky-prestali-premavat-policia-zasahuje",
-      "time": "2026-11-18T10:48:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Polícia našla nezvestného Daniela z Dubnice nad Váhom",
-      "link": "https://www.trencinak.sk/clanky/14570/foto-policia-zverejnila-fotografie-z-patrania-po-danielovi-muza-nakoniec-nasli-za-pomoci-v-noci",
-      "time": "2026-11-18T10:25:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1794994735-foto-policia-zverejnila-fotografie-z-patrania-po-danielovi-muza-nakoniec-nasli-za-pomoci-v-noci.webp"
-    },
-    {
-      "title": "Auto našiel poškodené, vinník bol preč. V Liptovskom Mikuláši teraz hľadajú svedkov aj záznamy",
-      "link": "https://www.zilinak.sk/clanky/44089/vodic-si-v-liptovskom-mikulasi-nasiel-auto-v-zubozenom-stave-vinnika-mohli-zachytit-kamery-ludia-ponukli-pomoc",
-      "time": "2026-11-18T09:40:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794992976-vodic-si-v-liptovskom-mikulasi-nasiel-auto-v-zubozenom-stave-vinnika-mohli-zachytit-kamery-ludia-ponukli-pomoc.webp"
-    },
-    {
-      "title": "Do Nitrianskeho kraja mieri výdatný dážď, počasie bude divoké. SHMÚ varuje aj pred hmlou",
-      "link": "https://www.nitrak.sk/clanky/12589/na-slovensko-mieria-vydatne-zrazky-a-burky-zasiahnu-aj-nitriansky-kraj-a-pozor-i-na-hmlu",
-      "time": "2026-11-18T08:02:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1794989050-na-slovensko-mieria-vydatne-zrazky-a-burky-zasiahnu-aj-nitriansky-kraj-a-pozor-i-na-hmlu.webp"
     }
   ]
 }

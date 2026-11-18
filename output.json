@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T23:59:54.656548+00:00",
+  "generated_at": "2026-11-18T05:59:43.275442+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 2,
   "items": [
     {
       "title": "Vodiči sa dočkali, Vianoce prídu skôr. Nebezpečný úsek križovatky opravia už tento týždeň",
@@ -20,42 +20,6 @@
       "region": "kosicky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2026/08/786829700_1809968833323550_2591674414055264879_n-png-688x387.jpeg"
-    },
-    {
-      "title": "Na slovenských cestách sa minulý týždeň stalo 222 dopravných nehôd",
-      "link": "https://www.teraz.sk/slovensko/na-slovenskych-cestach-sa-minuly-ty/1008438-clanok.html",
-      "time": "2026-11-17T17:54:00+00:00",
-      "cat": "nehoda",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "NEVIDELI STE HO? Pátrajú po nezvestnom Danielovi z Dubnice nad Váhom",
-      "link": "https://www.teraz.sk/regiony/nevideli-ste-ho-patraju-po-nezvestnom/1008412-clanok.html",
-      "time": "2026-11-17T15:58:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "VODIČI NAFÚKALI: Pri nehodách v okrese Košice-okolie sa zranili i deti",
-      "link": "https://www.teraz.sk/regiony/vodici-nafukali-pri-nehodach-v-okres/1008408-clanok.html",
-      "time": "2026-11-17T15:43:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Nové vrtuľníky rezortu vnútra budú určené na hasenie alebo evakuáciu",
-      "link": "https://www.teraz.sk/slovensko/nove-vrtulniky-rezortu-vnutra-budu/1008379-clanok.html",
-      "time": "2026-11-17T14:49:00+00:00",
-      "cat": "zasah",
-      "region": null,
-      "src": "teraz.sk",
-      "image": null
     }
   ]
 }

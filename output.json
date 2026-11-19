@@ -1,43 +1,52 @@
 {
-  "generated_at": "2026-11-19T03:46:50.736630+00:00",
+  "generated_at": "2026-11-19T12:11:46.460129+00:00",
   "max_age_hours": 12,
-  "count": 4,
+  "count": 5,
   "items": [
     {
-      "title": "Dramatická nehoda v Banskej Bystrici: Auto preletelo križovatkou a skončilo na streche",
-      "link": "https://www.bystricak.sk/clanky/13852/ludia-na-zastavke-v-bystrici-zostali-v-soku-75-rocny-vodic-preletel-krizovatkou-a-skoncil-na-streche-medzi-stromami",
-      "time": "2026-11-18T19:00:00+00:00",
+      "title": "Obiehanie kamiónu cez plnú čiaru sa stalo vodičke osudným, čelnú zrážku s oprotiidúcim autom neprežila – FOTO",
+      "link": "https://sita.sk/obiehanie-kamionu-cez-plnu-ciaru-sa-stalo-vodicke-osudnym-celnu-zrazku-s-oprotiiducim-autom-neprezila-foto/",
+      "time": "2026-11-19T12:05:04+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "sita.sk",
+      "image": "https://cdn.sita.sk/sites/32/2026/11/nehoda-galanta2-688x387.jpg"
+    },
+    {
+      "title": "VIDEO: Na R2 pri Zvolene havaroval 46-ročný vodič. Po náraze vyletel s autom za zvodidlá",
+      "link": "https://www.bystricak.sk/clanky/13855/video-vazna-nehoda-na-r2-pri-zvolene-vodica-museli-z-auta-vyslobodzovat-hasici-utrpel-tazke-zranenia",
+      "time": "2026-11-19T08:12:00+00:00",
       "cat": "nehoda",
       "region": "banskobystricky",
       "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795027380-ludia-na-zastavke-v-bystrici-zostali-v-soku-75rocny-vodic-preletel-krizovatkou-a-skoncil-na-streche-medzi-stro.webp"
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795089754-video-vazna-nehoda-na-r2-pri-zvolene-vodica-museli-z-auta-vyslobodzovat-hasici-utrpel-tazke-zranenia.webp"
     },
     {
-      "title": "Ranč v obci Šumiac zhorel do tla. Škody rátajú v státisícoch",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2081411-ranc-v-obci-sumiac-zhorel-do-tla-skody-rataju-v-statisicoch?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-18T18:12:17+00:00",
-      "cat": "poziar",
-      "region": "banskobystricky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/18/2564227/4x3-medium/ranc-sumiac.jpg?v=UGg"
-    },
-    {
-      "title": "Dopravné komplikácie v Trnavskom kraji: Kamión skončil mimo cesty, premávku odklonili",
-      "link": "https://www.trnavak.sk/clanky/13001/kamion-skoncil-mimo-cesty-tento-usek-pri-senici-uzavreli-vodici-musia-ist-obchadzkou",
-      "time": "2026-11-18T16:59:00+00:00",
+      "title": "Medzi Tomášikovom a Jahodnou sa zrazil kamión s osobným autom",
+      "link": "https://www.trnavak.sk/clanky/13002/foto-tragicka-nehoda-pri-tomasikove-celnu-zrazku-neprezila-54-rocna-vodicka-predchadzala-cez-plnu-ciaru",
+      "time": "2026-11-19T07:30:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795085583-foto-tragicka-nehoda-pri-tomasikove-celnu-zrazku-neprezila-54rocna-vodicka-predchadzala-cez-plnu-ciaru.webp"
     },
     {
-      "title": "Vodiči, pozor na cestu v Poprade. Po nehode premávku riadi polícia",
-      "link": "https://www.presovak.sk/clanky/16314/v-poprade-doslo-k-nehode-vodici-musia-pocitat-s-obmedzeniami-premavku-riadi-policia",
-      "time": "2026-11-18T16:14:00+00:00",
+      "title": "V Michalovciach vyhasol život chodca, ktorý prechádzal cez zebru",
+      "link": "https://www.kosicak.sk/clanky/15074/smrtelna-nehoda-v-michalovciach-mlady-vodic-zrazil-chodca-na-priechode-na-mieste-bojovali-o-jeho-zivot",
+      "time": "2026-11-19T07:24:00+00:00",
       "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1795073089-smrtelna-nehoda-v-michalovciach-mlady-vodic-zrazil-chodca-na-priechode-na-mieste-bojovali-o-jeho-zivot.webp"
+    },
+    {
+      "title": "Havária potrubia Nováky – Oslany preruší dodávky vody",
+      "link": "https://www.trencinak.sk/clanky/14575/havaria-na-potrubi-v-novakoch-sposobi-vo-stvrtok-velku-odstavku-vody-bez-dodavok-zostanu-tisice-obyvatelov",
+      "time": "2026-11-19T06:40:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1795010832-havaria-na-potrubi-v-novakoch-sposobi-vo-stvrtok-velku-odstavku-vody-bez-dodavok-zostanu-tisice-obyvatelov.webp"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T22:33:01.253939+00:00",
+  "generated_at": "2026-11-19T03:46:50.736630+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 4,
   "items": [
     {
       "title": "Dramatická nehoda v Banskej Bystrici: Auto preletelo križovatkou a skončilo na streche",
@@ -38,24 +38,6 @@
       "region": "presovsky",
       "src": "presovak.sk",
       "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Ranná nehoda v Šamoríne: Autobus zrazil ženu na priechode, skončila s ťažkými zraneniami",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2081145-ranna-nehoda-v-samorine-autobus-zrazil-zenu-na-priechode-skoncila-s-tazkymi-zraneniami?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-18T12:51:08+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/18/2563983/4x3-medium/autobus-samorin.jpg?v=0jY"
-    },
-    {
-      "title": "Na námestí ticho, na internete poriadna búrka. Kysučania sa pohádali pre 17. november",
-      "link": "https://www.zilinak.sk/clanky/44090/prazdne-namestie-17-novembra-rozdelilo-kysucanov-diskusia-sa-zmenila-na-ostru-hadku-o-minulosti",
-      "time": "2026-11-18T11:30:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1794998946-prazdne-namestie-17-novembra-rozdelilo-kysucanov-diskusia-sa-zmenila-na-ostru-hadku-o-minulosti.webp"
     }
   ]
 }

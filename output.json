@@ -1,52 +1,79 @@
 {
-  "generated_at": "2026-11-19T12:11:46.460129+00:00",
+  "generated_at": "2026-11-19T20:29:36.780511+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 8,
   "items": [
     {
-      "title": "Obiehanie kamiónu cez plnú čiaru sa stalo vodičke osudným, čelnú zrážku s oprotiidúcim autom neprežila – FOTO",
-      "link": "https://sita.sk/obiehanie-kamionu-cez-plnu-ciaru-sa-stalo-vodicke-osudnym-celnu-zrazku-s-oprotiiducim-autom-neprezila-foto/",
-      "time": "2026-11-19T12:05:04+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/11/nehoda-galanta2-688x387.jpg"
+      "title": "Z Levíc zmizol len 15-ročný Lukáš. Polícia zverejnila opis oblečenia, upozornila aj na jeden detail",
+      "link": "https://www.nitrak.sk/clanky/12615/z-levic-zmizol-len-15-rocny-lukas-policia-zverejnila-opis-oblecenia-upozornila-aj-na-jeden-detail",
+      "time": "2026-11-19T18:30:00+00:00",
+      "cat": "patranie",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795112713-z-levic-zmizol-len-15rocny-lukas-policia-zverejnila-opis-oblecenia-upozornila-aj-na-jeden-detail.webp"
     },
     {
-      "title": "VIDEO: Na R2 pri Zvolene havaroval 46-ročný vodič. Po náraze vyletel s autom za zvodidlá",
-      "link": "https://www.bystricak.sk/clanky/13855/video-vazna-nehoda-na-r2-pri-zvolene-vodica-museli-z-auta-vyslobodzovat-hasici-utrpel-tazke-zranenia",
-      "time": "2026-11-19T08:12:00+00:00",
-      "cat": "nehoda",
+      "title": "Zo Žiaru nad Hronom zmizla 18-ročná Salome. Polícia žiada verejnosť o pomoc pri pátraní",
+      "link": "https://www.bystricak.sk/clanky/13867/zo-ziaru-nad-hronom-zmizla-18-rocna-salome-policia-ziada-verejnost-o-pomoc-pri-patrani",
+      "time": "2026-11-19T18:05:00+00:00",
+      "cat": "patranie",
       "region": "banskobystricky",
       "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795089754-video-vazna-nehoda-na-r2-pri-zvolene-vodica-museli-z-auta-vyslobodzovat-hasici-utrpel-tazke-zranenia.webp"
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795111541-zo-ziaru-nad-hronom-zmizla-18rocna-salome-policia-ziada-verejnost-o-pomoc-pri-patrani.webp"
     },
     {
-      "title": "Medzi Tomášikovom a Jahodnou sa zrazil kamión s osobným autom",
-      "link": "https://www.trnavak.sk/clanky/13002/foto-tragicka-nehoda-pri-tomasikove-celnu-zrazku-neprezila-54-rocna-vodicka-predchadzala-cez-plnu-ciaru",
-      "time": "2026-11-19T07:30:00+00:00",
+      "title": "Polícia pátra po len 16-ročnej Daniele z okresu Košice-okolie. Nezvestné dievča môže mať pri sebe dva ruksaky",
+      "link": "https://www.kosicak.sk/clanky/15092/policia-patra-po-len-16-rocnej-daniele-z-okresu-kosice-okolie-nezvestne-dievca-moze-mat-pri-sebe-dva-ruksaky",
+      "time": "2026-11-19T18:00:00+00:00",
+      "cat": "patranie",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1795110914-policia-patra-po-len-16rocnej-daniele-z-okresu-kosiceokolie-nezvestne-dievca-moze-mat-pri-sebe-dva-ruksaky.webp"
+    },
+    {
+      "title": "Športová hala vo Vrábľoch je do odvolania zatvorená. Problémom je havarijný stav strechy",
+      "link": "https://www.nitrak.sk/clanky/12614/sportova-hala-vo-vrabloch-je-do-odvolania-zatvorena-problemom-je-havarijny-stav-strechy",
+      "time": "2026-11-19T17:40:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795108671-sportova-hala-vo-vrabloch-je-do-odvolania-zatvorena-problemom-je-havarijny-stav-strechy.webp"
+    },
+    {
+      "title": "Na R7 z Bratislavy smerom na Šamorín sa zrazilo osobné auto s nákladným, vodiči sa zdržia",
+      "link": "https://www.trnavak.sk/clanky/13022/na-r7-z-bratislavy-smerom-na-samorin-sa-zrazilo-osobne-auto-s-nakladnym-vodici-sa-zdrzia",
+      "time": "2026-11-19T17:34:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795085583-foto-tragicka-nehoda-pri-tomasikove-celnu-zrazku-neprezila-54rocna-vodicka-predchadzala-cez-plnu-ciaru.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795109709-na-r7-z-bratislavy-smerom-na-samorin-sa-zrazilo-osobne-auto-s-nakladnym-vodici-sa-zdrzia.webp"
     },
     {
-      "title": "V Michalovciach vyhasol život chodca, ktorý prechádzal cez zebru",
-      "link": "https://www.kosicak.sk/clanky/15074/smrtelna-nehoda-v-michalovciach-mlady-vodic-zrazil-chodca-na-priechode-na-mieste-bojovali-o-jeho-zivot",
-      "time": "2026-11-19T07:24:00+00:00",
+      "title": "Tma, dážď a nehoda v centre obce. Auto na Orave zrazilo chodca, hlavný ťah ostal neprejazdný",
+      "link": "https://www.zilinak.sk/clanky/44131/auto-zrazilo-chodca-uprostred-oravskej-obce-zasahuje-zachranka-hlavny-tah-je-neprejazdny",
+      "time": "2026-11-19T17:11:00+00:00",
       "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1795073089-smrtelna-nehoda-v-michalovciach-mlady-vodic-zrazil-chodca-na-priechode-na-mieste-bojovali-o-jeho-zivot.webp"
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795109560-auto-zrazilo-chodca-uprostred-oravskej-obce-zasahuje-zachranka-hlavny-tah-je-neprejazdny.webp"
     },
     {
-      "title": "Havária potrubia Nováky – Oslany preruší dodávky vody",
-      "link": "https://www.trencinak.sk/clanky/14575/havaria-na-potrubi-v-novakoch-sposobi-vo-stvrtok-velku-odstavku-vody-bez-dodavok-zostanu-tisice-obyvatelov",
-      "time": "2026-11-19T06:40:00+00:00",
+      "title": "Komplikácie na cestách: Blízko Nitry sa zrazili tri autá, nehodu vodiči hlásili aj pri Zlatých Moravciach",
+      "link": "https://www.nitrak.sk/clanky/12613/komplikacie-na-cestach-blizko-nitry-sa-zrazili-tri-auta-nehodu-vodici-hlasili-aj-pri-zlatych-moravciach",
+      "time": "2026-11-19T16:24:00+00:00",
       "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1795010832-havaria-na-potrubi-v-novakoch-sposobi-vo-stvrtok-velku-odstavku-vody-bez-dodavok-zostanu-tisice-obyvatelov.webp"
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Pozor na cestách! Pri Bučanoch sa zrazilo osobné auto s autobusom",
+      "link": "https://www.trnavak.sk/clanky/13016/pozor-na-cestach-pri-bucanoch-sa-zrazilo-osobne-auto-s-autobusom",
+      "time": "2026-11-19T15:22:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795101950-pozor-na-cestach-pri-bucanoch-sa-zrazilo-osobne-auto-s-autobusom.webp"
     }
   ]
 }

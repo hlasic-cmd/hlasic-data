@@ -1,61 +1,16 @@
 {
-  "generated_at": "2026-11-20T01:50:16.807086+00:00",
+  "generated_at": "2026-11-20T09:13:31.891927+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 1,
   "items": [
     {
-      "title": "Stret vlaku s osobou zastavil dopravu medzi Liptovskou Teplou a Paludzou",
-      "link": "https://www.zilinak.sk/clanky/44132/nehoda-na-liptove-zastavila-vlaky-v-kraji-na-takmer-tri-hodiny-expres-zrazil-osobu-v-kolajisku",
-      "time": "2026-11-19T23:44:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795132381-nehoda-na-liptove-zastavila-vlaky-v-kraji-na-takmer-tri-hodiny-expres-zrazil-osobu-v-kolajisku.webp"
-    },
-    {
-      "title": "Z Levíc zmizol len 15-ročný Lukáš. Polícia zverejnila opis oblečenia, upozornila aj na jeden detail",
-      "link": "https://www.nitrak.sk/clanky/12615/z-levic-zmizol-len-15-rocny-lukas-policia-zverejnila-opis-oblecenia-upozornila-aj-na-jeden-detail",
-      "time": "2026-11-19T18:30:00+00:00",
-      "cat": "patranie",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795112713-z-levic-zmizol-len-15rocny-lukas-policia-zverejnila-opis-oblecenia-upozornila-aj-na-jeden-detail.webp"
-    },
-    {
-      "title": "Zo Žiaru nad Hronom zmizla 18-ročná Salome. Polícia žiada verejnosť o pomoc pri pátraní",
-      "link": "https://www.bystricak.sk/clanky/13867/zo-ziaru-nad-hronom-zmizla-18-rocna-salome-policia-ziada-verejnost-o-pomoc-pri-patrani",
-      "time": "2026-11-19T18:05:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795111541-zo-ziaru-nad-hronom-zmizla-18rocna-salome-policia-ziada-verejnost-o-pomoc-pri-patrani.webp"
-    },
-    {
-      "title": "Polícia pátra po len 16-ročnej Daniele z okresu Košice-okolie. Nezvestné dievča môže mať pri sebe dva ruksaky",
-      "link": "https://www.kosicak.sk/clanky/15092/policia-patra-po-len-16-rocnej-daniele-z-okresu-kosice-okolie-nezvestne-dievca-moze-mat-pri-sebe-dva-ruksaky",
-      "time": "2026-11-19T18:00:00+00:00",
-      "cat": "patranie",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1795110914-policia-patra-po-len-16rocnej-daniele-z-okresu-kosiceokolie-nezvestne-dievca-moze-mat-pri-sebe-dva-ruksaky.webp"
-    },
-    {
-      "title": "Športová hala vo Vrábľoch je do odvolania zatvorená. Problémom je havarijný stav strechy",
-      "link": "https://www.nitrak.sk/clanky/12614/sportova-hala-vo-vrabloch-je-do-odvolania-zatvorena-problemom-je-havarijny-stav-strechy",
-      "time": "2026-11-19T17:40:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795108671-sportova-hala-vo-vrabloch-je-do-odvolania-zatvorena-problemom-je-havarijny-stav-strechy.webp"
-    },
-    {
-      "title": "Na R7 z Bratislavy smerom na Šamorín sa zrazilo osobné auto s nákladným, vodiči sa zdržia",
-      "link": "https://www.trnavak.sk/clanky/13022/na-r7-z-bratislavy-smerom-na-samorin-sa-zrazilo-osobne-auto-s-nakladnym-vodici-sa-zdrzia",
-      "time": "2026-11-19T17:34:00+00:00",
+      "title": "Vodiči, pozor! Na R1 smerom z Trnavy do Nitry sa zrazili dve vozidlá",
+      "link": "https://www.trnavak.sk/clanky/13028/vodici-pozor-na-r1-smerom-z-trnavy-do-nitry-sa-zrazili-dve-vozidla",
+      "time": "2026-11-20T08:35:00+00:00",
       "cat": "nehoda",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795109709-na-r7-z-bratislavy-smerom-na-samorin-sa-zrazilo-osobne-auto-s-nakladnym-vodici-sa-zdrzia.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
     }
   ]
 }

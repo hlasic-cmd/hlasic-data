@@ -1,16 +1,43 @@
 {
-  "generated_at": "2026-11-20T09:13:31.891927+00:00",
+  "generated_at": "2026-11-20T17:46:15.041147+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 4,
   "items": [
     {
-      "title": "Vodiči, pozor! Na R1 smerom z Trnavy do Nitry sa zrazili dve vozidlá",
-      "link": "https://www.trnavak.sk/clanky/13028/vodici-pozor-na-r1-smerom-z-trnavy-do-nitry-sa-zrazili-dve-vozidla",
-      "time": "2026-11-20T08:35:00+00:00",
+      "title": "Auto zrazilo chodca na Južnej triede v Košiciach",
+      "link": "https://www.kosicak.sk/clanky/15112/v-kosiciach-na-juznej-triede-doslo-na-priechode-pre-chodcov-k-zrazke-chodca-na-miesto-boli-vyslane-zachranne-zlozky",
+      "time": "2026-11-20T16:50:00+00:00",
       "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
+    },
+    {
+      "title": "Polícia pátra po Anne Márii a Renáte z Ilavy. Nezvestné tínedžerky by mali byť spolu, nevideli ste ich?",
+      "link": "https://www.trencinak.sk/clanky/14612/policia-patra-po-nezvestnych-tinedzerkach-15-rocnej-anne-marii-a-14-rocnej-renate-z-ilavy-nevideli-ste-ich",
+      "time": "2026-11-20T15:00:00+00:00",
+      "cat": "patranie",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1795186792-policia-patra-po-nezvestnych-tinedzerkach-15rocnej-anne-marii-a-14rocnej-renate-z-ilavy-nevideli-ste-ich.webp"
+    },
+    {
+      "title": "Polícia vyhlásila pátranie po 31-ročnom Martinovi z okresu Galanta, nevideli ste ho?",
+      "link": "https://www.trnavak.sk/clanky/13038/policia-vyhlasila-patranie-po-31-rocnom-martinovi-z-okresu-galanta-nevideli-ste-ho",
+      "time": "2026-11-20T14:50:00+00:00",
+      "cat": "patranie",
       "region": "trnavsky",
       "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795185470-policia-vyhlasila-patranie-po-31rocnom-martinovi-z-okresu-galanta-nevideli-ste-ho.webp"
+    },
+    {
+      "title": "Polícia hľadá svedkov nehody v Nitre: Pri nákupnom centre skončila pod kolesami auta chodkyňa",
+      "link": "https://www.nitrak.sk/clanky/12623/foto-boli-ste-svedkom-tejto-nehody-v-nitre-pod-kolesami-auta-skoncila-chodkyna",
+      "time": "2026-11-20T13:40:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795174814-foto-boli-ste-svedkom-tejto-nehody-v-nitre-pod-kolesami-auta-skoncila-chodkyna.webp"
     }
   ]
 }

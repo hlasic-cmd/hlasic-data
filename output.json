@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-11-19T20:29:36.780511+00:00",
+  "generated_at": "2026-11-20T01:50:16.807086+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 6,
   "items": [
+    {
+      "title": "Stret vlaku s osobou zastavil dopravu medzi Liptovskou Teplou a Paludzou",
+      "link": "https://www.zilinak.sk/clanky/44132/nehoda-na-liptove-zastavila-vlaky-v-kraji-na-takmer-tri-hodiny-expres-zrazil-osobu-v-kolajisku",
+      "time": "2026-11-19T23:44:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795132381-nehoda-na-liptove-zastavila-vlaky-v-kraji-na-takmer-tri-hodiny-expres-zrazil-osobu-v-kolajisku.webp"
+    },
     {
       "title": "Z Levíc zmizol len 15-ročný Lukáš. Polícia zverejnila opis oblečenia, upozornila aj na jeden detail",
       "link": "https://www.nitrak.sk/clanky/12615/z-levic-zmizol-len-15-rocny-lukas-policia-zverejnila-opis-oblecenia-upozornila-aj-na-jeden-detail",
@@ -47,33 +56,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795109709-na-r7-z-bratislavy-smerom-na-samorin-sa-zrazilo-osobne-auto-s-nakladnym-vodici-sa-zdrzia.webp"
-    },
-    {
-      "title": "Tma, dážď a nehoda v centre obce. Auto na Orave zrazilo chodca, hlavný ťah ostal neprejazdný",
-      "link": "https://www.zilinak.sk/clanky/44131/auto-zrazilo-chodca-uprostred-oravskej-obce-zasahuje-zachranka-hlavny-tah-je-neprejazdny",
-      "time": "2026-11-19T17:11:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795109560-auto-zrazilo-chodca-uprostred-oravskej-obce-zasahuje-zachranka-hlavny-tah-je-neprejazdny.webp"
-    },
-    {
-      "title": "Komplikácie na cestách: Blízko Nitry sa zrazili tri autá, nehodu vodiči hlásili aj pri Zlatých Moravciach",
-      "link": "https://www.nitrak.sk/clanky/12613/komplikacie-na-cestach-blizko-nitry-sa-zrazili-tri-auta-nehodu-vodici-hlasili-aj-pri-zlatych-moravciach",
-      "time": "2026-11-19T16:24:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "Pozor na cestách! Pri Bučanoch sa zrazilo osobné auto s autobusom",
-      "link": "https://www.trnavak.sk/clanky/13016/pozor-na-cestach-pri-bucanoch-sa-zrazilo-osobne-auto-s-autobusom",
-      "time": "2026-11-19T15:22:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795101950-pozor-na-cestach-pri-bucanoch-sa-zrazilo-osobne-auto-s-autobusom.webp"
     }
   ]
 }

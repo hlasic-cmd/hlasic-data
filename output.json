@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T19:27:13.459082+00:00",
+  "generated_at": "2026-11-21T23:51:41.789216+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 3,
   "items": [
     {
       "title": "Vážna nehoda pri Sobranciach: Auto po náraze do stromu zachvátil požiar",
@@ -22,15 +22,6 @@
       "image": "https://image.smedata.sk/image/w660-h440/01a1a24c-ec95-7cda-833f-3b438d404475.jpg"
     },
     {
-      "title": "Mladej rodine z východného Slovenska zhorel dom, ľudia ukazujú veľké srdcia",
-      "link": "https://www.presovak.sk/clanky/16324/foto-vychodniarka-otilia-cely-zivot-pomahala-druhym-teraz-jej-rodinu-postihlo-obrovske-nestastie-a-potrebuje-pomoc",
-      "time": "2026-11-21T14:30:00+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1795086935-foto-vychodniarka-otilia-cely-zivot-pomahala-druhym-teraz-jej-rodinu-postihlo-obrovske-nestastie-a-potrebuje-p.webp"
-    },
-    {
       "title": "Polícia hľadá 17-ročného Richarda zo Žiaru nad Hronom",
       "link": "https://www.bystricak.sk/clanky/13886/policia-patra-po-nezvestnom-tinedzerovi-zo-ziaru-nad-hronom-z-domu-naposledy-odisiel-v-sportovom-obleceni",
       "time": "2026-11-21T14:17:00+00:00",
@@ -38,42 +29,6 @@
       "region": "banskobystricky",
       "src": "bystricak.sk",
       "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795270628-policia-patra-po-nezvestnom-tinedzerovi-zo-ziaru-nad-hronom-z-domu-naposledy-odisiel-v-sportovom-obleceni.webp"
-    },
-    {
-      "title": "Vážna nehoda na Rakovej. Opitý vodič narazil dobetónových schodov rodinného domu",
-      "link": "https://www.zilinak.sk/clanky/44163/vodic-pri-cadci-vrazil-do-schodov-rodinneho-domu-dychova-skuska-ukazala-ze-jazdil-poriadne-opity",
-      "time": "2026-11-21T13:20:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795267013-vodic-pri-cadci-vrazil-do-schodov-rodinneho-domu-dychova-skuska-ukazala-ze-jazdil-poriadne-opity.webp"
-    },
-    {
-      "title": "Polícia upozorňuje vodičov na dopravnú nehodu pri Sobranciach",
-      "link": "https://www.kosicak.sk/clanky/15114/na-zempline-doslo-k-havarii-osobneho-auta-to-po-naraze-do-stromu-pohltili-plamene-na-mieste-pocitajte-so-zdrzanim",
-      "time": "2026-11-21T12:43:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1795265063-na-zempline-doslo-k-havarii-osobneho-auta-to-po-naraze-do-stromu-pohltili-plamene-na-mieste-pocitajte-so-zdrza.webp"
-    },
-    {
-      "title": "V Košiciach auto narazilo do zastávky MHD",
-      "link": "https://www.kosicak.sk/clanky/15113/na-kosickej-terase-doslo-k-vaznej-dopravnej-nehode-osobne-auto-narazilo-do-zastavky-mhd-na-mieste-zasahuju-zachranari",
-      "time": "2026-11-21T11:48:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Auto skončilo v priekope medzi Gabčíkovom a Vrakúňom",
-      "link": "https://www.trnavak.sk/clanky/13041/vodici-pozor-medzi-gabcikovom-a-vrakunom-skoncilo-auto-v-priekope",
-      "time": "2026-11-21T09:09:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
     }
   ]
 }

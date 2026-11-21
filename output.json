@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-11-21T12:20:14.809633+00:00",
+  "generated_at": "2026-11-21T19:27:13.459082+00:00",
   "max_age_hours": 12,
-  "count": 5,
+  "count": 8,
   "items": [
+    {
+      "title": "Vážna nehoda pri Sobranciach: Auto po náraze do stromu zachvátil požiar",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2083159-vazna-nehoda-pri-sobranciach-auto-po-naraze-do-stromu-zachvatil-poziar?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-21T16:35:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/21/2565729/4x3-medium/vysne-remety-nehoda.jpg?v=Ue4"
+    },
+    {
+      "title": "Pietna spomienka po tragickej nehode je aj proti alkoholu za volantom",
+      "link": "https://korzar.sme.sk/spis-gemer/c/pietna-spomienka-po-tragickej-nehode-je-aj-proti-alkoholu-za-volantom?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-11-21T14:38:01+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a1a24c-ec95-7cda-833f-3b438d404475.jpg"
+    },
+    {
+      "title": "Mladej rodine z východného Slovenska zhorel dom, ľudia ukazujú veľké srdcia",
+      "link": "https://www.presovak.sk/clanky/16324/foto-vychodniarka-otilia-cely-zivot-pomahala-druhym-teraz-jej-rodinu-postihlo-obrovske-nestastie-a-potrebuje-pomoc",
+      "time": "2026-11-21T14:30:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1795086935-foto-vychodniarka-otilia-cely-zivot-pomahala-druhym-teraz-jej-rodinu-postihlo-obrovske-nestastie-a-potrebuje-p.webp"
+    },
+    {
+      "title": "Polícia hľadá 17-ročného Richarda zo Žiaru nad Hronom",
+      "link": "https://www.bystricak.sk/clanky/13886/policia-patra-po-nezvestnom-tinedzerovi-zo-ziaru-nad-hronom-z-domu-naposledy-odisiel-v-sportovom-obleceni",
+      "time": "2026-11-21T14:17:00+00:00",
+      "cat": "patranie",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795270628-policia-patra-po-nezvestnom-tinedzerovi-zo-ziaru-nad-hronom-z-domu-naposledy-odisiel-v-sportovom-obleceni.webp"
+    },
+    {
+      "title": "Vážna nehoda na Rakovej. Opitý vodič narazil dobetónových schodov rodinného domu",
+      "link": "https://www.zilinak.sk/clanky/44163/vodic-pri-cadci-vrazil-do-schodov-rodinneho-domu-dychova-skuska-ukazala-ze-jazdil-poriadne-opity",
+      "time": "2026-11-21T13:20:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795267013-vodic-pri-cadci-vrazil-do-schodov-rodinneho-domu-dychova-skuska-ukazala-ze-jazdil-poriadne-opity.webp"
+    },
+    {
+      "title": "Polícia upozorňuje vodičov na dopravnú nehodu pri Sobranciach",
+      "link": "https://www.kosicak.sk/clanky/15114/na-zempline-doslo-k-havarii-osobneho-auta-to-po-naraze-do-stromu-pohltili-plamene-na-mieste-pocitajte-so-zdrzanim",
+      "time": "2026-11-21T12:43:00+00:00",
+      "cat": "nehoda",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1795265063-na-zempline-doslo-k-havarii-osobneho-auta-to-po-naraze-do-stromu-pohltili-plamene-na-mieste-pocitajte-so-zdrza.webp"
+    },
     {
       "title": "V Košiciach auto narazilo do zastávky MHD",
       "link": "https://www.kosicak.sk/clanky/15113/na-kosickej-terase-doslo-k-vaznej-dopravnej-nehode-osobne-auto-narazilo-do-zastavky-mhd-na-mieste-zasahuju-zachranari",
@@ -13,24 +67,6 @@
       "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "SHMÚ varuje pred vetrom do 135 km/h v Žilinskom kraji",
-      "link": "https://www.zilinak.sk/clanky/44162/cast-zilinskeho-kraja-sa-popasuje-so-silnym-vetrom-jeho-rychlost-zodpoveda-vichrici",
-      "time": "2026-11-21T10:30:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795255653-cast-zilinskeho-kraja-sa-popasuje-so-silnym-vetrom-jeho-rychlost-zodpoveda-vichrici.webp"
-    },
-    {
-      "title": "Na Kysuciach poškodil zaparkované auto, škodu si prezrel a odišiel. Majiteľ hľadá nezodpovedného vodiča",
-      "link": "https://www.zilinak.sk/clanky/44160/vodic-na-kysuciach-odrel-cudzi-mercedes-skontroloval-skodu-a-zmizol-majitel-prosi-o-pomoc-ma-svedka",
-      "time": "2026-11-21T09:30:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795187254-vodic-na-kysuciach-odrel-cudzi-mercedes-skontroloval-skodu-a-zmizol-majitel-prosi-o-pomoc-ma-svedka.webp"
-    },
-    {
       "title": "Auto skončilo v priekope medzi Gabčíkovom a Vrakúňom",
       "link": "https://www.trnavak.sk/clanky/13041/vodici-pozor-medzi-gabcikovom-a-vrakunom-skoncilo-auto-v-priekope",
       "time": "2026-11-21T09:09:00+00:00",
@@ -38,15 +74,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Hasiči Juraj Mandinec a Lenka Lazícius pomohli zakliesnenému vodičovi pri nehode",
-      "link": "https://www.bratislavak.sk/clanky/16448/foto-vodic-po-nehode-medzi-zahorskou-vsou-a-vysokou-pri-morave-zostal-zakliesneny-pomahali-mu-aj-hasici-juraj-a-lenka",
-      "time": "2026-11-21T08:46:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1795250780-foto-vodic-po-nehode-medzi-zahorskou-vsou-a-vysokou-pri-morave-zostal-zakliesneny-pomahali-mu-aj-hasici-juraj.webp"
     }
   ]
 }

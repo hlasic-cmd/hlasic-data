@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T23:51:41.789216+00:00",
+  "generated_at": "2026-11-22T03:31:43.735081+00:00",
   "max_age_hours": 12,
-  "count": 3,
+  "count": 1,
   "items": [
     {
       "title": "Vážna nehoda pri Sobranciach: Auto po náraze do stromu zachvátil požiar",
@@ -11,24 +11,6 @@
       "region": "kosicky",
       "src": "spravy.pravda.sk",
       "image": "https://prvd.sk/cdn/2026/11/21/2565729/4x3-medium/vysne-remety-nehoda.jpg?v=Ue4"
-    },
-    {
-      "title": "Pietna spomienka po tragickej nehode je aj proti alkoholu za volantom",
-      "link": "https://korzar.sme.sk/spis-gemer/c/pietna-spomienka-po-tragickej-nehode-je-aj-proti-alkoholu-za-volantom?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-11-21T14:38:01+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a1a24c-ec95-7cda-833f-3b438d404475.jpg"
-    },
-    {
-      "title": "Polícia hľadá 17-ročného Richarda zo Žiaru nad Hronom",
-      "link": "https://www.bystricak.sk/clanky/13886/policia-patra-po-nezvestnom-tinedzerovi-zo-ziaru-nad-hronom-z-domu-naposledy-odisiel-v-sportovom-obleceni",
-      "time": "2026-11-21T14:17:00+00:00",
-      "cat": "patranie",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795270628-policia-patra-po-nezvestnom-tinedzerovi-zo-ziaru-nad-hronom-z-domu-naposledy-odisiel-v-sportovom-obleceni.webp"
     }
   ]
 }

@@ -1,25 +1,16 @@
 {
-  "generated_at": "2026-11-22T11:51:15.980654+00:00",
+  "generated_at": "2026-11-22T18:41:19.766733+00:00",
   "max_age_hours": 12,
-  "count": 2,
+  "count": 1,
   "items": [
     {
-      "title": "SHMÚ varuje pred vetrom na horách v Žilinskom kraji",
-      "link": "https://www.zilinak.sk/clanky/44166/na-horach-v-zilinskom-kraji-dbajte-na-zvysenu-bezpecnost-shmu-upozornuje-na-silny-vietor-nevylucuje-sa-vichrica",
-      "time": "2026-11-22T11:30:00+00:00",
-      "cat": "burka",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795341621-na-horach-v-zilinskom-kraji-dbajte-na-zvysenu-bezpecnost-shmu-upozornuje-na-silny-vietor-nevylucuje-sa-vichric.webp"
-    },
-    {
-      "title": "V okrese Poprad hrozí na horách víchrica, varuje pred ňou SHMÚ",
-      "link": "https://www.presovak.sk/clanky/16361/v-okrese-poprad-vycina-silny-horsky-vietor-pri-turistike-dbajte-na-zvysenu-bezpecnost-nevylucuje-sa-vichrica",
-      "time": "2026-11-22T10:30:00+00:00",
-      "cat": "burka",
+      "title": "Polícia pátra po nezvestnej 16-ročnej Izabele z Levoče",
+      "link": "https://www.presovak.sk/clanky/16362/policia-patra-po-nezvestnej-16-rocnej-izabele-z-levoce-odisla-domu-a-odvtedy-nepodala-o-sebe-ziadnu-informaciu",
+      "time": "2026-11-22T16:20:00+00:00",
+      "cat": "patranie",
       "region": "presovsky",
       "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1795340152-v-okrese-poprad-vycina-silny-horsky-vietor-pri-turistike-dbajte-na-zvysenu-bezpecnost-nevylucuje-sa-vichrica.webp"
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1795363813-policia-patra-po-nezvestnej-16rocnej-izabele-z-levoce-odisla-domu-a-odvtedy-nepodala-o-sebe-ziadnu-informaciu.webp"
     }
   ]
 }

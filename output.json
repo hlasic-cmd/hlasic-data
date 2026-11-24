@@ -1,88 +1,52 @@
 {
-  "generated_at": "2026-11-23T14:16:28.694965+00:00",
+  "generated_at": "2026-11-24T01:41:30.944082+00:00",
   "max_age_hours": 12,
-  "count": 9,
+  "count": 5,
   "items": [
     {
-      "title": "Auto v Prievidzi zachvátil požiar priamo na parkovisku",
-      "link": "https://www.trencinak.sk/clanky/14631/foto-auto-na-parkovisku-v-prievidzi-zachvatil-poziar-plamene-sa-z-motoroveho-priestoru-rozsirili-az-do-interieru",
-      "time": "2026-11-23T12:35:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1795434208-foto-auto-na-parkovisku-v-prievidzi-zachvatil-poziar-plamene-sa-z-motoroveho-priestoru-rozsirili-az-do-interie.webp"
-    },
-    {
-      "title": "Cyklista v Trenčianskom kraji vošiel autu do cesty",
-      "link": "https://www.trencinak.sk/clanky/14628/video-chybali-centimetre-a-mohlo-sa-stat-nestastie-cyklista-vosiel-autu-v-trencianskom-kraji-priamo-do-cesty",
-      "time": "2026-11-23T11:45:00+00:00",
+      "title": "Kamión Volvo zrazil chodkyňu pri Brzotíne, zomrela",
+      "link": "https://www.kosicak.sk/clanky/15142/aktualizovane-kamion-zrazil-chodkynu-pri-obci-brzotin-zraneniam-podlahla-v-useku-ratajte-s-obmedzeniami",
+      "time": "2026-11-23T17:58:00+00:00",
       "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1795431120-video-chybali-centimetre-a-mohlo-sa-stat-nestastie-cyklista-vosiel-autu-v-trencianskom-kraji-priamo-do-cesty.webp"
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1795461077-aktualizovane-kamion-zrazil-chodkynu-pri-obci-brzotin-zraneniam-podlahla-v-useku-ratajte-s-obmedzeniami.webp"
     },
     {
-      "title": "V Prievidzi horelo osobné auto, príčiny požiaru vyšetrujú",
-      "link": "https://www.teraz.sk/regiony/v-prievidzi-horelo-osobne-auto-prici/1009750-clanok.html",
-      "time": "2026-11-23T11:42:00+00:00",
-      "cat": "poziar",
-      "region": "trenciansky",
+      "title": "Polícia kontrolovala autobusy a nákladiaky:Odhalila aj opitých vodičov",
+      "link": "https://www.teraz.sk/slovensko/policia-kontrolovala-autobusy-a-naklad/1009901-clanok.html",
+      "time": "2026-11-23T17:31:00+00:00",
+      "cat": "nehoda",
+      "region": null,
       "src": "teraz.sk",
       "image": null
     },
     {
-      "title": "Lucia zomrela v Kanade, ľudia poslali 49 898 dolárov",
-      "link": "https://www.bratislavak.sk/clanky/16471/foto-pezincanka-lucia-tragicky-zahynula-na-vylete-na-kajaku-v-kanade-na-vyzvu-jej-priatelov-zareagovali-stovky-ludi",
-      "time": "2026-11-23T10:35:00+00:00",
+      "title": "Na rušnej križovatke v Žiline prechádzal rodič s dieťaťom na červenú. Šoférka musela prudko brzdiť",
+      "link": "https://www.zilinak.sk/clanky/44194/na-kolobezkach-vbehli-na-cervenu-priamo-pred-auta-v-ziline-otec-s-dcerou-sa-len-o-kusok-vyhli-nehode",
+      "time": "2026-11-23T16:50:00+00:00",
       "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1795424203-foto-pezincanka-lucia-tragicky-zahynula-na-vylete-na-kajaku-v-kanade-na-vyzvu-jej-priatelov-zareagovali-stovky.webp"
-    },
-    {
-      "title": "Nehoda vo Veľkých Uherciach zranila 22-ročného muža",
-      "link": "https://www.trencinak.sk/clanky/14626/foto-po-nehode-v-okrese-partizanske-zasahoval-vrtulnik-z-trencina-vazne-sa-zranil-len-22-rocny-muz",
-      "time": "2026-11-23T10:35:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1795429393-foto-po-nehode-v-okrese-partizanske-zasahoval-vrtulnik-z-trencina-vazne-sa-zranil-len-22rocny-muz.webp"
-    },
-    {
-      "title": "Záchranný systém pátra po 30-ročnom Dávidovi z okresu Žilina. Nevideli ste ho?",
-      "link": "https://www.zilinak.sk/clanky/44175/v-chladnom-pocasi-ide-o-cas-zachranny-system-patra-po-nezvestnom-30-rocnom-davidovi-zo-ziliny",
-      "time": "2026-11-23T10:00:00+00:00",
-      "cat": "patranie",
       "region": "zilinsky",
       "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795422230-v-chladnom-pocasi-ide-o-cas-zachranny-system-patra-po-nezvestnom-30rocnom-davidovi-zo-ziliny.webp"
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795448291-na-kolobezkach-vbehli-na-cervenu-priamo-pred-auta-v-ziline-otec-s-dcerou-sa-len-o-kusok-vyhli-nehode.webp"
     },
     {
-      "title": "SHMÚ varuje pred víchricou v Banskobystrickom kraji. Výstraha platí dva dni",
-      "link": "https://www.bystricak.sk/clanky/13892/v-banskobystrickom-kraji-sa-opat-poriadne-rozfuka-na-horach-hrozi-aj-vichrica",
-      "time": "2026-11-23T08:50:00+00:00",
-      "cat": "burka",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795421976-v-banskobystrickom-kraji-sa-opat-poriadne-rozfuka-na-horach-hrozi-aj-vichrica.webp"
+      "title": "Hasenie požiarov. Na košickom letisku sa uskutoční výcvik pilotov vrtuľníkov Black Hawk",
+      "link": "https://korzar.sme.sk/kosice/c/hasenie-poziarov-na-kosickom-letisku-sa-uskutocni-vycvik-pilotov-vrtulnikov-black-hawk?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-11-23T16:10:57+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/1f0c6a21-3be2-6a3a-ae53-7b631f55f650.jpg"
     },
     {
-      "title": "Zima sa hlási o slovo, silný vietor potrápi Nitru a ďalšie okresy. SHMÚ vydal výstrahy 1. stupňa",
-      "link": "https://www.nitrak.sk/clanky/12632/pripravte-sa-na-poriadne-neprijemne-pocasie-vietor-nabera-na-sile-vystrahy-platia-aj-pre-nitriansky-kraj",
-      "time": "2026-11-23T08:40:00+00:00",
-      "cat": "burka",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795422775-pripravte-sa-na-poriadne-neprijemne-pocasie-vietor-nabera-na-sile-vystrahy-platia-aj-pre-nitriansky-kraj.webp"
-    },
-    {
-      "title": "Polícia pátra po Milanovi Matejkovičovi z okresu Myjava",
-      "link": "https://www.trencinak.sk/clanky/14621/policia-patra-po-29-rocnom-milanovi-z-okresu-myjava-nevideli-ste-ho",
-      "time": "2026-11-23T08:30:00+00:00",
-      "cat": "patranie",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1795418075-policia-patra-po-29rocnom-milanovi-z-okresu-myjava-nevideli-ste-ho.webp"
+      "title": "Minulý týždeň sa stalo 213 nehôd, zahynuli pri nich štyria ľudia",
+      "link": "https://www.teraz.sk/slovensko/minuly-tyzden-sa-stalo-213-nehod-z/1009838-clanok.html",
+      "time": "2026-11-23T15:03:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "teraz.sk",
+      "image": null
     }
   ]
 }

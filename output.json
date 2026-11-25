@@ -1,43 +1,6 @@
 {
-  "generated_at": "2026-11-24T21:28:25.354396+00:00",
+  "generated_at": "2026-11-25T04:26:01.888493+00:00",
   "max_age_hours": 12,
-  "count": 4,
-  "items": [
-    {
-      "title": "Dve nehody v Prešove, na Rusínskej je blokovaný pruh",
-      "link": "https://www.presovak.sk/clanky/16412/v-metropole-sarisa-upozornuju-vodici-na-viacere-dopravne-nehody-ktorym-usekom-je-lepsie-sa-vyhnut",
-      "time": "2026-11-24T17:23:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/02_aktualne.webp"
-    },
-    {
-      "title": "Hlavný ťah na Orave sa zmenil na klzisko. Po kolíziách sa vodiči hľadajú cez sociálne siete",
-      "link": "https://www.zilinak.sk/clanky/44211/oravske-cesty-sa-rano-zmenili-na-lad-vodicka-hlada-auto-do-ktoreho-narazila-dalsia-sofera-ktory-z-miesta-usiel",
-      "time": "2026-11-24T15:35:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795517082-oravske-cesty-sa-rano-zmenili-na-lad-vodicka-hlada-auto-do-ktoreho-narazila-dalsia-sofera-ktory-z-miesta-usiel.webp"
-    },
-    {
-      "title": "Tragická nehoda pri Rožňave. Po zrážke s kamiónom zomrela 55-ročná žena",
-      "link": "https://korzar.sme.sk/spis-gemer/c/tragicka-nehoda-pri-roznave-po-zrazke-s-kamionom-zomrela-55-rocna-zena?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-11-24T10:40:33+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a20d21-52e4-7a9f-8e9d-03eaf04c034d.jpg"
-    },
-    {
-      "title": "Vodička pri odbočovaní z Barce na Valaliky nedala prednosť Audi, dvoch ľudí previezli do nemocnice",
-      "link": "https://www.kosicak.sk/clanky/15151/tesla-nedala-pri-odbocovani-na-valaliky-prednost-audi-dve-osoby-skoncili-v-nemocnici-bola-to-otazka-casu-pisu-vodici",
-      "time": "2026-11-24T09:45:00+00:00",
-      "cat": "nehoda",
-      "region": "kosicky",
-      "src": "kosicak.sk",
-      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1795512713-tesla-nedala-pri-odbocovani-na-valaliky-prednost-audi-dve-osoby-skoncili-v-nemocnici-bola-to-otazka-casu-pisu.webp"
-    }
-  ]
+  "count": 0,
+  "items": []
 }

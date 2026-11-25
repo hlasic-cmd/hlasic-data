@@ -1,6 +1,151 @@
 {
-  "generated_at": "2026-11-25T04:26:01.888493+00:00",
+  "generated_at": "2026-11-25T14:41:33.692564+00:00",
   "max_age_hours": 12,
-  "count": 0,
-  "items": []
+  "count": 16,
+  "items": [
+    {
+      "title": "Vážna nehoda v Prešove: Auto vrazilo do autobusovej zastávky plnej ľudí, medzi zranenými je aj dieťa",
+      "link": "https://www.aktuality.sk/clanok/DAVgzKp/vazna-nehoda-v-presove-auto-vrazilo-do-autobusovej-zastavky-plnej-ludi-medzi-zranenymi-je-aj-dieta/",
+      "time": "2026-11-25T14:16:57+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/nehoda-v-presove/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/cv-ktkpTURBXy84MTU0YWM1YTI2MTdiMmJjYTNhOWRmZjFlZDI0OGEyMS5qcGeSlQMAzLDNByDNBAKVAs0H0ADCww?st=_sC6k5PI9CoHlkPShDIKylTtGD8oBWaqxkNCdHh4XHk&ts=1795561200&e=0"
+    },
+    {
+      "title": "Polícia pátra po nezvestnom Jozefovi Danielovi zo Senca",
+      "link": "https://www.bratislavak.sk/clanky/16528/policia-patra-po-48-rocnom-jozefovi-zo-senca-z-prace-odisiel-v-utorok-odvtedy-sa-neozval",
+      "time": "2026-11-25T14:00:00+00:00",
+      "cat": "patranie",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1795605987-policia-patra-po-48rocnom-jozefovi-zo-senca-z-prace-odisiel-v-utorok-odvtedy-sa-neozval.webp"
+    },
+    {
+      "title": "Pozor na diaľnici D1! Pri Hlohovci sa zrazil kamión s dodávkou",
+      "link": "https://www.trnavak.sk/clanky/13092/pozor-na-dialnici-d1-pri-hlohovci-sa-zrazil-kamion-s-dodavkou",
+      "time": "2026-11-25T13:52:00+00:00",
+      "cat": "nehoda",
+      "region": "trnavsky",
+      "src": "trnavak.sk",
+      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "V Prešove vrazilo auto do autobusovej zastávky. Medzi zranenými sú aj deti",
+      "link": "https://www.presovak.sk/clanky/16433/v-presove-vrazilo-auto-do-autobusovej-zastavky-medzi-zranenymi-su-aj-deti",
+      "time": "2026-11-25T13:49:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1795616893-v-presove-vrazilo-auto-do-autobusovej-zastavky-medzi-zranenymi-su-aj-deti.webp"
+    },
+    {
+      "title": "Tragédia na železnici v Rači. Vlak zrazil muža, doprava stojí",
+      "link": "https://www.bratislavak.sk/clanky/16533/tragedia-na-zeleznici-v-bratislave-vlak-zrazil-muza-na-mieste-zomrel-doprava-je-prerusena",
+      "time": "2026-11-25T13:45:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1795616306-tragedia-na-zeleznici-v-bratislave-vlak-zrazil-muza-na-mieste-zomrel-doprava-je-prerusena.webp"
+    },
+    {
+      "title": "Zoológ objavil na Toryse vtáky, ktoré tam nepatria. Jeden z nich pravdepodobne unikol zo zajatia",
+      "link": "https://www.presovak.sk/clanky/16422/foto-taketo-vtaky-na-toryse-bezne-nestretnete-zoolog-v-presove-objavil-kazarku-aj-zvlastnu-kacicu",
+      "time": "2026-11-25T13:40:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1795600542-foto-taketo-vtaky-na-toryse-bezne-nestretnete-zoolog-v-presove-objavil-kazarku-aj-zvlastnu-kacicu.webp"
+    },
+    {
+      "title": "Vlak narazil do prevráteného nákladiaka. Vodič mal pozitívny test na návykové látky",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2085609-vlak-narazil-do-prevrateneho-nakladiaka-vodic-mal-pozitivny-test-na-navykove-latky?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-25T13:10:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/25/2567453/4x3-medium/vlak-nehoda-kamion-nakladiak-hrachoviste-nove-mesto-nad-vahom.jpg?v=T/w"
+    },
+    {
+      "title": "Mercedes zrazil na priechode chodkyňu. Polícia teraz hľadá svedkov nehody v Topoľčanoch",
+      "link": "https://www.nitrak.sk/clanky/12668/chodkynu-v-topolcanoch-zrazilo-auto-priamo-na-priechode-policia-teraz-patra-po-svedkoch-ktori-to-videli",
+      "time": "2026-11-25T12:40:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795604733-chodkynu-v-topolcanoch-zrazilo-auto-priamo-na-priechode-policia-teraz-patra-po-svedkoch-ktori-to-videli.webp"
+    },
+    {
+      "title": "Nešťastie v lese na Turci: Pilčík sa zasiahol motorovou pílou, ratovali ho hasiči aj vrtuľník",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2085559-vazny-uraz-v-lese-na-turci-pilcik-sa-zasiahol-motorovou-pilou-ratovali-ho-hasici-aj-letecki-zachranari?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-25T12:30:00+00:00",
+      "cat": "zasah",
+      "region": "trenciansky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/25/2567431/4x3-medium/zachranari-vrtulnik-pilcik.jpg?v=X4c"
+    },
+    {
+      "title": "Nehoda uzavrela Hodžovu ulicu v Nitre, využite obchádzku",
+      "link": "https://www.nitrak.sk/clanky/12671/vodici-pozor-hodzova-v-nitre-je-pre-nehodu-neprejazdna-pouzite-obchadzkove-trasy",
+      "time": "2026-11-25T12:17:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795609466-vodici-pozor-hodzova-v-nitre-je-pre-nehodu-neprejazdna-pouzite-obchadzkove-trasy.webp"
+    },
+    {
+      "title": "Hasičom sa podarilo zlikvidovať požiar hangáru na letisku v Bidovciach, predbežnú škodu odhadli na 200-tisíc eur",
+      "link": "https://www.aktuality.sk/clanok/J8fXU6x/hasici-zasahuju-pri-poziari-hangaru-s-lietadlom-v-obci-bidovce/",
+      "time": "2026-11-25T11:31:54+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/hasici-z-bidoviec-a-kosic-zasahuju-pri-poziari-hangaru-s-lietadlom-v-obci-bidovce/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/zwfktkpTURBXy9iNGIzNjEwNjUxMDRhNjA5MWM1M2Q4YzVkYjFmYzIwZi5qcGeSlQMAbM0HgM0EOJUCzQfQAMLD?st=pO163PvyahJozjl9NeUEt7hNW0lUd8wQ_n91u5hih80&ts=1795561200&e=0"
+    },
+    {
+      "title": "V Čremošnom sa zranil pilčík, k zásahu letel aj vrtuľník",
+      "link": "https://www.zilinak.sk/clanky/44240/foto-pri-pileni-dreva-si-vazne-poranil-ruku-motorovou-pilou-zraneneho-muza-z-turca-odviezol-vrtulnik",
+      "time": "2026-11-25T11:29:00+00:00",
+      "cat": "zasah",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795611421-foto-pri-pileni-dreva-si-vazne-poranil-ruku-motorovou-pilou-zraneneho-muza-z-turca-odviezol-vrtulnik.webp"
+    },
+    {
+      "title": "Hasiči hasili požiar hangáru s lietadlom v Bidovciach pri Košiciach. Škoda je 200-tisíc eur",
+      "link": "https://korzar.sme.sk/kosice/c/hasici-zasahuju-pri-poziari-hangaru-s-lietadlom-v-bidovciach-pri-kosiciach?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-11-25T11:25:34+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a21271-afb8-7f90-9fe9-9efc7078596c.jpg"
+    },
+    {
+      "title": "Požiar na letisku pri Košiciach. Hasiči zasahovali pri hangári, v ktorom bolo lietadlo",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2085475-poziar-na-letisku-pri-kosiciach-hasici-zasahuju-pri-hangari-v-ktorom-je-lietadlo?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-25T11:19:40+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/25/2567387/4x3-medium/poziar-lietadlo-kosice.jpg?v=YZY"
+    },
+    {
+      "title": "FOTO: V Bidovciach horelo lietadlo aj hangár",
+      "link": "https://www.kosicak.sk/clanky/15165/foto-poziar-na-letisku-pri-kosiciach-plamene-zasiahli-hangar-s-lietadlom-skody-vycislili-na-viac-ako-150-tisic-eur",
+      "time": "2026-11-25T11:15:00+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1795613316-foto-poziar-na-letisku-pri-kosiciach-plamene-zasiahli-hangar-s-lietadlom-skody-vycislili-na-viac-ako-150tisic.webp"
+    },
+    {
+      "title": "Tragický koniec boja o život. Nehodu na juhu Slovenska neprežil 17-ročný mladík, za volantom sedel opitý rovesník",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2085349-tragicky-koniec-boja-o-zivot-nehodu-na-juhu-slovenska-neprezil-17-rocny-mladik-za-volantom-sedel-opity-rovesnik?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-25T09:15:23+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/25/2567301/4x3-medium/dopravna-nehoda-auto-autonehoda.jpg?v=tok"
+    }
+  ]
 }

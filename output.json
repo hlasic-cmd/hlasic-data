@@ -1,16 +1,106 @@
 {
-  "generated_at": "2026-11-26T05:07:45.437403+00:00",
+  "generated_at": "2026-11-26T15:01:44.061854+00:00",
   "max_age_hours": 12,
-  "count": 1,
+  "count": 11,
   "items": [
     {
-      "title": "Sneženie v Bratislave môže spôsobiť problémy, vydaná je oranžová výstraha a pre ďalších 60 okresov žltá – VIDEO",
-      "link": "https://sita.sk/snezenie-v-bratislave-moze-sposobit-problemy-vydana-je-oranzova-vystraha-a-pre-dalsich-60-okresov-zlta/",
-      "time": "2026-11-25T20:51:14+00:00",
-      "cat": "burka",
+      "title": "Nehoda pri Beluši obmedzila D1, prejazdný je jeden pruh",
+      "link": "https://www.trencinak.sk/clanky/14678/nehoda-pri-belusi-komplikuje-dopravu-na-d1-vodici-smerujuci-na-zilinu-sa-zdrzia-tvoria-sa-kolony",
+      "time": "2026-11-26T14:36:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1795703929-nehoda-pri-belusi-komplikuje-dopravu-na-d1-vodici-smerujuci-na-zilinu-sa-zdrzia-tvoria-sa-kolony.webp"
+    },
+    {
+      "title": "Pre nehodu je úsek medzi Popradom a Dubinou neprejazdný",
+      "link": "https://www.presovak.sk/clanky/16463/medzi-popradom-a-dubinou-doslo-k-zrazke-dvoch-aut-usek-je-neprejazdny",
+      "time": "2026-11-26T14:32:00+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1795703905-medzi-popradom-a-dubinou-doslo-k-zrazke-dvoch-aut-usek-je-neprejazdny.webp"
+    },
+    {
+      "title": "Bratislavu zasypal sneh: Prerušené vlaky, meškajúce lety aj nehody",
+      "link": "https://www.bratislavak.sk/clanky/16553/foto-sneh-komplikuje-dopravu-v-bratislave-vlaky-nahradzaju-autobusy-lietadla-meskaju-a-pribudaju-nehody",
+      "time": "2026-11-26T13:00:00+00:00",
+      "cat": "nehoda",
       "region": "bratislavsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2021/12/bp_4480-scaled-1-688x387.jpg"
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1795700499-foto-sneh-komplikuje-dopravu-v-bratislave-vlaky-nahradzaju-autobusy-lietadla-meskaju-a-pribudaju-nehody.webp"
+    },
+    {
+      "title": "Požiar v Kolačkove zasiahlo približne 50 detí. Rodiny pri riešení bývania musia zostať spolu, apeluje komisár Mikloško",
+      "link": "https://www.aktuality.sk/clanok/SoNNFyT/poziar-v-kolackove-zasiahlo-priblizne-50-deti-rodiny-pri-rieseni-byvania-musia-zostat-spolu-apeluje-komisar-miklosko/",
+      "time": "2026-11-26T12:16:00+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/poziar-v-osade-kolackov-znicil-viacero-chatrci/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/LBdktkpTURBXy83ZDM0NGM1MjUyZDJkZTZhZTVhMTViZmI1MjU1NjUwMy5qcGeSlQMAzMTNBdzNA0yVAs0H0ADCww?st=UDb3Q7QpFJtCh0WrfGTMx4yKJwTh0xOO6OFV8IbDBjQ&ts=1795647600&e=0"
+    },
+    {
+      "title": "Požiar lietadla v Bidovciach pri Košiciach spôsobil škodu vo výške 155-tisíc eur",
+      "link": "https://korzar.sme.sk/kosice/c/poziar-lietadla-v-bidovciach-pri-kosiciach-sposobil-skodu-vo-vyske-155-tisic-eur?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
+      "time": "2026-11-26T12:04:04+00:00",
+      "cat": "poziar",
+      "region": "kosicky",
+      "src": "korzar.sme.sk",
+      "image": "https://image.smedata.sk/image/w660-h440/01a217bc-7a95-7b1b-87ce-b996cb8f9109.jpg"
+    },
+    {
+      "title": "Vodiči musia spozornieť: Cesta pri Krtíši bola neprejazdná, na Donovaloch platí obmedzenie",
+      "link": "https://www.bystricak.sk/clanky/13950/pozor-nehody-skomplikovali-dopravu-v-bystrickom-kraji-pri-krtisi-sa-skrizil-kamion-ako-su-na-tom-donovaly",
+      "time": "2026-11-26T11:37:00+00:00",
+      "cat": "nehoda",
+      "region": "banskobystricky",
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795702111-pozor-nehody-skomplikovali-dopravu-v-bystrickom-kraji-pri-krtisi-sa-skrizil-kamion-ako-su-na-tom-donovaly.webp"
+    },
+    {
+      "title": "Silné sneženie sa v Nitrianskom kraji podpísalo pod ďalšie nehody: Kde si dať pozor?",
+      "link": "https://www.nitrak.sk/clanky/12687/silne-snezenie-sa-v-nitrianskom-kraji-podpisalo-pod-dalsie-nehody-kde-si-dat-pozor-a-kde-sa-zdrzite",
+      "time": "2026-11-26T11:30:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795692460-silne-snezenie-sa-v-nitrianskom-kraji-podpisalo-pod-dalsie-nehody-kde-si-dat-pozor-a-kde-sa-zdrzite.webp"
+    },
+    {
+      "title": "V Hrachovišti mal po zrážke vodič pozitívny test na drogy",
+      "link": "https://www.trencinak.sk/clanky/14665/vodic-po-nehode-kamiona-s-vlakom-v-okrese-nove-mesto-nad-vahom-celi-obvineniam-skody-dosiahli-70-tisic-eur",
+      "time": "2026-11-26T10:15:00+00:00",
+      "cat": "nehoda",
+      "region": "trenciansky",
+      "src": "trencinak.sk",
+      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1795687076-vodic-po-nehode-kamiona-s-vlakom-v-okrese-nove-mesto-nad-vahom-celi-obvineniam-skody-dosiahli-70tisic-eur.webp"
+    },
+    {
+      "title": "Dve vážne nehody v Novozámockom okrese, zranili sa traja",
+      "link": "https://www.nitrak.sk/clanky/12685/foto-sneh-ohrozuje-aj-skusenych-vodicov-v-novozamockom-okrese-doslo-k-dvom-vaznym-nehodam-hlasia-ranenych",
+      "time": "2026-11-26T09:47:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795686294-foto-sneh-ohrozuje-aj-skusenych-vodicov-v-novozamockom-okrese-doslo-k-dvom-vaznym-nehodam-hlasia-ranenych.webp"
+    },
+    {
+      "title": "Osadu v Kolačkove zachvátil požiar. Jedno dieťa zomrelo, ďalšie dve sú nezvestné",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2085993-v-kolackove-vypukol-rozsiahly-poziar-osady-nezvestne-su-vraj-tri-deti?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-26T07:15:22+00:00",
+      "cat": "poziar",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/26/2567725/4x3-medium/poziar-kolackov.jpg?v=SrM"
+    },
+    {
+      "title": "Sneženie udrelo na Slovensko: nehody komplikujú dopravu v Bratislave, vodiči si postoja aj dve hodiny. Napadnúť môže až 20 cm snehu",
+      "link": "https://www.pravda.sk/spravy/domace/clanok/2085969-pre-cele-slovensko-plati-vystraha-pred-snezenim-vynimkou-len-dva-okresy?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-26T06:42:47+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/26/2567815/4x3-medium/snezenie-v-bratislave.jpg?v=Xj0"
     }
   ]
 }

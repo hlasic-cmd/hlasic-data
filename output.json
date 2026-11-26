@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T23:17:44.548939+00:00",
+  "generated_at": "2026-11-26T05:07:45.437403+00:00",
   "max_age_hours": 12,
-  "count": 11,
+  "count": 1,
   "items": [
     {
       "title": "Sneženie v Bratislave môže spôsobiť problémy, vydaná je oranžová výstraha a pre ďalších 60 okresov žltá – VIDEO",
@@ -11,96 +11,6 @@
       "region": "bratislavsky",
       "src": "sita.sk",
       "image": "https://cdn.sita.sk/sites/32/2021/12/bp_4480-scaled-1-688x387.jpg"
-    },
-    {
-      "title": "Auto narazilo do skupiny ľudí na chodníku, nehoda v Prešove si vyžiadala zásah všetkých záchranných zložiek – FOTO",
-      "link": "https://sita.sk/auto-narazilo-do-skupiny-ludi-na-chodniku-nehoda-v-presove-si-vyziadala-zasah-vsetkych-zachrannych-zloziek-foto/",
-      "time": "2026-11-25T15:46:42+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "sita.sk",
-      "image": "https://cdn.sita.sk/sites/32/2026/11/presov-nehoda2-688x387.jpg"
-    },
-    {
-      "title": "Cesta na Solivarskej ulici v Prešove je po nehode prejazdná",
-      "link": "https://www.teraz.sk/regiony/cesta-na-solivarskej-ulici-v-presove-je/1010499-clanok.html",
-      "time": "2026-11-25T15:27:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "teraz.sk",
-      "image": null
-    },
-    {
-      "title": "Deti išli s učiteľkou na ihrisko. Do skupiny ľudí v Prešove vrazilo auto, svedkovia opísali možné príčiny nehody",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2085687-vazny-incident-v-presove-auto-vrazilo-do-skupiny-ludi-na-chodniku?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-25T14:15:40+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/25/2567549/4x3-medium/sr-presov-auto-naraz-ludia-policia.jpg?v=T/w"
-    },
-    {
-      "title": "V Prešove auto narazilo do skupiny ľudí. Z piatich zranených sú dve deti, skončili v nemocnici",
-      "link": "https://korzar.sme.sk/presov/c/v-presove-auto-vyslo-na-chodnik-a-narazilo-do-skupiny-ludi-zasahuju-vsetky-zachranne-zlozky?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-11-25T14:09:07+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a21333-6f5e-774c-b992-cfa450bcae55.jpg"
-    },
-    {
-      "title": "FOTO: V Prešove vrazilo auto do ľudí na priechode pre chodcov. Medzi zranenými sú aj deti",
-      "link": "https://www.presovak.sk/clanky/16433/foto-v-presove-vrazilo-auto-do-ludi-na-priechode-pre-chodcov-medzi-zranenymi-su-aj-deti",
-      "time": "2026-11-25T13:49:00+00:00",
-      "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1795621524-foto-v-presove-vrazilo-auto-do-ludi-na-priechode-pre-chodcov-medzi-zranenymi-su-aj-deti.webp"
-    },
-    {
-      "title": "Tragédia na železnici v Rači. Vlak zrazil muža, doprava stojí",
-      "link": "https://www.bratislavak.sk/clanky/16533/tragedia-na-zeleznici-v-bratislave-vlak-zrazil-muza-na-mieste-zomrel-doprava-je-prerusena",
-      "time": "2026-11-25T13:45:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1795616306-tragedia-na-zeleznici-v-bratislave-vlak-zrazil-muza-na-mieste-zomrel-doprava-je-prerusena.webp"
-    },
-    {
-      "title": "Vlak narazil do prevráteného nákladiaka. Vodič mal pozitívny test na návykové látky",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2085609-vlak-narazil-do-prevrateneho-nakladiaka-vodic-mal-pozitivny-test-na-navykove-latky?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-25T13:10:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/25/2567453/4x3-medium/vlak-nehoda-kamion-nakladiak-hrachoviste-nove-mesto-nad-vahom.jpg?v=T/w"
-    },
-    {
-      "title": "Nešťastie v lese na Turci: Pilčík sa zasiahol motorovou pílou, ratovali ho hasiči aj vrtuľník",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2085559-vazny-uraz-v-lese-na-turci-pilcik-sa-zasiahol-motorovou-pilou-ratovali-ho-hasici-aj-letecki-zachranari?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-25T12:30:00+00:00",
-      "cat": "zasah",
-      "region": "trenciansky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/25/2567431/4x3-medium/zachranari-vrtulnik-pilcik.jpg?v=X4c"
-    },
-    {
-      "title": "Hasiči hasili požiar hangáru s lietadlom v Bidovciach pri Košiciach. Škoda je 200-tisíc eur",
-      "link": "https://korzar.sme.sk/kosice/c/hasici-zasahuju-pri-poziari-hangaru-s-lietadlom-v-bidovciach-pri-kosiciach?utm_source=rss&utm_medium=feed&utm_campaign=korzar-rss",
-      "time": "2026-11-25T11:25:34+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "korzar.sme.sk",
-      "image": "https://image.smedata.sk/image/w660-h440/01a21271-afb8-7f90-9fe9-9efc7078596c.jpg"
-    },
-    {
-      "title": "Požiar na letisku pri Košiciach. Hasiči zasahovali pri hangári, v ktorom bolo lietadlo",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2085475-poziar-na-letisku-pri-kosiciach-hasici-zasahuju-pri-hangari-v-ktorom-je-lietadlo?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-25T11:19:40+00:00",
-      "cat": "poziar",
-      "region": "kosicky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/25/2567387/4x3-medium/poziar-lietadlo-kosice.jpg?v=YZY"
     }
   ]
 }

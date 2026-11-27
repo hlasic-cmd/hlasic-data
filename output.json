@@ -1,16 +1,70 @@
 {
-  "generated_at": "2026-11-27T15:07:43.249328+00:00",
+  "generated_at": "2026-11-27T23:23:21.660792+00:00",
   "max_age_hours": 12,
-  "count": 10,
+  "count": 8,
   "items": [
     {
-      "title": "FOTO: Popadané stromy komplikovali dopravu v kraji, hasiči zasahovali 17-krát",
-      "link": "https://www.bystricak.sk/clanky/13966/foto-pocasie-preverilo-hasicov-v-bystrickom-kraji-najviac-prace-mali-v-tomto-okrese-doslo-aj-k-nehode-so-sypacom",
-      "time": "2026-11-27T13:20:00+00:00",
+      "title": "Dopravné problémy v Prešovskom kraji: Premávku večer skomplikovali skrížené kamióny, nehody a uzavreté cesty",
+      "link": "https://www.presovak.sk/clanky/16486/dopravne-problemy-v-presovskom-kraji-premavku-vecer-skomplikovali-skrizene-kamiony-nehody-a-uzavrete-cesty",
+      "time": "2026-11-27T18:43:00+00:00",
       "cat": "nehoda",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "Slovensko zápasí so snehom. Hromadné nehody, silná poľadovica a nekonečné kolóny",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2087267-vychod-slovenska-zapasi-so-snehom-hromadne-nehody-silna-poladovica-a-nekonecne-kolony?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-27T18:36:34+00:00",
+      "cat": "nehoda",
+      "region": "presovsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/27/2568907/4x3-medium/kolony-sneh-poladovica-doprava-snezenie.jpg?v=vPU"
+    },
+    {
+      "title": "Smrteľná nehoda na Liptove. Vodič zrazil seniorku na priechode a odišiel. Polícia po jeho vypátraní odhalila viac než len alkohol",
+      "link": "https://www.pravda.sk/spravy/regiony/clanok/2087255-smrtelna-nehoda-na-liptove-vodic-zrazil-seniorku-na-priechode-a-odisiel-policia-po-jeho-vypatrani-odhalila-viac-nez-len-alkohol?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
+      "time": "2026-11-27T18:10:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "spravy.pravda.sk",
+      "image": "https://prvd.sk/cdn/2026/11/27/2568895/4x3-medium/nehoda-dodavka-policia.jpg?v=Gjk"
+    },
+    {
+      "title": "Newsfilter: Žijeme vo vybývanom štáte. Čo robia politici?",
+      "link": "https://dennikn.sk/5720861/newsfilter-zijeme-vo-vybyvanom-state-co-robia-politici/",
+      "time": "2026-11-27T17:53:19+00:00",
+      "cat": "poziar",
       "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795782973-foto-pocasie-preverilo-hasicov-v-bystrickom-kraji-najviac-prace-mali-v-tomto-okrese-doslo-aj-k-nehode-so-sypac.webp"
+      "src": "dennikn.sk",
+      "image": "https://img.dennikn.sk/wp-static/2026/11/93519477326778845226393562623371087506599207n.jpg?w=450&amp;h=300&amp;fit=crop&amp;fm=jpg&amp;q=85&amp;s=3c1224422e1a0e323420c7f00f503d4b"
+    },
+    {
+      "title": "Žena zrazená na priechode na Podbrezinách zomrela, vodič z miesta odišiel. Polícia ho vypátrala opitého",
+      "link": "https://www.zilinak.sk/clanky/44316/foto-seniorka-na-liptove-zomrela-po-zrazke-s-opitym-a-zdrogovanym-vodicom-z-miesta-nehody-usiel",
+      "time": "2026-11-27T17:41:00+00:00",
+      "cat": "nehoda",
+      "region": "zilinsky",
+      "src": "zilinak.sk",
+      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795801302-foto-seniorka-na-liptove-zomrela-po-zrazke-s-opitym-a-zdrogovanym-vodicom-z-miesta-nehody-usiel.webp"
+    },
+    {
+      "title": "Dopravný kolaps vo Vrakuni: Havária potrubia uzavrela kľúčové ulice, polícia odkláňa dopravu",
+      "link": "https://www.bratislavak.sk/clanky/16580/dopravny-kolaps-vo-vrakuni-havaria-potrubia-uzavrela-klucove-ulice-policia-odklana-dopravu",
+      "time": "2026-11-27T17:40:00+00:00",
+      "cat": "nehoda",
+      "region": "bratislavsky",
+      "src": "bratislavak.sk",
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+    },
+    {
+      "title": "V Nitre pod Zoborom sa zrazili dve autá, doprava mešká",
+      "link": "https://www.nitrak.sk/clanky/12709/pod-zoborom-v-nitre-sa-zrazili-dve-auta-nehoda-komplikuje-dopravu-smerom-na-promenadu",
+      "time": "2026-11-27T15:59:00+00:00",
+      "cat": "nehoda",
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/03_aktualne.webp"
     },
     {
       "title": "Polícia pátra po dvoch dievčatách z Trnavského kraja. Nezvestné sú 18-ročná Magdaléna a iba 17-ročná Natália",
@@ -20,78 +74,6 @@
       "region": "trnavsky",
       "src": "trnavak.sk",
       "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795780864-policia-patra-po-dvoch-dievcatach-z-trnavskeho-kraja-nezvestne-su-18rocna-magdalena-a-iba-17rocna-natalia.webp"
-    },
-    {
-      "title": "Trinásťročná Nikoleta odišla z domu a nevrátila sa. Polícia prosí verejnosť o pomoc",
-      "link": "https://www.zilinak.sk/clanky/44302/policia-patra-po-13-rocnom-dievcati-z-martina-nikoleta-je-nezvestna-dva-dni-nemaju-o-nej-ziadne-spravy",
-      "time": "2026-11-27T12:00:00+00:00",
-      "cat": "patranie",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795779164-policia-patra-po-13rocnom-dievcati-z-martina-nikoleta-je-nezvestna-dva-dni-nemaju-o-nej-ziadne-spravy.webp"
-    },
-    {
-      "title": "Po zrážke dvoch áut v Tuchyni skončila jedna osoba v nemocnici",
-      "link": "https://www.trencinak.sk/clanky/14693/foto-dopravna-nehoda-v-okrese-ilava-zamestnala-hasicov-aj-zachranarov-jedna-osoba-skoncila-v-nemocnici",
-      "time": "2026-11-27T11:35:00+00:00",
-      "cat": "nehoda",
-      "region": "trenciansky",
-      "src": "trencinak.sk",
-      "image": "https://www.trencinak.sk/assets/images/tn/articles/img-1/2026-11/1795773686-foto-dopravna-nehoda-v-okrese-ilava-zamestnala-hasicov-aj-zachranarov-jedna-osoba-skoncila-v-nemocnici.webp"
-    },
-    {
-      "title": "Vodič upozornil na nehodu pri Banskej Bystrici. Došlo k hromadnej nehode",
-      "link": "https://www.bystricak.sk/clanky/13965/vazna-nehoda-pri-banskej-bystrici-na-starej-ceste-smerom-na-zvolen-malo-dojst-k-hromadnej-nehode",
-      "time": "2026-11-27T11:14:00+00:00",
-      "cat": "nehoda",
-      "region": "banskobystricky",
-      "src": "bystricak.sk",
-      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795791344-vazna-nehoda-pri-banskej-bystrici-na-starej-ceste-smerom-na-zvolen-malo-dojst-k-hromadnej-nehode.webp"
-    },
-    {
-      "title": "Hasiči v Trnavskom kraji mali rušnú noc. Zasahovali až 24-krát",
-      "link": "https://www.trnavak.sk/clanky/13119/sneh-a-poladovica-dali-hasicom-v-trnavskom-kraji-zabrat-za-24-hodin-zasahovali-pri-16-nehodach-padali-aj-stromy",
-      "time": "2026-11-27T10:50:00+00:00",
-      "cat": "nehoda",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795771744-sneh-a-poladovica-dali-hasicom-v-trnavskom-kraji-zabrat-za-24-hodin-zasahovali-pri-16-nehodach-padali-aj-strom.webp"
-    },
-    {
-      "title": "Tragédia v Kolačkove je ešte horšia. Vnútro oznámilo smrť troch detí, polícia čaká na pitvu",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2086923-kolackov-poziar-osada-policia-deti-umrtie?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-27T10:37:14+00:00",
-      "cat": "poziar",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/26/2567831/4x3-medium/kolackov.jpg?v=T/w"
-    },
-    {
-      "title": "Vrakuňa bez vody po havárii potrubia na Rajeckej",
-      "link": "https://www.bratislavak.sk/clanky/16570/obyvatelia-vrakune-zostali-bez-vody-na-rajeckej-prasklo-vodovodne-potrubie-odstavka-potrva-predbezne-do-poludnia",
-      "time": "2026-11-27T10:11:00+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1795774516-obyvatelia-vrakune-zostali-bez-vody-na-rajeckej-prasklo-vodovodne-potrubie-odstavka-potrva-predbezne-do-poludn.webp"
-    },
-    {
-      "title": "Medzi Šaľou a Vlčanmi sa zrazili dve autá, blokujú pruh",
-      "link": "https://www.nitrak.sk/clanky/12697/vodici-pozor-na-cestu-medzi-salou-a-vlcanmi-zrazili-sa-tam-dve-auta-jeden-pruh-je-blokovany",
-      "time": "2026-11-27T08:45:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/2026-11/1795769100-vodici-pozor-na-cestu-medzi-salou-a-vlcanmi-zrazili-sa-tam-dve-auta-jeden-pruh-je-blokovany.webp"
-    },
-    {
-      "title": "Pre vážnu nehodu bola úplne uzatvorená D2 pri Bratislave, vodiči stratia aj hodinu",
-      "link": "https://www.pravda.sk/spravy/domace/clanok/2086673-pre-vaznu-nehodu-je-uzatvorena-dialnica-d2-v-bratislave?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-27T05:27:23+00:00",
-      "cat": "nehoda",
-      "region": "bratislavsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2025/12/17/4x3-medium/d1-dialnica-nehoda-kamiony.jpg?v=/4Q"
     }
   ]
 }

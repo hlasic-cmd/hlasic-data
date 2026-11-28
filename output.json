@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T23:23:21.660792+00:00",
+  "generated_at": "2026-11-28T04:47:00.998445+00:00",
   "max_age_hours": 12,
-  "count": 8,
+  "count": 6,
   "items": [
     {
       "title": "Dopravné problémy v Prešovskom kraji: Premávku večer skomplikovali skrížené kamióny, nehody a uzavreté cesty",
@@ -56,24 +56,6 @@
       "region": "bratislavsky",
       "src": "bratislavak.sk",
       "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
-    },
-    {
-      "title": "V Nitre pod Zoborom sa zrazili dve autá, doprava mešká",
-      "link": "https://www.nitrak.sk/clanky/12709/pod-zoborom-v-nitre-sa-zrazili-dve-auta-nehoda-komplikuje-dopravu-smerom-na-promenadu",
-      "time": "2026-11-27T15:59:00+00:00",
-      "cat": "nehoda",
-      "region": "nitriansky",
-      "src": "nitrak.sk",
-      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/03_aktualne.webp"
-    },
-    {
-      "title": "Polícia pátra po dvoch dievčatách z Trnavského kraja. Nezvestné sú 18-ročná Magdaléna a iba 17-ročná Natália",
-      "link": "https://www.trnavak.sk/clanky/13125/policia-patra-po-dvoch-dievcatach-z-trnavskeho-kraja-nezvestne-su-18-rocna-magdalena-a-iba-17-rocna-natalia",
-      "time": "2026-11-27T12:30:00+00:00",
-      "cat": "patranie",
-      "region": "trnavsky",
-      "src": "trnavak.sk",
-      "image": "https://www.trnavak.sk/assets/images/tt/articles/img-1/2026-11/1795780864-policia-patra-po-dvoch-dievcatach-z-trnavskeho-kraja-nezvestne-su-18rocna-magdalena-a-iba-17rocna-natalia.webp"
     }
   ]
 }

@@ -1,61 +1,70 @@
 {
-  "generated_at": "2026-11-28T04:47:00.998445+00:00",
+  "generated_at": "2026-11-28T13:40:04.278806+00:00",
   "max_age_hours": 12,
-  "count": 6,
+  "count": 7,
   "items": [
     {
-      "title": "Dopravné problémy v Prešovskom kraji: Premávku večer skomplikovali skrížené kamióny, nehody a uzavreté cesty",
-      "link": "https://www.presovak.sk/clanky/16486/dopravne-problemy-v-presovskom-kraji-premavku-vecer-skomplikovali-skrizene-kamiony-nehody-a-uzavrete-cesty",
-      "time": "2026-11-27T18:43:00+00:00",
+      "title": "Pri Trebišove sa prevrátilo nákladné auto, cesta je neprejazdná",
+      "link": "https://www.kosicak.sk/clanky/15204/foto-vazna-nehoda-pri-trebisove-nakladne-auto-narazilo-do-oplotenia-domu-a-prevratilo-sa-hlasia-dvoch-zranenych",
+      "time": "2026-11-28T11:04:00+00:00",
       "cat": "nehoda",
-      "region": "presovsky",
-      "src": "presovak.sk",
-      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/01_aktualne.webp"
+      "region": "kosicky",
+      "src": "kosicak.sk",
+      "image": "https://www.kosicak.sk/assets/images/ke/articles/img-1/2026-11/1795868534-foto-vazna-nehoda-pri-trebisove-nakladne-auto-narazilo-do-oplotenia-domu-a-prevratilo-sa-hlasia-dvoch-zranenyc.webp"
     },
     {
-      "title": "Slovensko zápasí so snehom. Hromadné nehody, silná poľadovica a nekonečné kolóny",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2087267-vychod-slovenska-zapasi-so-snehom-hromadne-nehody-silna-poladovica-a-nekonecne-kolony?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-27T18:36:34+00:00",
+      "title": "Vodič pri Slovenskej Ľupči dostal podmienku za smrť Sofie",
+      "link": "https://www.bystricak.sk/clanky/13970/vodic-za-tragicku-nehodu-pri-slovenskej-lupci-dostal-podmienku-zomrela-pri-nej-5-rocna-sofia",
+      "time": "2026-11-28T10:20:00+00:00",
       "cat": "nehoda",
-      "region": "presovsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/27/2568907/4x3-medium/kolony-sneh-poladovica-doprava-snezenie.jpg?v=vPU"
-    },
-    {
-      "title": "Smrteľná nehoda na Liptove. Vodič zrazil seniorku na priechode a odišiel. Polícia po jeho vypátraní odhalila viac než len alkohol",
-      "link": "https://www.pravda.sk/spravy/regiony/clanok/2087255-smrtelna-nehoda-na-liptove-vodic-zrazil-seniorku-na-priechode-a-odisiel-policia-po-jeho-vypatrani-odhalila-viac-nez-len-alkohol?utm_source=pravda&utm_medium=rss&utm_campaign=rss",
-      "time": "2026-11-27T18:10:00+00:00",
-      "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "spravy.pravda.sk",
-      "image": "https://prvd.sk/cdn/2026/11/27/2568895/4x3-medium/nehoda-dodavka-policia.jpg?v=Gjk"
-    },
-    {
-      "title": "Newsfilter: Žijeme vo vybývanom štáte. Čo robia politici?",
-      "link": "https://dennikn.sk/5720861/newsfilter-zijeme-vo-vybyvanom-state-co-robia-politici/",
-      "time": "2026-11-27T17:53:19+00:00",
-      "cat": "poziar",
       "region": "banskobystricky",
-      "src": "dennikn.sk",
-      "image": "https://img.dennikn.sk/wp-static/2026/11/93519477326778845226393562623371087506599207n.jpg?w=450&amp;h=300&amp;fit=crop&amp;fm=jpg&amp;q=85&amp;s=3c1224422e1a0e323420c7f00f503d4b"
+      "src": "bystricak.sk",
+      "image": "https://www.bystricak.sk/assets/images/bb/articles/img-1/2026-11/1795861211-vodic-za-tragicku-nehodu-pri-slovenskej-lupci-dostal-podmienku-zomrela-pri-nej-5rocna-sofia.webp"
     },
     {
-      "title": "Žena zrazená na priechode na Podbrezinách zomrela, vodič z miesta odišiel. Polícia ho vypátrala opitého",
-      "link": "https://www.zilinak.sk/clanky/44316/foto-seniorka-na-liptove-zomrela-po-zrazke-s-opitym-a-zdrogovanym-vodicom-z-miesta-nehody-usiel",
-      "time": "2026-11-27T17:41:00+00:00",
+      "title": "Nehoda na križovatke v Leviciach, premávku riadi polícia",
+      "link": "https://www.nitrak.sk/clanky/12711/na-svetelnej-krizovatke-v-leviciach-doslo-k-dopravnej-nehode-premavku-riadi-policia",
+      "time": "2026-11-28T09:45:00+00:00",
       "cat": "nehoda",
-      "region": "zilinsky",
-      "src": "zilinak.sk",
-      "image": "https://www.zilinak.sk/assets/images/za/articles/img-1/2026-11/1795801302-foto-seniorka-na-liptove-zomrela-po-zrazke-s-opitym-a-zdrogovanym-vodicom-z-miesta-nehody-usiel.webp"
+      "region": "nitriansky",
+      "src": "nitrak.sk",
+      "image": "https://www.nitrak.sk/assets/images/nr/articles/img-1/02_aktualne.webp"
     },
     {
-      "title": "Dopravný kolaps vo Vrakuni: Havária potrubia uzavrela kľúčové ulice, polícia odkláňa dopravu",
-      "link": "https://www.bratislavak.sk/clanky/16580/dopravny-kolaps-vo-vrakuni-havaria-potrubia-uzavrela-klucove-ulice-policia-odklana-dopravu",
-      "time": "2026-11-27T17:40:00+00:00",
-      "cat": "nehoda",
+      "title": "Hasiči zasahovali po požiari strechy rodinného domu v obci Kuchyňa",
+      "link": "https://www.teraz.sk/regiony/hasici-zasahovali-po-poziari-strechy-r/1011219-clanok.html",
+      "time": "2026-11-28T09:35:00+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "teraz.sk",
+      "image": null
+    },
+    {
+      "title": "Požiar rodinného domu v Kuchyni spôsobil škodu 100-tisíc eur",
+      "link": "https://www.aktuality.sk/clanok/ePPNxmv/poziar-rodinneho-domu-v-kuchyni-sposobil-skodu-100-tisic-eur/",
+      "time": "2026-11-28T09:23:43+00:00",
+      "cat": "poziar",
+      "region": "bratislavsky",
+      "src": "aktuality.sk",
+      "image": "https://img.aktuality.sk/foto/ilustracna-snimka/NTIweDI5Mi9zbWFydC9maWx0ZXJzOmZvcm1hdChqcGcpOnF1YWxpdHkoNzApL2h0dHA6Ly9sb2NhbGhvc3Q6ODEvcHVsc2Ntcy10cmFuc2Zvcm1zLzE=/_FuktkpTURBXy9lYTgxOWMzMTNhZWI0ZTU1MDEwNjdlYmRlNDc1OGEzYi5qcGeSlQMAzIzNEZTNCeOVAs0H0ADCww?st=SqB-VNoPVjignEl86pAyAHt4E44-heKTIUdrzzXDcV0&ts=1795820400&e=0"
+    },
+    {
+      "title": "FOTO: V Kuchyni horel rodinný dom. Škody dosiahli až 100-tisíc eur",
+      "link": "https://www.bratislavak.sk/clanky/16583/foto-v-kuchyni-vypukol-vecerny-poziar-rodinneho-domu-plamene-zasiahli-strechu-skody-odhadli-na-100-tisic-eur",
+      "time": "2026-11-28T08:45:00+00:00",
+      "cat": "poziar",
       "region": "bratislavsky",
       "src": "bratislavak.sk",
-      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/01_aktualne.webp"
+      "image": "https://www.bratislavak.sk/assets/images/ba/articles/img-1/2026-11/1795854830-foto-v-kuchyni-vypukol-vecerny-poziar-rodinneho-domu-plamene-zasiahli-strechu-skody-odhadli-na-100tisic-eur.webp"
+    },
+    {
+      "title": "Zmizla 15-ročná Diana z Giraltoviec. Polícia prosí o pomoc",
+      "link": "https://www.presovak.sk/clanky/16487/policia-patra-po-len-15-rocnej-diane-z-giraltoviec-naposledy-ju-videli-na-autobusovej-stanici-domov-neprisla",
+      "time": "2026-11-28T08:30:00+00:00",
+      "cat": "patranie",
+      "region": "presovsky",
+      "src": "presovak.sk",
+      "image": "https://www.presovak.sk/assets/images/po/articles/img-1/2026-11/1795854354-policia-patra-po-len-15rocnej-diane-z-giraltoviec-naposledy-ju-videli-na-autobusovej-stanici-domov-neprisla.webp"
     }
   ]
 }
